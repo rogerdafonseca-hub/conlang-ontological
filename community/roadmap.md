@@ -151,15 +151,15 @@ Build a truly universal constructed language that combines:
 
 **Subcategory a-p (Origin - all variations):**
 - [x] a-p-a: 25 vectors × 5 gradations = 125 concepts
-- [ ] a-p-e: 25 vectors × 5 gradations = 125 concepts
-- [ ] a-p-i: 25 vectors × 5 gradations = 125 concepts
-- [ ] a-p-o: 25 vectors × 5 gradations = 125 concepts
-- [ ] a-p-u: 25 vectors × 5 gradations = 125 concepts
+- [x] a-p-e: 25 vectors × 5 gradations = 125 concepts
+- [x] a-p-i: 25 vectors × 5 gradations = 125 concepts
+- [x] a-p-o: 25 vectors × 5 gradations = 125 concepts
+- [x] a-p-u: 25 vectors × 5 gradations = 125 concepts
 - **Subtotal:** 625 concepts
 
 **Subcategory e-p (Vitality - all variations):**
-- [ ] e-p-a: 25 vectors × 5 gradations = 125 concepts
-- [x] e-p-e: 25 vectors × 5 gradations = 125 concepts
+- [x] e-p-a: 25 vectors × 5 gradations = 125 concepts
+- [ ] e-p-e: 25 vectors × 5 gradations = 125 concepts
 - [ ] e-p-i: 25 vectors × 5 gradations = 125 concepts
 - [ ] e-p-o: 25 vectors × 5 gradations = 125 concepts
 - [ ] e-p-u: 25 vectors × 5 gradations = 125 concepts
@@ -168,7 +168,7 @@ Build a truly universal constructed language that combines:
 **Subcategory i-p (Complexity - all variations):**
 - [ ] i-p-a: 25 vectors × 5 gradations = 125 concepts
 - [ ] i-p-e: 25 vectors × 5 gradations = 125 concepts
-- [x] i-p-i: 25 vectors × 5 gradations = 125 concepts
+- [ ] i-p-i: 25 vectors × 5 gradations = 125 concepts
 - [ ] i-p-o: 25 vectors × 5 gradations = 125 concepts
 - [ ] i-p-u: 25 vectors × 5 gradations = 125 concepts
 - **Subtotal:** 625 concepts
@@ -177,7 +177,7 @@ Build a truly universal constructed language that combines:
 - [ ] o-p-a: 25 vectors × 5 gradations = 125 concepts
 - [ ] o-p-e: 25 vectors × 5 gradations = 125 concepts
 - [ ] o-p-i: 25 vectors × 5 gradations = 125 concepts
-- [x] o-p-o: 25 vectors × 5 gradations = 125 concepts
+- [ ] o-p-o: 25 vectors × 5 gradations = 125 concepts
 - [ ] o-p-u: 25 vectors × 5 gradations = 125 concepts
 - **Subtotal:** 625 concepts
 
@@ -186,7 +186,7 @@ Build a truly universal constructed language that combines:
 - [ ] u-p-e: 25 vectors × 5 gradations = 125 concepts
 - [ ] u-p-i: 25 vectors × 5 gradations = 125 concepts
 - [ ] u-p-o: 25 vectors × 5 gradations = 125 concepts
-- [x] u-p-u: 25 vectors × 5 gradations = 125 concepts
+- [ ] u-p-u: 25 vectors × 5 gradations = 125 concepts
 - **Subtotal:** 625 concepts
 
 **Professional Total:** 3,125 concepts  

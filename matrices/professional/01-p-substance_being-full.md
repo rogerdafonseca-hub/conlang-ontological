@@ -302,6 +302,13 @@
 |**a-p-a-x-o**|Quantum-dominant|Superconductor|
 |**a-p-a-x-u**|Pure quantum material|Topological insulator, quantum computer substrate|
 
+---
+
+# 🧬 MATRIZ P — SUBCATEGORIA A-P-I
+
+**Subcategory a-p-i: Origin (Neutral/Standard)**  
+**Focus:** Standard origins, typical formation processes, conventional sources
+
 
 ---
 
@@ -1523,3 +1530,364 @@
 |**a-p-u-x-u**|Fundamental quantum state|Vacuum fluctuations, quantum field origin|
 
 ---
+
+# 🔍 VERIFICAÇÃO — e-p-e JÁ EXISTE?
+
+Deixa eu verificar o que já temos documentado...
+
+---
+
+## 📊 STATUS ATUAL
+
+Olhando para trás na nossa conversa, vejo que começamos a fazer **e-p-e** lá no início, mas **NÃO completamos**!
+
+O que temos de **e-p-e (Vitality - weak/beginning)**:
+
+- ✅ Vector 1: Emerging Natural Formation (p) — **ERRO! Este é de a-p-e, não e-p-e**
+- ✅ Vector 2: Proto-Biological Origin (m) — **ERRO! Também é de a-p-e**
+
+**Conclusão:** Não fizemos **e-p-e** ainda! Confundimos com **a-p-e**.
+
+---
+
+## 🧬 SUBCATEGORIA e-p (VITALITY)
+
+Vamos fazer corretamente agora:
+
+### **Estrutura de e-p:**
+
+- **e-p-a** — Vitality: minimal/negative ⏳ **FAZER AGORA**
+- **e-p-e** — Vitality: weak/beginning ⏳ Depois
+- **e-p-i** — Vitality: neutral/standard ⏳ Depois
+- **e-p-o** — Vitality: strong/intense ⏳ Depois
+- **e-p-u** — Vitality: maximal/absolute ⏳ Depois
+
+---
+
+# 🧬 MATRIZ P — SUBCATEGORIA E-P-A
+
+**Subcategory e-p-a: Vitality (Minimal/Negative)**  
+**Focus:** Absence of vitality, inertness, death, lifelessness, zero metabolic activity
+
+---
+
+## Vector 1: Inertness Level (p)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-p-a**|Completely inert|Noble gas, stable element|
+|**e-p-a-p-e**|Mostly inert|Low reactivity mineral|
+|**e-p-a-p-i**|Moderately reactive|Metal oxide|
+|**e-p-a-p-o**|Chemically active|Reactive non-metal|
+|**e-p-a-p-u**|Extremely reactive|Alkali metal, fluorine|
+
+---
+
+## Vector 2: Death State (m)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-m-a**|Never alive|Mineral, rock|
+|**e-p-a-m-e**|Recently dead|Fresh corpse (hours)|
+|**e-p-a-m-i**|Dead (moderate decay)|Decomposing (days-weeks)|
+|**e-p-a-m-o**|Long dead|Skeletal remains|
+|**e-p-a-m-u**|Fossilized|Mineralized remains, millions of years|
+
+---
+
+## Vector 3: Dormancy Depth (n)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-n-a**|Not dormant, active|Living organism|
+|**e-p-a-n-e**|Light dormancy|Sleep, hibernation start|
+|**e-p-a-n-i**|Deep dormancy|Hibernation, estivation|
+|**e-p-a-n-o**|Extreme dormancy|Cryptobiosis, tardigrade|
+|**e-p-a-n-u**|Suspended animation|Frozen seed, spore (centuries)|
+
+---
+
+## Vector 4: Metabolic Shutdown (t)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-t-a**|Active metabolism|Normal cell function|
+|**e-p-a-t-e**|Reduced metabolism|Slowed respiration|
+|**e-p-a-t-i**|Minimal metabolism|Bare survival mode|
+|**e-p-a-t-o**|Near-zero metabolism|Frozen bacteria|
+|**e-p-a-t-u**|Zero metabolism|Complete cessation|
+
+---
+
+## Vector 5: Consciousness Absence (k)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-k-a**|Fully conscious|Awake human|
+|**e-p-a-k-e**|Drowsy|Half-asleep|
+|**e-p-a-k-i**|Unconscious|Deep sleep, anesthesia|
+|**e-p-a-k-o**|Comatose|Brain injury, coma|
+|**e-p-a-k-u**|Brain dead|No neural activity|
+
+---
+
+## Vector 6: Sentience Lack (b)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-b-a**|Highly sentient|Mammals, birds|
+|**e-p-a-b-e**|Low sentience|Simple animals|
+|**e-p-a-b-i**|Minimal sentience|Single-celled organisms|
+|**e-p-a-b-o**|Non-sentient living|Plants, bacteria|
+|**e-p-a-b-u**|Completely non-sentient|Minerals, inanimate|
+
+---
+
+## Vector 7: Reproductive Incapacity (d)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-d-a**|Highly fertile|Breeding age, optimal|
+|**e-p-a-d-e**|Reduced fertility|Aging, stress|
+|**e-p-a-d-i**|Low fertility|Near menopause/andropause|
+|**e-p-a-d-o**|Sterile|Infertile organism|
+|**e-p-a-d-u**|Cannot reproduce|Mule, neuter, dead|
+
+---
+
+## Vector 8: Growth Cessation (g)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-g-a**|Rapid growth|Young organism|
+|**e-p-a-g-e**|Slow growth|Mature growth|
+|**e-p-a-g-i**|Minimal growth|Adult maintenance|
+|**e-p-a-g-o**|No growth|Full size reached|
+|**e-p-a-g-u**|Negative growth|Atrophy, decay|
+
+---
+
+## Vector 9: Response Absence (s)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-s-a**|Highly responsive|Alert organism|
+|**e-p-a-s-e**|Moderately responsive|Normal reaction|
+|**e-p-a-s-i**|Slow response|Delayed reaction|
+|**e-p-a-s-o**|Minimal response|Barely reactive|
+|**e-p-a-s-u**|No response|Completely unresponsive|
+
+---
+
+## Vector 10: Homeostatic Failure (l)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-l-a**|Perfect homeostasis|Healthy organism|
+|**e-p-a-l-e**|Stable homeostasis|Minor fluctuations|
+|**e-p-a-l-i**|Impaired homeostasis|Illness, stress|
+|**e-p-a-l-o**|Failing homeostasis|Organ failure|
+|**e-p-a-l-u**|No homeostasis|Dead, inanimate|
+
+---
+
+## Vector 11: Regeneration Inability (w)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-w-a**|Full regeneration|Salamander limb|
+|**e-p-a-w-e**|Good healing|Wound recovery|
+|**e-p-a-w-i**|Limited healing|Scar tissue|
+|**e-p-a-w-o**|Minimal healing|Slow recovery|
+|**e-p-a-w-u**|No regeneration|Permanent damage|
+
+---
+
+## Vector 12: Adaptation Incapacity (y)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-y-a**|Highly adaptable|Rapid evolution|
+|**e-p-a-y-e**|Moderately adaptable|Normal adaptation|
+|**e-p-a-y-i**|Low adaptability|Specialist species|
+|**e-p-a-y-o**|Minimal adaptation|Fixed traits|
+|**e-p-a-y-u**|Cannot adapt|Extinct, dead, mineral|
+
+---
+
+## Vector 13: Communication Absence (h)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-h-a**|Complex communication|Language, signals|
+|**e-p-a-h-e**|Simple communication|Chemical signals|
+|**e-p-a-h-i**|Minimal communication|Bacterial quorum sensing|
+|**e-p-a-h-o**|No active communication|Passive existence|
+|**e-p-a-h-u**|Incapable of communication|Inanimate object|
+
+---
+
+## Vector 14: Sensory Deprivation (š)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-š-a**|Multiple senses|Animals with vision/hearing/touch|
+|**e-p-a-š-e**|Few senses|Simple organisms|
+|**e-p-a-š-i**|Single sense|Chemical detection only|
+|**e-p-a-š-o**|Minimal sensing|Plant light response|
+|**e-p-a-š-u**|No senses|Inanimate, dead|
+
+---
+
+## Vector 15: Immunity Loss (r)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-r-a**|Strong immunity|Healthy immune system|
+|**e-p-a-r-e**|Moderate immunity|Some resistance|
+|**e-p-a-r-i**|Weak immunity|Immunocompromised|
+|**e-p-a-r-o**|Minimal immunity|Severe deficiency|
+|**e-p-a-r-u**|No immunity|Dead, non-biological|
+
+---
+
+## Vector 16: Motility Absence (f)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-f-a**|Highly mobile|Active animal|
+|**e-p-a-f-e**|Limited mobility|Slow mover|
+|**e-p-a-f-i**|Minimal mobility|Sessile but can move slightly|
+|**e-p-a-f-o**|Immobile living|Rooted plant|
+|**e-p-a-f-u**|Completely immobile|Rock, dead matter|
+
+---
+
+## Vector 17: Energy Production Failure (v)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-v-a**|High energy production|Active ATP synthesis|
+|**e-p-a-v-e**|Moderate energy|Normal metabolism|
+|**e-p-a-v-i**|Low energy|Reduced metabolism|
+|**e-p-a-v-o**|Minimal energy|Near shutdown|
+|**e-p-a-v-u**|No energy production|Dead cells, minerals|
+
+---
+
+## Vector 18: Toxicity to Life (z)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-z-a**|Life-supporting|Oxygen, water|
+|**e-p-a-z-e**|Neutral to life|Nitrogen, sand|
+|**e-p-a-z-i**|Mildly toxic|Irritants|
+|**e-p-a-z-o**|Highly toxic|Poisons, heavy metals|
+|**e-p-a-z-u**|Instantly lethal|Extreme toxins, radiation|
+
+---
+
+## Vector 19: Decay State (ň)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-ň-a**|No decay|Living, fresh|
+|**e-p-a-ň-e**|Early decay|Autolysis beginning|
+|**e-p-a-ň-i**|Active decay|Putrefaction|
+|**e-p-a-ň-o**|Advanced decay|Skeletonization|
+|**e-p-a-ň-u**|Complete decay|Mineralized, fossilized|
+
+---
+
+## Vector 20: Cognitive Absence (č)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-č-a**|High cognition|Human-level thought|
+|**e-p-a-č-e**|Simple cognition|Animal intelligence|
+|**e-p-a-č-i**|Minimal cognition|Instinct only|
+|**e-p-a-č-o**|No cognition|Plant, bacteria|
+|**e-p-a-č-u**|Incapable of cognition|Mineral, dead|
+
+---
+
+## Vector 21: Emotional Incapacity (ñ)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-ñ-a**|Complex emotions|Mammals|
+|**e-p-a-ñ-e**|Simple emotions|Basic pleasure/pain|
+|**e-p-a-ñ-i**|Minimal affect|Primitive response|
+|**e-p-a-ñ-o**|No emotions|Non-sentient life|
+|**e-p-a-ñ-u**|Incapable of emotion|Inanimate, dead|
+
+---
+
+## Vector 22: Memory Loss (ǰ)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-ǰ-a**|Long-term memory|Complex brain|
+|**e-p-a-ǰ-e**|Short-term memory|Simple nervous system|
+|**e-p-a-ǰ-i**|Minimal memory|Habituation only|
+|**e-p-a-ǰ-o**|No memory capacity|Reflexes only|
+|**e-p-a-ǰ-u**|Incapable of memory|Non-neural, dead|
+
+---
+
+## Vector 23: Learning Inability (c)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-c-a**|Rapid learning|Intelligent animals|
+|**e-p-a-c-e**|Slow learning|Simple organisms|
+|**e-p-a-c-i**|Minimal learning|Basic conditioning|
+|**e-p-a-c-o**|No learning capacity|Fixed behavior|
+|**e-p-a-c-u**|Incapable of learning|Inanimate, dead|
+
+---
+
+## Vector 24: Structural Integrity Loss (x)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-x-a**|Perfect integrity|Healthy tissue|
+|**e-p-a-x-e**|Minor damage|Small wounds|
+|**e-p-a-x-i**|Moderate degradation|Tissue damage|
+|**e-p-a-x-o**|Severe breakdown|Advanced decay|
+|**e-p-a-x-u**|Complete disintegration|Dust, minerals|
+
+---
+
+## Vector 25: Biological Complexity (h)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-a-h-a**|Highly complex|Multicellular organism|
+|**e-p-a-h-e**|Moderate complexity|Simple multicellular|
+|**e-p-a-h-i**|Low complexity|Single cell|
+|**e-p-a-h-o**|Minimal biological|Virus, prion|
+|**e-p-a-h-u**|Non-biological|Mineral, chemical|
+
+---
+
+## ✅ SUBCATEGORIA E-P-A COMPLETA!
+
+**Total:** 25 vetores × 5 gradações = **125 conceitos**
+
+---
+
+## 📊 PROGRESSO MATRIZ P
+
+|Subcategoria|Variações Completas|Conceitos|Status|
+|---|---|---|---|
+|**a-p** (Origin)|5/5|625|✅ COMPLETO|
+|**e-p** (Vitality)|1/5|125|🔄 20%|
+|**i-p-i** (Complexity)|0/1|0|⏳ Pendente|
+|**o-p-o** (Function)|0/1|0|⏳ Pendente|
+|**u-p-u** (Taxonomy)|0/1|0|⏳ Pendente|
+
+**PROGRESSO MATRIZ P ESSENTIAL:** 750/3,125 (24%) 🔥
+
+---
+
