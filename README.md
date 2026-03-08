@@ -176,7 +176,6 @@ Two strategies:
 Unlimited combinations through composition.
 
 ---
-
 ## 🔊 Phonemic Inventory
 
 ### 25 Consonants (IPA)
@@ -372,7 +371,23 @@ Subcategories:
 - API Documentation _(coming soon)_
 
 ---
+## Two-Tier System
 
+### 🌍 Essential Core (For Everyone)
+- 78,125 concepts
+- Diagonal vowel pattern: apa, epe, ipi, opo, upu
+- Covers 95% of daily communication
+- Learn in 2-5 years
+
+### 🔬 Professional Expansion (For Specialists)
+- 390,625 concepts  
+- Full vowel matrix: all 25 combinations
+- Scientific precision, AI systems, ontological research
+- Optional — use only when needed
+
+**You choose your depth.**
+
+---
 ## 📊 Project Status
 
 ### ✅ Completed Components

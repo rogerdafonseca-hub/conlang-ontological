@@ -152,6 +152,24 @@ Good ideas should spread without friction. This is a gift to whoever finds it us
 **But:** The system is designed for **graceful degradation** — you can communicate effectively at any level.
 
 ---
+### Do I need to learn all 390,625 concepts?
+
+**No!** 
+
+**If you're a casual learner:**
+- Focus on the Essential Core (78k concepts)
+- Use diagonal vowels only: apa, epe, ipi, opo, upu
+- This covers everyday conversation, literature, general use
+
+**If you're a researcher/specialist:**
+- Optionally access Professional Expansion (390k)
+- Full precision for scientific papers, databases, AI
+- Use all vowel combinations when nuance matters
+
+**Analogy:** Like learning basic math vs. advanced calculus — both valid, different purposes.
+
+
+---
 
 ### **Do I need to know another language first?**
 
