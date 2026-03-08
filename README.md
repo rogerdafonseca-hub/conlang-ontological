@@ -261,7 +261,7 @@ The most distinctive feature: **systematic decomposition of reality into 25 fund
 Each domain contains **500 precise concepts**:
 
 - **5 subcategories** (different aspects of the domain)
-- **20 vectors** per subcategory (specific variations)
+- **25 vectors** per subcategory (specific variations)
 - **5 gradations** per vector (intensity levels a/e/i/o/u)
 
 **Example: Domain P (Substance/Being)**
@@ -392,11 +392,11 @@ Subcategories:
 
 ### ✅ Completed Components
 
-| Component                  | Status | Details                                      |
-| -------------------------- | ------ | -------------------------------------------- |
-| **Phonemic Inventory**     | ✅ 100% | 25 consonants + 5 vowels (IPA-based)         |
-| **Basic Grammar (CV)**     | ✅ 100% | 25 families × 5 vowels = 125 resources       |
-| **Extended Grammar (VCV)** | ✅ 100% | 25 families × 21 clusters = 525 resources    |
+| Component                  | Status | Details                                   |
+| -------------------------- | ------ | ----------------------------------------- |
+| **Phonemic Inventory**     | ✅ 100% | 25 consonants + 5 vowels (IPA-based)      |
+| **Basic Grammar (CV)**     | ✅ 100% | 25 families × 5 vowels = 125 resources    |
+| **Extended Grammar (VCV)** | ✅ 100% | 25 families × 25 clusters = 625 resources |
 
 
 ### 🔄 In Progress
