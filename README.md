@@ -125,8 +125,8 @@ Common words borrowed from cross-linguistic cognates:
 
 You can communicate at your level:
 
-- **Beginner:** Basic grammar + borrowed words
-- **Intermediate:** Extended grammar + compositional vocabulary
+- **Beginner:** Basic grammar + essencial matrices + borrowed words
+- **Intermediate:** Extended grammar + professional matrices + compositional vocabulary
 - **Advanced:** Full ontological precision
 
 ---

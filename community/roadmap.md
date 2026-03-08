@@ -516,6 +516,7 @@ Then continue with remaining vowel variations through Q4 2027.
 - [ ] Short poem translation
 
 **Learning Path (November 2026):**
+- [x] Learning Path Overview
 - [ ] Beginner curriculum (weeks 1-4)
 - [ ] Intermediate curriculum (months 2-3)
 - [ ] Advanced curriculum (months 4-6)
