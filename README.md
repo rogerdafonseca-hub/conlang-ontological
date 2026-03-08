@@ -119,7 +119,7 @@ Common words borrowed from cross-linguistic cognates:
 
 - `kafe` — coffee/café/caffè/Kaffee/قهوة (present in 100+ languages)
 - `telefone` — telephone/teléfono/téléphone/telefono
-- `pitesa` — pizza (nearly universal)
+- `pitisa` — pizza (nearly universal)
 
 ### 🎓 **Graceful Degradation**
 
@@ -149,7 +149,7 @@ Examples:
 
 **Structure:** Vowel + Consonant + Vowel
 
-Each grammatical family expands to 21 nuanced variants:
+Each grammatical family expands to 25 nuanced variants:
 
 - Base: `ba, be, bi, bo, bu`
 - A-group: `aba, abe, abi, abo, abu` (negative/minimal)
@@ -164,7 +164,7 @@ Each grammatical family expands to 21 nuanced variants:
 
 Two strategies:
 
-1. **International borrowings:** `kafe`, `pitsa`, `telefon`
+1. **International borrowings:** `kafe`, `pitesa`, `telefone`
 2. **Native constructions:** Systematic CV+CV combinations
 
 ### Layer 4: Ontological Vectors (VCV+CV+...) — 62,500+ Concepts
