@@ -1,8 +1,5 @@
 # 🧬 MATRIX P — Substance/Being
 
-ADVERTISE - THIS MATRIX IS EXPERIMENTAL AND COULD CHANGE IF NECESSARY
-why? To better fix with the general professional matrix. But you can take a look how it works.
-
 **Ontological Domain: What IS it?**
 
 _Matter, entities, existence, composition_
