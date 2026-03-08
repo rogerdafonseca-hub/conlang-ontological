@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+  message: "If you use this language in research, please cite it as below."
+  authors:
+    - family-names: "Da Fonseca"
+      given-names: "Roger"
+  title: "Universal Ontological Language"
+  version: 0.2.0
+  date-released: 2026-01-XX
+  url: "https://github.com/rogerdafonseca-hub/conlang-ontological"
+  license: CC0-1.0
