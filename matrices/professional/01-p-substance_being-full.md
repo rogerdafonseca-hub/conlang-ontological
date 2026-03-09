@@ -1871,23 +1871,310 @@ Vamos fazer corretamente agora:
 
 ---
 
-## ✅ SUBCATEGORIA E-P-A COMPLETA!
+# 🧬 MATRIZ P — SUBCATEGORIA E-P-E
 
-**Total:** 25 vetores × 5 gradações = **125 conceitos**
+**Subcategory e-p-e: Vitality (Weak/Beginning)**  
+**Focus:** Emerging life, nascent vitality, awakening from dormancy, early biological activity
 
 ---
 
-## 📊 PROGRESSO MATRIZ P
+## Vector 1: Stirring from Inertness (p)
 
-|Subcategoria|Variações Completas|Conceitos|Status|
-|---|---|---|---|
-|**a-p** (Origin)|5/5|625|✅ COMPLETO|
-|**e-p** (Vitality)|1/5|125|🔄 20%|
-|**i-p-i** (Complexity)|0/1|0|⏳ Pendente|
-|**o-p-o** (Function)|0/1|0|⏳ Pendente|
-|**u-p-u** (Taxonomy)|0/1|0|⏳ Pendente|
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-p-a**|Completely inert|Noble gas, stable mineral|
+|**e-p-e-p-e**|Beginning reactivity|First chemical response|
+|**e-p-e-p-i**|Moderate reactivity emerging|Catalytic activity starting|
+|**e-p-e-p-o**|Active chemical processes|Reactions accelerating|
+|**e-p-e-p-u**|Fully reactive state|Complex chemistry active|
 
-**PROGRESSO MATRIZ P ESSENTIAL:** 750/3,125 (24%) 🔥
+---
+
+## Vector 2: Early Post-Mortem (m)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-m-a**|Never alive|Mineral substrate|
+|**e-p-e-m-e**|Moments after death|Cells still viable|
+|**e-p-e-m-i**|Hours post-mortem|Autolysis beginning|
+|**e-p-e-m-o**|Early decomposition|Bacterial colonization|
+|**e-p-e-m-u**|Active early decay|Putrefaction starting|
+
+---
+
+## Vector 3: Awakening from Dormancy (n)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-n-a**|Deep dormancy|Frozen seed|
+|**e-p-e-n-e**|Initial stirring|Thawing begins|
+|**e-p-e-n-i**|Emerging from dormancy|Germination starting|
+|**e-p-e-n-o**|Waking up|Hibernator rousing|
+|**e-p-e-n-u**|Fully awakened|Active metabolism restored|
+
+---
+
+## Vector 4: Metabolic Awakening (t)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-t-a**|Zero metabolism|Frozen, inert|
+|**e-p-e-t-e**|First metabolic signs|ATP production starting|
+|**e-p-e-t-i**|Low metabolism|Minimal respiration|
+|**e-p-e-t-o**|Metabolism increasing|Cells activating|
+|**e-p-e-t-u**|Normal metabolism|Full cellular function|
+
+---
+
+## Vector 5: Consciousness Emergence (k)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-k-a**|Unconscious|Deep coma, brain-dead|
+|**e-p-e-k-e**|First neural activity|Brain stem response|
+|**e-p-e-k-i**|Minimal consciousness|Vegetative state|
+|**e-p-e-k-o**|Emerging awareness|Waking from anesthesia|
+|**e-p-e-k-u**|Conscious but drowsy|Just waking up|
+
+---
+
+## Vector 6: Primitive Sentience (b)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-b-a**|Non-sentient|Mineral, chemical|
+|**e-p-e-b-e**|Quasi-sentient|Virus-like response|
+|**e-p-e-b-i**|Minimal sentience|Single cell chemotaxis|
+|**e-p-e-b-o**|Simple sentience|Basic nervous system|
+|**e-p-e-b-u**|Low-level sentience|Worm, jellyfish|
+
+---
+
+## Vector 7: Reproductive Potential Beginning (d)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-d-a**|No reproductive capacity|Sterile, dead|
+|**e-p-e-d-e**|Pre-reproductive|Juvenile|
+|**e-p-e-d-i**|Sexual maturity approaching|Puberty|
+|**e-p-e-d-o**|Early fertility|First reproductive cycle|
+|**e-p-e-d-u**|Fully fertile|Peak reproductive age|
+
+---
+
+## Vector 8: Growth Initiation (g)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-g-a**|No growth|Dormant seed|
+|**e-p-e-g-e**|Cell division starting|First mitosis|
+|**e-p-e-g-i**|Slow early growth|Seedling emerging|
+|**e-p-e-g-o**|Growth accelerating|Rapid cell division|
+|**e-p-e-g-u**|Full growth mode|Exponential phase|
+
+---
+
+## Vector 9: First Responses (s)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-s-a**|No responsiveness|Inert, dead|
+|**e-p-e-s-e**|Minimal stimulus response|Twitching|
+|**e-p-e-s-i**|Weak responses|Slow reflexes|
+|**e-p-e-s-o**|Developing responsiveness|Reflexes strengthening|
+|**e-p-e-s-u**|Normal responsiveness|Alert reactions|
+
+---
+
+## Vector 10: Homeostasis Beginning (l)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-l-a**|No regulation|Dead, equilibrium with environment|
+|**e-p-e-l-e**|Passive regulation|Simple diffusion|
+|**e-p-e-l-i**|Basic homeostasis|Temperature sense|
+|**e-p-e-l-o**|Active homeostasis forming|Thermoregulation starting|
+|**e-p-e-l-u**|Stable homeostasis|Maintained internal state|
+
+---
+
+## Vector 11: Early Healing (w)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-w-a**|No healing capacity|Dead tissue|
+|**e-p-e-w-e**|First cellular response|Inflammation beginning|
+|**e-p-e-w-i**|Early tissue repair|Clotting, scab formation|
+|**e-p-e-w-o**|Active healing|Wound closing|
+|**e-p-e-w-u**|Good regeneration|Tissue rebuilding|
+
+---
+
+## Vector 12: Initial Adaptation (y)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-y-a**|Cannot adapt|Fixed, dead|
+|**e-p-e-y-e**|First environmental response|Slight variation|
+|**e-p-e-y-i**|Beginning adaptation|Acclimatization|
+|**e-p-e-y-o**|Adapting actively|Phenotypic plasticity|
+|**e-p-e-y-u**|Well-adapted|Optimized for environment|
+
+---
+
+## Vector 13: Simple Communication (h)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-h-a**|No communication|Isolated, inert|
+|**e-p-e-h-e**|Chemical traces|Pheromone precursors|
+|**e-p-e-h-i**|Basic signaling|Simple chemical signals|
+|**e-p-e-h-o**|Active signaling|Quorum sensing|
+|**e-p-e-h-u**|Coordinated communication|Bacterial colony|
+
+---
+
+## Vector 14: Sensory Development (š)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-š-a**|No sensing|Inert matter|
+|**e-p-e-š-e**|Chemical detection|Basic chemoreceptors|
+|**e-p-e-š-i**|Single sense developing|Light sensitivity|
+|**e-p-e-š-o**|Multiple senses emerging|Touch + chemical|
+|**e-p-e-š-u**|Full sensory apparatus|Eyes, ears forming|
+
+---
+
+## Vector 15: Immunity Emergence (r)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-r-a**|No immunity|Non-living|
+|**e-p-e-r-e**|Passive barriers|Cell membrane|
+|**e-p-e-r-i**|Basic immunity|Phagocytosis|
+|**e-p-e-r-o**|Developing immune system|Antibodies appearing|
+|**e-p-e-r-u**|Functional immunity|Adaptive immunity|
+
+---
+
+## Vector 16: Motility Beginning (f)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-f-a**|Completely immobile|Rock, dead|
+|**e-p-e-f-e**|First movements|Cellular twitching|
+|**e-p-e-f-i**|Simple motility|Flagella forming|
+|**e-p-e-f-o**|Active movement|Swimming, crawling|
+|**e-p-e-f-u**|Coordinated motion|Directional movement|
+
+---
+
+## Vector 17: Energy Systems Activating (v)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-v-a**|No energy production|Dead cells|
+|**e-p-e-v-e**|First ATP synthesis|Glycolysis starting|
+|**e-p-e-v-i**|Low energy production|Fermentation|
+|**e-p-e-v-o**|Respiration beginning|Mitochondria activating|
+|**e-p-e-v-u**|Full energy metabolism|Aerobic respiration|
+
+---
+
+## Vector 18: Life-Supporting Conditions (z)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-z-a**|Lethal environment|Extreme toxicity|
+|**e-p-e-z-e**|Marginally survivable|Extremophile zone|
+|**e-p-e-z-i**|Habitable but harsh|Minimal nutrients|
+|**e-p-e-z-o**|Life-supporting|Adequate conditions|
+|**e-p-e-z-u**|Optimal for life|Rich environment|
+
+---
+
+## Vector 19: Decay Reversal/Preservation (ň)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-ň-a**|Active decay|Putrefaction|
+|**e-p-e-ň-e**|Decay slowing|Cooling, drying|
+|**e-p-e-ň-i**|Decay halted|Preservation|
+|**e-p-e-ň-o**|Anti-decay active|Mummification|
+|**e-p-e-ň-u**|Perfect preservation|Amber, ice|
+
+---
+
+## Vector 20: Primitive Cognition (č)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-č-a**|No cognition|Mineral|
+|**e-p-e-č-e**|Proto-cognition|Simple stimulus response|
+|**e-p-e-č-i**|Basic processing|Worm nervous system|
+|**e-p-e-č-o**|Simple cognition|Insect brain|
+|**e-p-e-č-u**|Low-level thought|Fish intelligence|
+
+---
+
+## Vector 21: Primitive Affect (ñ)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-ñ-a**|No emotion|Non-sentient|
+|**e-p-e-ñ-e**|Basic pleasure/pain|Simple avoidance|
+|**e-p-e-ñ-i**|Primitive affect|Attraction/repulsion|
+|**e-p-e-ñ-o**|Simple emotions|Fear, hunger|
+|**e-p-e-ñ-u**|Basic emotional range|Vertebrate emotions|
+
+---
+
+## Vector 22: Memory Formation (ǰ)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-ǰ-a**|No memory|Non-neural|
+|**e-p-e-ǰ-e**|Chemical memory|Sensitization|
+|**e-p-e-ǰ-i**|Simple habituation|Repeated stimulus response|
+|**e-p-e-ǰ-o**|Short-term memory|Minutes to hours|
+|**e-p-e-ǰ-u**|Basic long-term memory|Days to weeks|
+
+---
+
+## Vector 23: Learning Capacity (c)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-c-a**|Cannot learn|Fixed responses|
+|**e-p-e-c-e**|Minimal learning|Habituation|
+|**e-p-e-c-i**|Simple conditioning|Pavlovian response|
+|**e-p-e-c-o**|Basic learning|Trial and error|
+|**e-p-e-c-u**|Active learning|Problem solving|
+
+---
+
+## Vector 24: Structural Formation (x)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-x-a**|Disintegrated|Dust, molecules|
+|**e-p-e-x-e**|Aggregating|Particles clumping|
+|**e-p-e-x-i**|Structure forming|Cell walls assembling|
+|**e-p-e-x-o**|Organized structure|Tissues forming|
+|**e-p-e-x-u**|Complex organization|Organs developing|
+
+---
+
+## Vector 25: Biological Complexity Emerging (h)
+
+|Code|Description|Example|
+|---|---|---|
+|**e-p-e-h-a**|Non-biological|Minerals|
+|**e-p-e-h-e**|Pre-biotic|Organic molecules|
+|**e-p-e-h-i**|Proto-life|RNA world|
+|**e-p-e-h-o**|Simple life|Prokaryote|
+|**e-p-e-h-u**|Cellular life|Eukaryote emerging|
 
 ---
 
