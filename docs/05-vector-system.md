@@ -70,12 +70,12 @@ Every concept can be located in **ontological space** using:
 ### **The Formula**
 
 ```
-VCV + CV + CV + CV + ...
+V  +  C +  V  + CV + ...
 │     │    │    │
-│     │    │    └─── Additional precision (optional)
-│     │    └──────── Vector identifier
-│     └───────────── Subcategory marker
-└─────────────────── Domain identifier (starts with vowel!)
+│     │    │    └─── Vector cluster
+│     │    └──────── Gradation key
+│     └───────────── Domain identifier
+└─────────────────── Subcategory marker (starts with vowel!)
 ```
 
 ### **Key Rule: Vectors Start with Vowels**

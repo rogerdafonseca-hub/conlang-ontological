@@ -25,13 +25,13 @@ Contains: apa - epe - ipi - opo - upu
 
 ## 🗂️ Subcategory Structure
 
-|Code|Subcategory|Focus|
-|---|---|---|
-|**a-p**|Origin|Where does it come from? Natural, artificial, biological|
-|**e-p**|Vitality|Is it alive? Dead, inert, living, sentient, conscious|
-|**i-p**|Complexity|How organized? Atomic → cosmic scale|
-|**o-p**|Function|What role does it serve? Structural, energy, information|
-|**u-p**|Taxonomy|Pure ontological classification of substances|
+| Code    | Subcategory | Focus                                                    |
+| ------- | ----------- | -------------------------------------------------------- |
+| **a-p** | Origin      | Where does it come from? Natural, artificial, biological |
+| **e-p** | Vitality    | Is it alive? Dead, inert, living, sentient, conscious    |
+| **i-p** | Complexity  | How organized? Atomic → cosmic scale                     |
+| **o-p** | Function    | What role does it serve? Structural, energy, information |
+| **u-p** | Taxonomy    | Pure ontological classification of substances            |
 
 ---
 
