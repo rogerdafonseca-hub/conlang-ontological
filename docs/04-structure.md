@@ -580,8 +580,7 @@ api-ma-bi (separated with hyphens in actual use — only use hyphens for teachin
 **Vectors are written together as single words in actual usage.**
 
 ---
-
-## 🔍 Disambiguation Strategies
+## 🔍 Disambiguation Strategy
 
 ### **When Patterns Conflict:**
 
@@ -591,29 +590,32 @@ The Z-marker system for numerals eliminates the historical conflict between gram
 
 **For rare vocabulary conflicts:**
 
-**Problem:** Grammar VC ends the same as Vocabulary VCV beginning
+**Problem:** Grammar VC naturally ends with a vowel sound when pronounced
 
 **Example:**  
-Grammar: ař (mine — possessive pronoun)  
-Vocabulary: aře (mark, label)
+Grammar: `ař` (mine — possessive pronoun)  
+Vocabulary: `ařa` or `aře` (VCV words)
 
-**Solution 1: Prolongation (writing)**
+When speaking, `ař` will naturally sound like `ařa` or `aře` depending on the speaker's accent and phonetic environment.
 
-Grammar: ař (written as-is)  
-Vocabulary: ařaa (double final vowel)
+**Solution: Vowel Doubling + Strong Articulation**
 
-**Solution 2: Tone (speech)**
+When using VCV vocabulary words that could be confused with VC grammar:
 
-Grammar: ař [neutral tone]  
-Vocabulary: aře [rising tone ↗]
+**Grammar VC:** Pronounce naturally  
+`ař` → sounds like [aɾa] or [aɾe] (natural pronunciation)
 
-**Solution 3: Context**
+**Vocabulary VCV:** Double the final vowel in writing AND pronounce with intensity  
+`ařaa` → written with double vowel, pronounced [a.ɾa.a:] with strong emphasis on final vowel  
+`ařee` → written with double vowel, pronounced [a.ɾe.e:] with strong emphasis on final vowel
 
-ba ař → "my/mine" (possessive clearly)  
-ba ařaa → "mark/label" (noun clearly)
+**In practice:**
 
-**This disambiguation applies to approximately 5 patterns per conflicting domain.**  
-Most words never need special handling.
+Grammar: `ba ař` → "my/mine" (natural pronunciation)  
+Vocabulary: `ba ařaa` → "mark/label" (written double vowel, spoken with intensity)
+
+**This applies to approximately 5 patterns per conflicting domain.**  
+Most words never need special handling. Context usually makes meaning clear.
 
 ---
 
