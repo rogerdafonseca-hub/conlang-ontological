@@ -1,966 +1,401 @@
-# ❓ Frequently Asked Questions (FAQ)
+# Frequently Asked Questions
 
-**Universal Ontological Language**
-
-_Common questions from newcomers, learners, and contributors_
+Quick answers to common questions about the Universal Ontological Language.
 
 ---
 
-## 📖 Table of Contents
+## 🌍 General Questions
 
-- About the Project
-- Getting Started
-- The Language System
-- Learning & Using
-- Contributing
-- Community & Support
-- Technical Questions
+### What is this language?
 
----
+A constructed language (conlang) designed with three progressive layers:
+1. **Basic Grammar** (250 particles) — Learn in weeks
+2. **Core Vocabulary** (625 words) — Learn in months
+3. **Technical Vectors** (390,625 concepts) — Optional, use when needed
 
-## 🌍 About the Project
+Think of it as "Toki Pona that can do quantum physics."
 
-### **What is this language?**
+### Why create another conlang?
 
-This is a **constructed language (conlang)** designed to be:
+Most conlangs choose between simplicity (Toki Pona) or completeness (Ithkuil). We wanted both:
+- Simple enough for casual conversation
+- Precise enough for scientific papers
+- Same grammar across all complexity levels
 
-- **Universal** — accessible to speakers of any native language
-- **Systematic** — built on rigorous ontological foundations
-- **Complete** — capable of expressing any human concept with precision
-- **Practical** — usable for daily conversation, technical writing, and creative expression
+### Is this a "logical language" like Lojban?
 
-Think of it as a systematic coordinate system for human concepts — combining the accessibility of Esperanto, the precision of Lojban, and the completeness of a formal ontology.
+Partially. We have:
+- ✅ Systematic derivation (like Lojban)
+- ✅ Ontological precision (like Lojban)
+- ❌ But simpler phonology (unlike Lojban)
+- ❌ And optional complexity (unlike Lojban)
 
----
+You can use it as simply as Toki Pona or as precisely as Lojban, depending on your needs.
 
-### **Why was this created?**
+### What's the license?
 
-> "To leave a legacy for humanity — a systematic, expandable framework that enables the world to communicate clearly, quickly, and efficiently."
+**CC0 1.0 Universal (Public Domain)**
 
-In an age of rapid technological evolution demanding immediacy, we need better communication tools. This language is designed to serve for generations, not just as an experiment, but as a serious contribution to human communication.
-
----
-
-### **Is this trying to replace English? Or my native language?**
-
-**No!** This is not a replacement — it's an **addition** to humanity's linguistic toolkit.
-
-Natural languages are beautiful, culturally rich, and irreplaceable. This language offers:
-
-- A **neutral option** for international communication (no native speaker privilege)
-- A **precise tool** for technical and philosophical discourse
-- A **systematic framework** for AI/NLP systems
-- An **accessible alternative** when clarity matters most
-
-Use your native language with family. Use this when you need universal clarity.
+You can use, modify, distribute, or even commercialize this language without asking permission. It belongs to everyone.
 
 ---
 
-### **Who is this for?**
+## 📚 Learning Questions
 
-**Everyone!** But especially:
+### How long does it take to learn?
 
-- 🌍 **International communicators** — people who work across languages
-- 🔬 **Researchers** — linguists, ontologists, AI developers
-- 📚 **Language enthusiasts** — conlang learners, polyglots
-- 🎨 **Creators** — writers, worldbuilders, artists
-- 🧠 **Philosophers** — those seeking precision in discourse
-- 🤖 **Developers** — building multilingual AI systems
+Depends on your goal:
 
----
+| Level            | Resources              | Time             | Can You...                  |
+| ---------------- | ---------------------- | ---------------- | --------------------------- |
+| **Basic**        | 250 (CV / VC grammar)  | 2-4 weeks        | Form simple sentences       |
+| **Intermediate** | 875 (+ VCV vocabulary) | 3-6 months       | Have daily conversations    |
+| **Advanced**     | + Technical vectors    | Years (optional) | Express scientific concepts |
 
-### **Is this a finished language?**
+Most learners stop at Intermediate (875 resources) — comparable to Basic English (850 words).
 
-**No — it's actively being built!**
+### Do I need to learn all 390,625 vector concepts?
 
-**Current status (January 2026):**
+**No!** The vector system is like a dictionary — you look things up when you need them. Most people never use it.
 
-- ✅ Phonology: Complete (25 consonants, 5 vowels)
-- ✅ Grammar: Complete (650 resources documented)
-- ✅ Philosophy & architecture: Established
-- 🔄 Ontological matrices: ~10% complete (2.6/25 domains)
-- ⏳ Core vocabulary: Not started (0/500 words)
-- ⏳ Learning materials: In development
+Analogy: You don't memorize the periodic table to speak English. You learn it if you study chemistry.
 
-This is a **long-term project**. We're building something meant to last centuries, not rushing to "finish" prematurely.
+### Is there a course or textbook?
 
----
+Not yet! We're currently:
+1. Finalizing the grammar system
+2. Developing the 625 core vocabulary words
+3. Creating practice dialogues
 
-### **Why is it public domain (CC0)?**
+Follow the [Learning Path](learning-path.md) for the structured approach we recommend.
 
-> "If this helps even one person in any way, I will be immensely fulfilled."
+### What should I learn first?
 
-**Three reasons:**
+1. **Phonology** — Learn to pronounce the 30 sounds (25 consonants + 5 vowels)
+2. **CV Grammar** — Master 125 basic particles (`ma`, `ta`, `ka`...)
+3. **VC Grammar** — Add 125 extensions (`am`, `um`...)
+4. **VCV Vocabulary** — Build up essential words (`ava`, `uva`...)
 
-1. **Maximum accessibility** — Anyone can use, teach, modify, or build upon it
-2. **No barriers** — Students, researchers, developers can integrate freely
-3. **Philosophical alignment** — Language is humanity's shared heritage
+See [Learning Path](learning-path.md) for details.
 
-Good ideas should spread without friction. This is a gift to whoever finds it useful.
+### Can children learn this?
 
----
-
-## 🚀 Getting Started
-
-### **How do I start learning?**
-
-**Recommended path:**
-
-**Week 1-2: Phonology**
-
-1. Learn the 30 sounds (25 consonants + 5 vowels)
-2. Practice pronunciation
-3. Read: `docs/02-phonology.md`
-
-**Week 3-4: Basic Grammar (CV)**
-
-1. Master 125 basic particles
-2. Learn the 25 families
-3. Read: `docs/03-grammar-cv.md`
-
-**Month 2: Extended Grammar (VCV)**
-
-1. Understand the gradation system
-2. Practice nuanced expressions
-3. Read: `docs/04-grammar-vcv.md`
-
-**Month 3+: Vector System**
-
-1. Explore ontological domains
-2. Learn compositional word-building
-3. Read: `docs/05-vector-system.md`
-
----
-
-### **Is it hard to learn?**
-
-**Honest answer:** It depends on your goal.
-
-**For basic conversation:** Easier than most natural languages
-
-- Regular grammar (no irregular verbs!)
-- Familiar sounds (from world languages)
+The Basic + Intermediate layers (875 resources) are simpler than most natural languages:
+- No irregular verbs
+- No gendered nouns
+- No complex conjugations
 - Systematic patterns
-- ~500 core words for daily use
 
-**For technical mastery:** More complex
-
-- 25 ontological matrices (12,500+ concepts)
-- Vector composition requires understanding the system
-- Full expressivity takes time
-
-**But:** The system is designed for **graceful degradation** — you can communicate effectively at any level.
-
----
-### Do I need to learn all 390,625 concepts?
-
-**No!** 
-
-**If you're a casual learner:**
-- Focus on the Essential Core (78k concepts)
-- Use diagonal vowels only: apa, epe, ipi, opo, upu
-- This covers everyday conversation, literature, general use
-
-**If you're a researcher/specialist:**
-- Optionally access Professional Expansion (390k)
-- Full precision for scientific papers, databases, AI
-- Use all vowel combinations when nuance matters
-
-**Analogy:** Like learning basic math vs. advanced calculus — both valid, different purposes.
-
+However, we don't have children's materials yet. Help create them!
 
 ---
 
-### **Do I need to know another language first?**
+## 🔤 Language Structure Questions
 
-**No!** This language is designed to be accessible regardless of your native language.
+### What's the phonology like?
 
-**However:**
+**30 phonemes total:**
+- 25 consonants: p, m, n, t, k, b, d, g, s, l, w, y, h, š, r, f, v, z, ň, č, ž, ǰ, ñ, c, x
+- 5 vowels: a, e, i, o, u
 
-- If you speak **English, Spanish, Portuguese, or Mandarin**, you'll find many borrowed words familiar
-- If you know **IPA (International Phonetic Alphabet)**, phonology will be easier
-- If you've studied **any language**, you'll recognize grammatical concepts
+All sounds exist in major world languages. If you speak English + one other language, you can probably pronounce everything.
 
-But none of this is required. Absolute beginners are welcome!
+See [Phonology](../docs/02-phonology.md) for IPA and audio guides (coming soon).
 
----
+### How do I know if a word is grammar or vocabulary?
 
-### **How long until I'm fluent?**
+**By its structure:**
 
-**Rough estimates:**
+| Pattern     | Type              | Example | Meaning           |
+| ----------- | ----------------- | ------- | ----------------- |
+| **CV**      | Basic grammar     | `ma`    | can               |
+| **VC**      | Extended grammar  | `am`    | cannot            |
+| **VCV**     | Core vocabulary   | `ava`   | anger             |
+| **CV+CV+**  | Nominal lexicon   | `kalu`  | dog               |
+| **VCV+CV+** | Technical vectors | `apima` | biological origin |
 
-|Goal|Time Investment|Level|
-|---|---|---|
-|**Basic conversation**|2-3 months (1hr/day)|Can greet, ask questions, express needs|
-|**Intermediate fluency**|6-12 months|Can discuss complex topics, read texts|
-|**Advanced mastery**|2-3 years|Technical precision, vector composition|
-|**Complete system knowledge**|5+ years|All 25 matrices, deep ontological understanding|
+You can tell instantly just by looking at it!
 
-**Note:** These are estimates. Actual time varies by background and dedication.
+### Why vowel-initial vs consonant-initial?
 
----
+**Functional distinction:**
+- Consonant-initial (CV, CV+CV) = **grammar and common nouns**
+- Vowel-initial (VC, VCV, VCV+CV) = **extensions and technical terms**
 
-## 🧬 The Language System
+This makes parsing easier for both humans and computers.
 
-### **What's the "4-layer architecture"?**
+### What's the difference between VCV vocabulary and VCV+ vectors?
 
-The language has **four levels of complexity**, each serving a different purpose:
+**Syllable count:**
+- **VCV** (1 syllable) = everyday vocabulary (`ava` = anger)
+- **VCV+CV+CV...** (2+ syllables) = technical precision (`api-ma-i` = standard biological origin)
 
-|Layer|Structure|Function|Example|
-|---|---|---|---|
-|**1. Basic Grammar (CV)**|Consonant+Vowel|125 essential particles|`pa` (to), `ma` (can), `ka` (what?)|
-|**2. Extended Grammar (VCV)**|Vowel+Cons+Vowel|525 nuanced particles|`ipa` (directly to), `uma` (certainly can)|
-|**3. Nominal Lexicon (CV+CV+)**|Multiple syllables (C-initial)|Common words (borrowed + native)|`kafe` (coffee), `telefon` (telephone)|
-|**4. Ontological Vectors (VCV+CV+)**|Compositional (V-initial)|Systematic concept building|`apa-ma-ři` (complex ontological description)|
+If it starts with a vowel and has only 1 syllable → vocabulary  
+If it starts with a vowel and has 2+ syllables → technical vector
 
-**Think of it like:**
+### How does word order work?
 
-- Layer 1 = Letters
-- Layer 2 = Words with nuance
-- Layer 3 = Dictionary entries
-- Layer 4 = Encyclopedia entries built systematically
-
----
-
-### **What is the "vector system"?**
-
-The **vector system** is the language's most innovative feature — a way to **construct precise concepts systematically** rather than memorizing arbitrary words.
-
-**How it works:**
-
-Every concept is built from:
-
-1. **Domain** (what general area?) — 25 options: Substance, Space, Time, Causality, etc.
-2. **Subcategory** (what aspect?) — 5 per domain: Origin, Vitality, Complexity, Function, Taxonomy
-3. **Vector** (specific variation?) — 20 per subcategory
-4. **Gradation** (intensity level?) — 5 levels: a (minimal) → u (maximal)
-
-**Example structure:**
-
+Generally **SVO (Subject-Verb-Object)** like English, but flexible due to particles:
 ```
-apa-ma-ři-gu
-│ │ │ │ │
-│ │ │ │ └─ Gradation (u = maximal)
-│ │ │ └─── Vector (ř)
-│ │ └───── Descriptor (ma)
-│ └─────── Subcategory (a = Origin)
-└───────── Domain (p = Substance/Being)
+ii  iwa  ima
+I   do   work
+"I do work" / "I work"
+
+ma  ii  iwa?
+can I   do
+"Can I do it?"
 ```
 
-**Result:** 25 domains × 5 subcategories × 20 vectors × 5 gradations = **62,500+ distinct concepts**
+Full grammar documentation: [Grammar CV-VC](../docs/05-grammar-cv-vc.md)
+
+### Are there conjugations or declensions?
+
+**No!** Words don't change form. Tense, aspect, mood are expressed through particles:
+```
+ta iwa = did (past do)
+ma iwa = can do
+ta ma iwa = could do (past can do)
+```
+
+### How do you express emotions?
+
+**Layer 2 vocabulary** (VCV) includes emotion words systematically:
+
+From domain **V (Emotion)**:
+- `ava/ave/avi/avo/avu` = anger (irritation → hatred)
+- `eva/eve/evi/evo/evu` = sadness (melancholy → despair)
+- `uva/uve/uvi/uvo/uvu` = happiness (content → ecstasy)
+
+Last vowel = intensity (a=minimal, e=weak, i=neutral, o=strong, u=maximal)
+
+### Can I create new words?
+
+**Yes!** Two ways:
+
+1. **Compound existing words** (CV+CV nominal lexicon)
+   - `ima` (place) + `iwa` (do) = `imaiwa` (workplace)
+
+2. **Use the vector system** (VCV+CV technical)
+   - Need a precise concept? Build it from vectors
+   - Example: `api-ma-i` = "thing with standard biological origin"
+
+See [Combining Rules](../docs/08-combining-rules.md)
 
 ---
 
-### **How do I know if a word is a vector or a regular word?**
+## 🎯 Design Questions
 
-**Simple rule:**
+### Why three layers instead of one unified system?
 
-|Starts with...|Type|Example|
-|---|---|---|
-|**Consonant**|Regular word (Lexicon)|`kafe` (coffee), `pitsa` (pizza)|
-|**Vowel**|Vector (Ontological)|`apa-ma-ři` (systematic concept)|
+**Accessibility + Precision**
 
-**Why this works:**
+Most people only need basic communication (Layers 1-2). The technical layer (Layer 3) exists for specialists, but doesn't burden casual learners.
 
-- Grammatical particles (CV, VCV) are short — 1-2 syllables
-- Lexicon words (CV+CV+) are medium — 2-4 syllables, start with **C**
-- Vectors (VCV+CV+) are composed — multiple parts, start with **V**
+Compare:
+- **Toki Pona:** ~120 words, simple but limited
+- **Ithkuil:** Complete but too complex for daily use
+- **This language:** Start simple (like Toki Pona), expand infinitely (like Ithkuil)
 
-If you see a word starting with a vowel and it's longer than 3 syllables, it's probably a vector.
+### How is vocabulary derived?
 
----
+**From 25 ontological domains:**
 
-### **What does the final vowel in a vector mean?**
+Each domain has a consonant (p, m, n, t, k...) and covers fundamental concepts:
+- **P** = Substance/Being (what things fundamentally are)
+- **V** = Emotion/Affect (feelings)
+- **M** = Dimension/Space (location, size)
+- **N** = Gradual/Temporal (time, duration)
+- **W** = Action/Verbal (doing)
 
-The **final vowel** in each vector component indicates **intensity or gradation**:
+First vowel picks 5 subconcepts per domain, last vowel adds intensity.
 
-|Vowel|Meaning|Example Context|
-|---|---|---|
-|**-a**|Minimal, negative, absence|`apa` = away from (not toward)|
-|**-e**|Weak, low, beginning|`epa` = approaching (starting to go toward)|
-|**-i**|Neutral, standard, center|`ipa` = directly to (normal/standard direction)|
-|**-o**|Strong, high, intense|`opa` = extending far to (emphatic direction)|
-|**-u**|Maximal, absolute, extreme|`upa` = all the way to (absolute completion)|
+See [Basics VCV](../docs/06-basics-vcv.md)
 
-This **applies universally** across:
+### What makes this "ontological"?
 
-- Grammar particles (VCV)
-- Vector gradations
-- All 25 ontological domains
+The technical vector system (Layer 3) maps concepts to an **ontological matrix**:
 
-**Once you learn this pattern, you unlock the entire system.**
+- 25 domains × 5 subcategories × 25 vectors × 5 variations × 5 gradations
+- = 390,625 precisely defined concepts
+- Each concept has exact relationships to others
 
----
+It's like the Dewey Decimal System for all possible concepts.
 
-### **Can I use regular words instead of vectors?**
+See [Vector System](../docs/07-vector-system.md)
 
-**Yes! Absolutely.**
+### Is this language biased toward any culture?
 
-The vector system is **optional precision**, not mandatory complexity.
+We try to minimize bias:
+- ✅ Phonology draws from many language families
+- ✅ No gendered grammar
+- ✅ Concepts derived from universal ontology, not one culture's worldview
+- ⚠️ But creators are human and have unconscious biases
 
-**For daily conversation:**
+**Help us improve!** Point out cultural assumptions in [Issues](https://github.com/YOUR-REPO/issues)
 
-- Use borrowed international words: `kafe` (coffee), `telefoni` (phone)
-- Use basic grammar: `pa`, `ma`, `ka`
-- Keep it simple!
+### Can this language express poetry and emotion?
 
-**For technical/philosophical discourse:**
+**Yes!** Layer 2 (VCV vocabulary) includes:
+- Emotion words with 5 intensity levels
+- Sensory perception words
+- Abstract concepts
 
-- Use vectors when you need precise ontological description
-- Use them when no borrowed word exists
-- Use them to be unambiguous
-
-**The beauty of the system:** You choose your level of precision.
+See examples in [Literature](literature/)
 
 ---
 
-### **How are words borrowed from other languages?**
+## 🛠️ Practical Questions
 
-**Strict criteria:**
+### Where can I practice?
 
-A word can be borrowed if:
+Currently:
+- [Study and Examples](../study-and-examples/) — Practice materials by level
+- [GitHub Discussions](https://github.com/YOUR-REPO/discussions) — Community practice (when enabled)
 
-1. **Present in 5+ languages** from different families
-2. **Phonetically similar** (>70% overlap) across those languages
-3. **Same meaning** in all source languages
-4. **Adaptable** to CV+CV+ phonology
+Coming soon:
+- Discord server (once community reaches ~10 active members)
+- Anki decks for vocabulary
+- Interactive exercises
 
-**Examples:**
+### Is there a dictionary?
 
-| Concept   | Source Languages                                                 | Adapted Form |
-| --------- | ---------------------------------------------------------------- | ------------ |
-| Coffee    | coffee (en), café (es/pt/fr), caffè (it), Kaffee (de), قهوة (ar) | **kafe**     |
-| Pizza     | pizza (universal in 100+ languages)                              | **pitisa**   |
-| Telephone | telephone (en), teléfono (es), téléphone (fr), telefono (it)     | **telefone** |
+In progress!
+- [Core VCV Vocabulary](../lexicon-and-foreign-words/core-vcv-vocabulary.md) — 625 essential words (being built)
+- [Ontological Matrices](../ontological-matrices-and-vectors/) — Technical vectors (2,125/390,625 complete)
 
-**Process:**
+### Can I use this in my project?
 
-1. Identify internationally recognized concept
-2. Check presence in 10 major languages
-3. Adapt sounds to fit CV structure
-4. Add to lexicon
+**Yes! CC0 license = public domain.**
 
-**Non-universal concepts:** Use vectors or create native CV+CV+ words.
+Use cases:
+- ✅ Fictional languages in books/games/films
+- ✅ Naming systems (variables, functions, scientific terms)
+- ✅ International auxiliary language
+- ✅ AI/database semantic tags
+- ✅ Educational tool for linguistics
+- ✅ Commercial products
 
----
+No permission needed, no attribution required (but appreciated!).
 
-### **What if two words sound the same (homophones)?**
+### How can I contribute?
 
-**Design prevents this:**
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for:
+- Priority development areas
+- How to propose vocabulary
+- Documentation standards
+- Code of conduct
 
-1. **Large phonemic space** — 25 consonants × 5 vowels = 125 possible CV syllables
-2. **CV+CV minimum** for lexicon — 125 × 125 = 15,625 possible 2-syllable words
-3. **Careful lexicon curation** — avoid conflicts during word creation
-4. **Context** — grammar particles differentiate meanings
+Quick ways to help:
+1. **Create example dialogues** (basic level)
+2. **Develop VCV vocabulary** (propose words for domains)
+3. **Translate texts** (start with Universal Declaration)
+4. **Report issues** (grammar ambiguities, missing concepts)
 
-**If a homophone occurs:**
+### Is there an official community?
 
-- Longer variant (3-syllable) can be created
-- Vector description available as backup
-- Context usually makes meaning clear
+Building it now:
+- **GitHub Discussions**
+- **Discord** — Will launch at 10+ active contributors
+- **Reddit** — Post in [r/conlangs](https://reddit.com/r/conlangs) with [UOL] tag (soon)
 
----
-
-## 📚 Learning & Using
-
-### **Are there learning materials yet?**
-
-**Currently available:**
-
-- ✅ Complete phonology guide `docs/02-phonology.md`
-- ✅ Complete grammar reference (CV + VCV)
-- ✅ Philosophy & design rationale
-- ✅ This FAQ
-
-**In development:**
-
-- 🔄 Ontological matrices (25 domains)
-- 🔄 Core vocabulary list (500 words)
-- ⏳ Example sentences and dialogues
-- ⏳ Practice exercises
-- ⏳ Audio pronunciation samples
-- ⏳ Flashcard decks (Anki)
-
-**Coming later:**
-
-- Interactive vector builder tool
-- Comprehensive learning course
-- Video tutorials
-- Community-created materials
+For now, use GitHub Issues for questions and proposals.
 
 ---
 
-### **Can I practice with other learners?**
+## 🔮 Future Questions
 
-**Not yet, but soon!**
+### When will version 1.0 be released?
 
-We're planning to establish:
+**Estimated: Q1 2028**
 
-- **Discord server** — real-time chat, voice practice, Q&A
-- **GitHub Discussions** — long-form conversations, design debates
-- **Learning groups** — organized study cohorts
-- **Practice sessions** — conversation practice, tutoring
+Roadmap:
+- **v0.3.0** (current) — Triple-layer architecture finalized
+- **v0.5.0** (Q2 2026) — Core vocabulary complete (625 words)
+- **v0.7.0** (Q4 2026) — Priority matrices complete (P, M, N)
+- **v0.9.0** (Q2 2027) — Beta testing, refinement
+- **v1.0.0** (Q1 2028) — Stable release
 
-**Timeline:** Community platforms expected **Q2 2026**
+See [Roadmap](../news/roadmap.md) for details.
 
-**For now:**
+### Will there be text-to-speech/speech recognition?
 
-- Open GitHub issues with questions
-- Start discussions on the repository
-- Connect with other stargazers
+**Yes, eventually!**
 
----
+The systematic phonology makes this easier than for natural languages. But we need:
+1. Finalized phonology ✅ (done)
+2. Complete core vocabulary (in progress)
+3. Audio recordings (not started)
+4. TTS/STT training (future)
 
-### **Is there a dictionary?**
+Want to help? Record yourself reading example sentences!
 
-**Not yet — it's being built!**
+### Can AI learn this language easily?
 
-**Current status:**
+**Very easily!** Features that help AI:
+- ✅ No irregular anything
+- ✅ Systematic compositional semantics
+- ✅ Ontological vector mappings
+- ✅ Unambiguous parsing rules
 
-- ✅ Grammar particles documented (650 resources)
-- 🔄 Ontological concepts being mapped
-- ⏳ Common vocabulary (0/500 words)
+We expect LLMs to learn this language faster than natural languages.
 
-**When complete:**
+### Will you add features from [other conlang]?
 
-- Searchable JSON dictionary file
-- Web-based dictionary tool
-- Organized by frequency and semantic field
-- Etymology notes for borrowed words
+**Maybe!** We're open to good ideas:
+- Evidentiality markers? (from Lojban)
+- Emotional inflection? (from Kēlen)
+- Gestural component? (from Gestuno)
 
-**You can help!** Suggest words to include via GitHub issues.
-
----
-
-### **Can I contribute translations or creative works?**
-
-**YES! We encourage this!**
-
-**Creative contributions welcome:**
-
-- 📖 **Translate texts** — Universal Declaration, famous passages
-- ✍️ **Write original stories** — fiction, poetry, essays
-- 🎵 **Compose songs** — leverage CV syllable structure
-- 🎨 **Create artwork** — inspired by the language
-- 🎬 **Make videos** — tutorials, explanations, performances
-
-**Where to share:**
-
-- `/community/literature/` — creative writing in the language
-- `/examples/texts/` — translations of existing works
-- `/examples/dialogues.md` — conversational practice
-
-**License:** Your contributions remain yours, but sharing them helps grow the community!
+Propose in [GitHub Discussions](https://github.com/YOUR-REPO/discussions) with rationale.
 
 ---
 
-## 🤝 Contributing
+## 🤔 Meta Questions
 
-### **I'm not a linguist. Can I still help?**
+### Who created this?
 
-**Absolutely!** We need diverse skills:
+Community project started by [Roger da Fonseca] in 2026. Released as public domain (CC0) so it belongs to everyone.
 
-**Non-linguistic contributions:**
+All contributors listed in [CONTRIBUTING.md](../CONTRIBUTING.md)
 
-- 🎨 **Designers** — create visual learning aids, infographics
-- 💻 **Developers** — build tools (IPA converter, vector builder, dictionary app)
-- 🎤 **Voice actors** — record pronunciation samples
-- 📹 **Video creators** — make tutorials, explanations
-- ✍️ **Writers** — improve documentation clarity
-- 🌍 **Translators** — translate docs to other languages
-- 📊 **Data analysts** — analyze linguistic patterns
-- 🧪 **Testers** — try learning materials, give feedback
+### What does "Universal Ontological Language" mean?
 
-**Every skill adds value!**
+- **Universal** — Designed for all humans, not tied to one culture
+- **Ontological** — Based on systematic categorization of concepts
+- **Language** — For human (and AI) communication
 
----
+Working title. The community may choose a different name later!
 
-### **How do I suggest changes to the grammar/phonology?**
+### Is this project active?
 
-**Process:**
+**Yes!** Current priorities:
+1. Completing VC Extended Grammar (125 particles)
+2. Developing VCV Core Vocabulary (625 words)
+3. Creating learning materials
 
-1. **Open a GitHub Issue** — describe your suggestion
-2. **Provide rationale** — why would this improve the language?
-3. **Consider impacts** — what would need to change?
-4. **Discuss** — maintainers and community weigh in
-5. **Decision** — accepted suggestions get implemented
+See [Changelog](../news/changelog.md) for recent updates.
 
-**Core principles are mostly locked:**
+### How is this different from Esperanto? Lojban? Toki Pona?
 
-- 25-consonant inventory (based on frequency data)
-- 4-layer architecture (fundamental design)
-- VCV gradation system (core innovation)
-- Public domain licensing (philosophical commitment)
+| Language | Goal | Grammar | Vocabulary | Precision |
+|----------|------|---------|------------|-----------|
+| **Esperanto** | Easy auxiliary language | Simplified European | Indo-European roots | Natural language level |
+| **Lojban** | Logical precision | Predicate logic | Constructed roots | Very high (all levels) |
+| **Toki Pona** | Minimalism | Ultra-simple | ~120 words | Philosophical ambiguity |
+| **This language** | Progressive complexity | Systematic particles | Ontologically derived | Choose your level |
 
-**But we're open to:**
-
-- Better explanations/examples
-- Additional grammatical resources
-- Vocabulary suggestions
-- Learning material improvements
+We're like "Toki Pona for daily use, Lojban when you need it."
 
 ---
 
-### **Can I create a variant or dialect?**
+## 💬 Still Have Questions?
 
-**Yes! It's public domain — you can do anything.**
-
-**You're free to:**
-
-- Create regional variants
-- Design alternative writing systems
-- Add new grammatical features
-- Expand the vector system
-- Fork the entire project
-
-**Just:**
-
-- Make it clear it's a variant (to avoid confusion)
-- Consider contributing improvements back to the main project
-- Respect the spirit of open collaboration
-
-**Example valid variants:**
-
-- Simplified version for children
-- Technical jargon expansion for scientists
-- Artistic variant with different phonology
-- Sign language adaptation
+- **General questions:** [GitHub Discussions](https://github.com/YOUR-REPO/discussions)
+- **Bug reports:** [GitHub Issues](https://github.com/YOUR-REPO/issues)
+- **Want to help:** [CONTRIBUTING.md](../CONTRIBUTING.md)
+- **Email:** [Your contact if desired]
 
 ---
 
-### **How are decisions made about the language?**
-
-**Current phase: Founder-led with community input**
-
-**Process:**
-
-1. **Proposals** — anyone can suggest (via Issues/Discussions)
-2. **Discussion** — community weighs in
-3. **Evaluation** — against design principles
-4. **Decision** — founder decides (for now)
-5. **Implementation** — changes documented
-
-**Future (as community grows):**
-
-- Elected language committee
-- Voting on major changes
-- Community-driven evolution
-
-**Always:** Transparency, documentation, rationale for decisions.
-
----
-
-## 💬 Community & Support
-
-### **Where can I ask questions?**
-
-**Right now:**
-
-- **GitHub Issues** — for specific questions, bugs, suggestions: Issues
-- **GitHub Discussions** — for broader conversations: Discussions
-- **This FAQ** — for common questions
-
-**Coming soon (Q2 2026):**
-
-- **Discord server** — real-time chat, voice practice
-- **Community forum** — organized by topic
-- **Office hours** — scheduled Q&A sessions
-
-**Stay tuned!** We'll announce when community platforms launch.
-
----
-
-### **Is there a Discord server?**
-
-**Not yet, but it's planned!**
-
-**Why not yet?**
-
-- Project is very new (launched January 2026)
-- Need critical mass of interested learners first
-- Want to set up properly with good moderation
-
-**When?**
-
-- Expected: **Q2 2026** (April-June)
-- When we have: 50+ active learners or 100+ GitHub stars
-
-**What will it include?**
-
-- Text channels by topic (phonology, grammar, vectors, general)
-- Voice channels for practice
-- Resource sharing
-- Events (study sessions, challenges)
-
-**Want to be notified?** Star the repo and watch for announcements!
-
----
-
-### **How can I stay updated on progress?**
-
-**Best ways:**
-
-1. **Star & Watch the repository** on GitHub
-    
-    - Get notified of major updates
-    - See commits in real-time
-2. **Read the Changelog** — `docs/changelog.md`
-    
-    - Regularly updated with progress
-3. **Check the Roadmap** — `community/roadmap.md`
-    
-    - See what's coming next
-4. **Follow GitHub Discussions**
-    
-    - Community announcements
-    - Design discussions
-
-**Future:**
-
-- Newsletter (maybe)
-- Social media presence (considering)
-- YouTube channel (if community wants it)
-
----
-
-### **Can I financially support this project?**
-
-**No — and that's intentional.**
-
-This is **not a commercial project**. It's a gift to humanity.
-
-**No donations accepted because:**
-
-- Keeps the project pure and mission-driven
-- Prevents commercialization pressures
-- Ensures it remains truly public domain
-
-**How you CAN support:**
-
-- ⭐ Star the repository (helps visibility)
-- 🔗 Share with interested people
-- 📝 Contribute documentation, examples, tools
-- 💬 Participate in discussions
-- 🎓 Teach others
-- ✍️ Create content in the language
-
-**Your time and creativity** are more valuable than money.
-
----
-
-## 🔧 Technical Questions
-
-### **What encoding should I use for text files?**
-
-**UTF-8** — always.
-
-All documentation, code, and examples use UTF-8 encoding to properly display special characters like `š`, `ž`, `č`, `ǰ`, `ñ`, `ň`.
-
----
-
-### **How do I type special characters (š, ž, č, etc.)?**
-
-**Options:**
-
-**1. Direct input (recommended):**
-
-- **Windows:** Alt codes or Character Map
-- **Mac:** Option key combinations
-- **Linux:** Compose key sequences
-- **Mobile:** Long-press base letter
-
-**2. Digraphs (two-letter approximations):**
-
-|Character|Digraph|
-|---|---|
-|š|sh|
-|ž|zh|
-|č|ch|
-|ǰ|j|
-|ñ|nh|
-|ň|ng|
-
-Both are acceptable. Community will standardize over time.
-
----
-
-### **Can I use this language in my AI/NLP project?**
-
-**YES! That's encouraged.**
-
-**It's public domain (CC0), so you can:**
-
-- Use as training data for language models
-- Implement parsers/generators
-- Create translation systems
-- Build voice recognition for it
-- Integrate into chatbots
-- Anything else
-
-**No permission needed. No attribution required (but appreciated).**
-
-**Bonus:** The systematic structure makes it ideal for:
-
-- Testing compositional semantics
-- Ontology-based NLP
-- Cross-linguistic AI systems
-- Semantic parsing research
-
----
-
-### **Is there a formal grammar specification?**
-
-**Yes, in the documentation:**
-
-- **Phonology:** `docs/02-phonology.md`
-- **Grammar CV:** `docs/03-grammar-cv.md`
-- **Grammar VCV:** `docs/04-grammar-vcv.md`
-- **Vector system:** `docs/05-vector-system.md`
-
-**Not yet in BNF/EBNF formal notation**, but that's planned.
-
-**You can help!** If you have formal grammar expertise, we'd love your contribution.
-
----
-
-### **Can I create a parser/compiler for this?**
-
-**Absolutely!** Please do.
-
-**Potential projects:**
-
-- IPA ↔ Romanization converter
-- Grammar checker
-- Vector composition validator
-- Syntax highlighter
-- REPL (interactive interpreter)
-
-**Place them in:** `/tools/` directory
-
-**License:** Your code, your choice of license (but open-source preferred!)
-
----
-
-## 🎯 Philosophical Questions
-
-### **Isn't this just another failed attempt at a universal language?**
-
-**Maybe! But here's why we're trying anyway:**
-
-**Past failures teach us:**
-
-- **Esperanto** showed us: International adoption IS possible (2M+ speakers)
-- **Lojban** showed us: Logical precision IS achievable
-- **Volapük failed because:** Too complex, arbitrary rules
-- **Interlingua failed because:** Too Eurocentric
-
-**What we're doing differently:**
-
-1. **Truly universal phonology** — not just Indo-European
-2. **Public domain from day one** — no organizational control
-3. **Systematic rather than arbitrary** — learn patterns, not exceptions
-4. **Not rushing** — building for centuries, not decades
-5. **Community-driven** — open to contributions
-
-**Will it succeed?**  
-Define "success."
-
-If even 1,000 people find it useful for precise communication, that's success.  
-If it advances research in constructed languages, that's success.  
-If it helps one person think more clearly, that's success.
-
-We're not trying to replace English. We're building a tool for whoever needs it.
-
----
-
-### **Why not just improve an existing conlang like Esperanto or Lojban?**
-
-**Great question!**
-
-**Why not Esperanto?**
-
-- Eurocentric phonology and vocabulary
-- Lacks ontological completeness
-- Grammar based on Indo-European patterns
-- Not optimized for computational processing
-
-**Why not Lojban?**
-
-- Steep learning curve (very unintuitive)
-- Phonology difficult for many language families
-- Designed for logic, not natural conversation
-- Small, stagnant community
-
-**Why not Toki Pona?**
-
-- Only ~120 words — cannot express technical concepts
-- Deliberately minimal (opposite goal)
-
-**This language:**
-
-- Combines Esperanto's accessibility
-- Lojban's precision
-- Neither's weaknesses
-- Plus: ontological vector system (unique innovation)
-
-**It's synthesis, not competition.**
-
----
-
-### **Doesn't the Sapir-Whorf hypothesis suggest this could change how people think?**
-
-**Interesting question!**
-
-**Short answer:** Maybe, but that's not the goal.
-
-**Nuance:**
-
-- **Weak Sapir-Whorf** (language influences thought) — probably true
-- **Strong Sapir-Whorf** (language determines thought) — mostly debunked
-
-**This language might:**
-
-- ✅ Help people think more systematically (by providing structured categories)
-- ✅ Reduce ambiguity in technical discussions
-- ✅ Make ontological relationships explicit
-
-**But it won't:**
-
-- ❌ Prevent "bad thoughts" (language isn't mind control)
-- ❌ Make people inherently more logical
-- ❌ Replace the richness of natural languages
-
-**Goal:** Provide a tool for clear communication, not reshape human cognition.
-
----
-
-### **What if the ontology is wrong or incomplete?**
-
-**It probably is! And that's okay.**
-
-**Key insights:**
-
-1. **No ontology is perfect** — Aristotle, Kant, modern ontologists all disagree
-2. **This is v1.0** — designed to evolve
-3. **Practical usefulness > theoretical perfection**
-4. **Community refinement** — better ideas will emerge
-
-**The 25 domains are:**
-
-- Based on cross-cultural cognitive patterns
-- Informed by linguistic universals
-- Designed to be expandable
-- Not claimed to be "objectively true"
-
-**If you have a better ontological structure:**  
-Open an issue! Propose improvements! We're learning as we go.
-
----
-
-## 📞 Still Have Questions?
-
-### **My question isn't answered here!**
-
-**Please ask!** We want to hear from you.
-
-**Where to ask:**
-
-- **Quick questions:** GitHub Issues with tag `question`
-- **Discussion topics:** GitHub `Discussions`
-- **Direct feedback:** Comment on relevant documentation files
-
-**Your questions help us:**
-
-- Improve this FAQ
-- Identify gaps in documentation
-- Understand what learners need
-
----
-
-### **I found an error or typo. How do I report it?**
-
-**Thank you for helping!**
-
-**For small fixes (typos, formatting):**
-
-- Open an issue with tag `documentation`
-- Or submit a pull request directly
-
-**For conceptual errors (grammar mistakes, logic problems):**
-
-- Open an issue with detailed explanation
-- Include examples if possible
-- Tag as `bug` or `enhancement`
-
----
-
-### **How can I provide feedback on the language design?**
-
-**We value your input!**
-
-**Constructive feedback welcome on:**
-
-- Phonology (sounds too hard? conflicts?)
-- Grammar (confusing? missing features?)
-- Vector system (unclear? better organization?)
-- Documentation (what's missing?)
-- Learning path (what would help?)
-
-**Best format:**
-
-1. Explain the issue clearly
-2. Provide specific examples
-3. Suggest potential improvements
-4. Be open to discussion
-
-**Remember:** Core architecture is mostly set, but details are flexible.
-
----
-
-## 🌟 Final Thoughts
-
-### **What's the most important thing for newcomers to know?**
-
-**This language is:**
-
-1. ✨ **Ambitious but achievable** — we're building something big, but step by step
-2. 🌍 **For everyone** — regardless of background or native language
-3. 🎁 **Freely available** — public domain, no restrictions
-4. 🔨 **Actively being built** — your contributions matter
-5. 💙 **Made with care** — designed as a gift to humanity
-
-**You don't need to:**
-
-- Be a linguist to learn it
-- Master everything to be useful
-- Ask permission to contribute
-- Speak English natively
-
-**You just need:**
-
-- Curiosity
-- Patience
-- Willingness to experiment
-- Respect for the community
-
-**Welcome!** We're glad you're here. 🚀
-
----
-
-**Last Updated:** January 2026  
-**Questions added:** 50+  
-**Status:** Living document (updated as new questions arise)
-
----
-
-<div align="center">
-
-**Have a question not covered here?**
-
-Ask on GitHub Discussions • Open an Issue • Read the Docs
-
-**Join us in building the language of tomorrow.** 🌍✨
-
-</div>
-
----
+**Last updated:** v0.3.0  
+**Maintainer:** [Roger da Fonseca]

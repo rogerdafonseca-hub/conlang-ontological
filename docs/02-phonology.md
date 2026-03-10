@@ -675,7 +675,7 @@ Now that you understand the sounds, learn how to combine them:
 
 **File:** `docs/02-phonology.md`  
 **Status:** Complete ✅  
-**Last Updated:** January 2026
+**Last Updated:** March 2026
 
 ---
 

@@ -1,312 +1,228 @@
-# 📚 ÍNDICE OFICIAL COMPLETO — SISTEMA DE LINGUAGEM ONTOLÓGICA
+# Documentation Index
 
-**Versão 2.0 — Configuração Definitiva**  
-**Data:** Março 2026  
-**Status:** Arquitetura Finalizada ✅
+**Universal Ontological Language - Complete Navigation**
 
----
-
-## 🎯 VISÃO GERAL DO SISTEMA
-
-### **Filosofia de Design:**
-
-> "Extrair um diamante de uma pedreira"  
-> — Completo, Leve, Intuitivo
-
-### **Arquitetura em 4 Camadas:**
-
-| Camada | Estrutura  | Identificação                           | Função              | Capacidade        |
-| ------ | ---------- | --------------------------------------- | ------------------- | ----------------- |
-| **1**  | CV         | Começa com consoante, sílaba única      | Gramática básica    | 125 recursos      |
-| **2**  | VCV        | Começa com vogal, sílaba única          | Gramática expandida | 625 recursos      |
-| **3**  | CV+CV+     | Começa com consoante, múltiplas sílabas | Léxico nominal      | Ilimitado         |
-| **4**  | VCV+CV+... | Começa com vogal, múltiplas sílabas     | Sistema vetorial    | 62.500+ conceitos |
+Version: 0.3.0  
+Last Updated: 2026-03-10
 
 ---
 
-## 🔤 INVENTÁRIO FONÊMICO OFICIAL
+## 🎯 Quick Start
 
-### **25 Consoantes (IPA):**
-
-|#|IPA|Ortografia|Tipo|Exemplos|
-|---|---|---|---|---|
-|1|/p/|**p**|Plosiva bilabial surda|**p**ai, **p**apa|
-|2|/m/|**m**|Nasal bilabial|**m**ãe, **m**other|
-|3|/n/|**n**|Nasal alveolar|**n**ão, **n**o|
-|4|/t/|**t**|Plosiva alveolar surda|**t**u, **t**ea|
-|5|/k/|**k**|Plosiva velar surda|**k**ey, **c**asa|
-|6|/b/|**b**|Plosiva bilabial sonora|**b**ola, **b**all|
-|7|/d/|**d**|Plosiva alveolar sonora|**d**edo, **d**ay|
-|8|/g/|**g**|Plosiva velar sonora|**g**ato, **g**o|
-|9|/s/|**s**|Fricativa alveolar surda|**s**ol, **s**un|
-|10|/l/|**l**|Lateral alveolar|**l**ua, **l**ight|
-|11|/w/|**w**|Aproximante labial-velar|**w**ater|
-|12|/j/|**y**|Aproximante palatal|**y**es|
-|13|/h/|**h**|Fricativa glotal|**h**ouse|
-|14|/ʃ/|**š**|Fricativa pós-alveolar surda|**sh**oe, **ch**uveiro|
-|15|/r/|**r**|Vibrante/rótico|**r**ato, **r**ed|
-|16|/f/|**f**|Fricativa labiodental surda|**f**ogo, **f**ire|
-|17|/v/|**v**|Fricativa labiodental sonora|**v**aca, **v**ery|
-|18|/z/|**z**|Fricativa alveolar sonora|**z**ero, **z**oo|
-|19|/ŋ/|**ň**|Nasal velar|si**ng**, ba**nc**o|
-|20|/tʃ/|**č**|Africada pós-alveolar surda|**ch**ave, **ch**air|
-|21|/ʒ/|**ž**|Fricativa pós-alveolar sonora|**j**ardim, plea**s**ure|
-|22|/dʒ/|**ǰ**|Africada pós-alveolar sonora|**j**ump, **g**iorno|
-|23|/ɲ/|**ñ**|Nasal palatal|ni**nh**o, a**ñ**o|
-|24|/ts/|**c**|Africada alveolar surda|pi**zz**a, **ts**unami|
-|25|/x/|**x**|Fricativa velar surda|**j**amón, Ba**ch**|
+**New to the language?**
+1. Start with [Philosophy](01-philosophy.md) — Understand the "why"
+2. Read [Structure](04-structure.md) — See the big picture
+3. Follow the [Learning Path](../community/learning-path.md) — Step-by-step guide
 
 ---
 
-### **5 Vogais Principais:**
+## 📚 Core Documentation
 
-|IPA|Letra|Exemplos|
-|---|---|---|
-|/a/|**a**|p**a**i, f**a**ther|
-|/e/|**e**|m**e**sa, b**e**d|
-|/i/|**i**|s**i**m, s**ee**|
-|/o/|**o**|b**o**la, g**o**|
-|/u/|**u**|l**u**a, f**oo**d|
+### **Foundation**
 
-**Vogais Adicionais (uso especial):**
-
-- /ɛ/ = **ê**, /e̞/ = **é**, /ɔ/ = **ô**, /o̞/ = **ó**
-
-**Total de fonemas:** 25C + 5V = **30 fonemas principais**
+| Document                                                                  | Description                            | Status     |
+| ------------------------------------------------------------------------- | -------------------------------------- | ---------- |
+| [01 - Philosophy](01-philosophy.md)                                       | Design principles, goals, and vision   | ✅ Complete |
+| [02 - Phonology](02-phonology.md)                                         | Sound system: 25 consonants + 5 vowels | ✅ Complete |
+| [03 - Primary and Informal Concepts](03-primary-and-informal-concepts.md) | Fundamental concepts and terminology   | ✅ Complete |
+| [04 - Structure](04-structure.md)                                         | Overall system architecture            | ✅ Complete |
 
 ---
 
-## 📖 SISTEMA GRAMATICAL (650 RECURSOS)
+### **Layer 1+2: Grammar & Basic Vocabulary**
 
-### **Camada 1: Gramática Básica CV (125 recursos)**
-
-|#|Cons.|Família|Função|Exemplos (ba, be, bi, bo, bu)|
-|---|---|---|---|---|
-|1|**p**|Preposições|Relações espaciais/abstratas|para, por, em, de, com|
-|2|**m**|Modalidade|Possibilidade/necessidade|pode, precisa, permitido, deve, consegue|
-|3|**n**|Negação/Afirmação|Polaridade|não, nem, nenhum, sim, todo|
-|4|**t**|Tempo/Aspecto|Temporalidade|passado, presente, futuro, perfeito, progressivo|
-|5|**k**|Interrogativos|Perguntas|o quê?, quem?, onde?, quando?, como/por quê?|
-|6|**b**|Início/Fim/Aspecto|Fases|começar, continuar, parar, acabar, completar|
-|7|**d**|Demonstrativos/Artigos|Referência|um/uma, o/a, este/esta, esse/essa, aquele/aquela|
-|8|**g**|Quantidade/Grau|Quantificação|muito, pouco, mais, menos, igual|
-|9|**s**|Subordinação|Complexidade sintática|que, se, como, quando, embora|
-|10|**l**|Conectivos|Lógica|e, ou, mas, então, porque|
-|11|**w**|Reflexivo/Recíproco|Relação interna|si mesmo, mutuamente, mútuo, coletivo, auto-|
-|12|**y**|Avaliação|Julgamento|bom, ruim, certo, errado, melhor|
-|13|**h**|Comunicação|Expressão|perguntar, responder, dizer, chamar, significar|
-|14|**š**|Dêixis Espacial|Localização|lá atrás, ali atrás, aqui, ali frente, lá frente|
-|15|**r**|Verbos Cognitivos|Cognição|saber, ver, ouvir, pensar, sentir|
-|16|**f**|Ações Físicas|Movimento corporal|pegar, dar, comer, beber, dormir|
-|17|**v**|Verbos Auxiliares|Suporte verbal|ser/estar, ter, fazer, ir, vir|
-|18|**z**|Casos Gramaticais|Papéis sintáticos|nominativo, acusativo, dativo, instrumental, vocativo|
-|19|**ň**|Plural/Número|Numeralidade|plural, dual, coletivo, distributivo, universal|
-|20|**č**|Aspectos Especiais|Modalidade aspectual|incoativo, cessativo, continuativo, habitual, momentâneo|
-|21|**ž**|Comparação/Gradação|Comparativos|tão...quanto, do que, o mais, o menos, progressivo|
-|22|**ǰ**|Evidencialidade|Fonte de informação|vi, ouvi dizer, deduzi, disseram-me, presumo|
-|23|**ñ**|Advérbios de Modo|Maneira|gentilmente, cuidadosamente, rapidamente, fortemente, totalmente|
-|24|**c**|Determinantes|Especificação|ambos, vários, certo, tal, próprio|
-|25|**x**|Pragmáticos/Atitude|Ênfase/cortesia|realmente, talvez, por favor, inesperadamente, obviamente|
+| Document | Description | Resources | Status |
+|----------|-------------|-----------|--------|
+| [05 - Grammar: CV-VC](05-grammar-cv-vc.md) | **Dual System Grammar**<br>• CV (125 particles) - Basic grammar<br>• VC (125 particles) - Extended grammar | 250 total | ✅ Complete |
+| [06 - Basics: VCV](06-basics-vcv.md) | **Core Vocabulary**<br>• 25 domains × 25 words<br>• Essential everyday communication | 625 words | ✅ Complete |
 
 ---
 
-### **Camada 2: Gramática Expandida VCV (525 recursos)**
+### **Layer 3: Technical Precision**
 
-**Estrutura:** Cada família CV tem **21 clusters VCV**
-
-- **Base:** ba, be, bi, bo, bu (5)
-- **Grupo A:** aba, abe, abi, abo, abu (5) — Negativo/Mínimo
-- **Grupo E:** eba, ebe, ebi, ebo, ebu (5) — Fraco/Baixo
-- **Grupo I:** iba, ibe, ibi, ibo, ibu (5) — Neutro/Médio
-- **Grupo O:** oba, obe, obi, obo, obu (5) — Forte/Alto
-- **Grupo U:** uba, ube, ubi, ubo, ubu (5) — Máximo/Absoluto
-
-**Total:** 25 famílias × 25 clusters = **625 recursos expandidos**
-
-**Status:** ✅ **TODAS as 25 famílias documentadas**
+| Document                                                    | Description                                           | Status         |
+| ----------------------------------------------------------- | ----------------------------------------------------- | -------------- |
+| [07 - Vector System](07-vector-system.md)                   | Ontological precision system (VCV+CV+CV+...)          | 🔄 In Progress |
+| [08 - Combining Rules](08-combining-rules.md)               | How to combine words and build complex concepts       | 🔄 In Progress |
+| [09 - Lexicon & Foreign Rules](09-lexicon-foreign-rules.md) | Nominal lexicon (CV+CV+) and foreign word integration | 🔄 In Progress |
 
 ---
 
-## 🧬 SISTEMA VETORIAL ONTOLÓGICO (62.500+ CONCEITOS)
+## 🗺️ Ontological Matrices & Vectors
 
-### **Estrutura: VCV + CV + CV + CV + ...**
+**Location:** `../ontological-matrices-and-vectors/`
 
-**Exemplo:** `ipa-ma-ři-gu-li`
+**Purpose:** Technical precision system with 390,625 concepts
 
-- **i** = contexto/atitude (vogal inicial)
-- **pa** = Substância/Ser (p) + subcategoria origem (a)
-- **ma** = características adicionais
-- **ři** = transformação
-- **gu** = grau
-- **li** = propriedade final
+| Matrix | Domain | Subcategories | Progress |
+|--------|--------|---------------|----------|
+| **P** | Substance/Being | a-p, e-p, i-p, o-p, u-p | 60% (1,875/3,125) |
+| **M** | Dimensional/Spatial | TBD | 0% |
+| **N** | Gradual/Temporal | TBD | 0% |
+| ... | *22 more matrices* | ... | ... |
 
----
-
-### **25 Assuntos Ontológicos Fundamentais:**
-
-|#|Cons.|Assunto|Subcategorias|Status|
-|---|---|---|---|---|
-|**1**|**p**|**Substância/Ser**|Origem, Vitalidade, Complexidade, Função, Taxonomia|✅ **500 conceitos**|
-|**2**|**m**|**Dimensional/Espacial**|Dimensionalidade, Posição Relativa, Distância, Direção, Forma|✅ **500 conceitos**|
-|**3**|**n**|**Gradual/Temporal**|Duração, Velocidade de Mudança, Posição Temporal, Frequência, Fase/Ciclo|🔄 **100 conceitos (20%)**|
-|**4**|**t**|**Dinâmico/Processual**|—|⏳ Pendente|
-|**5**|**k**|**Social/Coletivo**|—|⏳ Pendente|
-|**6**|**b**|**Comunicativo/Linguagem**|—|⏳ Pendente|
-|**7**|**d**|**Estrutural/Formal**|—|⏳ Pendente|
-|**8**|**g**|**Temporal/Cíclico**|—|⏳ Pendente|
-|**9**|**s**|**Espacial/Posicional**|—|⏳ Pendente|
-|**10**|**l**|**Modal/Qualitativo**|—|⏳ Pendente|
-|**11**|**w**|**Acional/Verbal**|—|⏳ Pendente|
-|**12**|**y**|**Perceptual/Sensorial**|—|⏳ Pendente|
-|**13**|**h**|**Relacional/Interativo**|—|⏳ Pendente|
-|**14**|**š**|**Limítrofe/Interfacial**|—|⏳ Pendente|
-|**15**|**r**|**Estado/Fase**|—|⏳ Pendente|
-|**16**|**f**|**Valorativo/Axiológico**|—|⏳ Pendente|
-|**17**|**v**|**Emocional/Afetivo**|—|⏳ Pendente|
-|**18**|**z**|**Intencional/Volitivo**|—|⏳ Pendente|
-|**19**|**ň**|**Identitário/Existencial**|—|⏳ Pendente|
-|**20**|**č**|**Cognitivo/Mental**|—|⏳ Pendente|
-|**21**|**ž**|**Intensidade/Magnitude**|—|⏳ Pendente|
-|**22**|**ǰ**|**Causalidade/Agência**|—|⏳ Pendente|
-|**23**|**ñ**|**Material/Composição**|—|⏳ Pendente|
-|**24**|**c**|**Movimento/Dinâmica**|—|⏳ Pendente|
-|**25**|**x**|**Textura/Propriedades Táteis**|—|⏳ Pendente|
-
-**Progresso:** 2.6/25 matrizes completas (10.4%)
+**See:** [Matrices Navigation](../ontological-matrices-and-vectors/README.md)
 
 ---
 
-### **Estrutura de Cada Matriz (500 conceitos):**
+## 📖 Vocabulary & Lexicon
 
-**5 Subcategorias × 20 Vetores × 5 Gradações**
+**Location:** `../lexicon-and-foreign-words/`
 
-**Exemplo da Matriz P (Substância/Ser):**
-
-- **a-p:** Origem (de onde vem?)
-- **e-p:** Vitalidade (está vivo?)
-- **i-p:** Complexidade (quão complexo?)
-- **o-p:** Função (para que serve?)
-- **u-p:** Taxonomia (o que é?)
-
-Cada subcategoria tem 20 vetores (p, m, n, t, k, b, d, g, s, l, w, y, h, š, r, f, v, z, ň, č)  
-Cada vetor tem 5 gradações (a, e, i, o, u)
+| Resource | Description | Status |
+|----------|-------------|--------|
+| [Core VCV Vocabulary](../lexicon-and-foreign-words/core-vcv-vocabulary.md) | 625 essential words organized by domain | ✅ Complete |
+| [Nominal Lexicon](../lexicon-and-foreign-words/nominal-lexicon.md) | CV+CV+ words for specific objects, numerals, etc. | 🔄 In Progress |
+| [Foreign Integration](../lexicon-and-foreign-words/foreign-integration.md) | How to integrate words from other languages | ⏳ Planned |
 
 ---
 
-## 📚 LÉXICO NOMINAL (ILIMITADO)
+## 🎓 Learning & Practice
 
-### **Sistema CV+CV+ (começa com consoante, múltiplas sílabas)**
+**Location:** `../study-and-examples/`
 
-**Estratégia de Construção:**
+### **By Level**
 
-#### **1. Empréstimos Universais (via IPA)**
+| Level | Resources | Status |
+|-------|-----------|--------|
+| **Basic** | First sentences, simple dialogues, basic vocabulary | 🔄 In Progress |
+| **Intermediary** | Conversations, word construction, VCV practice | ⏳ Planned |
+| **Advanced** | Technical texts, vector usage, complex composition | ⏳ Planned |
 
-Palavras presentes em 5+ línguas de famílias diferentes, adaptadas à fonologia CV:
+### **Exercises**
 
-**Critérios:**
-
-- Presente em ≥5 línguas
-- Similaridade fonética >70%
-- Mesmo significado
-- Adaptável a CV+CV+
-
-**Exemplos:**
-
-- `kafe` ← coffee/café/caffè/Kaffee/قهوة
-- `pitsa` ← pizza (universal)
-- `telefon` ← telephone/teléfono/téléphone
-
-#### **2. Criações Próprias CV+CV**
-
-Para conceitos sem empréstimo universal claro
-
-**Status:** ⏳ 0/500 palavras essenciais mapeadas
+- Grammar drills
+- Vocabulary practice
+- Translation exercises
 
 ---
 
-## 📊 ESTATÍSTICAS GERAIS DO SISTEMA
+## 👥 Community Resources
 
-|Categoria|Quantidade|Completude|
-|---|---|---|
-|**Fonemas**|30 (25C + 5V)|✅ 100%|
-|**Gramática CV**|125 recursos|✅ 100%|
-|**Gramática VCV**|525 recursos|✅ 100%|
-|**Total Gramática**|650 recursos|✅ 100%|
-|**Matrizes Vetoriais (completas)**|2.6/25 (10.4%)|🔄 Em progresso|
-|**Conceitos Vetoriais (mapeados)**|1.100/62.500|🔄 1.8%|
-|**Léxico Nominal**|0/500 essenciais|⏳ Não iniciado|
+**Location:** `../community/`
 
----
-
-## 🎯 PRÓXIMAS ETAPAS
-
-### **Prioridade 1: Completar Matrizes Vetoriais**
-
-1. ✅ Matriz P (Substância/Ser) — COMPLETO (a postar)
-2. ✅ Matriz M (Dimensional/Espacial) — COMPLETO (a postar)
-3. 🔄 Matriz N (Gradual/Temporal) — 20% completo (terminar e postar)
-4. ⏳ 22 matrizes restantes
-
-### **Prioridade 2: Desenvolver Léxico Nominal**
-
-1. Identificar 500 palavras mais comuns
-2. Verificar empréstimos universais
-3. Criar formas CV+CV para resto
-4. Testar pronunciabilidade
-
-### **Prioridade 3: Definir Sistema de Escrita**
-
-1. Mapear IPA → ortografia final
-2. Criar alfabeto/script
-3. Regras de romanização
-
-### **Prioridade 4: Testes Práticos**
-
-1. Traduzir textos básicos
-2. Criar diálogos
-3. Testar com falantes de línguas diversas
+| Resource                                                       | Description                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Welcome](../community/welcome.md)                             | Friendly introduction to the project                        |
+| [FAQ](../community/FAQ.md)                                     | Frequently asked questions                                  |
+| [Learning Path](../community/learning-path.md)                 | Structured learning guide (Basic → Intermediate → Advanced) |
+| [Universal Declaration](../community/universal-declaration.md) | Universal Declaration of Human Rights translation           |
+| [Literature](../community/literature/)                         | Example texts, poetry, translations                         |
 
 ---
 
-## 📖 DOCUMENTAÇÃO COMPLEMENTAR
+## 📰 Project News
 
-### **Arquivos de Referência:**
+**Location:** `../news/`
 
-- ✅ Matriz P (Substância/Ser) — completa
-- ✅ Matriz M (Dimensional/Espacial) — completa
-- 🔄 Matriz N (Gradual/Temporal) — parcial
-- ✅ Gramática CV — 25 famílias
-- ✅ Gramática VCV — 25 famílias × 21 clusters
-
-### **Transcrições de Conversas:**
-
-- `/mnt/transcripts/[data]-conlang-ontological-matrix-system.txt`
+| Resource                          | Description                         |
+| --------------------------------- | ----------------------------------- |
+| [Roadmap](../news/roadmap.md)     | Development timeline and priorities |
+| [Changelog](../news/changelog.md) | Version history and updates         |
 
 ---
 
-## 🏆 CONQUISTAS
+## 🏗️ System Architecture Overview
 
-✅ Arquitetura modular em 4 camadas  
-✅ Inventário fonêmico universal (IPA Top 25)  
-✅ Sistema gramatical completo (650 recursos)  
-✅ 2.6 matrizes vetoriais completas (1.100 conceitos)  
-✅ Filosofia de degradação graciosa (simples ↔ complexo)  
-✅ Sistema de empréstimos universais definido
+### **Three Progressive Layers**
+```
+LAYER 1: DUAL SYSTEM GRAMMAR (250 particles)
+├── CV (125) — Basic grammar
+└── VC (125) — Extended grammar
+    └── Learn in: 2-4 weeks
+
+LAYER 2: CORE VOCABULARY (625 words)
+├── VCV pattern — Vowel + Consonant + Vowel
+├── 25 domains × 25 words
+├── Systematically derived from ontology
+└── Learn in: 3-6 months
+
+LAYER 3: TECHNICAL VECTORS (390,625 concepts)
+├── VCV+CV+CV+ pattern
+├── 25 matrices × 5 subcategories × 25 vectors × 5 variations × 5 gradations
+├── Optional — use when precision is needed
+└── Learn in: Years (reference as needed)
+
+LEXICON: NOMINAL WORDS (unlimited)
+├── CV+CV+ pattern
+├── Specific objects, proper nouns, compounds
+└── Numerals, colors, musical notes, etc.
+```
 
 ---
 
-## 💎 FILOSOFIA FINAL
+## 📊 Current Statistics
 
-> "Um sistema que combina a expressividade de línguas naturais, a precisão de ontologias formais, a elegância de sistemas matemáticos, e a usabilidade de linguagens práticas."
-
-**Completo. Leve. Intuitivo.**
+| Component | Count | Status |
+|-----------|-------|--------|
+| **Phonemes** | 30 | ✅ Complete |
+| **CV Grammar** | 125 | ✅ Complete |
+| **VC Grammar** | 125 | ✅ Complete |
+| **VCV Vocabulary** | 625 | ✅ Complete |
+| **Vector Concepts** | 2,125 / 390,625 | 🔄 0.5% |
+| **Nominal Lexicon** | ~50 / ∞ | 🔄 Starting |
 
 ---
 
-**Última Atualização:** Março 2026  
-**Versão:** 2.0 (Oficial)  
-**Status:** Arquitetura Completa — Em Desenvolvimento Ativo 🚀
+## 🎯 Learning Recommendations
+
+### **For Casual Learners**
+1. [Grammar CV-VC](05-grammar-cv-vc.md) — Learn 250 particles
+2. [Basics VCV](06-basics-vcv.md) — Learn 625 core words
+3. **Stop here!** You can now communicate in everyday situations
+
+### **For Fluent Users**
+1. Complete Layers 1-2 (above)
+2. [Combining Rules](08-combining-rules.md) — Learn to build complex words
+3. [Nominal Lexicon](../lexicon-and-foreign-words/nominal-lexicon.md) — Expand vocabulary
+4. Practice with [Dialogues](../study-and-examples/intermediary/)
+
+### **For Technical Users**
+1. Complete Layers 1-2 (Casual path)
+2. [Vector System](07-vector-system.md) — Understand ontological structure
+3. [Ontological Matrices](../ontological-matrices-and-vectors/) — Use as reference
+4. Apply vectors only when standard vocabulary is insufficient
 
 ---
 
-# 🎉 FIM DO ÍNDICE OFICIAL
+## 🔍 Quick Reference
+
+### **Find a Word**
+- Grammar particle? → [05-grammar-cv-vc.md](05-grammar-cv-vc.md)
+- Common word? → [06-basics-vcv.md](06-basics-vcv.md)
+- Specific object? → [nominal-lexicon.md](../lexicon-and-foreign-words/nominal-lexicon.md)
+- Technical concept? → [Matrices](../ontological-matrices-and-vectors/)
+
+### **Learn a Concept**
+- How does X work? → Check relevant doc in this index
+- Why this design? → [01-philosophy.md](01-philosophy.md)
+- How to say Y? → [study-and-examples](../study-and-examples/)
+
+### **Contribute**
+- See [CONTRIBUTING.md](../../CONTRIBUTING.md)
+- Join discussions (when enabled)
+- Report issues on GitHub
+
+---
+
+## 📝 Document Status Legend
+
+- ✅ **Complete** — Finalized and stable
+- 🔄 **In Progress** — Being actively developed
+- ⏳ **Planned** — Scheduled for future development
+- 📋 **Draft** — Early stage, subject to major changes
+
+---
+
+## 🔗 External Links
+
+- [GitHub Repository](https://github.com/rogerdafonseca-hub/conlang-ontological)
+- [License](../../LICENSE) — CC0 1.0 Universal (Public Domain)
+- [Code of Conduct](../../CODE_OF_CONDUCT.md)
+- [Security Policy](../../SECURITY.md)
+
+---
+
+**Last Updated:** v0.3.0 — Triple-Layer Architecture  
+**Maintainer:** Roger da Fonseca  
+**Status:** Active Development
