@@ -158,7 +158,7 @@ Make the project accessible to non-English speakers!
 ```
    ✅ Good:
    "Fix IPA transcription error in consonant table"
-   "Add 20 vectors to Matrix N subcategory e-n"
+   "Add 25 vectors to Matrix N subcategory e-n"
    "Improve clarity of grammar CV examples"
    
    ❌ Bad:
