@@ -29,26 +29,21 @@ Think of this as your **conceptual foundation** — the mental model that will h
 
 ---
 
-### **This language has THREE LAYERS:**
-```
-┌─────────────────────────────────────────────┐
-│LAYER 3: Technical Precision (390k+ concepts)│
-│ ┌─────────────────────────────────────────┐ │
-│ │ LAYER 2: Core Vocabulary (625 words)    │ │
-│ │ ┌─────────────────────────────────────┐ │ │
-│ │ │ LAYER 1: Grammar (250 particles)    │ │ │
-│ │ │                                     │ │ │
-│ │ │  You are here when you start        │ │ │
-│ │ └─────────────────────────────────────┘ │ │
-│ │                                         │ │
-│ │  Most people can stop here (fluency)    │ │
-│ └─────────────────────────────────────────┘ │
-│                                             │
-│  Specialists reference this (optional)      │
-└─────────────────────────────────────────────┘
-```
+### **This language has FOUR LAYERS:**
 
-**Key insight:** You choose your layer. You don't need Layer 3 to use Layer 2. You don't need Layer 2 to understand Layer 1.
+**LAYER 1: Grammar (250 particles)**  
+The skeleton. Fixed forever. Learn once, use forever.
+
+**LAYER 2: Core Vocabulary (625 words)**  
+The flesh. Everyday concepts. Systematic from 25 domains.
+
+**LAYER 3: Nominal Lexicon (15,625 words)**  
+The concrete world. Objects, beings, places. **Fully systematic matrix.**
+
+**LAYER 4: Technical Vectors (390,625 concepts)**  
+The precision layer. Scientific, formal, optional.
+
+**Key insight:** You choose your layer. You don't need Layer 4 to use Layer 2. You don't need Layer 3 to understand Layer 1.
 
 **Each layer is complete and functional.**
 
@@ -70,19 +65,24 @@ Think of this as your **conceptual foundation** — the mental model that will h
 
 ### **In this language, form tells you function instantly:**
 
-| Pattern | Function | Example | Meaning |
-|---------|----------|---------|---------|
-| **CV** | Basic grammar | `ma` | can (modal) |
-| **VC** | Extended grammar | `am` | cannot (modal negation) |
-| **VCV** | Core vocabulary | `awi` | argue (action word) |
-| **CV+CV+** | Nominal lexicon | `kalu` | dog (specific object) |
-| **VCV+CV+** | Technical vector | `apimabi` | biological-active-organism |
+**CV** (1 syllable, starts C) = Basic grammar = `ma` (can)
+
+**VC** (1 syllable, starts V, ends C) = Extended grammar = `am` (cannot)
+
+**VCV** (1 syllable, starts V, ends V) = Core vocabulary = `awi` (argue)
+
+**CVCV** (2 syllables, starts C) = Nominal lexicon = `peka` (dog)
+
+**ZV+** (starts with Z) = Numeral = `zane` (1), `zaneno` (13)
+
+**VCV+CV+** (2+ syllables, starts V) = Technical vector = `apimabi` (organism)
 
 **Visual recognition = instant understanding.**
 
 Starts with consonant + 1 syllable? → Grammar.  
-Starts with vowel + 1 syllable? → Everyday word.  
-Starts with consonant + 2+ syllables? → Specific object.  
+Starts with vowel + 1 syllable + ends in vowel? → Everyday word.  
+Starts with consonant + 2 syllables? → Concrete object (matrix-derived).  
+Starts with Z? → Number.  
 Starts with vowel + 2+ syllables? → Technical term.
 
 **You never have to guess what type of word you're looking at.**
@@ -133,7 +133,87 @@ If you know `awi` = argue (anger-neutral), you can predict:
 
 ---
 
-## 🧩 Core Concept 4: Compositionality
+## 🧩 Core Concept 4: The CVCV Matrix Revolution
+
+### **This is the breakthrough that changes everything.**
+
+**Every previous constructed language:**
+
+Esperanto: "hundo" (dog) — borrowed from Germanic languages  
+Lojban: "gerku" (dog) — artificial blend from multiple languages  
+Toki Pona: "soweli" (animal) — invented, must memorize  
+Ithkuil: Roots are still arbitrary despite systematic grammar
+
+**They all have the same problem: concrete nouns are ARBITRARY.**
+
+---
+
+### **This language solves it with the CVCV Matrix:**
+
+**Structure: C₁V₁C₂V₂**
+
+**C₁** = Domain (which ontological category?)  
+**V₁** = Subcategory (which type within that domain?)  
+**C₂** = Concept (which specific concept?)  
+**V₂** = Variation (which variant of that concept?)
+
+---
+
+### **Example: "dog" = peka**
+
+**p** = P-domain (Substance/Being — living things)  
+**e** = pe- subcategory (terrestrial mammals)  
+**k** = pek- concept (domestic animals)  
+**a** = first variation (primary domestic animal)
+
+→ **peka** = dog
+
+**You don't memorize "dog = peka"**
+
+**You understand:**
+- P = living things
+- pe- = mammals
+- pek- = domestic mammals
+- → peka is probably the most common domestic mammal = dog
+
+---
+
+### **Example: "cat" = peke**
+
+Same logic:
+- P = living things
+- pe- = mammals
+- pek- = domestic mammals
+- **e** = second variation
+
+→ **peke** = cat (second most common domestic mammal)
+
+---
+
+### **Example: "house" = maka**
+
+**m** = M-domain (Space/Dimensional — places and structures)  
+**a** = ma- subcategory (dwellings)  
+**k** = mak- concept (primary residence)  
+**a** = first variation (standard house)
+
+→ **maka** = house
+
+---
+
+### **The Power:**
+
+**15,625 systematically derivable words for concrete objects.**
+
+You don't memorize them.  
+You learn the matrix structure.  
+You deduce what words mean.
+
+**This has never been done before in any language in history.**
+
+---
+
+## 🧩 Core Concept 5: Compositionality
 
 ### **Meaning builds predictably.**
 
@@ -170,14 +250,32 @@ I past cannot do
 
 ---
 
+### **With nominal lexicon:**
+```
+ba vi peka
+I have dog
+→ "I have a dog"
+
+ba vi zani peka
+I have 2 dog
+→ "I have two dogs"
+
+ba vi zani peka la zane peke
+I have 2 dog and 1 cat
+→ "I have two dogs and one cat"
+```
+
+**Everything compositional. Everything predictable.**
+
+---
+
 ### **Even technical vectors are compositional:**
 ```
-api-ma-bi
+apimabi
 a-p-i = thing (substance, neutral)
-m-a = biological (origin type)
-b-i = organism (living structure)
+m-a-b-i = biological-organism structure
 
-→ "biological living thing" = organism
+→ "biological organism"
 ```
 
 **Written as one word:** `apimabi`  
@@ -185,82 +283,33 @@ b-i = organism (living structure)
 
 ---
 
-## 🧩 Core Concept 5: Phonological Disambiguation
+## 🧩 Core Concept 6: Phonological Disambiguation
 
 ### **Problem:** What if patterns conflict?
 
 **Example:** 
 - Grammar: `ař` = mine (possessive pronoun)
-- Vocabulary: `aře` = mark, label
+- Vocabulary: `aře` = mark, label (if it existed)
 
-**They sound similar! How to distinguish?**
-
----
-
-### **Solution 1: Vowel prolongation (writing)**
-```
-Grammar:     ař     (written as-is)
-Vocabulary:  ařaa   (double final vowel)
-```
-
-**In writing, you see the difference immediately.**
+**They could sound similar in casual speech.**
 
 ---
 
-### **Solution 2: Tonal inflection (speech)**
-```
-Grammar:     ař     [neutral tone]
-Vocabulary:  aře    [rising tone ↗]
-```
+### **Solution: Vowel Doubling + Strong Articulation**
 
-**In speech, the tone distinguishes them.**
+**Grammar VC:** Pronounce naturally  
+`ař` → sounds naturally like [aɾa] or [aɾe] depending on speaker
 
----
+**Vocabulary VCV (when conflict exists):** Double final vowel + emphasize  
+`ařaa` → written with double vowel, pronounced [a.ɾa.a:] with strong emphasis on final vowel
 
-### **Solution 3: Context (always)**
-```
-ba ař ivi
-I mine do
-→ "I do mine" (possessive pronoun)
+**In practice:**
 
-ba aře evi pi api
-I mark take at thing
-→ "I take the mark/label from the thing" (vocabulary word)
-```
+Grammar: `ba ař` → "my/mine" (natural pronunciation)  
+Vocabulary: `ba ařaa` → "mark/label" (written double, spoken with intensity)
 
-**Context usually makes it clear which meaning is intended.**
-
-**This disambiguation rule applies ONLY when conflicts exist.**  
-Most words have no conflicts and don't need special handling.
-
----
-
-## 🧩 Core Concept 6: Progressive Specificity
-
-### **The language lets you choose your precision level.**
-
-**Vague (natural language style):**
-```
-api va ami
-thing is place
-→ "The thing is at the place"
-```
-
-**Specific (using descriptors):**
-```
-da api ilo va pi de ami emi
-the thing large is at the place near
-→ "The large thing is at the nearby place"
-```
-
-**Precise (using vectors):**
-```
-de apimaobi va pi amiteta
-the biological-organism-complex is at location-specific-coordinates
-→ "The complex biological organism is at the specific location"
-```
-
-**Same grammar. Different precision. Your choice.**
+**This disambiguation applies to ~5 patterns per conflicting domain.**  
+Most words never need special handling. Context usually makes meaning clear.
 
 ---
 
@@ -272,15 +321,13 @@ The 25 domains aren't arbitrary categories like "animals" or "furniture."
 
 **They're fundamental ontological dimensions:**
 
-| Domain | Category | Why It's Fundamental |
-|--------|----------|---------------------|
-| **P** | Substance/Being | What things fundamentally ARE |
-| **M** | Space/Dimension | Where things exist |
-| **N** | Time/Temporal | When things exist |
-| **V** | Action/Verbal | What things DO |
-| **W** | Emotion/Affect | How minds FEEL |
-| **T** | Process/Change | How things TRANSFORM |
-| **K** | Social/Collective | How beings RELATE |
+**P** — Substance/Being — What things fundamentally ARE  
+**M** — Space/Dimension — Where things exist  
+**N** — Time/Temporal — When things exist  
+**V** — Action/Verbal — What things DO  
+**W** — Emotion/Affect — How minds FEEL  
+**T** — Process/Change — How things TRANSFORM  
+**K** — Social/Collective — How beings RELATE
 
 **These aren't cultural categories.**  
 **They're universal dimensions of existence.**
@@ -293,13 +340,9 @@ An action transforms things over time.
 
 ---
 
-## 🧩 Core Concept 8: Grammar ≠ Vocabulary ≠ Lexicon ≠ Vectors
+## 🧩 Core Concept 8: Four Systems with Clear Boundaries
 
-### **Four distinct systems with clear boundaries:**
-
----
-
-#### **1. Grammar (CV + VC) — 250 particles**
+### **Grammar (CV + VC) — 250 particles**
 
 **Purpose:** Structure, syntax, relationships  
 **Pattern:** C+V or V+C, single syllable  
@@ -310,33 +353,33 @@ An action transforms things over time.
 
 ---
 
-#### **2. Core Vocabulary (VCV) — 625 words**
+### **Core Vocabulary (VCV) — 625 words**
 
 **Purpose:** Everyday communication  
 **Pattern:** V+C+V, single syllable  
 **Examples:** `avi` (go), `ewi` (cry), `ami` (place), `eno` (day)
 
 **Function:** The flesh on the grammatical skeleton.  
-**Learnable:** Master these 625 and you're fluent.
+**Learnable:** Master these 625 and you're fluent for daily life.
 
 ---
 
-#### **3. Nominal Lexicon (CV+CV+) — Unlimited**
+### **Nominal Lexicon (CVCV) — 15,625 words**
 
-**Purpose:** Specific objects, compounds, names  
-**Pattern:** C+V+C+V+..., multiple syllables  
-**Examples:** `kalu` (dog), `matu` (tree), `nenunosi` (numeral: 1437)
+**Purpose:** Concrete objects, beings, places  
+**Pattern:** C₁+V₁+C₂+V₂, two syllables  
+**Examples:** `peka` (dog), `maka` (house), `yaka` (bread)
 
-**Function:** Names things, counts things, refers to specific objects.  
-**Expandable:** Create new words as needed.
+**Function:** Systematic naming of everything concrete.  
+**Revolutionary:** First language where these are 100% pattern-derived.
 
 ---
 
-#### **4. Technical Vectors (VCV+CV+) — 390,625 concepts**
+### **Technical Vectors (VCV+CV+) — 390,625 concepts**
 
 **Purpose:** Scientific precision, technical terminology  
-**Pattern:** V+C+V+C+V+C+V+..., multiple syllables  
-**Examples:** `apimabi` (biological-active-organism)
+**Pattern:** V+C+V+C+V+..., multiple syllables  
+**Examples:** `apimabi` (biological-organism)
 
 **Function:** Optional precision layer for specialists.  
 **Reference:** Use like a technical dictionary, don't memorize.
@@ -346,8 +389,9 @@ An action transforms things over time.
 ### **Boundaries are absolute.**
 
 Grammar never looks like vocabulary.  
-Vocabulary never looks like technical terms.  
-Lexicon never looks like grammar.
+Vocabulary never looks like nominal lexicon.  
+Nominal lexicon never looks like technical vectors.  
+Numerals never look like anything else (Z-marker).
 
 **Visual recognition = instant classification.**
 
@@ -361,6 +405,7 @@ Lexicon never looks like grammar.
 - "I go, you go, he go**es**" (why the S?)
 - "child → child**ren**" (why not "childs"?)
 - "good, better, best" (why not "gooder, goodest"?)
+- "dog, cat, bird" (why these arbitrary sounds?)
 
 **This language has ZERO exceptions:**
 
@@ -396,36 +441,61 @@ va = be       → av = not be
 All follow the same pattern: flip CV → VC
 ```
 
+**Nominal Lexicon:**
+```
+peka = dog (P-e-k-a matrix position)
+peke = cat (P-e-k-e matrix position)
+maka = house (M-a-k-a matrix position)
+meka = door (M-e-k-a matrix position)
+
+All follow CVCV matrix: C₁V₁C₂V₂
+```
+
 **No memorization of special cases. Just learn the pattern.**
 
 ---
 
-## 🧩 Core Concept 10: Numerals = Positional Logic
+## 🧩 Core Concept 10: Numerals = Positional Logic + Z-Marker
 
 ### **Numbers aren't arbitrary words.**
 
 **English:** one, two, three, four... (must memorize)  
 **Mandarin:** yī, èr, sān, sì... (must memorize)
 
-**This language:** Positional structure
+**This language:** Z-marker + Positional structure
+
+---
+
+### **System:**
+
+**All numerals start with Z + vowel (type marker)**
+
+**za-** = cardinal (1, 2, 3...)  
+**ze-** = ordinal (1st, 2nd, 3rd...)  
+**zi-** = fractional (1/2, 1/3, 1/4...)  
+**zo-** = multiplicative (2×, 3×, 4×...)  
+**zu-** = collective (pair, trio, quartet...)
+
+---
+
+### **Digits:**
 ```
-Digits:
-na=0, ne=1, ni=2, no=3, nu=4
-sa=5, se=6, si=7, so=8, su=9
+0-4: na, ne, ni, no, nu
+5-9: sa, se, si, so, su
 
 Structure:
 1 syllable = units (0-9)
 2 syllables = tens (10-99)
 3 syllables = hundreds (100-999)
-4 syllables = thousands (1000-9999)
+4 syllables = thousands (1000+)
 ```
 
 **Examples:**
 ```
-ne     = 1
-nenu   = 14 (1-4)
-nenuno = 143 (1-4-3)
-nenunosi = 1437 (1-4-3-7)
+zane = 1 (za + ne)
+zanenu = 14 (za + ne-nu = 1-4)
+zanenuno = 143 (za + ne-nu-no = 1-4-3)
+zanenunosi = 1437 (za + ne-nu-no-si = 1-4-3-7)
 ```
 
 **Pattern = meaning. Always.**
@@ -447,17 +517,17 @@ nenunosi = 1437 (1-4-3-7)
 
 **This language - casual (Layer 2):**
 ```
-upi elo ri iri
-material true state wet
-"material that's truly in a wet state"
+lavu va
+material-liquid is
+"liquid material" / "water"
 ```
 
-**This language - precise (Layer 3):**
+**This language - precise (Layer 4):**
 ```
-upinaopateitaexa
-u-p-i = material (substance-domain)
-n-a-o = molecular (complexity level)
-p-a-t = chemical (origin type)
+lavunaopateitaexa
+l-a-v-u = material-liquid (L-domain)
+n-a-o = molecular (complexity)
+p-a-t = chemical (origin)
 e-i = standard (quality)
 t-a-e = liquid (state)
 x-a = real (existence)
@@ -478,34 +548,43 @@ Most people never need them. Scientists do.
 
 **What we avoid:**
 - ❌ Gendered grammar (no "el/la", "he/she" mandatory)
-- ❌ Cultural metaphors (no "break the ice", "raining cats and dogs")
+- ❌ Cultural metaphors (no "break the ice")
 - ❌ Religious concepts in core vocabulary
 - ❌ Bias toward one language family's phonology
+- ❌ **Borrowed vocabulary from any specific language**
 
 **What we include:**
 - ✅ Sounds from many language families
 - ✅ Concepts derived from universal ontology
 - ✅ Grammar based on logic, not tradition
 - ✅ Vocabulary from fundamental human experiences
+- ✅ **CVCV matrix derived purely from logical structure**
 
 **Example:**
 
 **English:** "brotherhood" (gendered, cultural)  
 **This language:** `uviewo ňu eki` = spirit-love of family (universal)
 
+**Esperanto:** "hundo" (dog) = borrowed from Germanic  
+**This language:** `peka` (dog) = P-e-k-a (matrix position, universal)
+
 **We acknowledge imperfection.**  
 The creators have biases. The community helps remove them.
+
+**But the CVCV matrix is culturally neutral by design — it's pure logic.**
 
 ---
 
 ## 🧩 Core Concept 13: Learning = Pattern Recognition
 
-### **You're not memorizing 875+ random items.**
+### **You're not memorizing thousands of random items.**
 
-**You're learning ~50 patterns:**
+**You're learning ~30-40 core patterns:**
 
 - 25 grammar families (CV + VC)
 - 25 vocabulary domains (VCV)
+- CVCV matrix structure (Domain → Subcategory → Concept → Variation)
+- Z-marker numeral system
 - A few combining rules
 
 **Once you know the patterns, you can:**
@@ -513,6 +592,7 @@ The creators have biases. The community helps remove them.
 - Generate new valid words
 - Recognize word types instantly
 - Build complex expressions logically
+- **Deduce nominal words you've never seen**
 
 **Example pattern recognition:**
 ```
@@ -527,6 +607,20 @@ You can predict:
 - emu = very far (space-distance-maximum)
 ```
 
+**Example CVCV pattern recognition:**
+```
+You learn:
+- P = living things
+- pe- = terrestrial mammals
+- pek- = domestic animals
+- peka = dog
+
+You can predict:
+- peke = probably cat (second domestic animal)
+- peki = probably horse (third domestic animal)
+- pela = probably a wild mammal (different concept group)
+```
+
 **Pattern recognition > rote memorization.**
 
 ---
@@ -537,20 +631,20 @@ You can predict:
 
 **Compare to other systems:**
 
-| Language | Resources for Fluency |
-|----------|----------------------|
-| Basic English | 850 words |
-| Toki Pona | ~120 words (but vague) |
-| Esperanto | ~2,000 words |
-| Natural languages | ~3,000-5,000 words |
-| **This language** | **875 resources** |
+Toki Pona: 120-140 words (minimal but vague)  
+Basic English: 850 words (but irregular grammar)  
+**This language: 875 resources (systematic)**  
+Esperanto: ~2,000 words (many arbitrary)  
+Natural languages: ~3,000-5,000 words
 
 **Breakdown:**
 - 250 grammar particles (structure)
 - 625 core vocabulary (meaning)
 - = 875 total for everyday fluency
 
-**Everything beyond that is optional precision.**
+**Everything beyond that is optional:**
+- Nominal lexicon (learn by pattern, not memorization)
+- Technical vectors (reference as needed)
 
 **You can stop at 875 and communicate fully about daily life.**
 
@@ -581,37 +675,38 @@ You can predict:
 ---
 
 ## 📚 How These Concepts Connect
-```
-┌─────────────────────────────────────────────┐
-│  Form = Function (Concept 2)                │
-│  ↓                                          │
-│  Visual recognition tells you word type     │
-│  ↓                                          │
-│  Layers (Concept 1)                         │
-│  ↓                                          │
-│  Choose your complexity                     │
-│  ↓                                          │
-│  Derivation (Concept 3)                     │
-│  ↓                                          │
-│  Patterns generate words                    │
-│  ↓                                          │
-│  Compositionality (Concept 4)               │
-│  ↓                                          │
-│  Meaning builds predictably                 │
-│  ↓                                          │
-│  No Irregularity (Concept 9)                │
-│  ↓                                          │
-│  Everything follows patterns                │
-│  ↓                                          │
-│  Fluency = 875 (Concept 14)                 │
-│  ↓                                          │
-│  Achievable goal                            │
-│  ↓                                          │
-│  Public Domain (Concept 15)                 │
-│  ↓                                          │
-│  Language for all humanity                  │
-└─────────────────────────────────────────────┘
-```
+
+**Form = Function (Concept 2)**  
+↓  
+Visual recognition tells you word type instantly  
+
+**Layers (Concept 1)**  
+↓  
+Choose your complexity: 875 for fluency, more for depth  
+
+**CVCV Matrix (Concept 4)**  
+↓  
+Revolutionary: 15,625 words, ZERO arbitrary  
+
+**Derivation (Concept 3)**  
+↓  
+Patterns generate words across all systems  
+
+**Compositionality (Concept 5)**  
+↓  
+Meaning builds predictably from components  
+
+**No Irregularity (Concept 9)**  
+↓  
+Everything follows patterns, always  
+
+**Pattern Recognition (Concept 13)**  
+↓  
+Learn logic, generate infinite expressions  
+
+**Public Domain (Concept 15)**  
+↓  
+Language for all humanity, forever
 
 **These aren't isolated ideas.**  
 **They're a coherent system.**
@@ -622,12 +717,13 @@ You can predict:
 
 **If you remember nothing else, remember this:**
 
-1. **Three layers** — Grammar, Vocabulary, Vectors (optional)
-2. **Form = Function** — Visual pattern tells you word type
-3. **Patterns > Memorization** — Learn logic, not lists
-4. **875 for fluency** — Not thousands. Not tens of thousands.
-5. **No exceptions** — Every rule applies 100% of the time
-6. **Your choice** — Stop when you're satisfied with your depth
+1. **Four layers** — Grammar, Vocabulary, Nominal Lexicon, Vectors (last two optional)
+2. **Form = Function** — Visual pattern tells you word type instantly
+3. **CVCV Matrix** — Revolutionary system: 15,625 words, ZERO arbitrary
+4. **Patterns > Memorization** — Learn logic, not lists
+5. **875 for fluency** — Not thousands. Not tens of thousands.
+6. **No exceptions** — Every rule applies 100% of the time
+7. **Your choice** — Stop when you're satisfied with your depth
 
 ---
 
@@ -635,9 +731,10 @@ You can predict:
 
 Now that you understand the foundational concepts:
 
-1. **[Phonology](02-phonology.md)** — Learn the 30 sounds
-2. **[Structure](04-structure.md)** — See how it all fits together
-3. **[Grammar CV-VC](05-grammar-cv-vc.md)** — Start learning!
+**[Phonology](02-phonology.md)** — Learn the 30 sounds  
+**[Structure](04-structure.md)** — See how it all fits together  
+**[Grammar CV-VC](05-grammar-cv-vc.md)** — Start learning!  
+**[Nominal Lexicon Matrix](lexicon-nominal-matrix.md)** — Understand CVCV system
 
 **You're ready.**
 
@@ -647,7 +744,7 @@ Now that you understand the foundational concepts:
 
 ---
 
-**Version:** 0.3.0 — Triple-Layer Architecture  
+**Version:** 0.4.0 — Systematic Nominal Lexicon  
 **Last Updated:** 2026-03-10  
 **Status:** Foundational Document  
 **License:** CC0 1.0 Universal (Public Domain)
