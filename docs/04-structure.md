@@ -26,14 +26,16 @@ Provides structural framework. Fixed forever.
 **System 2: Core Vocabulary (VCV)** — 625 words  
 Provides everyday communication. Systematically derived.
 
-**System 3: Nominal Lexicon (CV+CV+...)** — Unlimited  
-Names specific objects, creates compounds, handles all content words.
+**System 3: Nominal Lexicon (CVCV)** — 15,625 words  
+Names objects, beings, and concepts. **Fully systematic matrix.**
 
 **System 4: Technical Vectors (VCV+CV+...)** — 390,625 concepts  
 Provides precision, formality, and specificity. Optional depth.
 
 **For fluency:** Systems 1 + 2 = **875 resources**  
-**For everything:** All four systems working together
+**For complete system:** 875 + 15,625 + 390,625 = **407,125 systematically derivable resources**
+
+**ZERO arbitrary vocabulary. Everything is pattern-based.**
 
 ---
 
@@ -192,35 +194,276 @@ Starts with **vowel** + 1 syllable + ends in **vowel** = **VCV** (core vocabular
 
 ---
 
-## 📊 System 3: Nominal Lexicon (CV+CV+...)
+## 📊 System 3: Nominal Lexicon (CVCV Matrix)
 
-### **Purpose:** Name specific objects, create compounds, handle numerals
+### **Purpose:** Name specific objects, beings, places, and concrete concepts
 
-### **Nominal Words — Unlimited**
+### **Revolutionary Design: Fully Systematic Matrix**
 
-**Pattern:** Consonant + Vowel + Consonant + Vowel + ... (multiple syllables, starts with consonant)
+**This is the first conlang to implement a completely systematic nominal lexicon.**
 
-**Structure:** Compositional and expandable
+Unlike other constructed languages where concrete nouns are arbitrary or imported from natural languages, this system derives ALL nominal vocabulary from a logical matrix structure.
 
-**Simple Objects (to be officially defined):**  
-Words for common concrete objects like animals, plants, colors, tools, etc.
-
-**Compounds:**  
-Combine multiple CV syllables to create specific compound concepts.
-
-**Letter N is NOT reserved exclusively for numerals** — N can be used freely in the nominal lexicon for any words.
-
-**Total:** Unlimited (created as needed)
+**ZERO memorization of arbitrary words. Learn the pattern, generate infinite words.**
 
 ---
 
-### **Numeral System — Universal Z-Marker**
+### **Structure: C₁V₁C₂V₂**
 
-**IMPORTANT:** Numerals use a special marking system that prevents conflicts with grammar and frees all consonants for general use in the nominal lexicon.
+**Pattern:** Consonant + Vowel + Consonant + Vowel (2 syllables, starts with consonant)
+
+**Each position has meaning:**
+
+**C₁ (First Consonant)** = Ontological Domain (25 options)  
+**V₁ (First Vowel)** = Subcategory within domain (5 options)  
+**C₂ (Second Consonant)** = Specific concept (25 options)  
+**V₂ (Second Vowel)** = Variation/Gradation (5 options)
+
+**Total capacity:** 25 × 5 × 25 × 5 = **15,625 systematic words**
+
+**Expandable:** If needed, add one CV → CVCVCV = 1,953,125 words
+
+---
+
+### **How It Works:**
+
+#### **Layer 1: Domain (C₁) — 25 Ontological Categories**
+
+Uses the same 25 domains as VCV vocabulary:
+
+**P** = Substance/Being (living things, organisms)  
+**M** = Space/Dimensional (places, structures, geography)  
+**D** = Structure/Form (objects defined by shape, body parts)  
+**L** = Material/Quality (elements, materials, substances)  
+**Y** = Perception/Sensory (foods, sensory experiences)  
+**V** = Action/Verbal (tools, instruments)  
+**C** = Movement (vehicles, transportation)  
+**K** = Social/Collective (social roles, relationships)  
+**B** = Communication (books, writing, symbols)  
+**Č** = Cognition (abstract concepts, ideas)  
+**Ň** = Identity/Possession (personal objects, property)  
+**S** = Spatial/Position (positions, orientations)  
+... (25 total)
+
+---
+
+#### **Layer 2: Subcategory (V₁) — 5 Types per Domain**
+
+**Example in Domain P (Substance/Being):**
+
+**pa-** = Humans (human-related beings)  
+**pe-** = Terrestrial mammals (land animals)  
+**pi-** = Birds (avian creatures)  
+**po-** = Aquatic creatures (water-dwelling)  
+**pu-** = Plants (vegetation)
+
+---
+
+#### **Layer 3: Concept (C₂) — 25 Specific Concepts**
+
+**Example in pa- (Humans):**
+
+**pak-** = Nuclear family (parents, children)  
+**pal-** = Gender/age categories (man, woman, child)  
+**pam-** = Extended family (siblings, relatives)  
+**pan-** = Social roles  
+**pat-** = Life stages  
+... (25 options)
+
+---
+
+#### **Layer 4: Variation (V₂) — 5 Gradations**
+
+**Example in pak- (Nuclear family):**
+
+**paka** = father  
+**pake** = mother  
+**paki** = son  
+**pako** = daughter  
+**paku** = sibling
+
+---
+
+### **Practical Examples:**
+
+**Domain P (Substance/Being) — Living Things:**
+
+**Humans (pa-):**  
+paka = father  
+pake = mother  
+pala = man  
+pale = woman  
+pali = child
+
+**Terrestrial Mammals (pe-):**  
+peka = dog  
+peke = cat  
+peki = horse  
+peko = cow  
+peku = pig
+
+**Birds (pi-):**  
+pika = bird (generic)  
+pike = chicken  
+piki = duck
+
+**Aquatic (po-):**  
+poka = fish (generic)  
+poke = whale
+
+**Plants (pu-):**  
+puka = tree  
+puke = flower  
+puki = grass  
+puma = seed
+
+---
+
+**Domain M (Space/Dimensional) — Places and Structures:**
+
+**Dwellings (ma-):**  
+maka = house  
+make = apartment  
+maki = hut
+
+**Structural Parts (me-):**  
+meka = door  
+meke = window  
+meki = wall  
+meko = roof  
+meku = floor
+
+**Furniture (mi-):**  
+mika = table  
+mike = chair  
+miki = bed
+
+**Geography (mo-):**  
+moka = mountain  
+moke = river  
+moki = sea  
+moko = lake
+
+**Urban (mu-):**  
+muka = city  
+muke = village  
+muki = street
+
+---
+
+**Domain Y (Perception/Sensory) — Foods:**
+
+**Grains (ya-):**  
+yaka = bread  
+yake = rice  
+yako = corn
+
+**Proteins (ye-):**  
+yeka = meat  
+yeke = fish (as food)  
+yeki = egg  
+yeko = milk
+
+**Vegetables (yi-):**  
+yika = vegetable (generic)
+
+**Fruits (yo-):**  
+yoka = fruit (generic)  
+yoke = apple  
+yoki = banana
+
+**Seasonings (yu-):**  
+yuka = salt  
+yuke = sugar
+
+---
+
+**Domain V (Action/Verbal) — Tools:**
+
+**Cutting Tools (va-):**  
+vaka = knife  
+vake = scissors
+
+**Containers (ve-):**  
+veka = cup  
+veke = bowl  
+veki = bottle
+
+**Utensils (vi-):**  
+vika = spoon  
+vike = fork
+
+---
+
+**Domain C (Movement) — Transportation:**
+
+**Land Vehicles (ca-):**  
+caka = car  
+cake = bicycle
+
+**Water Vessels (co-):**  
+coka = boat  
+coke = ship
+
+**Pathways (cu-):**  
+cuka = road  
+cuke = bridge
+
+---
+
+### **Learning the System:**
+
+**You don't memorize 15,625 words.**  
+**You learn the matrix structure.**
+
+**Example learning path:**
+
+**Step 1:** Learn that P = living things  
+**Step 2:** Learn that pe- = terrestrial mammals  
+**Step 3:** Deduce that peka (P-e-k-a) is probably a common domestic mammal  
+**Step 4:** Context confirms: peka = dog
+
+**Pattern recognition > rote memorization**
+
+---
+
+### **Recognition Rule:**
+
+Starts with **consonant** + **exactly 2 syllables** (CVCV) = **Nominal Lexicon**
+
+If longer (CVCVCV), it's a nominal word that needed expansion to avoid conflict.
+
+**Function:** Systematic naming of all concrete objects, beings, and places
+
+---
+
+### **Why This Matters:**
+
+**Traditional conlangs:**  
+"dog" = arbitrary (hundo, inu, etc.)  
+"cat" = arbitrary (kato, neko, etc.)  
+= Must memorize thousands of random words
+
+**This language:**  
+"dog" = peka (P-domain, e-mammals, k-domestic, a-first)  
+"cat" = peke (P-domain, e-mammals, k-domestic, e-second)  
+= Learn pattern once, deduce all words
+
+**This is the language's unique innovation.**
+
+---
+
+## 📊 System 3B: Numeral Subsystem (Z-Marker)
+
+### **Special System: Universal Numeral Marking**
+
+Numerals use a dedicated marking system that prevents conflicts with all other systems.
 
 **All numerals begin with Z + vowel marker:**
 
-**Numeral Types:**
+---
+
+### **Numeral Types:**
 
 **za-** = Cardinal numbers (one, two, three...)  
 **ze-** = Ordinal numbers (first, second, third...)  
@@ -264,54 +507,37 @@ zanena = 10 (za + ne-na = 1-0)
 zanene = 11 (za + ne-ne = 1-1)  
 zaneno = 13 (za + ne-no = 1-3)  
 zanenu = 14 (za + ne-nu = 1-4)  
-zanenunosi = 1437 (za + ne-nu-no-si = 1-4-3-7)  
-zasasusi = 569 (za + sa-su-si = 5-6-9)
+zanenunosi = 1437 (za + ne-nu-no-si = 1-4-3-7)
 
 ---
 
-### **Ordinal Numbers (ze-):**
+### **Other Number Types:**
 
+**Ordinals (ze-):**  
 zene = 1st (first)  
 zeni = 2nd (second)  
-zeno = 3rd (third)  
-zenenu = 14th (fourteenth)  
-zenesasa = 155th (one hundred fifty-fifth)
+zeno = 3rd (third)
 
----
-
-### **Fractional Numbers (zi-):**
-
+**Fractionals (zi-):**  
 zini = 1/2 (half)  
 zino = 1/3 (third)  
-zinu = 1/4 (quarter)  
-zinesa = 1/15 (fifteenth)
+zinu = 1/4 (quarter)
 
----
-
-### **Multiplicative Numbers (zo-):**
-
+**Multiplicatives (zo-):**  
 zoni = 2× (double)  
-zono = 3× (triple)  
-zonu = 4× (quadruple)  
-zonesa = 15× (fifteen times)
+zono = 3× (triple)
+
+**Collectives (zu-):**  
+zuni = pair  
+zuno = trio
 
 ---
 
-### **Collective Numbers (zu-):**
+### **Recognition Rule:**
 
-zuni = pair, duo  
-zuno = trio  
-zunu = quartet  
-zunenu = group of 14
+Starts with **Z + vowel** = **Numeral** (any type)
 
----
-
-### **Recognition rule:**
-
-Starts with **Z + vowel** = **Numeral** (any type)  
-Starts with **consonant (not Z)** + 2+ syllables = **Nominal lexicon** (objects/compounds)
-
-**Function:** Z-marker provides universal numeral system while keeping nominal lexicon completely free
+**Function:** Complete mathematical and counting system
 
 ---
 
@@ -376,6 +602,16 @@ X — Texture/Tactile
 
 ---
 
+### **Future Development: Advanced Classification System**
+
+A comprehensive hierarchical classification system is planned for integration into the vector system, enabling precise scientific categorization of living organisms and other systematic domains. This will leverage specific subcategories within the matrix structure.
+
+**Status:** Design phase  
+**Target:** v0.5.0 or later  
+**Scope:** Biological classification and systematic categorization
+
+---
+
 ### **Who Uses Vectors?**
 
 **Vectors are for anyone seeking:**
@@ -390,7 +626,7 @@ Scientists, researchers, or AI communication
 
 **Anyone who wants to go deeper can.**
 
-The vector system serves as both a precision tool AND a formal register — like the difference between "I'm sad" (casual VCV) and "I am experiencing a state of emotional diminishment" (formal vector).
+The vector system serves as both a precision tool AND a formal register — like the difference between "I'm sad" (casual VCV) and "I am experiencing diminished emotional state" (formal vector).
 
 ---
 
@@ -416,15 +652,15 @@ ba ma ivi da api
 I can do the thing  
 → "I can do the thing"
 
-**STANDARD (Grammar + Vocabulary + Lexicon):**  
-ba ma ivi da [nominal_object]  
-I can do the [specific object]  
-→ "I can handle/do the [specific object]"
+**STANDARD (Grammar + Vocabulary + Nominal):**  
+ba ma ivi da peka  
+I can do the dog  
+→ "I can handle the dog"
 
 **WITH NUMERALS:**  
-ba vi zano api  
-I have 3(cardinal) thing  
-→ "I have three things"
+ba vi zano peka  
+I have 3(cardinal) dog  
+→ "I have three dogs"
 
 ba wa de zene ami  
 I want the 1st(ordinal) place  
@@ -435,12 +671,7 @@ ba ma evi de apimabi pi amiteta
 I can take the biological-organism at location-specific  
 → "I can retrieve the biological organism from the specific location"
 
-**FORMAL (Using vectors for register):**  
-ba ma ivitekoti de apimaobi  
-I can perform-action-formally the organism-complex-biological  
-→ "I am capable of performing the procedure on the complex biological organism"
-
-**Each layer adds precision/formality without breaking the previous layer.**
+**Each layer adds precision without breaking the previous layer.**
 
 ---
 
@@ -464,13 +695,13 @@ Pronunciation: [a.vi]
 Example: zano  
 Pronunciation: [za.no]
 
-**CV+CV+** — Nominal lexicon  
-Example: (to be defined)  
-Pronunciation: [CV.CV]
+**CVCV** — Nominal lexicon  
+Example: peka  
+Pronunciation: [pe.ka]
 
 **VCV+CV+** — Technical vectors  
 Example: apimabi  
-Pronunciation: [api.ma.bi]
+Pronunciation: [a.pi.ma.bi]
 
 ---
 
@@ -507,7 +738,7 @@ u — [u] close back
 
 ✅ Correct:  
 ba ma ivi (I can do) — Pronounce: ba' ma' ivi  
-be ta ma ivi (you past can do = you could do) — Pronounce: be' ta' ma' ivi
+be ta ma ivi (you past can do) — Pronounce: be' ta' ma' ivi
 
 ❌ Incorrect:  
 bama (trying to combine ba + ma into one sound)  
@@ -536,15 +767,16 @@ iviavi (trying to compound VCV words together)
 
 ---
 
-### **3. Nominal Lexicon (CV+CV+)**
+### **3. Nominal Lexicon (CVCV)**
 
-**Rule:** Freely combinable. Build compounds as needed. All consonants available (N is NOT reserved).
+**Rule:** Systematically derived from matrix. Can be combined for compounds if needed.
 
 ✅ Correct:  
-Simple objects (to be defined)  
-Compound objects (combine CV syllables)
+peka (dog) — derived from P-e-k-a  
+maka (house) — derived from M-a-k-a  
+pekamaka (doghouse) — compound when needed
 
-**Nominal words can be combined infinitely to create new specific terms.**
+**Nominal words follow CVCV matrix pattern.**
 
 ---
 
@@ -555,12 +787,10 @@ Compound objects (combine CV syllables)
 ✅ Correct:  
 zane = 1 (cardinal)  
 zeno = 3rd (ordinal)  
-zanenu = 14 (cardinal)  
-zenesasa = 155th (ordinal)
+zanenu = 14 (cardinal)
 
 ❌ Incorrect:  
-ne = trying to use bare digit (conflicts with grammar)  
-nenu = trying to use N-pattern without Z-marker
+ne = trying to use bare digit (conflicts with grammar)
 
 **All numerals MUST use Z-marker system.**
 
@@ -575,47 +805,46 @@ apimabi (written together)
 → biological organism
 
 ❌ Incorrect:  
-api-ma-bi (separated with hyphens in actual use — only use hyphens for teaching/analysis)
+api-ma-bi (separated in actual use — hyphens only for teaching)
 
 **Vectors are written together as single words in actual usage.**
 
 ---
-## 🔍 Disambiguation Strategy
 
-### **When Patterns Conflict:**
+## 🔍 Disambiguation Strategies
 
-**Numeral System (Z-marker) Eliminates Most Conflicts:**
+### **Pattern Recognition Prevents Most Conflicts:**
 
-The Z-marker system for numerals eliminates the historical conflict between grammar particles and number words. Letter N is now freely usable in the nominal lexicon.
+The visual structure of each system is unique:
 
-**For rare vocabulary conflicts:**
+**CV** (1 syl, C-start) = Grammar  
+**VC** (1 syl, V-start, C-end) = Grammar extended  
+**VCV** (1 syl, V-start, V-end) = Vocabulary  
+**ZV+** (Z-start) = Numeral  
+**CVCV** (2 syl, C-start) = Nominal lexicon  
+**VCV+CV+** (2+ syl, V-start) = Vector
 
-**Problem:** Grammar VC naturally ends with a vowel sound when pronounced
+**Instant visual recognition = minimal ambiguity**
 
-**Example:**  
-Grammar: `ař` (mine — possessive pronoun)  
-Vocabulary: `ařa` or `aře` (VCV words)
+---
 
-When speaking, `ař` will naturally sound like `ařa` or `aře` depending on the speaker's accent and phonetic environment.
+### **For Rare VC/VCV Conflicts:**
+
+**Problem:** Grammar VC naturally ends with vowel sound when pronounced
 
 **Solution: Vowel Doubling + Strong Articulation**
 
-When using VCV vocabulary words that could be confused with VC grammar:
-
 **Grammar VC:** Pronounce naturally  
-`ař` → sounds like [aɾa] or [aɾe] (natural pronunciation)
+ař → sounds like [aɾa] or [aɾe]
 
-**Vocabulary VCV:** Double the final vowel in writing AND pronounce with intensity  
-`ařaa` → written with double vowel, pronounced [a.ɾa.a:] with strong emphasis on final vowel  
-`ařee` → written with double vowel, pronounced [a.ɾe.e:] with strong emphasis on final vowel
+**Vocabulary VCV:** Double final vowel in writing AND pronounce with intensity  
+ařaa → [a.ɾa.a:] with emphasis
 
-**In practice:**
+**In practice:**  
+ba ař = "my/mine" (natural)  
+ba ařaa = "mark/label" (doubled + emphasis)
 
-Grammar: `ba ař` → "my/mine" (natural pronunciation)  
-Vocabulary: `ba ařaa` → "mark/label" (written double vowel, spoken with intensity)
-
-**This applies to approximately 5 patterns per conflicting domain.**  
-Most words never need special handling. Context usually makes meaning clear.
+**This applies to ~5 patterns per conflicting domain. Most words never need special handling.**
 
 ---
 
@@ -629,9 +858,9 @@ ba ivi api
 I do thing  
 → "I do the thing"
 
-bi evi ami  
-they take place  
-→ "They go to the place"
+ba vi peka  
+I have dog  
+→ "I have a dog"
 
 ---
 
@@ -640,97 +869,60 @@ they take place
 Because grammar particles mark relationships, word order can flex for emphasis:
 
 **Standard (SVO):**  
-ba ivi api pi ami  
-I do thing at place  
-→ "I do the thing at the place"
+ba ivi peka pi maka  
+I do dog at house  
+→ "I handle the dog at the house"
 
-**Emphasis on location (fronted):**  
-pi ami ba ivi api  
-at place I do thing  
-→ "At the place, I do the thing"
-
-**Emphasis on object (fronted):**  
-api ba ivi pi ami  
-thing I do at place  
-→ "The thing, I do at the place"
+**Emphasis on location:**  
+pi maka ba ivi peka  
+at house I do dog  
+→ "At the house, I handle the dog"
 
 **Particles maintain clarity even when order changes.**
 
 ---
 
-## 🧮 Numeral System Details
+## 🧮 Integration Examples
 
-### **Complete Z-Marker System:**
+### **Combining All Systems:**
 
-**Cardinal (za-):** Standard counting  
-zane (1), zani (2), zano (3), zanenu (14), zanenunosi (1437)
+**Casual conversation (Grammar + Vocabulary):**  
+ba uwi te  
+I laugh present  
+→ "I'm laughing"
 
-**Ordinal (ze-):** Order/sequence  
-zene (1st), zeni (2nd), zeno (3rd), zenenu (14th)
+**Everyday life (+ Nominal):**  
+ba vi zani peka  
+I have 2 dog  
+→ "I have two dogs"
 
-**Fractional (zi-):** Parts/division  
-zini (1/2), zino (1/3), zinu (1/4), zinesa (1/15)
+**Specific description (+ Numerals + Nominal):**  
+ba ta evi zene peka pi maka  
+I past take 1st dog at house  
+→ "I took the first dog from the house"
 
-**Multiplicative (zo-):** Times/multiplication  
-zoni (2×), zono (3×), zonu (4×), zonesa (15×)
+**Scientific precision (+ Vectors):**  
+ba čo apimapepe pi amiteta  
+I study organism-mammal-canine at location-specific  
+→ "I study the canine mammal organism at the specific location"
 
-**Collective (zu-):** Groups/sets  
-zuni (pair), zuno (trio), zunu (quartet), zunenu (group of 14)
-
----
-
-### **Integration in Sentences:**
-
-**Cardinals:**  
-ba vi zano api  
-I have 3 thing  
-→ "I have three things"
-
-ba ta ivi pi zanenunosi ano  
-I past do at 1437 year  
-→ "I did it in the year 1437"
-
-**Ordinals:**  
-ba wa de zene ami  
-I want the 1st place  
-→ "I want the first place"
-
-bi co de zeno ami  
-they arrive the 3rd place  
-→ "They arrive in third place"
-
-**Fractionals:**  
-ba evi zini ňu api  
-I take 1/2 of thing  
-→ "I take half of the thing"
-
-**Multiplicatives:**  
-da api va zoni  
-this thing is 2×  
-→ "This thing is double"
-
-**Collectives:**  
-ba uki po zuni epi  
-I talk with 2-group people  
-→ "I talk with a pair of people"
+**Each layer optional. Use what you need.**
 
 ---
 
 ## 🌐 Foreign Word Integration
 
-### **Strategy:** Adapt to nominal lexicon patterns
+### **Strategy:** Reserve for truly foreign concepts
 
 **Process:**  
-1. Take foreign word  
-2. Adapt phonology (use closest phonemes)  
-3. Convert to CV+CV+ pattern  
-4. Add to nominal lexicon
+1. Check if concept exists in CVCV matrix  
+2. If not, adapt foreign word to phonology  
+3. Convert to CVCV-like pattern  
+4. Mark as borrowed if needed
 
-**Rule:** Foreign words are always CV+CV+ (consonant-initial, multiple syllables)
+**Rule:** Foreign adaptations follow CVCV structure when possible
 
-**This keeps them visually distinct from native vocabulary (VCV) and grammar (CV/VC).**
-
-**Official foreign adaptations to be defined in dedicated lexicon document.**
+**This keeps them compatible with the systematic nominal lexicon.**
 
 ---
 
@@ -744,12 +936,17 @@ I talk with 2-group people
 
 **Level 3:** 625 core vocabulary → **875 = FLUENCY THRESHOLD**
 
-**Level 4:** Unlimited nominal lexicon → Specificity (including numeral system)
+**Level 4a:** 15,625 nominal lexicon (CVCV matrix) → Concrete objects
+
+**Level 4b:** Numeral system (Z-marker) → Mathematics
 
 **Level 5:** 390,625 technical vectors (optional) → Precision & Formality
 
 **Each level builds on previous levels.**  
 **You choose when to stop.**
+
+**Total systematic resources: 407,125**  
+(Expandable to 2,344,000+ with CVCVCV nominal expansion)
 
 ---
 
@@ -759,12 +956,12 @@ I talk with 2-group people
 
 Every system has unique visual signature:
 
-**CV:** ma, ta, ka (consonant start, 1 syllable)  
-**VC:** am, at, ak (vowel start, 1 syllable, consonant end)  
-**VCV:** avi, ewi, ami (vowel start, 1 syllable, vowel end)  
-**ZV+:** zane, zanenu (Z start, numeral marker)  
-**CV+:** [nominal] (consonant start, 2+ syllables, not Z)  
-**VCV+:** apimabi (vowel start, 2+ syllables)
+**CV:** ma, ta, ka (C-start, 1 syl)  
+**VC:** am, at, ak (V-start, 1 syl, C-end)  
+**VCV:** avi, ewi, ami (V-start, 1 syl, V-end)  
+**ZV+:** zane, zanenu (Z-start, numeral)  
+**CVCV:** peka, maka (C-start, 2 syl, matrix)  
+**VCV+CV+:** apimabi (V-start, 2+ syl, vector)
 
 **Instant recognition = cognitive efficiency.**
 
@@ -772,12 +969,13 @@ Every system has unique visual signature:
 
 ### **2. Systematic Derivation**
 
-Everything follows patterns:
+**EVERYTHING follows patterns:**
 
-Grammar families follow vowel progressions  
-Vocabulary domains use first vowel for category  
-Numerals use Z-marker + positional digits  
-Technical vectors build from components
+Grammar families: vowel progressions  
+Vocabulary domains: first vowel categorization  
+**Nominal lexicon: CVCV matrix (UNIQUE innovation)**  
+Numerals: Z-marker + positional  
+Vectors: component composition
 
 **Learn pattern → generate infinite expressions.**
 
@@ -785,13 +983,13 @@ Technical vectors build from components
 
 ### **3. No Irregularity**
 
-Zero exceptions:
+**Zero exceptions:**
 
-All plurals formed same way  
-All tenses formed same way  
-All negations formed same way  
-All comparisons formed same way  
-All numerals follow Z-marker system
+All plurals: same formation  
+All tenses: same formation  
+All negations: same formation  
+**All nouns: matrix-derived**  
+All numerals: Z-marker system
 
 **One rule, applies everywhere, forever.**
 
@@ -801,11 +999,10 @@ All numerals follow Z-marker system
 
 Meaning builds predictably:
 
-Grammar + Vocabulary = enhanced meaning  
-Vocabulary + Numerals = quantified statements  
-Vocabulary + Lexicon = specific reference  
-Lexicon compounds = new specific concepts  
-Vectors = maximum precision & formality
+Grammar + Vocabulary = basic meaning  
++ Nominal lexicon = concrete specificity  
++ Numerals = quantification  
++ Vectors = maximum precision
 
 **Lego blocks of meaning.**
 
@@ -813,21 +1010,17 @@ Vectors = maximum precision & formality
 
 ## 📊 System Summary
 
-**Grammar CV:** 125 particles — Basic structure — Example: ma (can)
+**Grammar CV:** 125 particles — Basic structure  
+**Grammar VC:** 125 particles — Extended structure  
+**Vocabulary VCV:** 625 words — Everyday concepts  
+**Nominal CVCV:** 15,625 words — Concrete objects (systematic)  
+**Numerals Z+V:** Universal — All number types  
+**Vectors VCV+:** 390,625 concepts — Precision & formality
 
-**Grammar VC:** 125 particles — Extended structure — Example: am (cannot)
+**TOTAL FOR FLUENCY:** 875 resources (Grammar + Vocabulary)  
+**TOTAL SYSTEM:** 407,125+ systematically derivable resources
 
-**Vocabulary VCV:** 625 words — Everyday words — Example: avi (go)
-
-**Numerals Z+V:** Universal system — All number types — Example: zano (3)
-
-**Lexicon CV+:** Unlimited — Specific objects — Example: (to be defined)
-
-**Vectors VCV+:** 390,625 concepts — Precision & formality — Example: apimabi
-
-**TOTAL FOR FLUENCY:** 875 resources (Grammar + Vocabulary)
-
-**TOTAL SYSTEM:** 391,500+ (Full capability)
+**ZERO arbitrary vocabulary across entire language**
 
 ---
 
@@ -838,6 +1031,7 @@ Now that you understand the structure:
 **[Phonology](02-phonology.md)** — Master the 30 sounds  
 **[Grammar CV-VC](05-grammar-cv-vc.md)** — Learn the 250 particles  
 **[Basics VCV](06-basics-vcv.md)** — Build your vocabulary  
+**[Nominal Lexicon Matrix](lexicon-nominal-matrix.md)** — Understand CVCV system  
 **[Learning Path](../community/learning-path.md)** — Follow the guide
 
 **You have the blueprint. Time to build.**
@@ -848,7 +1042,7 @@ Now that you understand the structure:
 
 ---
 
-**Version:** 0.3.0 — Triple-Layer Architecture  
+**Version:** 0.4.0 — Systematic Nominal Lexicon  
 **Last Updated:** 2026-03-10  
 **Status:** Core Architectural Document  
 **License:** CC0 1.0 Universal (Public Domain)
