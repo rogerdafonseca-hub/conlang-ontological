@@ -6,38 +6,43 @@
 
 ## 🗺️ Overview
 
-Learning this language is like climbing a mountain with three base camps:
+Learning this language is like climbing a mountain with clearly marked camps:
 
 
-```
-⛺ CAMP 1: Foundation (1-2 weeks)
-    └─ 30 sounds
-    └─ Understand the structure
-    
-⛺ CAMP 2: Basic Communication (4-8 weeks)
-    └─ 250 grammar particles
-    └─ Form complete sentences
-    
-⛺ CAMP 3: Everyday Fluency (3-6 months)
-    └─ 625 core vocabulary words
-    └─ Express anything in daily life
-    
-🏔️ SUMMIT: Technical Mastery (Years, Optional)
-    └─ Use vectors for scientific precision
-    └─ Reference 390,625+ concepts as needed
-```
+**🏕️ BASE CAMP: Foundation (1 week)**  
+30 sounds  
+Understand the structure
+
+**⛺ CAMP 1: Basic Communication (2-4 weeks)**  
+250 grammar particles  
+Form complete sentences
+
+**⛺ CAMP 2: Everyday Fluency (6-9 months)**  
+625 core vocabulary words  
+Express anything in daily life  
+**FLUENCY MILESTONE** ✅
+
+**⛺ CAMP 3: Comprehensive Competency (9-12 months)**  
+Master CVCV matrix patterns  
+Deduce 15,625 object words  
+Name anything in the world
+
+**🏔️ SUMMIT: Technical Mastery (Years, Optional)**  
+Use vectors for scientific precision  
+Reference 390,625+ concepts as needed
 
 
-**Most climbers stop at Camp 3. That's perfectly fine.**  
-You can communicate fully about everyday life with 875 total resources.
-
-The summit (technical vectors) is there if you need it — like having a specialized guidebook you reference but never memorize.
+**Most learners stop at Camp 2 (fluency). That's perfectly fine.**  
+Camp 3 (CVCV matrix) is optional but powerful.  
+The summit (technical vectors) is there if you need it.
 
 ---
 
-## 🎯 Three Paths to Choose
+## 🎯 Three Learning Paths
 
-### 🟢 **Path A: Casual Speaker** (3-6 months)
+Choose based on your goals:
+
+### 🟢 **Path A: Casual Speaker** (6-9 months)
 **Goal:** Everyday conversation, travel, basic communication  
 **Resources:** 875 (250 grammar + 625 vocabulary)  
 **Time commitment:** 30-60 minutes daily
@@ -48,25 +53,29 @@ The summit (technical vectors) is there if you need it — like having a special
 - Express emotions and ideas
 - Understand most everyday situations
 
+**Stop here if:** You want functional fluency without deep mastery
+
 ---
 
-### 🟡 **Path B: Fluent User** (6-12 months)
-**Goal:** Full fluency, create content, teach others  
-**Resources:** 875 core + expanded compounds  
+### 🟡 **Path B: Comprehensive User** (9-15 months)
+**Goal:** Full mastery including systematic object naming  
+**Resources:** 875 + CVCV matrix patterns  
 **Time commitment:** 60-90 minutes daily
 
 **You'll be able to:**
 - Everything in Path A, plus:
-- Write stories and articles
-- Create complex descriptions
-- Build new compound words
-- Help others learn
+- Deduce words for 15,625 objects
+- Name anything you encounter
+- Understand how words are systematically built
+- Create new words when needed
+
+**Stop here if:** You want complete practical mastery
 
 ---
 
 ### 🔴 **Path C: Technical Master** (1-3 years)
 **Goal:** Scientific precision, technical documentation  
-**Resources:** 875 core + domain-specific vectors  
+**Resources:** 875 + CVCV + domain-specific vectors  
 **Time commitment:** 90-120 minutes daily
 
 **You'll be able to:**
@@ -76,26 +85,28 @@ The summit (technical vectors) is there if you need it — like having a special
 - Create specialized terminology
 - Contribute to language development
 
+**Choose this if:** You need scientific/technical precision
+
 ---
 
 ## 📅 Detailed Path A: Casual Speaker
 
-### **Phase 1: Foundation (Week 1-2)**
+### **Phase 0: Foundation (Week 1)**
 
 #### **Day 1-3: Phonology**
 **Goal:** Learn the 30 sounds
 
 **Tasks:**
-1. Read [Phonology](../docs/02-phonology.md)
-2. Listen to pronunciation guide (when available)
-3. Practice each sound 10 times
-4. Record yourself, compare
+1. Read [Phonology](../docs/02-phonology.md) — 20 minutes
+2. Practice each sound 10 times
+3. Record yourself, compare
+4. Focus on unfamiliar sounds
 
 **Sounds to master:**
 - 25 consonants: p, m, n, t, k, b, d, g, s, l, v, y, h, š, r, f, w, z, ň, č, ž, ǰ, ñ, c, x
 - 5 vowels: a, e, i, o, u
 
-**Practice tip:** If you speak English + one other language, you likely already know most of these sounds!
+**Practice tip:** If you speak English + one other language, you likely already know 25+ of these sounds!
 
 ---
 
@@ -103,128 +114,165 @@ The summit (technical vectors) is there if you need it — like having a special
 **Goal:** Understand how the language works
 
 **Tasks:**
-1. Read [Philosophy](../docs/01-philosophy.md) — 20 min
-2. Read [Structure](../docs/04-structure.md) — 30 min
-3. Understand the three layers
-4. Review [Index](../docs/00-index.md) for navigation
+1. Read [Philosophy](../docs/01-philosophy.md) — 15 minutes
+2. Read [Structure](../docs/04-structure.md) — 30 minutes
+3. Read [Primary Concepts](../docs/03-primary-and-informal-concepts.md) — 25 minutes
+4. Understand the four-layer system
 
 **Key concepts to grasp:**
-- CV = grammar (starts with consonant)
-- VC = extended grammar (starts with vowel, 1 syllable)
-- VCV = vocabulary (starts with vowel, 1 syllable)
-- CV+CV = objects (starts with consonant, 2+ syllables)
-- VCV+CV = technical (starts with vowel, 2+ syllables)
+- CV = grammar (starts with consonant, 1 syllable)
+- VC = extended grammar (starts with vowel, 1 syllable, ends consonant)
+- VCV = vocabulary (starts with vowel, 1 syllable, ends vowel)
+- CVCV = objects (starts with consonant, 2 syllables)
+- Z+ = numerals (starts with Z)
+- VCV+ = technical vectors (starts with vowel, 2+ syllables)
 
 ---
 
-#### **Week 2: First Grammar Family**
-**Goal:** Master Family B (pronouns)
-
-**Study [Grammar CV-VC](../docs/05-grammar-cv-vc.md) — Family B:**
-
-**CV (Basic):**
-| Particle | Meaning | Example |
-|----------|---------|---------|
-| ba | I, me | `ba ivi` = I do |
-| be | you | `be ivi` = you do |
-| bi | he/she/they (singular) | `bi ivi` = they do |
-| bo | we | `bo ivi` = we do |
-| bu | they (plural) | `bu ivi` = they do |
-
-**VC (Complement):**
-| Particle | Meaning | Example |
-|----------|---------|---------|
-| ab | myself | `ba ab ivi` = I do it myself |
-| eb | yourself | `be eb ivi` = you do it yourself |
-| ib | themselves | `bi ib ivi` = they do it themselves |
-| ob | ourselves | `bo ob ivi` = we do it ourselves |
-| ub | each other | `bu ub awi` = they argue with each other |
-
-**Daily practice:**
-- Write 10 sentences using pronouns
-- Say them aloud
-- Try simple conversations: "I do, you do, we do"
-
----
-
-### **Phase 2: Core Grammar (Week 3-6)**
+### **Phase 1: Core Grammar (Week 2-6)**
 
 **Goal:** Learn 250 grammar particles (25 families × 10 particles)
 
 **Weekly breakdown:**
 
-#### **Week 3: Essential Families**
-- **M (Modal):** ma/me/mi/mo/mu (can, may, must...) + am/em/im/om/um
-- **T (Tense):** ta/te/ti/to/tu (past, present, future...) + at/et/it/ot/ut
-- **K (Question):** ka/ke/ki/ko/ku (what, who, where...) + ak/ek/ik/ok/uk
+#### **Week 2: Essential Families**
+
+**Family B (Pronouns):**  
+ba/be/bi/bo/bu = I, you, they(sg), we, they(pl)  
+ab/eb/ib/ob/ub = myself, yourself, themselves, ourselves, each other
+
+**Family M (Modal):**  
+ma/me/mi/mo/mu = can, may, neutral, must, will  
+am/em/im/om/um = cannot, may not, might, should, certainly
+
+**Family T (Tense):**  
+ta/te/ti/to/tu = past, present, timeless, future, immediate  
+at/et/it/ot/ut = past habitual, present continuous, present perfect, future intentional, past perfect
 
 **Practice:** Form questions and answers
 ```
 ka be wa?        (what you want?)
-ba wa ami.       (I want place)
-→ "What do you want?" "I want to go somewhere."
+ba wa yanu       (I want food)
+→ "What do you want?" "I want food"
 ```
+
+**Daily practice:** 30 minutes  
+- Learn 5 new particles
+- Review previous particles
+- Create 10 sentences using new particles
 
 ---
 
-#### **Week 4: Spatial & Relational**
-- **P (Preposition):** pa/pe/pi/po/pu (to, from, at, with, for) + ap/ep/ip/op/up
-- **S (Spatial):** sa/se/si/so/su (up, down, middle, near, far) + as/es/is/os/us
-- **D (Demonstrative):** da/de/di/do/du (this, that, the, a) + ad/ed/id/od/ud
+#### **Week 3: Spatial & Relational**
+
+**Family P (Preposition):**  
+pa/pe/pi/po/pu = to, from, at, with, for  
+ap/ep/ip/op/up = into, out of, on, together with, without
+
+**Family S (Spatial):**  
+sa/se/si/so/su = up, down, middle, near, far  
+as/es/is/os/us = upward, downward, across, around, beyond
+
+**Family D (Demonstrative):**  
+da/de/di/do/du = this, that (medial), that (distal), the, a/an  
+ad/ed/id/od/ud = here, there (near), there (far), the same, another
 
 **Practice:** Describe locations
 ```
 ami va ki?       (place is where?)
-ami va so.       (place is near)
-→ "Where is the place?" "The place is near."
+ami va so        (place is near)
+→ "Where is the place?" "The place is near"
 ```
 
 ---
 
-#### **Week 5: Connection & Quality**
-- **L (Conjunction):** la/le/li/lo/lu (and, or, but, if, because) + al/el/il/ol/ul
-- **N (Quantity):** na/ne/ni/no/nu (none, some, several, many, all) + an/en/in/on/un
-- **F (Comparison):** fa/fe/fi/fo/fu (equal, less, different, more, most) + af/ef/if/of/uf
+#### **Week 4: Connection & Quantity**
 
-**Practice:** Connect ideas
+**Family L (Conjunction):**  
+la/le/li/lo/lu = and, or, but, if, because  
+al/el/il/ol/ul = also, either...or, however, then, so that
+
+**Family N (Quantity):**  
+na/ne/ni/no/nu = none, some, several, many, all  
+an/en/in/on/un = any, few, most, much, each
+
+**Family K (Question):**  
+ka/ke/ki/ko/ku = what, who, where, when, why  
+ak/ek/ik/ok/uk = which, whose, where to/from, how long, how
+
+**Practice:** Connect ideas and quantify
 ```
-ba wa ivi li ba am ma.
-I want do but I not can.
-→ "I want to do it but I cannot."
+ba wa ivi li ba am ma
+I want do but I not can
+→ "I want to do it but I cannot"
+
+ba vi ne api
+I have some thing
+→ "I have some things"
 ```
 
 ---
 
-#### **Week 6: Action & State**
-- **V (Action):** va/ve/vi/vo/vu (be, do, have, become, cause) + av/ev/iv/ov/uv
-- **G (Aspect):** ga/ge/gi/go/gu (start, continue, complete, repeat, stop) + ag/eg/ig/og/ug
-- **R (State):** ra/re/ri/ro/ru (active, passive, static, potential, necessary) + ar/er/ir/or/ur
+#### **Week 5: Action & State**
+
+**Family V (Action):**  
+va/ve/vi/vo/vu = be, do, have, become, cause  
+av/ev/iv/ov/uv = not be, happen, belong to, remain, allow
+
+**Family G (Aspect):**  
+ga/ge/gi/go/gu = start, continue, complete, repeat, stop  
+ag/eg/ig/og/ug = about to, still, already, again, no longer
+
+**Family R (State):**  
+ra/re/ri/ro/ru = active, passive, static, potential, necessary  
+ar/er/ir/or/ur = in process, affected by, stable, able to be, must be
 
 **Practice:** Describe actions and states
 ```
-ba ga ivi te.
-I start do present.
-→ "I'm starting to do it now."
+ba ga ivi te
+I start do present
+→ "I'm starting to do it now"
+
+da api va ri
+this thing is static
+→ "This thing is unchanging"
 ```
 
 ---
 
-### **Phase 3: Core Vocabulary (Week 7-26)**
+#### **Week 6: Remaining Families**
+
+Complete remaining grammar families:
+
+**F (Comparison):** fa/fe/fi/fo/fu (equal, less, different, more, most)  
+**H (Relation):** ha/he/hi/ho/hu (about, like, as, according to, instead of)  
+**Y (Perception):** ya/ye/yi/yo/yu (see, hear, feel, seem, sense)  
+**Š (Boundary):** ša/še/ši/šo/šu (inside, outside, edge, between, throughout)  
+**And 11 more families...**
+
+**Study strategy:**  
+- Group by function (spatial, temporal, relational)
+- Learn 3-4 families per week
+- Practice with sentences daily
+
+---
+
+### **Phase 2: Core Vocabulary (Week 7-26)**
 
 **Goal:** Learn 625 VCV words (25 domains × 25 words)
 
 **Strategy:** Learn by domain, focusing on high-frequency first
 
----
+#### **Priority Domains (First 10 weeks):**
 
-#### **Week 7-8: Domain V (Action) — 25 words**
+**Week 7-8: Domain V (Action) — 25 words**
 
-**Priority words to learn first:**
+**High priority words:**
 ```
-avi  = go
+avi  = go, travel
 evi  = take, get
 ivi  = do, make
-ovi  = work
+ovi  = work, labor
 uvi  = push, force
 
 ave  = move
@@ -235,20 +283,20 @@ uve  = pull
 ```
 
 **Daily practice:**
-- Learn 3-4 new words per day
+- Learn 3-4 new words
 - Use each in 5 sentences
 - Review previous words
 
 ---
 
-#### **Week 9-10: Domain W (Emotion) — 25 words**
+**Week 9-10: Domain W (Emotion) — 25 words**
 
-**Priority words:**
+**High priority words:**
 ```
 awi  = argue
 ewi  = cry
 iwi  = ignore
-owi  = wonder, be surprised
+owi  = wonder
 uwi  = laugh
 
 awo  = shout
@@ -261,15 +309,15 @@ uwo  = rejoice
 **Practice conversations:**
 ```
 ka be ewi?       (what you cry?)
-ba ewi ǰe epi.   (I cry because people)
-→ "Why are you crying?" "I cry because of people."
+ba ewi ǰe epi    (I cry because people)
+→ "Why are you crying?" "I cry because of people"
 ```
 
 ---
 
-#### **Week 11-12: Domain M (Space) — 25 words**
+**Week 11-12: Domain M (Space) — 25 words**
 
-**Priority words:**
+**High priority words:**
 ```
 ami  = place, location
 emi  = near, beside
@@ -286,9 +334,9 @@ umu  = capital, main place
 
 ---
 
-#### **Week 13-14: Domain N (Time) — 25 words**
+**Week 13-14: Domain N (Time) — 25 words**
 
-**Priority words:**
+**High priority words:**
 ```
 ani  = time, moment
 eni  = hour, duration
@@ -302,18 +350,11 @@ onu  = night
 uno  = year
 ```
 
-**Practice:**
-```
-ba ivi ani ka?
-I do time what?
-→ "When do I do it?" / "What time do I do it?"
-```
-
 ---
 
-#### **Week 15-16: Domain P (Substance) — 25 words**
+**Week 15-16: Domain P (Substance) — 25 words**
 
-**Priority words:**
+**High priority words:**
 ```
 api  = thing, object
 epi  = people, folk
@@ -322,14 +363,14 @@ opi  = body, physical form
 upi  = material, substance
 
 epe  = person, individual
-ipe  = sprout, young life
+ipe  = young life
 ope  = limb, part
 upe  = grain, particle
 ```
 
 ---
 
-#### **Week 17-26: Remaining 20 Domains**
+#### **Remaining 20 Domains (Week 17-26):**
 
 **Recommended learning order:**
 
@@ -347,7 +388,7 @@ upe  = grain, particle
 
 ---
 
-### **Phase 4: Practice & Consolidation (Ongoing)**
+### **Phase 3: Practice & Consolidation (Ongoing)**
 
 #### **Daily Routine (30-60 minutes)**
 
@@ -368,134 +409,320 @@ upe  = grain, particle
 
 ---
 
-#### **Weekly Goals**
+### **Milestone Checkpoints**
 
-**Week 1-6:** Grammar mastery
-- ✅ Know all 250 particles
-- ✅ Form complex sentences
-- ✅ Ask and answer questions
-
-**Week 7-16:** High-frequency vocabulary (250 words)
-- ✅ Domains V, W, M, N, P
-- ✅ Basic conversations possible
-- ✅ Express needs and emotions
-
-**Week 17-26:** Complete core vocabulary (625 words)
-- ✅ All 25 domains covered
-- ✅ Everyday fluency achieved
-- ✅ Can discuss any daily topic
-
----
-
-## 📚 Study Resources
-
-### **Essential Documents**
-1. [Grammar CV-VC](../docs/05-grammar-cv-vc.md) — Your grammar bible
-2. [Basics VCV](../docs/06-basics-vcv.md) — Your vocabulary source
-3. [Study & Examples](../study-and-examples/) — Practice materials
-
-### **Practice Materials**
-- First sentences exercises
-- Simple dialogues
-- Translation practice
-- Conversation prompts
-
-### **Community Resources**
-- GitHub Discussions (coming soon)
-- Discord server (when launched)
-- Practice partners
-- Weekly challenges
-
----
-
-## ✅ Milestones & Checkpoints
-
-### **Checkpoint 1: Week 2**
+**Checkpoint 1: Week 6**  
 **Can you:**
-- [ ] Pronounce all 30 sounds correctly?
-- [ ] Explain the three-layer structure?
-- [ ] Use all Family B pronouns?
-- [ ] Form a simple sentence: "I do this"?
+- [ ] Use all 250 grammar particles correctly?
+- [ ] Form complex sentences with multiple particles?
+- [ ] Ask and answer questions fluently?
+- [ ] Describe actions, states, and relationships?
 
-**If yes:** Continue to Phase 2  
-**If no:** Review Week 1-2 materials
-
----
-
-### **Checkpoint 2: Week 6**
-**Can you:**
-- [ ] Recognize all 250 grammar particles?
-- [ ] Use 15+ particles actively in sentences?
-- [ ] Ask questions using Family K?
-- [ ] Describe location using Family S?
-- [ ] Connect ideas using Family L?
-
-**If yes:** Continue to Phase 3  
+**If yes:** ✅ Proceed to vocabulary  
 **If no:** Review grammar families, practice more
 
 ---
 
-### **Checkpoint 3: Week 16**
+**Checkpoint 2: Week 16**  
 **Can you:**
 - [ ] Use 250+ vocabulary words actively?
-- [ ] Have a basic 10-sentence conversation?
+- [ ] Have a 10-sentence conversation?
 - [ ] Describe your day in the language?
-- [ ] Express emotions and needs?
-- [ ] Understand simple written texts?
+- [ ] Express emotions and needs clearly?
+- [ ] Understand simple dialogues?
 
-**If yes:** Continue to advanced domains  
+**If yes:** ✅ Continue to remaining domains  
 **If no:** Review high-frequency domains (V, W, M, N, P)
 
 ---
 
-### **Final Checkpoint: Week 26**
+**Checkpoint 3: Week 26**  
 **Can you:**
 - [ ] Use 500+ words actively (80% of core vocabulary)?
 - [ ] Maintain a 5-minute conversation?
 - [ ] Write a short story or diary entry?
-- [ ] Understand the Universal Declaration translation?
-- [ ] Help a beginner learn basic concepts?
+- [ ] Understand most everyday situations?
+- [ ] Think in the language occasionally?
 
-**If yes:** 🎉 **Congratulations! You've achieved fluency!**  
-**If no:** Continue practicing, no rush
-
----
-
-## 🎓 Advanced Learning (Beyond Week 26)
-
-### **For Path B: Fluent User**
-
-**Goals:**
-- Master all 625 words actively
-- Learn to build compound words (CV+CV)
-- Create original content
-- Contribute to the community
-
-**Activities:**
-- Translate songs, poems, stories
-- Write blog posts in the language
-- Create video lessons
-- Participate in community discussions
+**If yes:** 🎉 **Congratulations! You've achieved everyday fluency!**  
+**If no:** Continue practicing, extend timeline as needed
 
 ---
 
-### **For Path C: Technical Master**
+## 📅 Detailed Path B: Comprehensive User
 
-**Goals:**
-- Understand vector system architecture
-- Use domain-specific technical vectors
-- Contribute to matrix development
+**Prerequisites:** Complete Path A (875 resources, everyday fluency)
 
-**Study:**
-- [Vector System](../docs/07-vector-system.md)
-- [Ontological Matrices](../ontological-matrices-and-vectors/)
-- Domain P (Substance/Being) — 1,875/3,125 concepts available
+**Additional goal:** Master CVCV matrix for systematic object naming
 
-**Application:**
-- Write technical documentation in your field
-- Create specialized terminology
-- Contribute vector definitions
-- Bridge natural language to this system
+---
+
+### **Phase 4: CVCV Matrix Foundation (Week 27-30)**
+
+#### **Week 27: Understanding the System**
+
+**Goal:** Grasp the C₁V₁C₂V₂ structure
+
+**Study materials:**
+1. [Nominal Lexicon Matrix](../lexicon-and-foreign-words/09-lexicon-nominal-matrix.md) — Full system
+2. [Structure](../docs/04-structure.md) — System 3 section
+3. [Primary Concepts](../docs/03-primary-and-informal-concepts.md) — Core Concept 4
+
+**Key concepts:**
+- **C₁** = Domain (25) — P=beings, M=places, Y=foods, etc.
+- **V₁** = Subcategory (5) — pa/pe/pi/po/pu within P-domain
+- **C₂** = Concept (25) — pek-=domestic within pe-mammals
+- **V₂** = Variation (5) — peka/peke/peki/peko/peku
+
+**Practice:** Analyze example words
+```
+peka = dog
+p = living thing
+e = terrestrial mammal
+k = domestic animal
+a = first type
+
+maka = house
+m = place/structure
+a = dwelling
+k = residence
+a = standard type
+```
+
+---
+
+#### **Week 28: Domain P (Living Things)**
+
+**Goal:** Master P-domain subcategories and common words
+
+**Learn:**
+
+**pa- (Humans):**  
+paka = father, pake = mother, pala = man, pale = woman, pali = child
+
+**pe- (Terrestrial Mammals):**  
+peka = dog, peke = cat, peki = horse, peko = cow, peku = pig
+
+**pi- (Birds):**  
+pika = bird (generic), pike = chicken, piki = duck
+
+**po- (Aquatic):**  
+poka = fish (generic), poke = whale, poki = dolphin
+
+**pu- (Plants):**  
+puka = tree, puke = flower, puki = grass
+
+**Practice:** Deduce new words
+```
+Encounter: peli
+Deduce: p=living, e=mammal, l=?, i=third
+Likely: Wild animal (different from pek-domestic)
+```
+
+---
+
+#### **Week 29: Domain M (Places & Structures)**
+
+**Goal:** Master M-domain subcategories
+
+**Learn:**
+
+**ma- (Dwellings):**  
+maka = house, make = apartment, maki = hut
+
+**me- (Structural Parts):**  
+meka = door, meke = window, meki = wall, meko = roof, meku = floor
+
+**mi- (Furniture):**  
+mika = table, mike = chair, miki = bed
+
+**mo- (Geography):**  
+moka = mountain, moke = river, moki = sea, moko = lake
+
+**mu- (Urban):**  
+muka = city, muke = village, muki = street
+
+**Practice:** Name objects in your environment
+```
+Look at your room:
+- miki = bed
+- mika = table
+- mike = chair
+- meke = window
+- meka = door
+```
+
+---
+
+#### **Week 30: Domain Y (Foods)**
+
+**Goal:** Master Y-domain subcategories
+
+**Learn:**
+
+**ya- (Grains):**  
+yaka = bread, yake = rice, yaki = wheat, yako = corn
+
+**ye- (Proteins):**  
+yeka = meat, yeke = fish (food), yeki = egg, yeko = milk
+
+**yi- (Vegetables):**  
+yika = vegetable (generic), yike = tomato, yiki = potato
+
+**yo- (Fruits):**  
+yoka = fruit (generic), yoke = apple, yoki = banana, yoko = orange
+
+**yu- (Seasonings):**  
+yuka = salt, yuke = sugar, yuki = pepper
+
+**Practice:** Describe meals
+```
+ba evi yaka la yeko
+I take bread and milk
+→ "I get bread and milk"
+
+be wa yoke le yoki?
+you want apple or banana?
+→ "Do you want an apple or banana?"
+```
+
+---
+
+### **Phase 5: Expanding CVCV Knowledge (Week 31-40)**
+
+#### **Week 31-32: Domain V (Tools)**
+
+**va- (Cutting Tools):** vaka = knife, vake = scissors  
+**ve- (Containers):** veka = cup, veke = bowl, veki = bottle  
+**vi- (Utensils):** vika = spoon, vike = fork
+
+#### **Week 33-34: Domain D (Body Parts)**
+
+**da- (Head):** daka = head, dake = eye, daki = ear, dako = nose, daku = mouth  
+**di- (Limbs):** dika = hand, dike = arm, diki = finger, diko = leg, diku = foot
+
+#### **Week 35-36: Domain C (Transportation)**
+
+**ca- (Land Vehicles):** caka = car, cake = bicycle, caki = motorcycle  
+**co- (Water Vessels):** coka = boat, coke = ship  
+**cu- (Paths):** cuka = road, cuke = bridge
+
+#### **Week 37-40: Additional Domains**
+
+Choose domains relevant to your interests:
+- **K (Social)** — if you discuss people often
+- **B (Communication)** — if you read/write a lot
+- **L (Materials)** — if you work with substances
+
+---
+
+### **Phase 6: Pattern Mastery (Week 41-52)**
+
+**Goal:** Deduce unfamiliar CVCV words automatically
+
+#### **Deduction Exercises**
+
+**Exercise 1: Unknown word encountered**
+```
+You see: peli
+
+Your process:
+1. p = living thing (P-domain)
+2. e = terrestrial mammal (pe-)
+3. l = new concept (not k-domestic)
+4. i = third variation
+
+Hypothesis: Wild mammal, third type
+Context check: "da peli va pi moka" (the peli is at mountain)
+Conclusion: Mountain animal, possibly wild predator
+```
+
+**Exercise 2: Creating needed word**
+```
+Need: "scissors"
+
+Your process:
+1. Tool for cutting → V-domain
+2. Cutting tools → va-
+3. Second after knife → vake
+
+Result: vake = scissors ✅
+Verify: Check if documented, if not, propose to community
+```
+
+---
+
+### **Milestone: Comprehensive Competency**
+
+**By Week 52, can you:**
+- [ ] Deduce meanings of unfamiliar CVCV words from context?
+- [ ] Name 100+ common objects using CVCV?
+- [ ] Explain CVCV structure to a new learner?
+- [ ] Create plausible new CVCV words when needed?
+- [ ] Navigate conversations about concrete objects fluently?
+
+**If yes:** 🎉 **You've achieved comprehensive competency!**  
+**You can now name anything in the world systematically.**
+
+---
+
+## 📅 Detailed Path C: Technical Master
+
+**Prerequisites:** Complete Path B (comprehensive competency)
+
+**Additional goal:** Master technical vectors for scientific precision
+
+---
+
+### **Phase 7: Vector System Fundamentals (Month 13-15)**
+
+**Study materials:**
+1. [Vector System](../docs/07-vector-system.md)
+2. [Ontological Matrices](../ontological-matrices-and-vectors/)
+3. Matrix P documentation (most developed)
+
+**Goal:** Understand VCV+CV+CV+ compositional structure
+
+**Example vectors:**
+```
+apimabi
+a-p-i = thing (substance, neutral)
+m-a-b-i = biological-organism
+
+→ "biological organism"
+```
+
+**Practice:** Analyze scientific terms in your field  
+Convert technical concepts to vector expressions
+
+---
+
+### **Phase 8: Domain-Specific Mastery (Month 16-36)**
+
+**Strategy:** Master vectors relevant to YOUR field
+
+**If you're a biologist:**  
+Focus on Matrix P (Substance/Being) subcategories:
+- a-p (Origin)
+- e-p (Vitality)
+- i-p (Complexity)
+- o-p (Function)
+- u-p (Taxonomy) — when developed
+
+**If you're a physicist:**  
+Focus on relevant matrices:
+- N (Temporal)
+- M (Dimensional)
+- T (Dynamic/Processual)
+
+**If you're a computer scientist:**  
+Focus on:
+- Č (Cognitive)
+- D (Structural)
+- V (Action/Verbal)
+
+**Don't try to memorize all 390,625 vectors.**  
+**Learn to construct them and reference as needed.**
 
 ---
 
@@ -505,55 +732,91 @@ upe  = grain, particle
 
 **1. Spaced Repetition**
 - Use Anki or similar flashcard apps
-- Review 20 cards daily
-- Focus on words you struggle with
+- Review grammar particles daily (10 min)
+- Review vocabulary with increasing intervals
+- Practice CVCV deduction weekly
 
 **2. Immersion**
-- Label objects in your home
+- Label objects in your home with CVCV words
 - Think in the language throughout the day
 - Narrate your actions: "ba ivi X, ba evi Y..."
+- Keep a daily journal in the language
 
 **3. Active Practice**
-- Write daily journal entries
+- Write daily journal entries (start with 3 sentences, grow to paragraphs)
 - Record yourself speaking
 - Create dialogues with yourself
+- Practice CVCV deduction with random objects
 
 **4. Pattern Recognition**
-- Notice how VCV words are built
-- See the logic in grammar particles
+- Notice how VCV words are built (domain + intensity)
+- See the logic in CVCV structure (C₁V₁C₂V₂)
 - Predict meanings before checking
+- Test your deductions with context
 
-**5. Social Learning**
-- Find a study partner
-- Join community discussions
-- Teach what you learn (best way to solidify knowledge)
+**5. Community Learning**
+- Find a study partner (when community exists)
+- Join discussions (when available)
+- Teach what you learn (solidifies knowledge)
+- Contribute to CVCV matrix development
 
 ---
 
 ## 🚧 Common Challenges & Solutions
 
 ### **Challenge 1: "Too many grammar particles!"**
-**Solution:** Learn by family, not alphabetically. Master one family fully before moving to the next. Focus on high-frequency families first (B, M, T, K).
+
+**Solution:**  
+- Learn by family, not alphabetically
+- Master one family fully before next
+- Focus on high-frequency families first (B, M, T, K, P, V)
+- Use spaced repetition
+- Practice in sentences immediately
 
 ---
 
 ### **Challenge 2: "I keep forgetting vocabulary!"**
-**Solution:** Use spaced repetition. Connect new words to existing knowledge. Create mental images. Use words in multiple contexts immediately.
+
+**Solution:**  
+- Use spaced repetition religiously
+- Connect new words to existing knowledge
+- Create mental images for abstract words
+- Use words in multiple contexts immediately
+- Group by domain (learn all W-emotion together)
 
 ---
 
-### **Challenge 3: "I don't have anyone to practice with!"**
-**Solution:** Talk to yourself. Write dialogues. Record yourself. Join the community when available. Practice with AI chatbots (teach them the language!).
+### **Challenge 3: "CVCV deduction seems hard!"**
+
+**Solution:**  
+- Start with high-frequency domains (P, M, Y)
+- Learn subcategories thoroughly first
+- Practice deduction exercises daily
+- Don't expect perfection — context helps
+- Remember: you're learning PATTERNS, not 15,625 individual words
 
 ---
 
-### **Challenge 4: "The vector system seems overwhelming!"**
-**Solution:** Ignore it for now! You don't need vectors for everyday fluency. They're optional precision tools. Most speakers never use them.
+### **Challenge 4: "I don't have anyone to practice with!"**
+
+**Solution:**  
+- Talk to yourself in the language
+- Write dialogues and act them out
+- Record yourself and listen back
+- Keep a voice journal
+- Narrate your daily activities
+- When community develops, join immediately
 
 ---
 
 ### **Challenge 5: "I'm not making progress fast enough!"**
-**Solution:** Progress isn't linear. Plateaus are normal. Celebrate small wins. Compare yourself to your past self, not others. Consistency matters more than speed.
+
+**Solution:**  
+- Progress isn't linear — plateaus are normal
+- Celebrate small wins (learned one family? Celebrate!)
+- Compare yourself to YOUR past self, not others
+- Consistency matters more than speed
+- Adjust study time if needed (20 min/day is better than 2 hours once/week)
 
 ---
 
@@ -565,18 +828,18 @@ Rate yourself (1-5) on each skill:
 
 **Week ____**
 
-| Skill | Rating (1-5) | Notes |
-|-------|--------------|-------|
-| Pronunciation | ☐☐☐☐☐ | |
-| Grammar recognition | ☐☐☐☐☐ | |
-| Grammar production | ☐☐☐☐☐ | |
-| Vocabulary passive | ☐☐☐☐☐ | |
-| Vocabulary active | ☐☐☐☐☐ | |
-| Reading comprehension | ☐☐☐☐☐ | |
-| Writing ability | ☐☐☐☐☐ | |
-| Speaking confidence | ☐☐☐☐☐ | |
+**Pronunciation:** ☐☐☐☐☐  
+**Grammar recognition:** ☐☐☐☐☐  
+**Grammar production:** ☐☐☐☐☐  
+**Vocabulary passive:** ☐☐☐☐☐  
+**Vocabulary active:** ☐☐☐☐☐  
+**CVCV understanding:** ☐☐☐☐☐ (if Path B)  
+**CVCV deduction:** ☐☐☐☐☐ (if Path B)  
+**Reading comprehension:** ☐☐☐☐☐  
+**Writing ability:** ☐☐☐☐☐  
+**Speaking confidence:** ☐☐☐☐☐
 
-**Goal:** Aim for 3+ in all areas by Week 26
+**Goal:** Aim for 3+ in all areas by completion of your chosen path
 
 ---
 
@@ -584,21 +847,24 @@ Rate yourself (1-5) on each skill:
 
 **I commit to:**
 - [ ] Study _____ minutes per day
-- [ ] Complete Week 26 by ___________ (date)
+- [ ] Complete my chosen path by ___________ (date)
+- [ ] Review previous material _____ times per week
 - [ ] Practice speaking _____ times per week
 - [ ] Write _____ sentences per day
-- [ ] Review previous material _____ times per week
+
+**My chosen path:** ☐ Path A (Casual) ☐ Path B (Comprehensive) ☐ Path C (Technical)
 
 **I will celebrate when:**
 - [ ] I complete my first conversation
 - [ ] I reach 100 vocabulary words
 - [ ] I finish the grammar families
+- [ ] I deduce my first CVCV word correctly (Path B)
 - [ ] I achieve fluency milestone
 
 **I will adjust if:**
-- [ ] I fall behind schedule (add 10 min/day)
-- [ ] I'm bored (add creative exercises)
-- [ ] I'm overwhelmed (reduce daily goal temporarily)
+- [ ] I fall behind schedule (add 10 min/day or extend timeline)
+- [ ] I'm bored (add creative exercises, change domains)
+- [ ] I'm overwhelmed (reduce daily goal temporarily, focus on one thing)
 
 ---
 
@@ -608,21 +874,27 @@ Rate yourself (1-5) on each skill:
 
 Every expert was once a beginner.  
 Every fluent speaker started with "ba" (I).  
-Every long journey starts with one step.
+Every long journey starts with one sound.
 
 **This language is designed for you to succeed.**
 
 - No irregular verbs to memorize
 - No exceptions to learn
 - No cultural idioms to decipher
-- Just logical, learnable patterns
+- **No arbitrary vocabulary** — just logical patterns
 
-**875 resources = everyday fluency**
-
-That's **less than** Basic English (850 words).  
-That's **far less than** most language courses (2,000-3,000 words).
+**875 resources = everyday fluency** (Path A)  
+**+ CVCV patterns = comprehensive mastery** (Path B)  
+**+ Vectors = technical precision** (Path C)
 
 **You can do this.**
+
+The grammar is systematic.  
+The vocabulary is pattern-based.  
+**The nominal lexicon is deducible.**  
+The path is clear.
+
+**Start today. Progress daily. Achieve fluency.**
 
 ---
 
@@ -633,7 +905,6 @@ That's **far less than** most language courses (2,000-3,000 words).
 - [FAQ](FAQ.md) — Common questions answered
 - [GitHub Discussions](https://github.com/rogerdafonseca-hub/conlang-ontological/discussions) — Coming soon
 - [Discord Server](#) — When launched
-- [CONTRIBUTING.md](../../CONTRIBUTING.md) — Help improve the language
 
 **Share your progress. Ask questions. Help others.**
 
@@ -641,11 +912,11 @@ That's **far less than** most language courses (2,000-3,000 words).
 
 ---
 
-*"Every word you learn is a bridge to understanding. Every sentence you speak connects you to the world."*
+*"875 for fluency. Patterns for mastery. Deduction for infinity."*
 
 ---
 
-**Version:** 0.3.0 — Triple-Layer Architecture  
+**Version:** 0.4.0 — Systematic Nominal Lexicon  
 **Last Updated:** 2026-03-10  
 **License:** CC0 1.0 Universal (Public Domain)
 
