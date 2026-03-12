@@ -1,1087 +1,2052 @@
 
-## ✅ **625 WORDS DOCUMENTED
-
-### **25 Domains × 25 words = 625 Concepts**
-
-|#|Domínio|Letra|Status|
-|---|---|---|---|
-|1|Action/Verbal|**V**|✅ Completo|
-|2|Emotion/Affect|**W**|✅ Completo|
-|3|Space/Dimensional|**M**|✅ Completo|
-|4|Time/Temporal|**N**|✅ Completo|
-|5|Substance/Being|**P**|✅ Completo|
-|6|Process/Dynamic|**T**|✅ Completo|
-|7|Social/Collective|**K**|✅ Completo|
-|8|Communication/Language|**B**|✅ Completo|
-|9|Structure/Form|**D**|✅ Completo|
-|10|Cycle/Rhythm|**G**|✅ Completo|
-|11|Position/Spatial|**S**|✅ Completo|
-|12|Quality/Modal|**L**|✅ Completo|
-|13|State/Condition|**R**|✅ Completo|
-|14|Value/Comparison|**F**|✅ Completo|
-|15|Relation|**H**|✅ Completo|
-|16|Perception/Sensory|**Y**|✅ Completo|
-|17|Boundary/Limit|**Š**|✅ Completo|
-|18|Identity/Possession|**Ň**|✅ Completo|
-|19|Cognition/Mental|**Č**|✅ Completo|
-|20|Intensity/Degree|**Ž**|✅ Completo|
-|21|Causality/Agency|**J̌**|✅ Completo|
-|22|Manner/Mode|**Ñ**|✅ Completo|
-|23|Movement/Direction|**C**|✅ Completo|
-|24|Existence/Reality|**X**|✅ Completo|
-|25|Intention/Volition|**Z**|✅ Completo|
+# 📋 LISTA COMPLETA: Títulos e Subtítulos das 25 Famílias VCV
 
 ---
 
-## 📊 DOMÍNIO P: SUBSTANCE (Substância/Ser)
+## **Family P — Process/Temporal Aspect**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ap**|Thing/Object (coisa, objeto, item)|
-|**ep**|Person/Human (pessoa, gente, ser humano)|
-|**ip**|Life/Living (vida, ser vivo, organismo)|
-|**op**|Body/Physical (corpo, parte, forma física)|
-|**up**|Material/Matter (matéria, material, substância)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**apa**|bit, piece|
-|**ape**|item, unit|
-|**api**|thing, object|
-|**apo**|entity, being (abstract)|
-|**apu**|everything, all things|
-|**epa**|someone, anybody|
-|**epe**|person, individual|
-|**epi**|people, folk|
-|**epo**|human, humanity|
-|**epu**|everyone, all people|
-|**ipa**|seed, germ|
-|**ipe**|sprout, young life|
-|**ipi**|life, living being|
-|**ipo**|creature, organism|
-|**ipu**|existence, being alive|
-|**opa**|part, component|
-|**ope**|limb, appendage|
-|**opi**|body, physical form|
-|**opo**|flesh, tissue|
-|**opu**|whole body, entire being|
-|**upa**|dust, particle|
-|**upe**|grain, small material|
-|**upi**|material, substance|
-|**upo**|matter, physical stuff|
-|**upu**|element, fundamental matter|
+- AP- Series — Incoative Aspect (Beginning)
+- EP- Series — Progressive Aspect (Ongoing)
+- IP- Series — Habitual Aspect (Regular)
+- OP- Series — Perfective Aspect (Completed)
+- UP- Series — Iterative Aspect (Repetitive)
 
 ---
 
-## 📊 DOMÍNIO V: ACTION (Verbos de Ação Concretos)
+## **Family M — Magnitude/Scale**
 
-### **5 Conceitos Base (ações mais comuns):**
-
-|Conceito|Categoria|
-|---|---|
-|**av**|Movement/Motion (ir, vir, mover)|
-|**ev**|Transfer (dar, pegar, levar)|
-|**iv**|Creation/Doing (fazer, criar, usar)|
-|**ov**|Labor/Work (trabalhar, construir, produzir)|
-|**uv**|Force/Impact (empurrar, bater, quebrar)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**ava**|walk, step|
-|**ave**|move, shift position|
-|**avi**|go, travel|
-|**avo**|run, hurry|
-|**avu**|rush, dash, sprint|
-|**eva**|touch, make contact|
-|**eve**|hold, grasp|
-|**evi**|take, get, receive|
-|**evo**|carry, bring|
-|**evu**|grab, seize, snatch|
-|**iva**|try, attempt|
-|**ive**|use, utilize|
-|**ivi**|do, make, create|
-|**ivo**|build, construct|
-|**ivu**|craft, produce skillfully|
-|**ova**|help, assist|
-|**ove**|serve, attend to|
-|**ovi**|work, labor|
-|**ovo**|toil, work hard|
-|**ovu**|slave away, work exhaustively|
-|**uva**|push, press|
-|**uve**|pull, drag|
-|**uvi**|hit, strike|
-|**ovo**|break, smash|
-|**uvu**|crush, destroy completely|
+- AM- Series — Size Scale
+- EM- Series — Quantity Scale
+- IM- Series — Intensity Scale
+- OM- Series — Spatial Scale
+- UM- Series — Degree Scale
 
 ---
 
-# 🎉 ÓTIMO! PADRÃO ESTABELECIDO!
+## **Family N — Frequency/Recurrence**
+
+- AN- Series — Frequency Level
+- EN- Series — Occurrence Count
+- IN- Series — Pattern Regularity
+- ON- Series — Interval Length
+- UN- Series — Cycle Speed
 
 ---
 
-## 🚀 CONTINUANDO: DOMÍNIO M (SPACE/DIMENSIONAL)
+## **Family V — Manner of Action**
 
-**Análise de frequência:**
-
-- Palavras espaciais mais comuns: here, there, place, home, way, side, top, bottom, front, back, near, far, etc.
-
----
-
-## 📊 DOMÍNIO M: SPACE (Espaço/Lugar)
-
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**am**|Location/Place (lugar, local, posição)|
-|**em**|Proximity (perto, longe, distância)|
-|**im**|Direction (direção, caminho, lado)|
-|**om**|Container/Space (dentro, fora, espaço)|
-|**um**|Landmark (casa, centro, ponto de referência)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**ama**|spot, point|
-|**ame**|area, zone|
-|**ami**|place, location|
-|**amo**|region, territory|
-|**amu**|world, realm|
-|**ema**|touch, adjacent|
-|**eme**|near, close|
-|**emi**|beside, next to|
-|**emo**|far, distant|
-|**emu**|remote, very far|
-|**ima**|path, route|
-|**ime**|way, direction|
-|**imi**|side, flank|
-|**imo**|front, ahead|
-|**imu**|back, behind|
-|**oma**|gap, opening|
-|**ome**|room, chamber|
-|**omi**|space, area (abstract)|
-|**omo**|container, vessel|
-|**omu**|void, emptiness|
-|**uma**|spot, landmark|
-|**ume**|home, dwelling|
-|**umi**|center, middle|
-|**umo**|base, foundation|
-|**umu**|capital, main place|
+- AV- Series — Attention Level
+- EV- Series — Skill Level
+- IV- Series — Speed/Pace
+- OV- Series — Force/Strength
+- UV- Series — Completeness
 
 ---
 
-## 📊 DOMÍNIO N: TIME (Tempo)
+## **Family W — Emotion/Affect**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**an**|Point in time (momento, instante, vez)|
-|**en**|Duration/Period (período, tempo, duração)|
-|**in**|Frequency (frequência, sempre, nunca)|
-|**on**|Day/Night cycle (dia, noite, manhã)|
-|**un**|Long periods (ano, era, época)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**ana**|instant, flash|
-|**ane**|moment, brief time|
-|**ani**|time (point), occasion|
-|**ano**|while, period|
-|**anu**|epoch, age|
-|**ena**|bit, short duration|
-|**ene**|time (duration), span|
-|**eni**|hour, unit of time|
-|**eno**|day (24h period)|
-|**enu**|lifetime, lifespan|
-|**ina**|never, not ever|
-|**ine**|rarely, seldom|
-|**ini**|sometimes, occasionally|
-|**ino**|often, frequently|
-|**inu**|always, ever|
-|**ona**|dawn, early morning|
-|**one**|morning, AM|
-|**oni**|day, daytime|
-|**ono**|evening, dusk|
-|**onu**|night, nighttime|
-|**una**|week|
-|**une**|month|
-|**uni**|season|
-|**uno**|year|
-|**unu**|century, era|
+- AW- Series — Basic Emotions
+- EW- Series — Secondary Emotions
+- IW- Series — Complex Emotions
+- OW- Series — Intense Emotions
+- UW- Series — Extreme Emotions
 
 ---
 
-## 📊 DOMÍNIO T: PROCESS (Processo/Mudança)
+## **Family T — Duration/Temporal Extension**
 
-### **5 Conceitos Base:**
+- AT- Series — Duration Length
+- ET- Series — Time Span (Short)
+- IT- Series — Temporal Nature
+- OT- Series — Time Span (Long)
+- UT- Series — Temporal Extent
 
-|Conceito|Categoria|
-|---|---|
-|**at**|Change/Transform (mudar, transformar, virar)|
-|**et**|Growth/Development (crescer, desenvolver, aumentar)|
-|**it**|Cycle/Pattern (ciclo, padrão, repetição)|
-|**ot**|Opening/Closing (abrir, fechar, revelar)|
-|**ut**|Rise/Fall (subir, descer, elevar)|
+---
 
-### **25 Palavras:**
+## **Family K — Intensity/Degree**
 
-|Código|Palavra|
-|---|---|
-|**ata**|shift, slight change|
-|**ate**|alter, modify|
-|**ati**|change, transform|
-|**ato**|convert, turn into|
-|**atu**|metamorphose, radically change|
-|**eta**|sprout, begin growing|
-|**ete**|grow, develop|
-|**eti**|increase, expand|
-|**eto**|mature, ripen|
-|**etu**|bloom, flourish fully|
-|**ita**|flicker, fluctuate|
-|**ite**|repeat, recur|
-|**iti**|cycle, rotate|
-|**ito**|revolve, orbit|
-|**itu**|loop, complete cycle|
-|**ota**|crack, open slightly|
-|**ote**|open, unfold|
-|**oti**|close, shut|
-|**oto**|seal, lock|
-|**otu**|reveal, expose fully|
-|**uta**|lift, raise slightly|
-|**ute**|rise, ascend|
-|**uti**|climb, go up|
-|**uto**|fall, descend|
-|**utu**|soar, fly high / plunge|
+
 
 
 ---
 
-## 📊 DOMÍNIO K: SOCIAL (Social/Coletivo)
+## **Family B — Communication/Discourse**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ak**|Relationship (relação, amigo, inimigo)|
-|**ek**|Family/Kin (família, parente, clã)|
-|**ik**|Group/Community (grupo, comunidade, sociedade)|
-|**ok**|Role/Status (papel, líder, posição)|
-|**uk**|Interaction (encontrar, falar, interagir)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aka**|stranger, unknown person|
-|**ake**|acquaintance, contact|
-|**aki**|friend, companion|
-|**ako**|ally, partner|
-|**aku**|soulmate, closest bond|
-|**eka**|relative, kin|
-|**eke**|sibling, brother/sister|
-|**eki**|family, household|
-|**eko**|parent, ancestor|
-|**eku**|clan, lineage|
-|**ika**|pair, duo|
-|**ike**|group, band|
-|**iki**|community, society|
-|**iko**|tribe, nation|
-|**iku**|humanity, all people|
-|**oka**|member, participant|
-|**oke**|follower, supporter|
-|**oki**|leader, chief|
-|**oko**|authority, ruler|
-|**oku**|master, supreme leader|
-|**uka**|glance, notice someone|
-|**uke**|meet, encounter|
-|**uki**|talk, converse|
-|**uko**|gather, assemble|
-|**uku**|unite, join together|
+- AB- Series — Speech Acts
+- EB- Series — Speaking Manner
+- IB- Series — Interpretation Mode
+- OB- Series — Discourse Markers
+- UB- Series — Response Types
 
 ---
 
-## 📊 DOMÍNIO B: COMMUNICATION (Comunicação/Linguagem)
+## **Family D — Degree/Intensity**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ab**|Speech/Utterance (falar, dizer, voz)|
-|**eb**|Question/Answer (perguntar, responder, questão)|
-|**ib**|Word/Language (palavra, língua, nome)|
-|**ob**|Message/Meaning (mensagem, significado, informação)|
-|**ub**|Writing/Sign (escrever, ler, símbolo)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aba**|whisper, murmur|
-|**abe**|mutter, speak softly|
-|**abi**|say, speak, tell|
-|**abo**|shout, proclaim|
-|**abu**|roar, thunder (speech)|
-|**eba**|hint, suggest|
-|**ebe**|ask, inquire|
-|**ebi**|question, query|
-|**ebo**|answer, reply|
-|**ebu**|declare, state firmly|
-|**iba**|sound, phoneme|
-|**ibe**|syllable, unit|
-|**ibi**|word, term|
-|**ibo**|phrase, expression|
-|**ibu**|language, tongue|
-|**oba**|sign, signal|
-|**obe**|hint, clue|
-|**obi**|meaning, sense|
-|**obo**|message, communication|
-|**obu**|truth, true meaning|
-|**uba**|mark, scratch|
-|**ube**|draw, sketch|
-|**ubi**|write, inscribe|
-|**ubo**|read, decipher|
-|**ubu**|record, document|
+- AD- Series — Degree Level
+- ED- Series — Sufficiency Level
+- ID- Series — Strength Level
+- OD- Series — Completeness Level
+- UD- Series — Extent Level
 
 ---
 
-## 📊 DOMÍNIO D: STRUCTURE (Estrutura/Forma)
+## **Family G — Cycle/Rhythm**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ad**|Shape/Form (forma, formato, contorno)|
-|**ed**|Size/Scale (tamanho, grande, pequeno)|
-|**id**|Line/Edge (linha, borda, limite)|
-|**od**|Surface/Face (superfície, face, lado)|
-|**ud**|Pattern/Order (padrão, ordem, estrutura)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**ada**|dot, point|
-|**ade**|blob, shapeless form|
-|**adi**|shape, form|
-|**ado**|figure, outline|
-|**adu**|geometry, perfect form|
-|**eda**|tiny, minuscule|
-|**ede**|small, little|
-|**edi**|medium, average size|
-|**edo**|large, big|
-|**edu**|huge, gigantic|
-|**ida**|scratch, thin line|
-|**ide**|line, stroke|
-|**idi**|edge, border|
-|**ido**|boundary, limit|
-|**idu**|horizon, distant edge|
-|**oda**|facet, small surface|
-|**ode**|face, side|
-|**odi**|surface, plane|
-|**odo**|layer, stratum|
-|**odu**|skin, outer surface|
-|**uda**|chaos, disorder|
-|**ude**|arrangement, layout|
-|**udi**|pattern, design|
-|**udo**|order, organization|
-|**udu**|structure, system|
+- AG- Series — Cycle Phase
+- EG- Series — Rhythm Regularity
+- IG- Series — Cycle Type
+- OG- Series — Pattern Type
+- UG- Series — Rhythm Change
 
 ---
 
-# 🎯 DOMÍNIO G (CYCLE/RHYTHM)
+## **Family S — Speed/Velocity**
 
-**Análise de frequência:**
-
-- Palavras de ciclo/ritmo mais comuns: again, repeat, turn, round, cycle, season, rhythm, beat, pattern, regular, continuous, etc.
-
----
-
-## 📊 DOMÍNIO G: CYCLE (Ciclo/Ritmo)
-
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ag**|Repetition (repetir, de novo, retornar)|
-|**eg**|Turn/Rotation (virar, girar, rodar)|
-|**ig**|Rhythm/Beat (ritmo, batida, pulso)|
-|**og**|Phase/Stage (fase, estágio, etapa)|
-|**ug**|Flow/Stream (fluxo, corrente, continuidade)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aga**|echo, reverberation|
-|**age**|again, once more|
-|**agi**|repeat, recur|
-|**ago**|return, come back|
-|**agu**|cycle, complete repetition|
-|**ega**|twist, slight turn|
-|**ege**|turn, rotate|
-|**egi**|spin, revolve|
-|**ego**|roll, tumble|
-|**egu**|whirl, spiral|
-|**iga**|tick, single beat|
-|**ige**|pulse, throb|
-|**igi**|rhythm, beat|
-|**igo**|tempo, pace|
-|**igu**|cadence, regular rhythm|
-|**oga**|hint, beginning stage|
-|**oge**|phase, stage|
-|**ogi**|step, degree|
-|**ogo**|level, tier|
-|**ogu**|climax, peak stage|
-|**uga**|trickle, slow flow|
-|**uge**|flow, stream|
-|**ugi**|current, moving water|
-|**ugo**|wave, surge|
-|**ugu**|flood, torrent|
+- AS- Series — Speed Level
+- ES- Series — Manner of Speed
+- IS- Series — Speed Change
+- OS- Series — Speed Mode
+- US- Series — Progression Type
 
 ---
 
-## 📊 DOMÍNIO S: POSITION (Posição Específica)
+## **Family L — Quality/State**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**as**|Vertical (cima, baixo, altura)|
-|**es**|Horizontal (esquerda, direita, lateral)|
-|**is**|Center/Middle (centro, meio, núcleo)|
-|**os**|Corner/Angle (canto, ângulo, extremidade)|
-|**us**|Level/Depth (nível, profundidade, camada)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**asa**|peak, tip|
-|**ase**|top, summit|
-|**asi**|high, elevated|
-|**aso**|low, down|
-|**asu**|bottom, base|
-|**esa**|left, leftward|
-|**ese**|side, lateral|
-|**esi**|right, rightward|
-|**eso**|flank, wing|
-|**esu**|across, transverse|
-|**isa**|core, nucleus|
-|**ise**|middle, midst|
-|**isi**|center, central point|
-|**iso**|heart, innermost|
-|**isu**|focus, focal point|
-|**osa**|edge, rim|
-|**ose**|corner, angle|
-|**osi**|end, extremity|
-|**oso**|tip, point|
-|**osu**|vertex, apex|
-|**usa**|shallow, surface|
-|**use**|layer, stratum|
-|**usi**|level, plane|
-|**uso**|depth, deep|
-|**usu**|abyss, bottom depth|
+- AL- Series — Quality Level
+- EL- Series — Truth Value
+- IL- Series — Difficulty Level
+- OL- Series — Correctness Level
+- UL- Series — Purity Level
 
 ---
 
-# 🎯 DOMÍNIO L (QUALITY/MODAL)
+## **Family R — State/Condition**
 
-**Análise de frequência:**
-
-- Palavras de qualidade/modo mais comuns: good, bad, right, wrong, true, false, real, possible, easy, hard, simple, complex, etc.
-
----
-
-## 📊 DOMÍNIO L: QUALITY (Qualidade/Modalidade)
-
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**al**|Value (bom, ruim, qualidade)|
-|**el**|Truth/Reality (verdade, real, falso)|
-|**il**|Difficulty (fácil, difícil, simples)|
-|**ol**|Correctness (certo, errado, correto)|
-|**ul**|Purity/Clarity (puro, claro, limpo)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**ala**|poor, inferior|
-|**ale**|bad, negative|
-|**ali**|neutral, average quality|
-|**alo**|good, positive|
-|**alu**|excellent, superior|
-|**ela**|false, untrue|
-|**ele**|fake, artificial|
-|**eli**|real, actual|
-|**elo**|true, genuine|
-|**elu**|certain, absolute truth|
-|**ila**|simple, easy|
-|**ile**|plain, straightforward|
-|**ili**|moderate, medium difficulty|
-|**ilo**|hard, difficult|
-|**ilu**|complex, intricate|
-|**ola**|wrong, incorrect|
-|**ole**|mistaken, error|
-|**oli**|acceptable, adequate|
-|**olo**|right, correct|
-|**olu**|perfect, flawless|
-|**ula**|dirty, impure|
-|**ule**|mixed, unclear|
-|**uli**|clean, clear|
-|**ulo**|pure, unmixed|
-|**ulu**|pristine, absolutely pure|
+- AR- Series — Age State
+- ER- Series — Temperature State
+- IR- Series — Wetness State
+- OR- Series — Fullness State
+- UR- Series — Strength State
 
 ---
 
-## 📊 DOMÍNIO R: STATE (Estado/Condição)
+## **Family F — Comparison/Evaluation**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ar**|Age/Newness (novo, velho, idade)|
-|**er**|Temperature (quente, frio, temperatura)|
-|**ir**|Wetness (molhado, seco, úmido)|
-|**or**|Fullness (cheio, vazio, quantidade contida)|
-|**ur**|Strength (forte, fraco, poder)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**ara**|fresh, brand new|
-|**are**|new, recent|
-|**ari**|young, youthful|
-|**aro**|old, aged|
-|**aru**|ancient, very old|
-|**era**|cold, chilly|
-|**ere**|cool, fresh|
-|**eri**|warm, mild|
-|**ero**|hot, heated|
-|**eru**|burning, scalding|
-|**ira**|dry, arid|
-|**ire**|damp, moist|
-|**iri**|wet, soaked|
-|**iro**|drenched, very wet|
-|**iru**|flooded, submerged|
-|**ora**|empty, void|
-|**ore**|sparse, partially filled|
-|**ori**|half-full, moderate|
-|**oro**|full, filled|
-|**oru**|overflowing, bursting|
-|**ura**|weak, feeble|
-|**ure**|fragile, delicate|
-|**uri**|sturdy, stable|
-|**uro**|strong, robust|
-|**uru**|powerful, mighty|
+- AF- Series — Equality Comparison
+- EF- Series — Difference Comparison
+- IF- Series — Positive Gradation
+- OF- Series — Negative Gradation
+- UF- Series — Relative Comparison
 
 ---
 
-## 📊 DOMÍNIO F: VALUE (Valor/Comparação)
+## **Family H — Relation/Connection**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**af**|Similarity (igual, mesmo, parecido)|
-|**ef**|Difference (diferente, outro, distinto)|
-|**if**|Rarity (raro, comum, especial)|
-|**of**|Importance (importante, trivial, significativo)|
-|**uf**|Preference (melhor, pior, preferível)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**afa**|identical, exactly same|
-|**afe**|same, equal|
-|**afi**|similar, alike|
-|**afo**|comparable, like|
-|**afu**|equivalent, matching|
-|**efa**|other, another|
-|**efe**|different, distinct|
-|**efi**|unlike, dissimilar|
-|**efo**|opposite, contrary|
-|**efu**|alien, completely foreign|
-|**ifa**|common, ordinary|
-|**ife**|typical, usual|
-|**ifi**|normal, regular|
-|**ifo**|rare, uncommon|
-|**ifu**|unique, one-of-a-kind|
-|**ofa**|trivial, insignificant|
-|**ofe**|minor, small importance|
-|**ofi**|notable, worthy of note|
-|**ofo**|important, significant|
-|**ofu**|crucial, vital|
-|**ufa**|worse, inferior|
-|**ufe**|bad choice, undesirable|
-|**ufi**|acceptable, okay|
-|**ufo**|better, superior|
-|**ufu**|best, optimal|
+- AH- Series — Part-Whole Relations
+- EH- Series — Separation Relations
+- IH- Series — Spatial Relations
+- OH- Series — Exchange Relations
+- UH- Series — Dependency Relations
 
 ---
 
-## 📊 DOMÍNIO H: RELATION (Relação/Conexão)
+## **Family Y — Perception/Sensory**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ah**|Part/Whole (parte, todo, pedaço)|
-|**eh**|Connection (conectar, ligar, juntar)|
-|**ih**|Separation (separar, dividir, cortar)|
-|**oh**|Belonging (pertencer, ter, possuir)|
-|**uh**|Exchange (trocar, dar, compartilhar)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aha**|fragment, tiny part|
-|**ahe**|piece, portion|
-|**ahi**|part, component|
-|**aho**|section, division|
-|**ahu**|whole, entirety|
-|**eha**|touch, make contact|
-|**ehe**|link, connect|
-|**ehi**|join, unite|
-|**eho**|bind, tie together|
-|**ehu**|fuse, merge completely|
-|**iha**|crack, split slightly|
-|**ihe**|separate, divide|
-|**ihi**|cut, sever|
-|**iho**|break apart, detach|
-|**ihu**|shatter, fragment completely|
-|**oha**|borrow, use temporarily|
-|**ohe**|own, possess|
-|**ohi**|belong to, be part of|
-|**oho**|keep, retain|
-|**ohu**|claim, assert ownership|
-|**uha**|lend, loan|
-|**uhe**|give, transfer|
-|**uhi**|share, distribute|
-|**uho**|trade, exchange|
-|**uhu**|gift, give freely|
+- AY- Series — Sensory Modes
+- EY- Series — Perception Clarity (Clear)
+- IY- Series — Perception Clarity (Faint)
+- OY- Series — Perceptual Actions
+- UY- Series — Perceptual Manner
 
 ---
 
-## 📊 DOMÍNIO Y: PERCEPTION (Percepção Específica)
+## **Family Š — Boundary/Limit**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ay**|Vision (ver, olhar, observar)|
-|**ey**|Audition (ouvir, som, escutar)|
-|**iy**|Touch (tocar, sentir, tatear)|
-|**oy**|Taste (gosto, saborear, provar)|
-|**uy**|Smell (cheiro, cheirar, olfato)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aya**|glimpse, catch sight|
-|**aye**|look, glance|
-|**ayi**|see, view|
-|**ayo**|watch, observe|
-|**ayu**|stare, gaze intently|
-|**eya**|noise, sound (faint)|
-|**eye**|sound, tone|
-|**eyi**|hear, listen|
-|**eyo**|voice, vocalization|
-|**eyu**|music, harmony|
-|**iya**|brush, graze|
-|**iye**|touch, make contact|
-|**iyi**|feel, sense physically|
-|**iyo**|grip, grasp|
-|**iyu**|squeeze, press hard|
-|**oya**|bland, tasteless|
-|**oye**|mild flavor|
-|**oyi**|taste, flavor|
-|**oyo**|savory, rich taste|
-|**oyu**|delicious, exquisite taste|
-|**uya**|faint scent|
-|**uye**|odor, smell (neutral)|
-|**uyi**|scent, aroma|
-|**uyo**|strong smell|
-|**uyu**|fragrance, perfume / stench|
+- AŠ- Series — Boundary Points
+- EŠ- Series — Edge Locations
+- IŠ- Series — Boundary Positions
+- OŠ- Series — Boundary States
+- UŠ- Series — Permeability Properties
 
 ---
 
-## 📊 DOMÍNIO Š: BOUNDARY (Fronteira/Limite)
+## **Family Ř — Identity/Possession**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**aš**|Entry/Access (entrar, porta, acesso)|
-|**eš**|Exit/Departure (sair, saída, deixar)|
-|**iš**|Barrier/Wall (barreira, muro, parede)|
-|**oš**|Opening/Gap (abertura, buraco, passagem)|
-|**uš**|Crossing/Passage (cruzar, atravessar, passar)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aša**|crack, small opening|
-|**aše**|door, entrance|
-|**aši**|gate, portal|
-|**ašo**|access, way in|
-|**ašu**|threshold, entry point|
-|**eša**|leak, escape route|
-|**eše**|exit, way out|
-|**eši**|outlet, egress|
-|**ešo**|escape, flee|
-|**ešu**|departure, leaving|
-|**iša**|fence, partition|
-|**iše**|wall, barrier|
-|**iši**|border, boundary line|
-|**išo**|shield, protection|
-|**išu**|fortress, strong barrier|
-|**oša**|pore, tiny hole|
-|**oše**|hole, opening|
-|**oši**|gap, space between|
-|**ošo**|window, viewing opening|
-|**ošu**|passage, corridor|
-|**uša**|step over, pass lightly|
-|**uše**|cross, traverse|
-|**uši**|pass through, go between|
-|**ušo**|bridge, connection|
-|**ušu**|penetrate, pierce through|
+- AŘ- Series — Naming & Identification
+- EŘ- Series — Self & Identity
+- IŘ- Series — Possession & Ownership
+- OŘ- Series — Characteristics & Attributes
+- UŘ- Series — Origin & Source
 
 ---
 
-## 📊 DOMÍNIO Ň: IDENTITY (Identidade/Posse)
+## **Family Č — Cognition/Mental**
 
-### **5 Conceitos Base:**
+- AČ- Series — Knowledge & Awareness
+- EČ- Series — Thinking & Processing
+- IČ- Series — Memory & Recall
+- OČ- Series — Understanding & Comprehension
+- UČ- Series — Attention & Focus
 
-|Conceito|Categoria|
-|---|---|
-|**ař**|Name/Identity (nome, identidade, quem)|
-|**eř**|Self/Person (si mesmo, próprio, ego)|
-|**iř**|Property/Ownership (propriedade, posse, ter)|
-|**oř**|Characteristic (característica, traço, atributo)|
-|**uř**|Origin/Heritage (origem, herança, raiz)|
+---
 
-### **25 Palavras:**
+## **Family Ž — Quantity/Amount**
 
-|Código|Palavra|Nota Fonológica|
+
+- AŽ- Series — Quantity Level
+- EŽ- Series — Amount Level
+- IŽ- Series — Adequacy Level
+- OŽ- Series — Distribution Type
+- UŽ- Series — Proportion Level
+
+
+
+---
+
+## **Family J̌ — Causality/Agency**
+
+- Aǰ- Series — Cause & Source
+- Eǰ- Series — Effect & Result
+- Iǰ- Series — Purpose & Goal
+- Oǰ- Series — Means & Method
+- Uǰ- Series — Agent & Actor
+
+---
+
+## **Family Ñ — Manner/Mode**
+
+- AÑ- Series — Style & Approach
+- EÑ- Series — Speed & Pace
+- IÑ- Series — Care & Attention
+- OÑ- Series — Skill & Competence
+- UÑ- Series — Effort & Exertion
+
+---
+
+## **Family C — Movement/Direction**
+
+- AC- Series — Linear Movement
+- EC- Series — Approach & Departure
+- IC- Series — Rotation & Circular
+- OC- Series — Vertical Movement
+- UC- Series — Flight & Elevation
+
+---
+
+## **Family X — Existence/Reality**
+
+- AX- Series — Presence & Absence
+- EX- Series — Reality & Actuality
+- IX- Series — Truth & Factuality
+- OX- Series — Certainty & Actuality
+- UX- Series — Possibility & Potentiality
+
+---
+
+## **Family Z — Intention/Volition**
+
+- AZ- Series — Desire & Wanting
+- EZ- Series — Decision & Choice
+- IZ- Series — Will & Determination
+- OZ- Series — Agreement & Consent
+- UZ- Series — Permission & Authorization
+
+---
+
+**Total:** 25 Famílias × 5 Séries = **125 subtítulos** ✅
+
+
+
+# 📄 FAMÍLIA P — Process/Temporal Aspect
+
+---
+
+## **Family P — Process/Temporal Aspect**
+
+**Function:** Marks aspectual and processual distinctions in actions and states
+
+---
+
+### **AP- Series — Incoative Aspect (Beginning)**
+
+|VCV|Meaning|Category|
 |---|---|---|
-|**ařaa**|mark, label|Prolongamento: a-řa-a / Tom ↗|
-|**aře**|nickname, informal name|—|
-|**aři**|name, designation|—|
-|**ařo**|title, formal name|—|
-|**ařu**|identity (formal), appellation|—|
-|**eřaa**|hint of self, awareness|Prolongamento: e-řa-a / Tom ↗|
-|**eře**|ego, sense of self|—|
-|**eři**|self, oneself|—|
-|**eřo**|individual, unique person|—|
-|**eřu**|identity, who one is|—|
-|**iřaa**|token, small possession|Prolongamento: i-řa-a / Tom ↗|
-|**iře**|item, personal possession|—|
-|**iři**|property, belonging|—|
-|**iřo**|wealth, possessions|—|
-|**iřu**|treasure, valued possession|—|
-|**ořaa**|trace, small sign|Prolongamento: o-řa-a / Tom ↗|
-|**oře**|mark, feature|—|
-|**oři**|trait, characteristic|—|
-|**ořo**|quality, attribute|—|
-|**ořu**|character, nature|—|
-|**uřaa**|seed, origin point|Prolongamento: u-řa-a / Tom ↗|
-|**uře**|root, ancestry|—|
-|**uři**|origin, source|—|
-|**uřo**|heritage, legacy|—|
-|**uřu**|bloodline, lineage|—|
+|**apa**|begin slowly, start gradually|incoative-slow|
+|**ape**|begin normally, start|incoative-normal|
+|**api**|begin steadily, commence|incoative-steady|
+|**apo**|begin quickly, start rapidly|incoative-quick|
+|**apu**|begin immediately, start instantly|incoative-immediate|
 
 ---
 
-### **📝 Regra de Desambiguação Fonológica:**
+### **EP- Series — Progressive Aspect (Ongoing)**
 
-Quando palavras VCV terminam com a mesma sequência das partículas VC gramaticais, distinguir por:
-
-1. **Prolongamento vocálico:** Dobrar vogal final na escrita (`ařaa` em vez de `aře`)
-2. **Inflexão tonal:** Tom ascendente ↗ na fala
-3. **Ambas:** Usar prolongamento na escrita E tom na fala
-
-**Padrões afetados:** `ařaa/eřaa/iřaa/ořaa/uřaa` (5 palavras no domínio Ň)
-
----
-
-## 📊 DOMÍNIO Č: COGNITION (Cognição/Mental)
-
-### **5 Conceitos Base:**
-
-| Conceito | Categoria                                       |
-| -------- | ----------------------------------------------- |
-| **ač**   | Knowledge (saber, conhecer, aprender)           |
-| **eč**   | Thought (pensar, ideia, mente)                  |
-| **ič**   | Memory (lembrar, esquecer, recordar)            |
-| **oč**   | Understanding (entender, compreender, perceber) |
-| **uč**   | Attention (atenção, focar, notar)               |
-
-### **25 Palavras:**
-
-| Código   | Palavra                            |
-| -------- | ---------------------------------- |
-| **ačaa** | hint, clue                         |
-| **ače**  | learn, study                       |
-| **ači**  | know, be aware of                  |
-| **ačo**  | understand deeply, grasp           |
-| **aču**  | master, expertise                  |
-| **ečaa** | notion, vague idea                 |
-| **eče**  | imagine, envision                  |
-| **eči**  | think, ponder                      |
-| **ečo**  | reason, logic                      |
-| **eču**  | wisdom, deep thought               |
-| **ičaa** | trace of memory, déjà vu           |
-| **iče**  | recall, remember faintly           |
-| **iči**  | remember, recollect                |
-| **ičo**  | memorize, commit to memory         |
-| **iču**  | never forget, indelible memory     |
-| **očaa** | sense, feel (mental)               |
-| **oče**  | notice, become aware               |
-| **oči**  | understand, comprehend             |
-| **očo**  | realize, grasp fully               |
-| **oču**  | enlightenment, total understanding |
-| **učaa** | glance at, brief attention         |
-| **uče**  | notice, pay attention to           |
-| **uči**  | focus, concentrate                 |
-| **učo**  | study carefully, examine           |
-| **uču**  | contemplate, meditate deeply       |
+|VCV|Meaning|Category|
+|---|---|---|
+|**epa**|barely in progress, just started|progressive-minimal|
+|**epe**|somewhat in progress|progressive-partial|
+|**epi**|actively in progress, ongoing|progressive-active|
+|**epo**|well in progress, advancing|progressive-advanced|
+|**epu**|fully in progress, deeply engaged|progressive-full|
 
 ---
 
-## 📊 DOMÍNIO J̌: CAUSALITY (Causalidade/Agência)
+### **IP- Series — Habitual Aspect (Regular)**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**aǰ**|Cause/Reason (causa, razão, motivo)|
-|**eǰ**|Effect/Result (efeito, resultado, consequência)|
-|**iǰ**|Purpose/Goal (propósito, objetivo, meta)|
-|**oǰ**|Means/Method (meio, método, ferramenta)|
-|**uǰ**|Agent/Doer (agente, fazedor, ator)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aǰa**|hint, slight cause|
-|**aǰe**|reason, motive|
-|**aǰi**|cause, origin of effect|
-|**aǰo**|source, root cause|
-|**aǰu**|fate, ultimate cause|
-|**eǰa**|trace, slight effect|
-|**eǰe**|effect, consequence|
-|**eǰi**|result, outcome|
-|**eǰo**|impact, significant result|
-|**eǰu**|destiny, ultimate result|
-|**iǰa**|whim, passing goal|
-|**iǰe**|aim, intention|
-|**iǰi**|purpose, goal|
-|**iǰo**|mission, objective|
-|**iǰu**|calling, life purpose|
-|**oǰa**|trick, clever method|
-|**oǰe**|way, method|
-|**oǰi**|tool, instrument|
-|**oǰo**|means, vehicle|
-|**oǰu**|system, complete method|
-|**uǰa**|helper, minor agent|
-|**uǰe**|doer, actor|
-|**uǰi**|agent, one who acts|
-|**uǰo**|maker, creator|
-|**uǰu**|author, originator|
+|VCV|Meaning|Category|
+|---|---|---|
+|**ipa**|rarely do, infrequent habit|habitual-rare|
+|**ipe**|sometimes do, occasional habit|habitual-occasional|
+|**ipi**|regularly do, normal habit|habitual-regular|
+|**ipo**|often do, frequent habit|habitual-frequent|
+|**ipu**|always do, constant habit|habitual-constant|
 
 ---
 
-## 📊 DOMÍNIO Ñ: MANNER (Maneira/Modo)
+### **OP- Series — Perfective Aspect (Completed)**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**añ**|Style/Fashion (estilo, jeito, moda)|
-|**eñ**|Speed/Pace (velocidade, ritmo, rapidez)|
-|**iñ**|Care/Attention (cuidado, atenção, cuidadoso)|
-|**oñ**|Skill/Ability (habilidade, jeito, destreza)|
-|**uñ**|Effort/Intensity (esforço, força, intensidade)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aña**|flair, personal touch|
-|**añe**|manner, way of doing|
-|**añi**|style, fashion|
-|**año**|custom, tradition|
-|**añu**|culture, way of life|
-|**eña**|crawl, very slow|
-|**eñe**|slow, leisurely|
-|**eñi**|moderate pace, steady|
-|**eño**|fast, quick|
-|**eñu**|rush, very fast|
-|**iña**|careless, neglectful|
-|**iñe**|casual, relaxed approach|
-|**iñi**|careful, attentive|
-|**iño**|meticulous, thorough|
-|**iñu**|precise, exact|
-|**oña**|clumsy, awkward|
-|**oñe**|competent, able|
-|**oñi**|skillful, adept|
-|**oño**|expert, proficient|
-|**oñu**|master, virtuoso|
-|**uña**|lazy, minimal effort|
-|**uñe**|casual effort|
-|**uñi**|moderate effort|
-|**uño**|hard work, strong effort|
-|**uñu**|maximum effort, all-out|
+|VCV|Meaning|Category|
+|---|---|---|
+|**opa**|barely finished, incomplete result|perfective-minimal|
+|**ope**|partially finished, some completion|perfective-partial|
+|**opi**|finished, completed|perfective-complete|
+|**opo**|thoroughly finished, well done|perfective-thorough|
+|**opu**|completely finished, perfected|perfective-perfect|
 
 ---
 
-## 📊 DOMÍNIO C: MOVEMENT (Movimento/Direção)
+### **UP- Series — Iterative Aspect (Repetitive)**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**ac**|Linear Motion (andar, mover em linha, seguir)|
-|**ec**|Approach/Retreat (aproximar, afastar, recuar)|
-|**ic**|Rotation/Turn (girar, virar, rodar)|
-|**oc**|Vertical Motion (subir, descer, elevar)|
-|**uc**|Flight/Jump (voar, pular, saltar)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aca**|crawl, creep|
-|**ace**|walk, stride|
-|**aci**|move, travel|
-|**aco**|march, advance|
-|**acu**|race, speed forward|
-|**eca**|inch closer, edge near|
-|**ece**|approach, come near|
-|**eci**|advance toward|
-|**eco**|retreat, pull back|
-|**ecu**|flee, run away|
-|**ica**|tilt, lean|
-|**ice**|turn, rotate|
-|**ici**|spin, revolve|
-|**ico**|swivel, pivot|
-|**icu**|whirl, spiral rapidly|
-|**oca**|sink, lower|
-|**oce**|descend, go down|
-|**oci**|climb, ascend|
-|**oco**|rise, go up|
-|**ocu**|soar, fly high|
-|**uca**|hop, small jump|
-|**uce**|jump, leap|
-|**uci**|bounce, spring|
-|**uco**|fly, glide|
-|**ucu**|rocket, shoot upward|
+|VCV|Meaning|Category|
+|---|---|---|
+|**upa**|do once more, single repetition|iterative-once|
+|**upe**|do few times, occasional repeat|iterative-few|
+|**upi**|do several times, moderate repeat|iterative-several|
+|**upo**|do many times, frequent repeat|iterative-many|
+|**upu**|do countless times, constant repeat|iterative-countless|
 
 ---
 
-## 📊 DOMÍNIO X: EXISTENCE (Existência/Realidade)
+**Agora está de acordo com os títulos das séries?** ✅
+---
 
-### **5 Conceitos Base:**
 
-|Conceito|Categoria|
-|---|---|
-|**ax**|Presence/Absence (presença, ausência, estar/não estar)|
-|**ex**|Reality/Fiction (real, fictício, imaginário)|
-|**ix**|Truth/Falsehood (verdade, mentira, autenticidade)|
-|**ox**|Certainty/Doubt (certeza, dúvida, provável)|
-|**ux**|Possibility/Impossibility (possível, impossível, viável)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**axa**|absent, not present|
-|**axe**|missing, lacking|
-|**axi**|present, here|
-|**axo**|exist, be there|
-|**axu**|omnipresent, everywhere|
-|**exa**|dream, illusion|
-|**exe**|fiction, imaginary|
-|**exi**|real, actual|
-|**exo**|concrete, tangible|
-|**exu**|absolute reality|
-|**ixa**|lie, falsehood|
-|**ixe**|fake, counterfeit|
-|**ixi**|true, genuine|
-|**ixo**|authentic, verified|
-|**ixu**|absolute truth|
-|**oxa**|doubt, uncertainty|
-|**oxe**|maybe, perhaps|
-|**oxi**|probable, likely|
-|**oxo**|certain, sure|
-|**oxu**|inevitable, guaranteed|
-|**uxa**|impossible, cannot be|
-|**uxe**|unlikely, improbable|
-|**uxi**|possible, can be|
-|**uxo**|feasible, viable|
-|**uxu**|certain to happen|
+# 📄 FAMÍLIA M — Magnitude/Scale
 
 ---
 
-## 📊 DOMÍNIO Z: INTENTION (Intenção/Vontade)
+## **Family M — Magnitude/Scale**
 
-### **5 Conceitos Base:**
-
-|Conceito|Categoria|
-|---|---|
-|**az**|Desire/Want (desejo, querer, vontade)|
-|**ez**|Decision/Choice (decisão, escolha, optar)|
-|**iz**|Will/Determination (vontade, determinação, resolver)|
-|**oz**|Agreement/Refusal (concordar, recusar, aceitar)|
-|**uz**|Permission/Prohibition (permitir, proibir, deixar)|
-
-### **25 Palavras:**
-
-|Código|Palavra|
-|---|---|
-|**aza**|whim, fleeting desire|
-|**aze**|wish, want|
-|**azi**|desire, crave|
-|**azo**|need, require|
-|**azu**|yearn, long for deeply|
-|**eza**|hesitate, waver|
-|**eze**|consider, weigh options|
-|**ezi**|choose, decide|
-|**ezo**|select, pick|
-|**ezu**|commit, decide firmly|
-|**iza**|weak will, wavering|
-|**ize**|intend, plan to|
-|**izi**|resolve, determine|
-|**izo**|strive, work toward|
-|**izu**|vow, swear to do|
-|**oza**|reluctant, unwilling|
-|**oze**|accept, agree to|
-|**ozi**|approve, consent|
-|**ozo**|refuse, decline|
-|**ozu**|reject, deny firmly|
-|**uza**|tolerate, allow grudgingly|
-|**uze**|permit, allow|
-|**uzi**|let, give permission|
-|**uzo**|forbid, prohibit|
-|**uzu**|ban, absolutely forbid|
+**Function:** Marks magnitude, size, quantity, intensity, and scale
 
 ---
+
+### **AM- Series — Size Scale**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ama**|minuscule, extremely small|size minimum|
+|**ame**|small quantity, few|quantity low|
+|**ami**|low intensity, weak|intensity low|
+|**amo**|small scale, micro level|scale micro|
+|**amu**|minimal degree, slight|degree minimal|
+
+---
+
+### **EM- Series — Quantity Scale**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ema**|very small, tiny|size very-small|
+|**eme**|little amount, some|quantity few|
+|**emi**|mild intensity, gentle|intensity mild|
+|**emo**|local scale, nearby|scale local|
+|**emu**|slight degree, moderate-low|degree slight|
+
+---
+
+### **IM- Series — Intensity Scale**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ima**|medium size, average|size medium|
+|**ime**|moderate amount, several|quantity moderate|
+|**imi**|medium intensity, normal|intensity medium|
+|**imo**|regional scale, area-wide|scale regional|
+|**imu**|moderate degree, balanced|degree moderate|
+
+---
+
+### **OM- Series — Spatial Scale**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oma**|large, big|size large|
+|**ome**|great quantity, much|quantity great|
+|**omi**|high intensity, strong|intensity high|
+|**omo**|continental scale, macro|scale macro|
+|**omu**|strong degree, significant|degree strong|
+
+---
+
+### **UM- Series — Degree Scale**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uma**|enormous, gigantic|size maximum|
+|**ume**|maximum quantity, countless|quantity maximum|
+|**umi**|extreme intensity, overwhelming|intensity extreme|
+|**umu**|global/universal scale|scale universal|
+|**umu**|absolute degree, total|degree absolute|
+
+---
+
+# 📄 FAMÍLIA N — Frequency/Recurrence
+
+---
+
+## **Family N — Frequency/Recurrence**
+
+**Function:** Marks frequency, recurrence, and regularity of events
+
+---
+
+### **AN- Series — Frequency Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ana**|never, not ever|frequency zero|
+|**ane**|once, one time|single occurrence|
+|**ani**|irregular pattern, unpredictable|pattern irregular|
+|**ano**|long intervals, rarely|interval long|
+|**anu**|slow cycle, infrequent repetition|cycle slow|
+
+---
+
+### **EN- Series — Occurrence Count**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ena**|rarely, seldom|frequency rare|
+|**ene**|few times, occasionally|few occurrences|
+|**eni**|semi-regular, somewhat predictable|pattern semi-regular|
+|**eno**|medium intervals|interval medium|
+|**enu**|medium cycle|cycle medium|
+
+---
+
+### **IN- Series — Pattern Regularity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ina**|sometimes, occasionally|frequency occasional|
+|**ine**|several times, multiple|several occurrences|
+|**ini**|regular pattern, predictable|pattern regular|
+|**ino**|short intervals|interval short|
+|**inu**|fast cycle|cycle fast|
+
+---
+
+### **ON- Series — Interval Length**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ona**|frequently, often|frequency frequent|
+|**one**|many times, numerous|many occurrences|
+|**oni**|very regular, highly predictable|pattern very-regular|
+|**ono**|very short intervals|interval very-short|
+|**onu**|very fast cycle, rapid|cycle very-fast|
+
+---
+
+### **UN- Series** — Cycle Speed
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**una**|always, constantly|frequency constant|
+|**une**|countless times, infinite|infinite occurrences|
+|**uni**|perfectly regular, clockwork|pattern perfect|
+|**uno**|continuous, no interval|interval zero|
+|**unu**|instantaneous cycle, immediate|cycle instantaneous|
+
+---
+
+# 📄 FAMÍLIA V — Manner of Action
+
+---
+
+## **Family V — Manner of Action**
+
+**Function:** Marks the manner, method, and quality of action execution
+
+---
+
+### **AV- Series — Attention Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ava**|carelessly, without attention|manner careless|
+|**ave**|casually, informally|manner casual|
+|**avi**|normally, standard way|manner normal|
+|**avo**|carefully, with attention|manner careful|
+|**avu**|meticulously, precisely|manner meticulous|
+
+---
+
+### **EV- Series — Skill Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eva**|clumsily, awkwardly|manner clumsy|
+|**eve**|simply, plainly|manner simple|
+|**evi**|competently, adequately|manner competent|
+|**evo**|skillfully, expertly|manner skillful|
+|**evu**|masterfully, with mastery|manner masterful|
+
+---
+
+### **IV- Series — Speed/Pace**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iva**|slowly, at slow pace|manner slow|
+|**ive**|moderately, at medium pace|manner moderate|
+|**ivi**|at normal pace|manner normal-pace|
+|**ivo**|quickly, at fast pace|manner fast|
+|**ivu**|rapidly, with haste|manner rapid|
+
+---
+
+### **OV- Series — Force/Strength**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ova**|weakly, with little force|manner weak|
+|**ove**|gently, softly|manner gentle|
+|**ovi**|with normal force|manner normal-force|
+|**ovo**|forcefully, strongly|manner forceful|
+|**ovu**|violently, with maximum force|manner violent|
+
+---
+
+### **UV- Series — Completeness**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uva**|partially, incompletely|manner partial|
+|**uve**|mostly, largely|manner mostly|
+|**uvi**|completely, fully|manner complete|
+|**uvo**|thoroughly, exhaustively|manner thorough|
+|**uvu**|absolutely, totally|manner absolute|
+
+---
+
+# 📄 FAMÍLIA W — Emotion/Affect
+
+---
+
+## **Family W — Emotion/Affect**
+
+**Function:** Marks emotional states and affective attitudes
+
+---
+
+### **AW- Series — Basic Emotions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**awa**|with anger, angrily|emotion anger|
+|**awe**|with sadness, sadly|emotion sadness|
+|**awi**|with indifference, neutrally|emotion neutral|
+|**awo**|with surprise, surprisingly|emotion surprise|
+|**awu**|with happiness, happily|emotion happiness|
+
+---
+
+### **EW- Series — Secondary Emotions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ewa**|with irritation, annoyed|emotion irritation|
+|**ewe**|with melancholy, wistfully|emotion melancholy|
+|**ewi**|with calmness, peacefully|emotion calm|
+|**ewo**|with curiosity, curiously|emotion curiosity|
+|**ewu**|with joy, joyfully|emotion joy|
+
+---
+
+### **IW- Series — Complex Emotions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iwa**|with frustration, frustrated|emotion frustration|
+|**iwe**|with loneliness, lonely|emotion loneliness|
+|**iwi**|with contentment, content|emotion contentment|
+|**iwo**|with interest, interestedly|emotion interest|
+|**iwu**|with delight, delightedly|emotion delight|
+
+---
+
+### **OW- Series — Intense Emotions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**owa**|with rage, furiously|emotion rage|
+|**owe**|with grief, grieving|emotion grief|
+|**owi**|with serenity, serenely|emotion serenity|
+|**owo**|with amazement, amazed|emotion amazement|
+|**owu**|with elation, elatedly|emotion elation|
+
+---
+
+### **UW- Series — Extreme Emotions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uwa**|with hatred, hatefully|emotion hatred|
+|**uwe**|with despair, despairingly|emotion despair|
+|**uwi**|with tranquility, tranquilly|emotion tranquility|
+|**uwo**|with awe, awestruck|emotion awe|
+|**uwu**|with ecstasy, ecstatically|emotion ecstasy|
+
+---
+
+# 📄 FAMÍLIA T — Duration/Temporal Extension
+
+---
+
+## **Family T — Duration/Temporal Extension**
+
+**Function:** Marks duration, temporal extent, and length of time
+
+---
+
+### **AT- Series — Duration Length**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ata**|instantaneous, momentary|duration instant|
+|**ate**|very brief, fleeting|duration very-brief|
+|**ati**|brief, short|duration brief|
+|**ato**|medium duration|duration medium|
+|**atu**|long, extended|duration long|
+
+---
+
+### **ET- Series — Time Span (Short)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eta**|for a second, momentarily|time-span second|
+|**ete**|for minutes|time-span minutes|
+|**eti**|for hours|time-span hours|
+|**eto**|for days|time-span days|
+|**etu**|for weeks|time-span weeks|
+
+---
+
+### **IT- Series — Temporal Nature**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ita**|ephemeral, transient|nature ephemeral|
+|**ite**|temporary, passing|nature temporary|
+|**iti**|lasting, enduring|nature lasting|
+|**ito**|prolonged, extended|nature prolonged|
+|**itu**|permanent, everlasting|nature permanent|
+
+---
+
+### **OT- Series — Time Span (Long)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ota**|for months|time-span months|
+|**ote**|for years|time-span years|
+|**oti**|for decades|time-span decades|
+|**oto**|for centuries|time-span centuries|
+|**otu**|for millennia|time-span millennia|
+
+---
+
+### **UT- Series — Temporal Extent**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uta**|until now, so far|extent until-now|
+|**ute**|from beginning, since start|extent from-start|
+|**uti**|throughout, all along|extent throughout|
+|**uto**|indefinitely, without end|extent indefinite|
+|**utu**|eternally, forever|extent eternal|
+
+---
+
+## 📊 FAMÍLIA K — Social/Collective
+
+### **AK- Series — Greetings & Farewells**
+
+- aka = hello, hi, greeting
+- ake = goodbye, farewell
+- aki = welcome, bem-vindo
+- ako = good morning/afternoon/evening
+- aku = see you later, até logo
+
+### **EK- Series — Politeness Markers**
+
+- eka = please, por favor
+- eke = thank you, obrigado
+- eki = you're welcome, de nada
+- eko = excuse me, com licença (passar)
+- eku = pardon, perdão (não ouvi)
+
+### **IK- Series — Apologies & Regrets**
+
+- ika = sorry, desculpa (leve)
+- ike = I'm sorry, me desculpa
+- iki = I apologize, peço desculpas (formal)
+- iko = I regret, lamento
+- iku = my deepest apologies, desculpas profundas
+
+### **OK- Series — Congratulations & Celebrations**
+
+- oka = congratulations, parabéns
+- oke = well done, muito bem
+- oki = cheers, saúde
+- oko = happy birthday/holiday
+- oku = blessings, bênçãos
+
+### **UK- Series — Social Acknowledgments**
+
+- uka = yes (social agreement)
+- uke = I understand, entendo
+- uki = I see, vejo
+- uko = of course, claro
+- uku = certainly, com certeza
+
+---
+
+## **Family K — Quantity/Amount**
+
+**Function:** Marks quantity, amount, and numerical degree (non-numeral)
+
+---
+
+### **AK- Series — Quantity Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aka**|none, zero|quantity zero|
+|**ake**|very few, hardly any|quantity minimal|
+|**aki**|few, small number|quantity few|
+|**ako**|some, moderate amount|quantity some|
+|**aku**|many, numerous|quantity many|
+
+---
+
+### **EK- Series — Amount Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eka**|nothing, empty|amount none|
+|**eke**|a bit, a little|amount little|
+|**eki**|part of, portion|amount partial|
+|**eko**|much, considerable|amount much|
+|**eku**|all, everything|amount all|
+
+---
+
+### **IK- Series — Adequacy Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ika**|insufficient, too little|adequacy insufficient|
+|**ike**|barely enough, scant|adequacy barely|
+|**iki**|enough, sufficient|adequacy sufficient|
+|**iko**|more than enough, ample|adequacy ample|
+|**iku**|excessive, too much|adequacy excessive|
+
+---
+
+### **OK- Series — Distribution Type**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oka**|sparse, scattered|distribution sparse|
+|**oke**|scattered, spread out|distribution scattered|
+|**oki**|distributed evenly|distribution even|
+|**oko**|concentrated, clustered|distribution concentrated|
+|**oku**|dense, packed|distribution dense|
+
+---
+
+### **UK- Series — Proportion Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uka**|nearly none, almost empty|proportion nearly-none|
+|**uke**|minority, less than half|proportion minority|
+|**uki**|half, equal parts|proportion half|
+|**uko**|majority, more than half|proportion majority|
+|**uku**|nearly all, almost complete|proportion nearly-all|
+
+---
+
+# 📄 FAMÍLIA B — Communication/Discourse
+
+---
+
+## **Family B — Communication/Discourse**
+
+**Function:** Marks discourse structure, communication modes, and speech acts
+
+---
+
+### **AB- Series — Speech Acts**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aba**|state, declare|speech-act declarative|
+|**abe**|ask, question|speech-act interrogative|
+|**abi**|command, order|speech-act imperative|
+|**abo**|suggest, propose|speech-act suggestive|
+|**abu**|exclaim|speech-act exclamative|
+
+---
+
+### **EB- Series — Speaking Manner**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eba**|whisper, speak softly|manner whisper|
+|**ebe**|speak normally|manner normal|
+|**ebi**|speak loudly, raise voice|manner loud|
+|**ebo**|shout, yell|manner shout|
+|**ebu**|scream, cry out|manner scream|
+
+---
+
+### **IB- Series — Interpretation Mode**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iba**|literally, word-for-word|interpretation literal|
+|**ibe**|directly, plainly|interpretation direct|
+|**ibi**|figuratively, metaphorically|interpretation figurative|
+|**ibo**|ironically, sarcastically|interpretation ironic|
+|**ibu**|symbolically|interpretation symbolic|
+
+---
+
+### **OB- Series — Discourse Markers**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oba**|begin discourse, introduce topic|discourse-marker beginning|
+|**obe**|continue topic, furthermore|discourse-marker continuation|
+|**obi**|change topic, by the way|discourse-marker shift|
+|**obo**|return to topic, as I was saying|discourse-marker return|
+|**obu**|conclude, in conclusion|discourse-marker conclusion|
+
+---
+
+### **UB- Series — Response Types**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uba**|agree, affirm|response agree|
+|**ube**|acknowledge, I see|response acknowledge|
+|**ubi**|disagree, object|response disagree|
+|**ubo**|doubt, question validity|response doubt|
+|**ubu**|reject, deny|response reject|
+
+---
+
+# 📄 FAMÍLIA D — Degree/Intensity
+
+---
+
+## **Family D — Degree/Intensity**
+
+**Function:** Marks degree, intensity, and level of properties or states
+
+---
+
+### **AD- Series — Degree Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ada**|barely, hardly|degree minimal|
+|**ade**|slightly, somewhat|degree slight|
+|**adi**|moderately, fairly|degree moderate|
+|**ado**|quite, considerably|degree considerable|
+|**adu**|extremely, very|degree extreme|
+
+---
+
+### **ED- Series — Sufficiency Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eda**|insufficiently, too little|sufficiency insufficient|
+|**ede**|barely sufficiently|sufficiency barely|
+|**edi**|sufficiently, adequately|sufficiency adequate|
+|**edo**|more than enough|sufficiency more|
+|**edu**|excessively, too much|sufficiency excessive|
+
+---
+
+### **ID- Series — Strength Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ida**|weakly, feebly|strength weak|
+|**ide**|mildly, gently|strength mild|
+|**idi**|normally, regularly|strength normal|
+|**ido**|strongly, powerfully|strength strong|
+|**idu**|intensely, forcefully|strength intense|
+
+---
+
+### **OD- Series — Completeness Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oda**|incompletely, partially|completeness partial|
+|**ode**|mostly, largely|completeness mostly|
+|**odi**|completely, fully|completeness complete|
+|**odo**|thoroughly, entirely|completeness thorough|
+|**odu**|absolutely, totally|completeness absolute|
+
+---
+
+### **UD- Series — Extent Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uda**|minimally, at minimum|extent minimal|
+|**ude**|partially, to some extent|extent partial|
+|**udi**|substantially, to large extent|extent substantial|
+|**udo**|largely, to great extent|extent great|
+|**udu**|maximally, to fullest extent|extent maximal|
+
+---
+
+# 📄 FAMÍLIA G — Cycle/Rhythm
+
+---
+
+## **Family G — Cycle/Rhythm**
+
+**Function:** Marks cyclical patterns, rhythm, and periodic occurrences
+
+---
+
+### **AG- Series — Cycle Phase**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aga**|once only, non-recurring|cycle once|
+|**age**|beginning of cycle|cycle-phase beginning|
+|**agi**|middle of cycle|cycle-phase middle|
+|**ago**|end of cycle|cycle-phase end|
+|**agu**|full cycle, complete revolution|cycle complete|
+
+---
+
+### **EG- Series — Rhythm Regularity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ega**|irregularly, unpredictably|rhythm irregular|
+|**ege**|somewhat regularly|rhythm semi-regular|
+|**egi**|regularly, rhythmically|rhythm regular|
+|**ego**|very regularly, predictably|rhythm very-regular|
+|**egu**|perfectly rhythmic, metronomic|rhythm perfect|
+
+---
+
+### **IG- Series — Cycle Type**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iga**|daily cycle, diurnal|cycle-type daily|
+|**ige**|weekly cycle|cycle-type weekly|
+|**igi**|monthly cycle, lunar|cycle-type monthly|
+|**igo**|seasonal cycle|cycle-type seasonal|
+|**igu**|yearly cycle, annual|cycle-type annual|
+
+---
+
+### **OG- Series — Pattern Type**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oga**|in phases, by stages|pattern phased|
+|**oge**|in waves, wavelike|pattern wave|
+|**ogi**|in pulses, pulsating|pattern pulse|
+|**ogo**|in spirals, spiraling|pattern spiral|
+|**ogu**|in circles, circular|pattern circular|
+
+---
+
+### **UG- Series — Rhythm Change**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uga**|slowing down, decelerating|rhythm-change slowing|
+|**uge**|maintaining rhythm, steady|rhythm-change steady|
+|**ugi**|speeding up, accelerating|rhythm-change speeding|
+|**ugo**|becoming more regular|rhythm-change regularizing|
+|**ugu**|becoming chaotic|rhythm-change chaotic|
+
+---
+
+# 📄 FAMÍLIA S — Speed/Velocity
+
+---
+
+## **Family S — Speed/Velocity**
+
+**Function:** Marks speed, velocity, and rate of action or process
+
+---
+
+### **AS- Series — Speed Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**asa**|extremely slowly, at crawl|speed minimal|
+|**ase**|slowly, at slow pace|speed slow|
+|**asi**|at normal speed|speed normal|
+|**aso**|quickly, at fast pace|speed fast|
+|**asu**|extremely quickly, at maximum speed|speed maximal|
+
+---
+
+### **ES- Series — Manner of Speed**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**esa**|sluggishly, dragging|manner sluggish|
+|**ese**|leisurely, unhurried|manner leisurely|
+|**esi**|steadily, at steady pace|manner steady|
+|**eso**|briskly, energetically|manner brisk|
+|**esu**|frantically, rushed|manner frantic|
+
+---
+
+### **IS- Series — Speed Change**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**isa**|decelerating, slowing down|change decelerate|
+|**ise**|maintaining speed|change maintain|
+|**isi**|at constant velocity|change constant|
+|**iso**|accelerating, speeding up|change accelerate|
+|**isu**|rapidly accelerating|change rapid-accelerate|
+
+---
+
+### **OS- Series — Speed Mode**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**osa**|in slow motion|mode slow-motion|
+|**ose**|in real time|mode real-time|
+|**osi**|at normal rate|mode normal-rate|
+|**oso**|in fast-forward|mode fast-forward|
+|**osu**|instantaneously, all at once|mode instantaneous|
+
+---
+
+### **US- Series — Progression Type**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**usa**|step by step, incrementally|progression incremental|
+|**use**|gradually, progressively|progression gradual|
+|**usi**|smoothly, continuously|progression smooth|
+|**uso**|rapidly, swiftly|progression rapid|
+|**usu**|explosively, suddenly|progression explosive|
+
+---
+
+# 📄 FAMÍLIA L — Quality/State
+
+---
+
+## **Family L — Quality/State**
+
+**Function:** Marks quality level, state, and condition
+
+---
+
+### **AL- Series — Quality Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ala**|of terrible quality, very poor|quality terrible|
+|**ale**|of poor quality, bad|quality poor|
+|**ali**|of average quality, mediocre|quality average|
+|**alo**|of good quality, fine|quality good|
+|**alu**|of excellent quality, superior|quality excellent|
+
+---
+
+### **EL- Series — Truth Value**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ela**|false, untrue|truth false|
+|**ele**|doubtful, questionable|truth doubtful|
+|**eli**|true, accurate|truth true|
+|**elo**|certainly true, verified|truth certain|
+|**elu**|absolutely true, indisputable|truth absolute|
+
+---
+
+### **IL- Series — Difficulty Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ila**|extremely difficult, nearly impossible|difficulty extreme|
+|**ile**|difficult, hard|difficulty hard|
+|**ili**|moderately difficult|difficulty moderate|
+|**ilo**|easy, simple|difficulty easy|
+|**ilu**|extremely easy, trivial|difficulty trivial|
+
+---
+
+### **OL- Series — Correctness Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ola**|incorrect, wrong|correctness incorrect|
+|**ole**|mostly wrong, erroneous|correctness erroneous|
+|**oli**|correct, right|correctness correct|
+|**olo**|perfectly correct, accurate|correctness accurate|
+|**olu**|absolutely correct, flawless|correctness flawless|
+
+---
+
+### **UL- Series — Purity Level**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ula**|impure, contaminated|purity impure|
+|**ule**|slightly impure, mixed|purity mixed|
+|**uli**|pure, clean|purity pure|
+|**ulo**|very pure, refined|purity refined|
+|**ulu**|absolutely pure, pristine|purity pristine|
+
+---
+
+# 📄 FAMÍLIA R — State/Condition
+
+---
+
+## **Family R — State/Condition**
+
+**Function:** Marks physical states, conditions, and properties
+
+---
+
+### **AR- Series — Age State**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ara**|brand new, just created|age new|
+|**are**|young, recent|age young|
+|**ari**|mature, middle-aged|age mature|
+|**aro**|old, aged|age old|
+|**aru**|ancient, very old|age ancient|
+
+---
+
+### **ER- Series — Temperature State**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**era**|freezing, ice cold|temperature freezing|
+|**ere**|cold, cool|temperature cold|
+|**eri**|warm, lukewarm|temperature warm|
+|**ero**|hot|temperature hot|
+|**eru**|burning, extremely hot|temperature burning|
+
+---
+
+### **IR- Series — Wetness State**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ira**|bone dry, completely dry|wetness dry|
+|**ire**|dry|wetness dry-state|
+|**iri**|damp, moist|wetness damp|
+|**iro**|wet|wetness wet|
+|**iru**|soaking, drenched|wetness soaked|
+
+---
+
+### **OR- Series — Fullness State**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ora**|empty, hollow|fullness empty|
+|**ore**|nearly empty, sparse|fullness sparse|
+|**ori**|half full, partial|fullness partial|
+|**oro**|full, filled|fullness full|
+|**oru**|overflowing, overfull|fullness overflowing|
+
+---
+
+### **UR- Series — Strength State**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ura**|fragile, weak|strength fragile|
+|**ure**|delicate, tender|strength delicate|
+|**uri**|sturdy, solid|strength sturdy|
+|**uro**|strong, robust|strength strong|
+|**uru**|unbreakable, indestructible|strength indestructible|
+
+---
+
+# 📄 FAMÍLIA F — Comparison/Evaluation
+
+---
+
+## **Family F — Comparison/Evaluation**
+
+**Function:** Marks comparative structures and evaluative relations
+
+---
+
+### **AF- Series — Equality Comparison**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**afa**|equally, as...as|comparison equal|
+|**afe**|similarly, alike|comparison similar|
+|**afi**|comparably, in like manner|comparison comparable|
+|**afo**|identically, the same|comparison identical|
+|**afu**|equivalently, of equal value|comparison equivalent|
+
+---
+
+### **EF- Series — Difference Comparison**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**efa**|differently, not as|comparison different|
+|**efe**|unlike, dissimilar|comparison unlike|
+|**efi**|otherwise, in another way|comparison otherwise|
+|**efo**|contrastingly, in contrast|comparison contrast|
+|**efu**|oppositely, contrary|comparison opposite|
+
+---
+
+### **IF- Series — Positive Gradation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ifa**|slightly more, a bit more|comparison slightly-more|
+|**ife**|more, -er|comparison more|
+|**ifi**|much more, considerably more|comparison much-more|
+|**ifo**|far more, way more|comparison far-more|
+|**ifu**|most, -est|comparison superlative-positive|
+
+---
+
+### **OF- Series — Negative Gradation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ofa**|slightly less, a bit less|comparison slightly-less|
+|**ofe**|less|comparison less|
+|**ofi**|much less, considerably less|comparison much-less|
+|**ofo**|far less, way less|comparison far-less|
+|**ofu**|least|comparison superlative-negative|
+
+---
+
+### **UF- Series — Relative Comparison**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ufa**|relatively, in relation to|comparison relative|
+|**ufe**|proportionally, in proportion|comparison proportional|
+|**ufi**|comparatively, by comparison|comparison comparative|
+|**ufo**|respectively, each to each|comparison respective|
+|**ufu**|absolutely, in absolute terms|comparison absolute|
+
+---
+
+# 📄 FAMÍLIA H — Relation/Connection
+
+---
+
+## **Family H — Relation/Connection**
+
+**Function:** Marks relational structures and connections between entities
+
+---
+
+### **AH- Series — Part-Whole Relations**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aha**|part of, component|relation part-whole|
+|**ahe**|member of, belongs to|relation membership|
+|**ahi**|related to, connected with|relation connection|
+|**aho**|associated with, linked to|relation association|
+|**ahu**|integrated into, merged with|relation integration|
+
+---
+
+### **EH- Series — Separation Relations**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eha**|separate from, apart|relation separate|
+|**ehe**|independent of, autonomous|relation independent|
+|**ehi**|distinct from, different entity|relation distinct|
+|**eho**|isolated from, cut off|relation isolated|
+|**ehu**|divorced from, completely separate|relation divorced|
+
+---
+
+### **IH- Series — Spatial Relations**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iha**|parallel to, alongside|relation parallel|
+|**ihe**|adjacent to, next to|relation adjacent|
+|**ihi**|between, among|relation between|
+|**iho**|surrounding, around|relation surrounding|
+|**ihu**|throughout, permeating|relation permeating|
+
+---
+
+### **OH- Series — Exchange Relations**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oha**|in exchange for, trading|relation exchange|
+|**ohe**|in place of, instead of|relation replacement|
+|**ohi**|corresponding to, matching|relation correspondence|
+|**oho**|in addition to, plus|relation addition|
+|**ohu**|together with, along with|relation together|
+
+---
+
+### **UH- Series — Dependency Relations**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uha**|depending on, contingent|relation dependent|
+|**uhe**|resulting from, due to|relation causal|
+|**uhi**|based on, founded on|relation based|
+|**uho**|derived from, originating|relation derivation|
+|**uhu**|consisting of, composed of|relation composition|
+
+---
+
+# 📄 FAMÍLIA Y — Perception/Sensory
+
+---
+
+## **Family Y — Perception/Sensory**
+
+**Function:** Marks sensory perception and perceptual modes
+
+---
+
+### **AY- Series — Sensory Modes**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aya**|visually, by sight|perception visual|
+|**aye**|auditorily, by hearing|perception auditory|
+|**ayi**|tactilely, by touch|perception tactile|
+|**ayo**|gustatorily, by taste|perception gustatory|
+|**ayu**|olfactorily, by smell|perception olfactory|
+
+---
+
+### **EY- Series — Perception Clarity (Clear)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eya**|clearly visible, obvious to see|clarity-visual clear|
+|**eye**|clearly audible, easy to hear|clarity-auditory clear|
+|**eyi**|clearly felt, tangible|clarity-tactile clear|
+|**eyo**|distinct taste, strong flavor|clarity-gustatory clear|
+|**eyu**|strong smell, noticeable odor|clarity-olfactory clear|
+
+---
+
+### **IY- Series — Perception Clarity (Faint)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iya**|barely visible, faint|clarity-visual faint|
+|**iye**|barely audible, quiet|clarity-auditory faint|
+|**iyi**|barely felt, subtle|clarity-tactile faint|
+|**iyo**|subtle taste, mild flavor|clarity-gustatory faint|
+|**iyu**|faint smell, weak odor|clarity-olfactory faint|
+
+---
+
+### **OY- Series — Perceptual Actions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oya**|looking, watching|action-visual watching|
+|**oye**|listening, hearing|action-auditory listening|
+|**oyi**|feeling, touching|action-tactile touching|
+|**oyo**|tasting, sampling|action-gustatory tasting|
+|**oyu**|smelling, sniffing|action-olfactory smelling|
+
+---
+
+### **UY- Series — Perceptual Manner**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uya**|perceptively, with perception|manner perceptive|
+|**uye**|attentively, paying attention|manner attentive|
+|**uyi**|sensitively, with sensitivity|manner sensitive|
+|**uyo**|keenly, acutely aware|manner keen|
+|**uyu**|intensely aware, hyper-perceptive|manner intense|
+
+---
+
+# 📄 FAMÍLIA Š — Boundary/Limit
+
+---
+
+## **Family Š — Boundary/Limit**
+
+**Function:** Marks boundaries, limits, edges, and thresholds
+
+---
+
+### **AŠ- Series — Boundary Points**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aša**|at entrance, entering|boundary entrance|
+|**aše**|at exit, exiting|boundary exit|
+|**aši**|at barrier, blocked|boundary barrier|
+|**ašo**|at opening, through gap|boundary opening|
+|**ašu**|at crossing, traversing|boundary crossing|
+
+---
+
+### **EŠ- Series — Edge Locations**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eša**|at edge, on border|location edge|
+|**eše**|at margin, peripheral|location margin|
+|**eši**|at boundary line|location boundary|
+|**ešo**|at threshold, on cusp|location threshold|
+|**ešu**|at limit, at extreme|location limit|
+
+---
+
+### **IŠ- Series — Boundary Positions**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iša**|inside bounds, within|position inside|
+|**iše**|outside bounds, beyond|position outside|
+|**iši**|on boundary, at edge|position on-boundary|
+|**išo**|approaching limit|position approaching|
+|**išu**|past limit, exceeded|position exceeded|
+
+---
+
+### **OŠ- Series — Boundary States**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oša**|unlimited, boundless|state unlimited|
+|**oše**|limited, bounded|state limited|
+|**oši**|restricted, confined|state restricted|
+|**ošo**|enclosed, contained|state enclosed|
+|**ošu**|sealed, closed off|state sealed|
+
+---
+
+### **UŠ- Series** — Permeability Properties
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uša**|permeable, passable|property permeable|
+|**uše**|semi-permeable, selective|property semi-permeable|
+|**uši**|impermeable, impassable|property impermeable|
+|**ušo**|porous, having gaps|property porous|
+|**ušu**|solid, no gaps|property solid|
+
+---
+
+# 📄 FAMÍLIA Ř — Identity/Possession
+
+---
+
+## **Family Ř — Identity/Possession**
+
+**Function:** Marks identity, naming, possession, and characteristic attribution
+
+---
+
+### **AŘ- Series — Naming & Identification**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aŕa**|named, called|naming named|
+|**aŕe**|titled, designated|naming titled|
+|**aŕi**|labeled, tagged|naming labeled|
+|**aŕo**|referred to as, known as|naming referred|
+|**aŕu**|identified as, recognized as|naming identified|
+
+---
+
+### **EŘ- Series — Self & Identity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eŕa**|self, oneself|identity self|
+|**eŕe**|own identity, selfhood|identity own|
+|**eŕi**|personal, individual|identity personal|
+|**eŕo**|unique identity, distinctive|identity unique|
+|**eŕu**|essential self, core identity|identity essential|
+
+---
+
+### **IŘ- Series — Possession & Ownership**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iŕa**|owned by, belonging to|possession owned|
+|**iŕe**|possessed, having|possession possessed|
+|**iŕi**|property of, owned|possession property|
+|**iŕo**|in possession, holding|possession holding|
+|**iŕu**|exclusively owned, sole possession|possession exclusive|
+
+---
+
+### **OŘ- Series — Characteristics & Attributes**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oŕa**|characteristic of, typical|attribute characteristic|
+|**oŕe**|quality of, attribute|attribute quality|
+|**oŕi**|feature of, aspect|attribute feature|
+|**oŕo**|trait of, property|attribute trait|
+|**oŕu**|essence of, essential nature|attribute essence|
+
+---
+
+### **UŘ- Series — Origin & Source**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uŕa**|originating from, derived|origin from|
+|**uŕe**|sourced from, coming from|origin sourced|
+|**uŕi**|descended from, lineage|origin descended|
+|**uŕo**|inherited from, passed down|origin inherited|
+|**uŕu**|rooted in, fundamentally from|origin rooted|
+
+---
+
+# 📄 FAMÍLIA Č — Cognition/Mental
+
+---
+
+## **Family Č — Cognition/Mental**
+
+**Function:** Marks cognitive processes, mental states, and intellectual operations
+
+---
+
+### **AČ- Series — Knowledge & Awareness**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ača**|knowing, aware of|cognition knowing|
+|**ače**|understanding, comprehending|cognition understanding|
+|**ači**|recognizing, identifying|cognition recognizing|
+|**ačo**|realizing, becoming aware|cognition realizing|
+|**aču**|fully grasping, complete understanding|cognition grasping|
+
+---
+
+### **EČ- Series — Thinking & Processing**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eča**|thinking about, considering|mental-process thinking|
+|**eče**|pondering, reflecting|mental-process pondering|
+|**eči**|reasoning, logical thinking|mental-process reasoning|
+|**ečo**|analyzing, examining|mental-process analyzing|
+|**eču**|contemplating deeply, meditating|mental-process contemplating|
+
+---
+
+### **IČ- Series — Memory & Recall**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iča**|remembering, recalling|memory remembering|
+|**iče**|memorizing, committing to memory|memory memorizing|
+|**iči**|retaining, keeping in mind|memory retaining|
+|**ičo**|recollecting, bringing to mind|memory recollecting|
+|**iču**|never forgetting, indelible memory|memory indelible|
+
+---
+
+### **OČ- Series — Understanding & Comprehension**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oča**|barely understanding, confused|comprehension minimal|
+|**oče**|partially understanding, grasping some|comprehension partial|
+|**oči**|understanding well, clear comprehension|comprehension clear|
+|**očo**|fully understanding, complete grasp|comprehension full|
+|**oču**|deeply understanding, profound insight|comprehension profound|
+
+---
+
+### **UČ- Series — Attention & Focus**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uča**|distracted, unfocused|attention distracted|
+|**uče**|somewhat attentive, partially focused|attention partial|
+|**uči**|attentive, paying attention|attention attentive|
+|**učo**|concentrating, focused|attention concentrated|
+|**uču**|intensely focused, total concentration|attention intense|
+
+---
+
+# 📄 FAMÍLIA Ž — Intensity/Degree
+
+---
+
+## **Family Ž — Quantity/Amount**
+
+**Function:** Marks quantity, amount, and numerical degree (non-numeral)
+
+---
+
+### **AŽ- Series — Quantity Level**
+
+| VCV     | Meaning               | Category         |
+| ------- | --------------------- | ---------------- |
+| **aža** | none, zero            | quantity zero    |
+| **aže** | very few, hardly any  | quantity minimal |
+| **aži** | few, small number     | quantity few     |
+| **ažo** | some, moderate amount | quantity some    |
+| **ažu** | many, numerous        | quantity many    |
+
+---
+
+### **EŽ- Series — Amount Level**
+
+| VCV     | Meaning            | Category       |
+| ------- | ------------------ | -------------- |
+| **eža** | nothing, empty     | amount none    |
+| **eže** | a bit, a little    | amount little  |
+| **eži** | part of, portion   | amount partial |
+| **ežo** | much, considerable | amount much    |
+| **ežu** | all, everything    | amount all     |
+
+---
+
+### **IŽ- Series — Adequacy Level**
+
+| VCV     | Meaning                  | Category              |
+| ------- | ------------------------ | --------------------- |
+| **iža** | insufficient, too little | adequacy insufficient |
+| **iže** | barely enough, scant     | adequacy barely       |
+| **iži** | enough, sufficient       | adequacy sufficient   |
+| **ižo** | more than enough, ample  | adequacy ample        |
+| **ižu** | excessive, too much      | adequacy excessive    |
+
+---
+
+### **OŽ- Series — Distribution Type**
+
+| VCV     | Meaning                 | Category                  |
+| ------- | ----------------------- | ------------------------- |
+| **oža** | sparse, scattered       | distribution sparse       |
+| **ože** | scattered, spread out   | distribution scattered    |
+| **oži** | distributed evenly      | distribution even         |
+| **ožo** | concentrated, clustered | distribution concentrated |
+| **ožu** | dense, packed           | distribution dense        |
+
+---
+
+### **UŽ- Series — Proportion Level**
+
+| VCV     | Meaning                     | Category               |
+| ------- | --------------------------- | ---------------------- |
+| **uža** | nearly none, almost empty   | proportion nearly-none |
+| **uže** | minority, less than half    | proportion minority    |
+| **uži** | half, equal parts           | proportion half        |
+| **užo** | majority, more than half    | proportion majority    |
+| **užu** | nearly all, almost complete | proportion nearly-all  |
+
+---
+# 📄 FAMÍLIA J̌ — Causality/Agency
+
+---
+
+## **Family J̌ — Causality/Agency**
+
+**Function:** Marks causal relationships, agency, and cause-effect connections
+
+---
+
+### **Aǰ- Series — Cause & Source**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aǰa**|caused by, due to|causality caused|
+|**aǰe**|resulting from, as result of|causality resulting|
+|**aǰi**|because of, on account of|causality because|
+|**aǰo**|stemming from, arising from|causality stemming|
+|**aǰu**|originating in, root cause|causality originating|
+
+---
+
+### **Eǰ- Series — Effect & Result**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eǰa**|leading to, causing|effect leading|
+|**eǰe**|producing, generating|effect producing|
+|**eǰi**|resulting in, yielding|effect resulting|
+|**eǰo**|bringing about, effecting|effect bringing|
+|**eǰu**|culminating in, final result|effect culminating|
+
+---
+
+### **Iǰ- Series — Purpose & Goal**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iǰa**|for purpose of, in order to|purpose for|
+|**iǰe**|aiming at, targeting|purpose aiming|
+|**iǰi**|intending, with intention of|purpose intending|
+|**iǰo**|seeking, trying to achieve|purpose seeking|
+|**iǰu**|ultimately for, final purpose|purpose ultimate|
+
+---
+
+### **Oǰ- Series — Means & Method**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oǰa**|by means of, using|means by|
+|**oǰe**|through, via|means through|
+|**oǰi**|with help of, by aid of|means with-help|
+|**oǰo**|by way of, by method of|means by-way|
+|**oǰu**|utilizing, making use of|means utilizing|
+
+---
+
+### **Uǰ- Series — Agent & Actor**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uǰa**|by agent, performed by|agency by-agent|
+|**uǰe**|by actor, done by|agency by-actor|
+|**uǰi**|by doer, executed by|agency by-doer|
+|**uǰo**|by force, through force of|agency by-force|
+|**uǰu**|by power, through power of|agency by-power|
+
+---
+
+# 📄 FAMÍLIA Ñ — Manner/Mode
+
+---
+
+## **Family Ñ — Manner/Mode**
+
+**Function:** Marks manner of execution, mode of action, and stylistic approach
+
+---
+
+### **AÑ- Series — Style & Approach**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aña**|in crude style, roughly|style crude|
+|**añe**|in simple style, plainly|style simple|
+|**añi**|in normal style, standardly|style normal|
+|**año**|in refined style, elegantly|style refined|
+|**añu**|in sophisticated style, artfully|style sophisticated|
+
+---
+
+### **EÑ- Series — Speed & Pace**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eña**|hastily, in rushed manner|pace hasty|
+|**eñe**|quickly, at fast pace|pace quick|
+|**eñi**|at normal pace, regularly|pace normal|
+|**eño**|slowly, deliberately|pace slow|
+|**eñu**|painstakingly, very slowly|pace painstaking|
+
+---
+
+### **IÑ- Series — Care & Attention**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iña**|carelessly, negligently|care careless|
+|**iñe**|casually, without much care|care casual|
+|**iñi**|with normal care, adequately|care normal|
+|**iño**|carefully, attentively|care careful|
+|**iñu**|meticulously, with great care|care meticulous|
+
+---
+
+### **OÑ- Series — Skill & Competence**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oña**|clumsily, ineptly|skill clumsy|
+|**oñe**|amateurishly, inexpertly|skill amateur|
+|**oñi**|competently, adequately|skill competent|
+|**oño**|skillfully, expertly|skill skillful|
+|**oñu**|masterfully, with mastery|skill masterful|
+
+---
+
+### **UÑ- Series — Effort & Exertion**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uña**|effortlessly, with no effort|effort effortless|
+|**uñe**|with little effort, easily|effort little|
+|**uñi**|with normal effort|effort normal|
+|**uño**|with great effort, strenuously|effort great|
+|**uñu**|with maximum effort, exhaustingly|effort maximum|
+
+---
+
+# 📄 FAMÍLIA C — Movement/Direction
+
+---
+
+## **Family C — Movement/Direction**
+
+**Function:** Marks movement, direction, and dynamics of displacement
+
+---
+
+### **AC- Series — Linear Movement**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aca**|in straight line, directly|movement linear-straight|
+|**ace**|in curved path, arcing|movement curved|
+|**aci**|in zigzag, back-and-forth|movement zigzag|
+|**aco**|in spiral, spiraling|movement spiral|
+|**acu**|in meandering path, wandering|movement meandering|
+
+---
+
+### **EC- Series — Approach & Departure**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eca**|approaching, coming toward|direction approach|
+|**ece**|nearing, getting closer|direction nearing|
+|**eci**|passing by, going past|direction passing|
+|**eco**|departing, going away|direction departing|
+|**ecu**|retreating, moving back|direction retreating|
+
+---
+
+### **IC- Series — Rotation & Circular**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ica**|rotating, spinning|movement rotating|
+|**ice**|revolving, going around|movement revolving|
+|**ici**|circling, moving in circle|movement circling|
+|**ico**|orbiting, in orbital path|movement orbiting|
+|**icu**|spiraling, in spiral motion|movement spiraling|
+
+---
+
+### **OC- Series — Vertical Movement**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oca**|descending, going down|direction descending|
+|**oce**|lowering, moving downward|direction lowering|
+|**oci**|level, horizontal movement|direction level|
+|**oco**|rising, moving upward|direction rising|
+|**ocu**|ascending, going up|direction ascending|
+
+---
+
+### **UC- Series — Flight & Elevation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uca**|gliding, soaring smoothly|flight gliding|
+|**uce**|flying, in flight|flight flying|
+|**uci**|hovering, suspended|flight hovering|
+|**uco**|floating, drifting|flight floating|
+|**ucu**|soaring, flying high|flight soaring|
+
+---
+
+# 📄 FAMÍLIA X — Existence/Reality
+
+---
+
+## **Family X — Existence/Reality**
+
+**Function:** Marks degrees of existence, reality, and ontological status
+
+---
+
+### **AX- Series — Presence & Absence**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**axa**|absent, not present|presence absent|
+|**axe**|barely present, trace|presence barely|
+|**axi**|present, existing|presence present|
+|**axo**|fully present, manifest|presence manifest|
+|**axu**|ubiquitous, present everywhere|presence ubiquitous|
+
+---
+
+### **EX- Series — Reality & Actuality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**exa**|imaginary, not real|reality imaginary|
+|**exe**|virtual, simulated|reality virtual|
+|**exi**|real, actual|reality real|
+|**exo**|tangible, concrete|reality tangible|
+|**exu**|undeniably real, solid|reality undeniable|
+
+---
+
+### **IX- Series — Truth & Factuality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ixa**|fictional, made-up|truth fictional|
+|**ixe**|hypothetical, supposed|truth hypothetical|
+|**ixi**|factual, based on fact|truth factual|
+|**ixo**|verified, confirmed true|truth verified|
+|**ixu**|indisputable, absolutely true|truth indisputable|
+
+---
+
+### **OX- Series — Certainty & Actuality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oxa**|uncertain, doubtful|certainty uncertain|
+|**oxe**|probable, likely|certainty probable|
+|**oxi**|certain, sure|certainty certain|
+|**oxo**|definite, confirmed|certainty definite|
+|**oxu**|absolute, without doubt|certainty absolute|
+
+---
+
+### **UX- Series — Possibility & Potentiality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uxa**|impossible, cannot be|possibility impossible|
+|**uxe**|unlikely, improbable|possibility unlikely|
+|**uxi**|possible, can be|possibility possible|
+|**uxo**|likely, probable|possibility likely|
+|**uxu**|inevitable, must be|possibility inevitable|
+
+---
+
+# 📄 FAMÍLIA Z — Intention/Volition
+
+---
+
+## **Family Z — Intention/Volition**
+
+**Function:** Marks intentionality, volition, will, and purposefulness
+
+---
+
+### **AZ- Series — Desire & Wanting**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aza**|not wanting, averse|desire averse|
+|**aze**|indifferent, not caring|desire indifferent|
+|**azi**|wanting, desiring|desire wanting|
+|**azo**|strongly desiring, craving|desire strong|
+|**azu**|desperately wanting, needing|desire desperate|
+
+---
+
+### **EZ- Series — Decision & Choice**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eza**|undecided, hesitant|decision undecided|
+|**eze**|considering, deliberating|decision considering|
+|**ezi**|deciding, choosing|decision deciding|
+|**ezo**|determined, resolved|decision determined|
+|**ezu**|firmly decided, resolute|decision resolute|
+
+---
+
+### **IZ- Series — Will & Determination**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iza**|unwilling, reluctant|will unwilling|
+|**ize**|half-hearted, lukewarm|will half-hearted|
+|**izi**|willing, ready|will willing|
+|**izo**|eager, enthusiastic|will eager|
+|**izu**|zealous, fervent|will zealous|
+
+---
+
+### **OZ- Series — Agreement & Consent**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oza**|refusing, rejecting|agreement refusing|
+|**oze**|reluctantly accepting|agreement reluctant|
+|**ozi**|agreeing, consenting|agreement agreeing|
+|**ozo**|readily agreeing, accepting|agreement readily|
+|**ozu**|enthusiastically agreeing|agreement enthusiastic|
+
+---
+
+### **UZ- Series — Permission & Authorization**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uza**|forbidden, prohibited|permission forbidden|
+|**uze**|discouraged, not recommended|permission discouraged|
+|**uzi**|allowed, permitted|permission allowed|
+|**uzo**|encouraged, recommended|permission encouraged|
+|**uzu**|mandated, required|permission mandated|
+
+---
+

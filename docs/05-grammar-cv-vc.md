@@ -684,4 +684,3 @@
 
 ---
 
-**Pronta para aprovação?** 🚀
