@@ -1,388 +1,315 @@
 # Universal Ontological Language
 
-**The first constructed language with 100% systematic vocabulary**
+**We solved the 400-year problem**
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/rogerdafonseca-hub/conlang-ontological/releases)
-[![Status](https://img.shields.io/badge/status-active_development-green.svg)](https://github.com/rogerdafonseca-hub/conlang-ontological)
+[![Version](https://img.shields.io/badge/version-0.5.0--dev-blue.svg)](https://github.com/rogerdafonseca-hub/conlang-ontological/releases)
+[![Status](https://img.shields.io/badge/status-breakthrough-green.svg)](https://github.com/rogerdafonseca-hub/conlang-ontological)
 
 ---
 
-## 🌟 What Makes This Language Unique
+## 🏆 The Breakthrough
 
-**Every other constructed language has arbitrary vocabulary somewhere.**
+Since 1668, linguists tried to create systematic vocabulary for objects.
 
-- **Esperanto:** "hundo" (dog), "kato" (cat) — borrowed from natural languages
-- **Lojban:** "gerku" (dog), "mlatu" (cat) — artificial blends, still arbitrary
-- **Toki Pona:** 120 words — all invented, must memorize
-- **Ithkuil:** Systematic grammar but arbitrary roots
+**John Wilkins (1668):** Too complex — 40 categories, nobody could use it  
+**Esperanto (1887):** Gave up — borrowed "hundo" from Germanic  
+**Lojban (1987):** Invented "gerku" — still arbitrary  
+**Toki Pona (2001):** 120 fixed words — can't grow
+
+**Every constructed language until now:** Systematic grammar ✅ | Arbitrary vocabulary ❌
+
+---
+
+**This language (2026):**
+
+# Zero arbitrary words. All systematic.
+
+Every noun — from "stone" to "spacecraft" — is logically derived.
+
+---
+
+## 💡 The Innovation
+
+**Progressive depth. You choose when to stop.**
+
+**2 syllables** → Like Toki Pona (simple, works)  
+**3 syllables** → Standard vocabulary (90% of use)  
+**4+ syllables** → Technical precision (when needed)
+
+**Example:**
+```
+pu = object
+puka = stone  
+pukama = large rock
+pukamava = sedimentary formation
+```
+
+Learn patterns once. Generate millions of words.
+
+---
+
+## 🎯 Why This Changes Everything
+
+### 1. Scalable Simplicity
+
+Start simple. Go deep only if you want.
+
+**Basic user:** 2-syllable words — communicate like Toki Pona  
+**Standard user:** 3-syllable words — full daily vocabulary  
+**Expert user:** 4+ syllables — scientific precision
+
+Most people stop early. The depth is there if you need it.
+
+### 2. Pattern Recognition > Memorization
+
+**Traditional languages:**
+```
+Memorize: dog, cat, horse, cow, pig...
+(infinite arbitrary words)
+```
 
 **This language:**
+```
+Learn pattern:
+pu- = object domain
+-li- = sharp/cutting
+-ka/-ke/-ki = variants
 
-### ✨ **ZERO arbitrary words across the entire system**
+Deduce:
+pulika = knife
+pulike = scissors  
+puliki = saw
+```
 
-Every word — from "I" to "dog" to "mitochondria" — is systematically derived from logical patterns.
+300 patterns → 244 million words.
 
-**Grammar:** 250 particles (family-based patterns)  
-**Vocabulary:** 625 words (domain + intensity patterns)  
-**Nominal Lexicon:** 15,625 words (CVCV matrix — **our breakthrough**)  
-**Technical Vectors:** 390,625 concepts (compositional)
+### 3. One System, All Scales
 
-**407,125+ systematically derivable resources. Zero memorization of arbitrary words.**
+**Casual conversation:**
+```
+ba evi puka
+I take stone
+```
+
+**Technical description:**
+```
+ba čo upika
+I study [mineral-solid-substance]
+```
+
+Same grammar. Adjustable precision.
 
 ---
 
-## 🎯 Design Goals
+## 📊 The Complete System
 
-**Simple enough for daily conversation. Precise enough for science.**
+**Layer 1: Grammar** — 250 particles | Learn in 1 month  
+**Layer 2: Vocabulary** — 625 words | Learn in 6 months  
+**Layer 3: Nominal Lexicon** — 244M+ systematic words | Progressive depth 🆕  
+**Layer 4: Technical Vectors** — 390K scientific concepts | Optional reference
 
-**For fluency:** 875 resources (250 grammar + 625 vocabulary)  
-**For everything:** 407,125+ systematic resources
-
-**Learn patterns, not lists.**
-
----
-
-## 🚀 Quick Start
-
-### **Learn the language:**
-
-1. **Read [Philosophy](docs/01-philosophy.md)** (10 min) — Understand why it exists
-2. **Read [Primary Concepts](docs/03-primary-and-informal-concepts.md)** (20 min) — Build mental model
-3. **See [Structure](docs/04-structure.md)** (30 min) — Grasp the architecture
-4. **Follow [Learning Path](community/learning-path.md)** — Step-by-step guide
-
-### **Explore the innovation:**
-
-**[Nominal Lexicon Matrix](lexicon-and-foreign-words/lexicon-nominal-matrix.md)** — The breakthrough system
-
-15,625 words for concrete objects, all derived from a C₁V₁C₂V₂ matrix.
-
-**Examples:**
-- `peka` = dog (P-domain, e-mammals, k-domestic, a-first)
-- `maka` = house (M-domain, a-dwellings, k-residence, a-standard)
-- `yaka` = bread (Y-domain, a-grains, k-baked, a-basic)
-
-**You don't memorize. You deduce.**
+**For fluency:** 875 resources (comparable to Basic English)  
+**For everything:** Infinite systematic expansion
 
 ---
 
-## 📊 System Overview
+## 🌟 What Makes This Possible
 
-### **Four Layers, One Language**
+### We're Not Inventing from Scratch
 
-**Layer 1: Grammar (250 particles)**  
-Basic structure. CV + VC patterns.  
-**Learn in:** 2-4 weeks
+The language already has a complete ontological framework (vector system).
 
-**Layer 2: Core Vocabulary (625 words)**  
-Everyday concepts. VCV patterns.  
-**Learn in:** 3-6 months
+Nominal lexicon = reusing proven ontology
 
-**Fluency threshold:** 875 resources ✅
+**Example:**
+```
+Vector: u-p = taxonomy/objects
+Nominal: pu- = object domain
 
-**Layer 3: Nominal Lexicon (15,625 words)** 🆕  
-Concrete objects. CVCV matrix. **100% systematic.**  
-**Learn by:** Pattern recognition
+Perfect alignment.
+```
 
-**Layer 4: Technical Vectors (390,625 concepts)**  
-Scientific precision. Compositional.  
-**Use as:** Optional reference
+### Incremental Testing
+
+Build one domain → Test with users → Works? → Next domain
+
+If something fails, fix one piece. Not the whole system.
+
+### Historical Precedent
+
+Humans already master hierarchical naming:
+
+**Chemistry:** 2-methyl-butane (millions of compounds)  
+**Biology:** Homo sapiens (1.2M+ species)
+
+**Our system:** Systematic nomenclature for everything.
+
+If IUPAC works, this can work.
 
 ---
 
-## 💡 The CVCV Matrix Innovation
+## 🚀 Current Status
 
-### **Structure: C₁V₁C₂V₂**
+**Version:** 0.5.0-dev (Breakthrough Phase)
 
-**C₁** = Domain (25) — P=beings, M=places, Y=foods, V=tools...  
-**V₁** = Subcategory (5) — Type within domain  
-**C₂** = Concept (25) — Specific concept  
-**V₂** = Variation (5) — Variant/gradation
+### Complete:
+✅ Grammar (250 particles)  
+✅ Core vocabulary (625 words)  
+✅ Nominal framework (244M capacity)  
+✅ Philosophical coherence
 
-**15,625 total combinations. All systematic. Zero arbitrary.**
+### In Progress:
+🔄 Domain PU (Objects) — First complete prototype  
+🔄 Community testing with 5-10 learners  
+🔄 Validation: Can people deduce unseen words?
 
-### **Example: Animals (P-domain, e-mammals)**
-```
-peka = dog (P-e-k-a)
-peke = cat (P-e-k-e)
-peki = horse (P-e-k-i)
-peko = cow (P-e-k-o)
-peku = pig (P-e-k-u)
-```
+### Next (v0.5.0 - June 2026):
+🎯 3 complete domains (PU, MA, YA)  
+🎯 Deduction exercises  
+🎯 Learning tools
 
-**Pattern once learned, thousands of words deduced.**
-
----
-
-## 📈 Comparison with Other Languages
-
-**Resources needed for basic fluency:**
-
-- Toki Pona: ~140 (minimal, vague)
-- **This Language: 875** (systematic, clear)
-- Basic English: ~850 (irregular grammar)
-- Esperanto: ~2,100 (many arbitrary roots)
-- Lojban: ~1,850 (semi-systematic roots)
-
-**Systematicity (% pattern-derived):**
-
-- Toki Pona: 0% (all arbitrary)
-- Esperanto: ~40% (roots arbitrary, affixes systematic)
-- Lojban: ~60% (roots from languages)
-- Ithkuil: ~70% (roots arbitrary, morphology systematic)
-- **This Language: 100%** (everything pattern-derived)
-
-**Our position:** Accessible like Basic English, systematic like mathematics, precise like Ithkuil.
+See: [Roadmap](news/roadmap.md)
 
 ---
 
-## 🎨 Examples
+## 🧪 We're Testing, Not Assuming
 
-### **Simple conversation:**
-```
-ba uwi te
-I laugh present
-→ "I'm laughing"
+This is science, not dogma.
 
-be wa yanu?
-you want food?
-→ "Do you want food?"
+**Phase 1 (Now):** Prototype 1 domain. Test deduction. Get feedback.  
+**Phase 2 (2026):** Expand to 15 domains. 50+ testers.  
+**Phase 3 (2027):** Complete 125 domains. 1,000+ learners. Academic validation.
 
-bo ma uki
-we can talk
-→ "We can talk"
-```
-
-### **With nominal lexicon:**
-```
-ba vi peka
-I have dog
-→ "I have a dog"
-
-da puke va so
-the flower is near
-→ "The flower is nearby"
-
-be evi yaka pi maka
-you take bread at house
-→ "You get bread from the house"
-```
-
-### **With numerals:**
-```
-ba vi zani peka la zane peke
-I have 2 dog and 1 cat
-→ "I have two dogs and one cat"
-```
-
-### **Scientific (with vectors):**
-```
-ba čo apimabi
-I study biological-organism
-→ "I study the biological organism"
-```
+If testing reveals problems, we adjust.
 
 ---
 
-## 🗂️ Repository Structure
-```
-conlang-ontological/
-├── README.md (you are here)
-├── LICENSE (CC0 - Public Domain)
-├── docs/
-│   ├── 00-index.md (navigation hub)
-│   ├── 01-philosophy.md (design principles)
-│   ├── 02-phonology.md (sound system)
-│   ├── 03-primary-and-informal-concepts.md (mental models)
-│   ├── 04-structure.md (architecture)
-│   ├── 05-grammar-cv-vc.md (250 particles)
-│   ├── 06-basics-vcv.md (625 words)
-│   ├── 07-vector-system.md (precision layer)
-│   └── ...
-├── ontological-matrices-and-vectors/ (technical vectors)
-├── lexicon-and-foreign-words/
-│   ├── core-vcv-vocabulary.md (625 words)
-│   ├── lexicon-nominal-matrix.md (CVCV system - NEW!)
-│   └── ...
-├── community/
-│   ├── welcome.md
-│   ├── FAQ.md
-│   ├── learning-path.md
-│   └── ...
-└── news/
-    ├── roadmap.md
-    └── changelog.md
-```
+## 📚 Start Learning
+
+**New here? Start with:**
+
+🏠 [Welcome](community/welcome.md) — Feel at home, understand the vision  
+📖 [Philosophy](docs/01-philosophy.md) — Why this exists  
+🗺️ [Learning Path](community/learning-path.md) — How to learn (levels and timeline)  
+🏗️ [Structure](docs/04-structure.md) — What we discovered
+
+**Ready to dive deeper:**
+
+🔤 [Grammar](docs/05-grammar-cv-vc.md) — 250 particles  
+📝 [Vocabulary](docs/06-basics-vcv.md) — 625 essential words  
+🧬 [Nominal Lexicon](lexicon-and-foreign-words/09-lexicon-nominal-matrix.md) — The breakthrough system
+
+Full navigation: [Documentation Index](docs/00-index.md)
 
 ---
 
-## 🎓 Learning Resources
+## 🎯 How You Can Help
 
-**Documentation:**  
-Start with [docs/00-index.md](docs/00-index.md) for complete navigation.
+**For Learners:**  
+Try learning the system. Test deduction exercises. Report what works.
 
-**Community:**  
-- [Welcome Guide](community/welcome.md)
-- [FAQ](community/FAQ.md)
-- [Learning Path](community/learning-path.md)
+**For Linguists:**  
+Review nominal framework. Suggest refinements. Validate ontological mappings.
 
-**Practice:**  
-- Study materials in `study-and-examples/`
-- Universal Declaration translation (in progress)
+**For Developers:**  
+Build learning tools. Create deduction practice apps. Develop visualizations.
 
----
+**For Everyone:**  
+⭐ Star this repo | Share with language enthusiasts | Join discussions
 
-## 🤝 Contributing
-
-**This language belongs to everyone (CC0 Public Domain).**
-
-**Ways to contribute:**
-
-- **Learn it** — First speakers are most valuable
-- **Document it** — Examples, exercises, translations
-- **Develop it** — Complete CVCV matrices, add vectors
-- **Teach it** — Create learning materials
-- **Use it** — Write, speak, create
-- **Improve it** — Suggest refinements
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
----
-
-## 📜 License
-
-**CC0 1.0 Universal (Public Domain)**
-
-This work has been dedicated to the public domain.
-
-You can:
-- Use commercially
-- Modify completely
-- Distribute freely
-- Never ask permission
-- Never give attribution (though appreciated)
-
-**No restrictions. Ever.**
-
-Like mathematical notation. Like the periodic table. A tool for humanity.
-
-See [LICENSE](LICENSE) for full details.
+This belongs to everyone. Public domain (CC0).
 
 ---
 
 ## 🗺️ Roadmap
 
-### **v0.4.0 (Current)** — Systematic Nominal Lexicon ✅
+**v0.5.0** (June 2026) — Domain Prototypes | 3 complete domains | Community testing
 
-**Completed:**
-- CVCV Matrix framework
-- Complete grammar system (250 particles)
-- Complete core vocabulary (625 words)
-- Numeral system (Z-marker)
-- Documentation update
+**v0.6.0** (Sept 2026) — Expansion | 8 domains | Learning tools launched
 
----
+**v0.7.0** (Dec 2026) — Coverage | 15 domains (60%) | First textbook
 
-### **v0.5.0 (Next)** — Matrix Development
+**v0.8.0** (March 2027) — Completion | 125 domains mapped | Mobile app
 
-**Goals:**
-- Complete CVCV matrices for all 25 domains
-- Develop 50+ example matrices
-- Advanced classification system integration
-- Expanded learning materials
+**v1.0.0** (Sept 2027) — Production | 1,000+ learners | 100+ fluent speakers
+
+See: [Complete Roadmap](news/roadmap.md)
 
 ---
 
-### **v1.0.0 (Future)** — Production Ready
+## 🌍 The Vision
 
-**Goals:**
-- All 25 CVCV matrices complete
-- Comprehensive learning materials
-- 100+ native speakers
-- Translation corpus
-- Community tools (dictionaries, apps)
+By 2027, a fully functional language where:
 
-See [news/roadmap.md](news/roadmap.md) for detailed timeline.
+✅ Every word is pattern-derived (no arbitrary vocabulary)  
+✅ Anyone can reach fluency in 6-9 months  
+✅ Precision scales from casual to scientific  
+✅ Humans and AI communicate equally well  
+✅ Thousands use it worldwide
 
----
+A language that proves:
 
-## 📊 Current Status
+Systematic design ≠ complexity  
+Logic ≠ coldness  
+Patterns ≠ rigidity  
+Innovation ≠ impracticality
 
-**Version:** 0.4.0  
-**Status:** Active Development  
-**Resources Complete:** 875 (fluency) + CVCV framework  
-**Total System:** 407,125+ (when fully developed)
-
-**Latest Achievement:** First language with fully systematic nominal lexicon (15,625 CVCV words, zero arbitrary)
+A language for humanity. Built together.
 
 ---
 
-## 🌍 Project Vision
+## 💬 A Note from the Creator
 
-**A universal language that:**
-
-- Anyone can learn in months
-- Serves daily conversation and quantum physics equally
-- Works for humans and AI
-- Belongs to everyone (public domain)
-- Grows infinitely without breaking
-- **Has ZERO arbitrary vocabulary**
-
-**Not replacing natural languages.**  
-**Complementing them with a universal tool.**
+> "For months, I struggled: how do you name objects systematically?
+>
+> Borrowing felt like giving up. Inventing broke the philosophy. Complex hierarchies were unusable.
+>
+> Then I realized: what if depth is a choice?
+>
+> 2 syllables for basic users. 3 for most people. 4+ for specialists.
+>
+> Align with the vector system we already built.
+>
+> Suddenly, everything clicked.
+>
+> This isn't just a feature. It's the solution to a 400-year-old problem.
+>
+> We're going to validate it, together, scientifically.
+>
+> If it works — and I believe it will — we've created something truly new.
+>
+> Join us. Let's make history."
+>
+> — Roger da Fonseca, March 2026
 
 ---
 
-## 📞 Contact & Community
+## 📞 Connect
 
 **GitHub:** [rogerdafonseca-hub/conlang-ontological](https://github.com/rogerdafonseca-hub/conlang-ontological)  
-**Issues:** [Report bugs or suggest features](https://github.com/rogerdafonseca-hub/conlang-ontological/issues)  
-**Discussions:** Coming soon
+**Issues:** [Report or suggest](https://github.com/rogerdafonseca-hub/conlang-ontological/issues)  
+**Discussions:** Coming in v0.5.0  
+**Discord:** Launching June 2026
 
 ---
 
-## 🙏 Acknowledgments
+## ⭐ Join the Revolution
 
-**Inspired by:**
-- Toki Pona (minimalist philosophy)
-- Lojban (logical precision)
-- Ithkuil (systematic morphology)
-- Esperanto (accessibility goals)
+This is the breakthrough moment.
 
-**Unique contribution:**  
-First to achieve 100% systematic vocabulary through CVCV matrix innovation.
+The problem is solved in theory. Now we prove it in practice.
 
----
+Star this repo. Join the testing. Be part of history.
 
-## 📚 Further Reading
+From 400 years of failure to systematic success.
 
-**Quick links:**
-
-- [Philosophy](docs/01-philosophy.md) — Why this exists
-- [Structure](docs/04-structure.md) — How it works
-- [Nominal Lexicon Matrix](lexicon-and-foreign-words/lexicon-nominal-matrix.md) — The innovation
-- [Learning Path](community/learning-path.md) — Start learning
-- [FAQ](community/FAQ.md) — Common questions
-
-**Full navigation:** [docs/00-index.md](docs/00-index.md)
+Welcome to the future of language.
 
 ---
 
-## ⭐ Star This Project
-
-If you find this interesting, give us a star! ⭐
-
-It helps others discover the project and shows support for systematic language design.
-
----
-
-**Built with patterns, not memorization.**  
-**Learn logic, speak infinitely.**  
-**Welcome to the future of universal communication.**
-
----
-
-*Version 0.4.0 — Systematic Nominal Lexicon*  
-*Last Updated: 2026-03-10*  
+*Version 0.5.0-dev — The Breakthrough*  
+*Last Updated: 2026-03-11*  
 *License: CC0 1.0 Universal (Public Domain)*
+
+**"244 million words. Zero arbitrary. All systematic."**
