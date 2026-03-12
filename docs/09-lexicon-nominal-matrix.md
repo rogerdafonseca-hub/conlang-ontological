@@ -1,787 +1,871 @@
-# Nominal Lexicon Matrix (CVCV System)
+# 🧬 DOMÍNIO PA COMPLETO — Origin/Source
 
-**The Revolutionary Systematic Naming System**
-
----
-
-## 🎯 Purpose of This Document
-
-This document explains the **CVCV Matrix** — the breakthrough innovation that makes this language the first constructed language with 100% systematic nominal vocabulary.
-
-**What you'll learn:**
-- How the C₁V₁C₂V₂ structure works
-- How to deduce word meanings from patterns
-- How 15,625 words are systematically generated
-- How to create new words when needed
+**Alinhamento Vetorial:** a-p (Origin subcategory)
 
 ---
 
-## 🌟 The Innovation
+## 📋 VISÃO GERAL DO DOMÍNIO PA
 
-### **The Problem in All Other Languages**
+**Conceito Central:** Origem, fonte, proveniência, elementos primários
 
-**Natural languages:**  
-"dog" = arbitrary sound  
-"cat" = arbitrary sound  
-"house" = arbitrary sound  
-→ Must memorize thousands of random word-sound pairings
+**O que pertence aqui:**
 
-**Constructed languages (until now):**  
-**Esperanto:** "hundo" (dog) = borrowed from Germanic  
-**Lojban:** "gerku" (dog) = artificial blend from multiple languages  
-**Toki Pona:** "soweli" (animal) = invented, arbitrary  
-**Ithkuil:** Sophisticated grammar, but roots still arbitrary
-
-**All have the same problem: concrete nouns must be memorized.**
+- Elementos naturais fundamentais
+- Fontes primárias de fenômenos
+- Origens de processos
+- Materiais base
+- Conceitos primordiais
 
 ---
 
-### **Our Solution: The CVCV Matrix**
+## 🗂️ ESTRUTURA COMPLETA: 5 SUBCATEGORIAS
 
-**Structure: C₁V₁C₂V₂**
+### **PA = Origin/Source Domain (125 domínios nominais total)**
 
-Every nominal word has FOUR components, each with meaning:
+**Variações por vogal:**
 
-**C₁** (First Consonant) = **Domain** (25 options)  
-Which ontological category does this belong to?
+- **PA (pa)** — Natural Primary Sources (origens naturais primárias)
+- **PE (pe)** — Vital/Energetic Sources (fontes vitais/energéticas)
+- **PI (pi)** — Complex/Structural Sources (origens estruturais/complexas)
+- **PO (po)** — Functional Sources (fontes funcionais)
+- **PU (pu)** — Taxonomic/Classified Objects (objetos classificados/inanimados)
 
-**V₁** (First Vowel) = **Subcategory** (5 options)  
-Which type within that domain?
-
-**C₂** (Second Consonant) = **Concept** (25 options)  
-Which specific concept within that subcategory?
-
-**V₂** (Second Vowel) = **Variation** (5 options)  
-Which variant or gradation of that concept?
-
-**Total capacity:** 25 × 5 × 25 × 5 = **15,625 systematic words**
-
-**Expandable:** If needed, add CV → CVCVCV = 1,953,125 words
+**Total de categorias no domínio PA-family:** 5 × 25 = **125 categorias**
 
 ---
 
-## 🧬 Layer 1: Domain (C₁)
+## 📊 SUBCATEGORIA PA-A: Natural Primary Sources
 
-**First consonant indicates the ontological domain.**
+**Conceito:** Elementos naturais fundamentais, fontes primárias da natureza
 
-Uses the same 25 domains as VCV vocabulary:
+### **25 Categorias Base:**
 
-**P** — Substance/Being (living things, organisms)  
-**M** — Space/Dimensional (places, structures, geography)  
-**D** — Structure/Form (objects by shape, body parts)  
-**L** — Material/Quality (elements, materials, substances)  
-**Y** — Perception/Sensory (foods, sensory experiences)  
-**V** — Action/Verbal (tools, instruments)  
-**C** — Movement (vehicles, transportation)  
-**K** — Social/Collective (social roles, relationships)  
-**B** — Communication (books, writing, symbols)  
-**Č** — Cognition (abstract concepts, ideas)  
-**Ň** — Identity/Possession (personal objects, property)  
-**S** — Spatial/Position (positions, orientations)  
-**G** — Cycle/Rhythm (cyclical phenomena)  
-**R** — State/Condition (states of being)  
-**T** — Process/Change (transformations)  
-**H** — Relation (relational objects)  
-**F** — Value/Comparison (valued objects)  
-**W** — Emotion/Affect (emotional objects)  
-**Š** — Boundary/Limit (boundary objects)  
-**J̌** — Causality/Agency (causal objects)  
-**Ñ** — Manner/Mode (modal objects)  
-**X** — Texture/Tactile (textured objects)  
-**Z** — (Reserved for numerals)  
-(2 more domains to be defined)
-
----
-
-## 🎨 Layer 2: Subcategory (V₁)
-
-**First vowel indicates the subcategory within the domain.**
-
-**Five subcategories per domain (a/e/i/o/u)**
-
-### **Example: Domain P (Substance/Being)**
-
-**pa-** = Humans and human-related  
-**pe-** = Terrestrial mammals  
-**pi-** = Birds and avian creatures  
-**po-** = Aquatic creatures  
-**pu-** = Plants and vegetation
-
-### **Example: Domain M (Space/Dimensional)**
-
-**ma-** = Dwellings and habitations  
-**me-** = Structural parts (doors, windows, walls)  
-**mi-** = Furniture and interior objects  
-**mo-** = Natural geography (mountains, rivers)  
-**mu-** = Urban and constructed spaces
-
-### **Example: Domain Y (Perception/Sensory - Foods)**
-
-**ya-** = Grains and grain-based foods  
-**ye-** = Proteins (meat, fish, eggs, dairy)  
-**yi-** = Vegetables  
-**yo-** = Fruits  
-**yu-** = Seasonings and flavoring
+|Código|Conceito|Dimensão de Gradação|Progressão -a → -i → -u|
+|---|---|---|---|
+|**pak-**|pedra/mineral|tamanho|areia → pedra → montanha|
+|**pab-**|água|volume|gota → água → oceano|
+|**pal-**|terra/solo|quantidade/extensão|poeira → solo → continente|
+|**pan-**|fogo/calor|intensidade|brasa → fogo → incêndio|
+|**pam-**|ar/vento|movimento/força|calmo → vento → furacão|
+|**pap-**|luz|intensidade luminosa|penumbra → luz → radiância|
+|**pas-**|som|volume sonoro|sussurro → som → estrondo|
+|**pat-**|tempo|duração|instante → momento → era|
+|**pav-**|espaço/vácuo|extensão|ponto → espaço → infinito|
+|**pag-**|crescimento/vida|estágio|semente → crescimento → plenitude|
+|**par-**|movimento|velocidade|lento → movimento → veloz|
+|**paf-**|forma/aparência|complexidade|simples → forma → complexa|
+|**pah-**|conexão|força/intensidade|tênue → conexão → forte|
+|**pay-**|sensação|intensidade|fraca → sensação → intensa|
+|**paš-**|limite/fronteira|definição|vago → limite → rígido|
+|**pař-**|identidade/essência|clareza|difusa → identidade → clara|
+|**pač-**|pensamento|profundidade|superficial → pensamento → profundo|
+|**paž-**|força/poder|intensidade|fraca → força → poderosa|
+|**paǰ-**|causa|direteza|indireta → causa → direta|
+|**pañ-**|modo/método|complexidade|simples → modo → complexo|
+|**pac-**|direção|precisão|vaga → direção → precisa|
+|**pax-**|textura|rugosidade|lisa → textura → áspera|
+|**paz-**|intenção|determinação|hesitante → intenção → decidida|
+|**paw-**|afeto/emoção|intensidade|leve → emoção → intensa|
+|**pad-**|densidade/massa|compactação|rarefeito → densidade → denso|
 
 ---
 
-## 🔬 Layer 3: Concept (C₂)
+## 📖 EXEMPLOS DETALHADOS POR CATEGORIA
 
-**Second consonant indicates specific concept within subcategory.**
+### **PAK- (pedra/mineral) — Dimensão: TAMANHO**
 
-**25 concepts per subcategory (using 25 consonants)**
-
-### **Example: pe- (Terrestrial Mammals)**
-
-**pek-** = Domestic animals  
-**pel-** = Wild predators  
-**pem-** = Large herbivores  
-**pen-** = Small rodents  
-**pep-** = Nocturnal mammals  
-... (20 more concept groups)
-
-### **Example: ma- (Dwellings)**
-
-**mak-** = Houses and primary residences  
-**mal-** = Temporary shelters  
-**mam-** = Large buildings  
-**man-** = Religious structures  
-**map-** = Commercial buildings  
-... (20 more concept groups)
-
----
-
-## 🎯 Layer 4: Variation (V₂)
-
-**Second vowel indicates variation or gradation.**
-
-**Five variations per concept (a/e/i/o/u)**
-
-**General pattern (varies by concept):**
-
-**-a** = First/primary variant  
-**-e** = Second variant  
-**-i** = Third/neutral variant  
-**-o** = Fourth variant  
-**-u** = Fifth/extreme variant
-
-### **Example: pek- (Domestic Animals)**
-
-**peka** = dog (primary domestic animal)  
-**peke** = cat (second domestic animal)  
-**peki** = horse (third domestic animal)  
-**peko** = cow (fourth domestic animal)  
-**peku** = pig (fifth domestic animal)
-
----
-
-## 📚 Complete Examples
-
-### **Example 1: "dog" = peka**
-
-**Breakdown:**
-
-**p** = P-domain (Substance/Being — living things)  
-**e** = pe- subcategory (terrestrial mammals)  
-**k** = pek- concept (domestic animals)  
-**a** = first variation (primary domestic animal)
-
-**→ peka = dog**
-
-**Deduction logic:**
-- P = living things (vs places, tools, foods)
-- e = terrestrial mammals (vs birds, fish, plants)
-- k = domestic animals (vs wild, large herbivores, rodents)
-- a = first/most common
-
-→ Most common domestic terrestrial mammal = **dog**
-
----
-
-### **Example 2: "cat" = peke**
-
-**Breakdown:**
-
-**p** = P-domain (living things)  
-**e** = pe- (terrestrial mammals)  
-**k** = pek- (domestic animals)  
-**e** = second variation
-
-**→ peke = cat**
-
-**Deduction logic:**
-- Same domain, subcategory, concept as "dog"
-- Different variation (e instead of a)
-- Second most common domestic mammal = **cat**
-
----
-
-### **Example 3: "house" = maka**
-
-**Breakdown:**
-
-**m** = M-domain (Space/Dimensional — places and structures)  
-**a** = ma- subcategory (dwellings)  
-**k** = mak- concept (primary residences)  
-**a** = first variation (standard house)
-
-**→ maka = house**
-
-**Deduction logic:**
-- M = places/structures (vs living things, tools, foods)
-- a = dwellings (vs structural parts, furniture, geography)
-- k = primary residence (vs shelters, large buildings)
-- a = standard/common type
-
-→ Standard dwelling = **house**
-
----
-
-### **Example 4: "door" = meka**
-
-**Breakdown:**
-
-**m** = M-domain (places/structures)  
-**e** = me- subcategory (structural parts)  
-**k** = mek- concept (openings/passages)  
-**a** = first variation (primary opening)
-
-**→ meka = door**
-
-**Deduction logic:**
-- M = structures
-- e = structural parts (not whole buildings)
-- k = openings
-- a = primary type
-
-→ Primary structural opening = **door**
-
----
-
-### **Example 5: "window" = meke**
-
-**Breakdown:**
-
-**m** = M-domain (structures)  
-**e** = me- (structural parts)  
-**k** = mek- (openings)  
-**e** = second variation
-
-**→ meke = window**
-
-**Deduction logic:**
-- Same as "door" but second variation
-- Second type of structural opening = **window**
-
----
-
-### **Example 6: "bread" = yaka**
-
-**Breakdown:**
-
-**y** = Y-domain (Perception/Sensory — foods)  
-**a** = ya- subcategory (grains)  
-**k** = yak- concept (baked grain products)  
-**a** = first variation (basic bread)
-
-**→ yaka = bread**
-
----
-
-### **Example 7: "table" = mika**
-
-**Breakdown:**
-
-**m** = M-domain (structures)  
-**i** = mi- subcategory (furniture)  
-**k** = mik- concept (flat surfaces)  
-**a** = first variation (primary flat surface)
-
-**→ mika = table**
-
----
-
-### **Example 8: "chair" = mike**
-
-**Breakdown:**
-
-**m** = M-domain (structures)  
-**i** = mi- (furniture)  
-**k** = mik- concept (seating/surfaces)  
-**e** = second variation
-
-**→ mike = chair**
-
----
-
-## 🧠 How to Learn the System
-
-### **You DON'T memorize 15,625 words.**
-
-### **You learn the PATTERN:**
-
-**Step 1:** Learn the 25 domains (C₁)  
-Understand what each letter represents ontologically
-
-**Step 2:** Learn subcategories for common domains (V₁)  
-pa/pe/pi/po/pu for P-domain  
-ma/me/mi/mo/mu for M-domain  
-ya/ye/yi/yo/yu for Y-domain
-
-**Step 3:** Learn concept patterns (C₂)  
-Within each subcategory, understand the concept groups  
-Example: pek- = domestic animals, pel- = wild predators
-
-**Step 4:** Deduce variations (V₂)  
-Once you know the concept, variations follow logical order  
-Example: peka/peke/peki = dog/cat/horse
-
----
-
-### **Pattern Recognition in Action:**
-
-**Scenario:** You encounter the word "peki"
-
-**Your thought process:**
-
-1. Starts with **p** → P-domain → living thing
-2. Second letter **e** → pe- → terrestrial mammal
-3. Third letter **k** → pek- → domestic animal
-4. Fourth letter **i** → third variation
-
-**Deduction:** Third most common domestic mammal  
-**Likely meaning:** horse
-
-**Verification:** Context confirms it's an animal people ride  
-**Confirmed:** peki = horse ✅
-
----
-
-## 📊 Complete Domain Mappings
-
-### **Domain P: Substance/Being (Living Things)**
-
-**pa- (Humans):**  
-paka = father  
-pake = mother  
-pala = man  
-pale = woman  
-pali = child
-
-**pe- (Terrestrial Mammals):**  
-peka = dog  
-peke = cat  
-peki = horse  
-peko = cow  
-peku = pig
-
-**pi- (Birds):**  
-pika = bird (generic)  
-pike = chicken  
-piki = duck  
-piko = eagle  
-piku = owl
-
-**po- (Aquatic):**  
-poka = fish (generic)  
-poke = whale  
-poki = dolphin  
-poko = shark  
-poku = octopus
-
-**pu- (Plants):**  
-puka = tree  
-puke = flower  
-puki = grass  
-puko = bush  
-puku = vine
-
----
-
-### **Domain M: Space/Dimensional (Places & Structures)**
-
-**ma- (Dwellings):**  
-maka = house  
-make = apartment  
-maki = hut  
-mako = palace  
-maku = tent
-
-**me- (Structural Parts):**  
-meka = door  
-meke = window  
-meki = wall  
-meko = roof  
-meku = floor
-
-**mi- (Furniture):**  
-mika = table  
-mike = chair  
-miki = bed  
-miko = cabinet  
-miku = shelf
-
-**mo- (Geography):**  
-moka = mountain  
-moke = river  
-moki = sea  
-moko = lake  
-moku = island
-
-**mu- (Urban):**  
-muka = city  
-muke = village  
-muki = street  
-muko = square  
-muku = park
-
----
-
-### **Domain Y: Perception/Sensory (Foods)**
-
-**ya- (Grains):**  
-yaka = bread  
-yake = rice  
-yaki = wheat  
-yako = corn  
-yaku = oats
-
-**ye- (Proteins):**  
-yeka = meat  
-yeke = fish (food)  
-yeki = egg  
-yeko = milk  
-yeku = cheese
-
-**yi- (Vegetables):**  
-yika = vegetable (generic)  
-yike = tomato  
-yiki = potato  
-yiko = carrot  
-yiku = lettuce
-
-**yo- (Fruits):**  
-yoka = fruit (generic)  
-yoke = apple  
-yoki = banana  
-yoko = orange  
-yoku = grape
-
-**yu- (Seasonings):**  
-yuka = salt  
-yuke = sugar  
-yuki = pepper  
-yuko = spice (generic)  
-yuku = herb
-
----
-
-### **Domain V: Action/Verbal (Tools & Instruments)**
-
-**va- (Cutting Tools):**  
-vaka = knife  
-vake = scissors  
-vaki = saw  
-vako = axe  
-vaku = blade
-
-**ve- (Containers):**  
-veka = cup  
-veke = bowl  
-veki = bottle  
-veko = jar  
-veku = pot
-
-**vi- (Utensils):**  
-vika = spoon  
-vike = fork  
-viki = chopsticks  
-viko = ladle  
-viku = tongs
-
----
-
-### **Domain D: Structure/Form (Body Parts & Shapes)**
-
-**da- (Head Parts):**  
-daka = head  
-dake = eye  
-daki = ear  
-dako = nose  
-daku = mouth
-
-**de- (Torso):**  
-deka = body/torso  
-deke = chest  
-deki = stomach  
-deko = back  
-deku = shoulder
-
-**di- (Limbs):**  
-dika = hand  
-dike = arm  
-diki = finger  
-diko = leg  
-diku = foot
-
----
-
-### **Domain C: Movement (Transportation)**
-
-**ca- (Land Vehicles):**  
-caka = car  
-cake = bicycle  
-caki = motorcycle  
-cako = bus  
-caku = train
-
-**co- (Water Vessels):**  
-coka = boat  
-coke = ship  
-coki = canoe  
-coko = raft  
-coku = yacht
-
-**cu- (Paths):**  
-cuka = road  
-cuke = bridge  
-cuki = tunnel  
-cuko = path  
-cuku = highway
-
----
-
-## 🔧 Creating New Words
-
-### **When you need a word not yet defined:**
-
-**Process:**
-
-1. **Identify the domain** (C₁) — Is it a living thing? A place? A tool?
-2. **Identify the subcategory** (V₁) — Which type within that domain?
-3. **Identify the concept** (C₂) — Which specific concept group?
-4. **Choose variation** (V₂) — Which variant makes sense?
-
-### **Example: Creating "smartphone"**
-
-**Analysis:**
-
-- Not a living thing, food, or place
-- It's a **tool** for **communication**
-- Could be V-domain (tools) or B-domain (communication)
-
-**Option 1: V-domain approach**  
-veka = cup (container)  
-→ ve- = containers  
-→ Need new concept: "electronic containers"  
-→ **vexa** = electronic device (v-e-x-a)
-
-**Option 2: B-domain approach**  
-B = communication objects  
-ba- = writing/recording devices  
-bak- = electronic communication  
-→ **baka** = smartphone
-
-**Community decides:** Most logical placement based on primary function
-
----
-
-## 📈 Expansion Strategy
-
-### **Current Status:**
-
-**Fully mapped:** ~200 words across major domains  
-**Framework complete:** All 25 domains defined  
-**Subcategories:** 5 per domain (125 total)  
-**Concept groups:** Being developed iteratively
-
-### **Development Priority:**
-
-**Tier 1 (Essential - In Progress):**  
-P (Living things), M (Places), Y (Foods), V (Tools), D (Body parts)
-
-**Tier 2 (Common - Planned):**  
-C (Transport), K (Social), B (Communication), L (Materials)
-
-**Tier 3 (Specialized - Future):**  
-Remaining 16 domains as needed
-
-### **How to Contribute:**
-
-See specific domain development documents in `/ontological-matrices-and-vectors/` directory.
-
----
-
-## 🎯 Using CVCV Words in Practice
-
-### **In sentences:**
-
-**Simple:**
 ```
-ba vi peka
-I have dog
-→ "I have a dog"
+paka = areia, grão fino (mínimo)
+pake = cascalho, pedrinha (pequeno)
+paki = pedra (médio/padrão)
+pako = rocha, rochedo (grande)
+paku = montanha, formação rochosa (máximo)
 ```
 
-**With quantity:**
+**Exemplos de uso:**
+
 ```
-ba vi zani peka
-I have 2 dog
-→ "I have two dogs"
+ba evi paka pi ami
+(eu pego areia no lugar)
+
+da paku va so pi amo
+(a montanha está perto do espaço/local)
+
+be ta ivi pake pa paki
+(você passado fazer cascalho para pedra = você transformou cascalho em pedra)
 ```
 
-**Complex:**
-```
-da peka ňu pale va pi maka
-the dog of woman is at house
-→ "The woman's dog is at the house"
-```
+**Especificações (3 sílabas):**
 
-**Multiple objects:**
 ```
-ba evi yaka la yoke pi muka
-I take bread and apple at city
-→ "I get bread and an apple in the city"
+pakola = rocha sedimentar (pedra-grande-tipo1)
+pakoma = rocha ígnea (pedra-grande-tipo2)
+pakova = rocha metamórfica (pedra-grande-tipo3)
+pakala = pedregulho, seixo grande (pedra-pequena-grande)
+pakama = formação rochosa extensa (pedra-grande-extensão)
 ```
 
 ---
 
-## 🧩 Pattern Deduction Exercises
+### **PAB- (água) — Dimensão: VOLUME**
 
-### **Exercise 1:**
+```
+paba = gota, respingo (mínimo)
+pabe = poça, pequeno corpo d'água (pequeno)
+pabi = água, corpo d'água (médio/padrão)
+pabo = lago (grande)
+pabu = mar, oceano (máximo)
+```
 
-**Word:** peli
+**Exemplos de uso:**
 
-**Your deduction:**
-- p = living thing
-- e = terrestrial mammal
-- l = (different concept than k-domestic)
-- i = third variation
+```
+ba wa pabi
+(eu quero água)
 
-**Question:** What could "peli" mean?  
-**Hint:** If pek- = domestic animals, what could pel- be?
+bo ma avi pa pabu
+(nós podemos ir ao oceano)
 
-**Answer:** Wild predator (third type) — possibly wolf or fox
+da paba va pi paki
+(a gota está na pedra)
+```
 
----
+**Especificações:**
 
-### **Exercise 2:**
-
-**Word:** moki
-
-**Your deduction:**
-- m = place/structure
-- o = natural geography
-- k = water body
-- i = third type
-
-**Question:** What is moki?  
-**Hint:** moke = river, moka = mountain
-
-**Answer:** Sea (third type of water body)
-
----
-
-### **Exercise 3:**
-
-**Word:** yeke
-
-**Your deduction:**
-- y = food
-- e = protein
-- k = specific protein type
-- e = second variation
-
-**Question:** What is yeke?  
-**Hint:** yeka = meat
-
-**Answer:** Fish (as food) — second protein type
+```
+pabola = lago de montanha (água-grande-altitude)
+paboma = lago profundo (água-grande-profundidade)
+pabura = água corrente (água-máxima-movimento)
+pabika = nascente (água-média-primeira)
+pabara = rio (água-movimento)
+```
 
 ---
 
-## 💡 Key Insights
+### **PAL- (terra/solo) — Dimensão: QUANTIDADE/EXTENSÃO**
 
-### **Why This System Works:**
+```
+pala = poeira, grão de terra (mínimo)
+pale = punhado de terra (pequeno)
+pali = terra, solo (médio/padrão)
+palo = terreno, área terrestre (grande)
+palu = continente, massa terrestre (máximo)
+```
 
-**1. Bounded Complexity**  
-Not infinite like natural language evolution  
-Not arbitrary like borrowed words  
-15,625 possible words in predictable structure
+**Exemplos de uso:**
 
-**2. Logical Derivation**  
-Each position has meaning  
-Meaning builds compositionally  
-Deduction possible from structure
+```
+ba ivi pali pi ami
+(eu faço/trabalho solo no lugar)
 
-**3. Expandable**  
-Can add CVCVCV if needed (1.9M words)  
-Can refine concept mappings over time  
-Community-driven development
+da palu va rira
+(o continente está em estado ativo)
 
-**4. Memorable Through Logic**  
-Don't memorize "dog = peka"  
-Understand: P-mammals-domestic-first = peka  
-Pattern once learned, thousands deduced
+epi vi pale ňu pabi
+(pessoas têm punhado-de-terra com água = lama)
+```
 
----
+**Especificações:**
 
-## 🌟 The Revolutionary Impact
-
-**This is the first time in linguistic history that:**
-
-- Concrete nouns are 100% systematic
-- Every nominal word is pattern-derived
-- Vocabulary is deducible, not arbitrary
-- A language has ZERO memorization of random word-sound pairings for objects
-
-**Previous attempts:**
-
-**Philosophical languages (1600s):**  
-Tried systematic classification but became unwieldy  
-Example: John Wilkins' language had 40+ category levels
-
-**Modern conlangs:**  
-Systematic grammar, but arbitrary roots  
-Example: Lojban has logical grammar but "gerku" is still invented
-
-**This language:**  
-**Simple 4-layer structure**  
-**Ontologically grounded**  
-**Practically usable**  
-**Completely systematic**
+```
+palika = solo fértil (terra-média-primeira)
+paloma = terreno montanhoso (terra-grande-elevação)
+paluba = continente aquático/ilhas (terra-máxima-água)
+palafa = argila (terra-pequena-forma)
+palara = terra movediça (terra-pequena-movimento)
+```
 
 ---
 
-## 🚀 Next Steps
+### **PAN- (fogo/calor) — Dimensão: INTENSIDADE**
 
-**To learn more:**
+```
+pana = brasa, calor fraco (mínimo)
+pane = chama pequena (pequeno)
+pani = fogo (médio/padrão)
+pano = fogueira, fogo forte (grande)
+panu = incêndio, conflagração (máximo)
+```
 
-- [Philosophy](../docs/01-philosophy.md) — Understand the vision
-- [Structure](../docs/04-structure.md) — See the big picture
-- [Learning Path](../community/learning-path.md) — Start learning
-- [Primary Concepts](../docs/03-primary-and-informal-concepts.md) — Build foundation
+**Exemplos de uso:**
 
-**To practice:**
+```
+ba ivi pani pi maka
+(eu faço fogo na casa)
 
-- Study the domain mappings above
-- Practice deduction exercises
-- Try creating words for objects in your room
-- Join community discussions (when available)
+da panu va rira pi paku
+(o incêndio está ativo na montanha)
 
-**To contribute:**
+be ma evi pane
+(você pode pegar chama pequena = acender)
+```
 
-- Suggest concept mappings for domains
-- Identify conflicts or ambiguities
-- Create learning materials
-- Test the system in real conversation
+**Especificações:**
+
+```
+panola = fogueira cerimonial (fogo-grande-tipo1)
+panoma = fogo industrial (fogo-grande-trabalho)
+panura = incêndio florestal (fogo-máximo-movimento)
+panipa = luz do fogo (fogo-médio-luz)
+panaka = fagulha (fogo-mínimo-primeira)
+```
 
 ---
 
-*"15,625 words. Zero arbitrary. All systematic. Learn the pattern, speak infinitely."*
+### **PAM- (ar/vento) — Dimensão: MOVIMENTO/FORÇA**
+
+```
+pama = ar parado, calmo (mínimo)
+pame = brisa (pequeno)
+pami = vento (médio/padrão)
+pamo = ventania (grande)
+pamu = furacão, tempestade (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+da pami va rira
+(o vento está ativo)
+
+ba ya pamu pa avo
+(eu vejo furacão no trabalho/ação)
+
+pame va so pi ami
+(brisa está perto do lugar)
+```
+
+**Especificações:**
+
+```
+pamora = vendaval (vento-grande-movimento)
+pamura = tornado (vento-máximo-rotação)
+pamika = corrente de ar (vento-médio-primeira)
+pamaba = vento úmido (vento-mínimo-água)
+pamala = vento de terra (vento-mínimo-terra)
+```
 
 ---
 
-**Version:** 0.4.0 — Systematic Nominal Lexicon  
-**Last Updated:** 2026-03-10  
-**Status:** Framework Complete, Matrices in Development  
-**License:** CC0 1.0 Universal (Public Domain)
+### **PAP- (luz) — Dimensão: INTENSIDADE LUMINOSA**
+
+```
+papa = penumbra, luz fraca (mínimo)
+pape = claridade suave (pequeno)
+papi = luz (médio/padrão)
+papo = luz forte, brilhante (grande)
+papu = luz ofuscante, radiante (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+ba wa papi pi ami
+(eu quero luz no lugar)
+
+da papu va pi pana
+(a radiância está no fogo)
+
+be ya papa te
+(você vê penumbra agora)
+```
+
+**Especificações:**
+
+```
+papola = luz solar intensa (luz-grande-tipo1)
+papuma = luz estelar (luz-máxima-tipo2)
+papika = raio de luz (luz-média-primeira)
+papina = luz do fogo (luz-média-fogo)
+papaba = reflexo na água (luz-mínimo-água)
+```
+
+---
+
+### **PAS- (som) — Dimensão: VOLUME SONORO**
+
+```
+pasa = sussurro (mínimo)
+pase = som baixo (pequeno)
+pasi = som (médio/padrão)
+paso = som alto (grande)
+pasu = estrondo, trovão (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+ba eb pasa
+(eu pergunto sussurrando)
+
+da pasu va pi pamu
+(o trovão está no furacão)
+
+be ivi pasi
+(você faz som)
+```
+
+**Especificações:**
+
+```
+pasola = grito (som-grande-tipo1)
+pasuma = explosão sonora (som-máximo-tipo2)
+pasika = melodia (som-médio-primeira)
+pasara = som contínuo (som-mínimo-movimento)
+pasama = som do vento (som-mínimo-ar)
+```
+
+---
+
+### **PAT- (tempo) — Dimensão: DURAÇÃO**
+
+```
+pata = instante, momento fugaz (mínimo)
+pate = momento breve (pequeno)
+pati = momento, tempo (médio/padrão)
+pato = período longo (grande)
+patu = era, época (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+ba ivi da pi pata
+(eu faço isso em instante)
+
+da patu va pi uni
+(a era está na estação/período)
+
+be wa pate
+(você quer momento-breve = espere um pouco)
+```
+
+**Especificações:**
+
+```
+patola = década (tempo-grande-tipo1)
+patoma = século (tempo-grande-tipo2)
+patuma = milênio (tempo-máximo-tipo2)
+patika = hora (tempo-médio-primeira)
+patara = fluxo temporal (tempo-mínimo-movimento)
+```
+
+---
+
+### **PAV- (espaço/vácuo) — Dimensão: EXTENSÃO**
+
+```
+pava = ponto, espaço mínimo (mínimo)
+pave = pequeno espaço (pequeno)
+pavi = espaço (médio/padrão)
+pavo = grande extensão (grande)
+pavu = infinito espacial (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+ba vi pavi pi maka
+(eu tenho espaço na casa)
+
+da pavu va pi umu
+(o infinito está no centro/núcleo)
+
+be ma ivi pave
+(você pode fazer pequeno-espaço = abrir um espaço)
+```
+
+**Especificações:**
+
+```
+pavola = sala ampla (espaço-grande-tipo1)
+pavoma = campo aberto (espaço-grande-tipo2)
+pavuma = cosmos (espaço-máximo-tipo2)
+pavika = nicho (espaço-médio-primeiro)
+pavaka = intervalo (espaço-mínimo-primeiro)
+```
+
+---
+
+### **PAG- (crescimento/vida) — Dimensão: ESTÁGIO DE DESENVOLVIMENTO**
+
+```
+paga = semente, início (mínimo)
+page = broto, germinação (pequeno)
+pagi = crescimento, desenvolvimento (médio/padrão)
+pago = maturidade avançada (grande)
+pagu = plenitude, auge (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+da puke va pi pagi
+(a flor está em crescimento)
+
+epi va pi pagu
+(pessoas estão no auge)
+
+ba evi paga pi pali
+(eu pego semente no solo)
+```
+
+**Especificações:**
+
+```
+pagola = adolescência (crescimento-grande-tipo1)
+pagoma = idade adulta (crescimento-grande-tipo2)
+paguma = velhice (crescimento-máximo-tipo2)
+pagika = infância (crescimento-médio-primeira)
+pagara = evolução (crescimento-mínimo-movimento)
+```
+
+---
+
+### **PAR- (movimento) — Dimensão: VELOCIDADE**
+
+```
+para = movimento lento, arrastar (mínimo)
+pare = movimento suave (pequeno)
+pari = movimento (médio/padrão)
+paro = movimento rápido (grande)
+paru = movimento muito rápido, disparada (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+da api va pi paro
+(a coisa está em movimento-rápido)
+
+ba ma ivi pari
+(eu posso fazer movimento-normal)
+
+be avi pi para
+(você vai em lento = você vai devagar)
+```
+
+**Especificações:**
+
+```
+parola = corrida (movimento-grande-tipo1)
+paruma = velocidade extrema (movimento-máximo-tipo2)
+parika = caminhada (movimento-médio-primeira)
+paraba = fluir (movimento-mínimo-água)
+parala = deslizar (movimento-mínimo-terra)
+```
+
+---
+
+### **PAF- (forma/aparência) — Dimensão: COMPLEXIDADE**
+
+```
+pafa = forma simples, básica (mínimo)
+pafe = forma moderada (pequeno)
+pafi = forma (médio/padrão)
+pafo = forma elaborada (grande)
+pafu = forma extremamente complexa (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+da api va pi pafa
+(a coisa está em forma-simples)
+
+ba ivi pafi ňu paki
+(eu faço forma com pedra = esculpo)
+
+be ya pafo
+(você vê forma-elaborada)
+```
+
+**Especificações:**
+
+```
+pafola = design ornamentado (forma-grande-tipo1)
+pafuma = padrão fractal (forma-máxima-tipo2)
+pafika = geometria básica (forma-médio-primeira)
+pafaka = ponto/círculo (forma-mínimo-primeira)
+pafara = forma fluida (forma-mínimo-movimento)
+```
+
+---
+
+### **PAH- (conexão) — Dimensão: FORÇA/INTENSIDADE**
+
+```
+paha = conexão tênue (mínimo)
+pahe = conexão fraca (pequeno)
+pahi = conexão (médio/padrão)
+paho = conexão forte (grande)
+pahu = conexão indissolúvel (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+da epi va pi pahu
+(as pessoas estão em conexão-forte)
+
+ba ivi pahi la be
+(eu faço conexão e você = eu me conecto com você)
+
+da paha va rira
+(a conexão-tênue está ativa = existe levemente)
+```
+
+**Especificações:**
+
+```
+pahola = vínculo profundo (conexão-grande-tipo1)
+pahuma = união total (conexão-máxima-tipo2)
+pahika = amizade (conexão-médio-primeira)
+pahaka = conhecimento superficial (conexão-mínimo-primeira)
+pahara = rede (conexão-mínimo-movimento)
+```
+
+---
+
+### **PAY- (sensação) — Dimensão: INTENSIDADE**
+
+```
+paya = sensação fraca (mínimo)
+paye = sensação leve (pequeno)
+payi = sensação (médio/padrão)
+payo = sensação forte (grande)
+payu = sensação avassaladora (máximo)
+```
+
+**Exemplos de uso:**
+
+```
+ba iy payu
+(eu toco sensação-avassaladora = sinto intensamente)
+
+da payi va pi opi
+(a sensação está no corpo)
+
+be ya paya
+(você vê sensação-fraca = você percebe levemente)
+```
+
+**Especificações:**
+
+```
+payola = prazer intenso (sensação-grande-tipo1)
+payoma = dor aguda (sensação-grande-tipo2)
+payuma = êxtase/agonia (sensação-máxima-tipo2)
+payika = toque (sensação-médio-primeira)
+payaba = sensação líquida (sensação-mínimo-água)
+```
+
+---
+
+## 📊 SUBCATEGORIA PA-E: Vital/Energetic Sources
+
+**Conceito:** Fontes de energia vital, força de vida, energias ativas
+
+### **25 Categorias Base:**
+
+|Código|Conceito|Dimensão de Gradação|
+|---|---|---|
+|**pek-**|energia vital|intensidade|
+|**peb-**|respiração/sopro|força|
+|**pel-**|pulsação/batimento|frequência|
+|**pen-**|calor corporal|temperatura|
+|**pem-**|circulação|fluxo|
+|**pep-**|brilho vital|luminosidade|
+|**pes-**|voz/grito|volume|
+|**pet-**|ritmo vital|regularidade|
+|**pev-**|vigor/ímpeto|força|
+|**peg-**|regeneração|capacidade|
+|**per-**|reação/resposta|velocidade|
+|**pef-**|vitalidade aparente|visibilidade|
+|**peh-**|laço vital|força|
+|**pey-**|consciência sensorial|clareza|
+|**peš-**|resistência vital|duração|
+|**peř-**|identidade viva|distinção|
+|**peč-**|instinto|intensidade|
+|**pež-**|força vital|magnitude|
+|**peǰ-**|impulso vital|direteza|
+|**peñ-**|metabolismo|velocidade|
+|**pec-**|movimento vital|agilidade|
+|**pex-**|presença vital|manifestação|
+|**pez-**|vontade de viver|determinação|
+|**pew-**|emoção vital|intensidade|
+|**ped-**|substância viva|densidade|
+
+---
+
+### **Exemplos PEK- (energia vital):**
+
+```
+peka = energia fraca, letargia (mínimo)
+peke = energia baixa (pequeno)
+peki = energia vital (médio/padrão)
+peko = energia alta, vitalidade (grande)
+peku = energia máxima, exuberância (máximo)
+```
+
+**Uso:**
+
+```
+ba vi peko te
+(eu tenho energia-alta agora)
+
+da epi va pi peka
+(a pessoa está em energia-fraca = está letárgica)
+
+be ma ivi peku
+(você pode fazer energia-máxima = você pode se energizar ao máximo)
+```
+
+---
+
+### **Exemplos PEB- (respiração/sopro):**
+
+```
+peba = respiração superficial (mínimo)
+pebe = respiração leve (pequeno)
+pebi = respiração (médio/padrão)
+pebo = respiração profunda (grande)
+pebu = respiração máxima, ofegante (máximo)
+```
+
+**Uso:**
+
+```
+ba ivi pebi
+(eu faço respiração = eu respiro)
+
+da epi va pi pebu
+(a pessoa está em respiração-máxima = ofegante)
+
+be ma evi pebo
+(você pode pegar respiração-profunda = respirar fundo)
+```
+
+---
+
+## 📊 SUBCATEGORIA PA-I: Complex/Structural Sources
+
+**Conceito:** Origens estruturais, fontes de complexidade, padrões organizacionais
+
+### **25 Categorias Base:**
+
+|Código|Conceito|Dimensão de Gradação|
+|---|---|---|
+|**pik-**|estrutura básica|complexidade|
+|**pib-**|código/informação|densidade|
+|**pil-**|camada/nível|profundidade|
+|**pin-**|rede/teia|conectividade|
+|**pim-**|matriz/grade|ordem|
+|**pip-**|padrão visual|complexidade|
+|**pis-**|harmonia/ressonância|intensidade|
+|**pit-**|ciclo estrutural|complexidade|
+|**piv-**|mecanismo|sofisticação|
+|**pig-**|sistema recursivo|profundidade|
+|**pir-**|equilíbrio|estabilidade|
+|**pif-**|simetria|perfeição|
+|**pih-**|hierarquia|níveis|
+|**piy-**|percepção de padrão|clareza|
+|**piš-**|delimitação estrutural|definição|
+|**piř-**|assinatura única|distinção|
+|**pič-**|lógica interna|coerência|
+|**piž-**|magnitude estrutural|escala|
+|**piǰ-**|princípio causal|fundamentalidade|
+|**piñ-**|configuração|arranjo|
+|**pic-**|fluxo organizado|ordem|
+|**pix-**|realidade estrutural|solidez|
+|**piz-**|design intencional|propositalidade|
+|**piw-**|harmonia emocional|equilíbrio|
+|**pid-**|densidade estrutural|compactação|
+
+---
+
+### **Exemplos PIK- (estrutura básica):**
+
+```
+pika = estrutura mínima (mínimo)
+pike = estrutura simples (pequeno)
+piki = estrutura (médio/padrão)
+piko = estrutura elaborada (grande)
+piku = estrutura altamente complexa (máximo)
+```
+
+**Uso:**
+
+```
+da maka va pi piki
+(a casa está em estrutura-padrão)
+
+ba ivi piko ňu paki
+(eu faço estrutura-elaborada com pedra)
+
+da piku va rira pi api
+(a estrutura-complexa está ativa na coisa)
+```
+
+---
+
+## 📊 SUBCATEGORIA PA-O: Functional Sources
+
+**Conceito:** Fontes funcionais, origens de propósito, mecanismos de ação
+
+### **25 Categorias Base:**
+
+|Código|Conceito|Dimensão de Gradação|
+|---|---|---|
+|**pok-**|função primária|eficiência|
+|**pob-**|comunicação funcional|clareza|
+|**pol-**|utilidade|praticidade|
+|**pon-**|timing funcional|precisão|
+|**pom-**|capacidade espacial|amplitude|
+|**pop-**|iluminação funcional|eficácia|
+|**pos-**|sinalização|clareza|
+|**pot-**|operação temporal|regularidade|
+|**pov-**|ativação|prontidão|
+|**pog-**|ciclo operacional|consistência|
+|**por-**|estado operacional|estabilidade|
+|**pof-**|qualidade funcional|excelência|
+|**poh-**|integração|harmonia|
+|**poy-**|feedback sensorial|responsividade|
+|**poš-**|limite operacional|tolerância|
+|**poř-**|identidade funcional|especificidade|
+|**poč-**|inteligência operacional|adaptabilidade|
+|**pož-**|potência|magnitude|
+|**poǰ-**|propósito causal|direteza|
+|**poñ-**|modo operacional|eficiência|
+|**poc-**|mobilidade funcional|agilidade|
+|**pox-**|realização|concretude|
+|**poz-**|direcionamento|precisão|
+|**pow-**|resposta emocional|sensibilidade|
+|**pod-**|robustez|solidez|
+
+---
+
+### **Exemplos POK- (função primária):**
+
+```
+poka = função básica (mínimo)
+poke = função simples (pequeno)
+poki = função (médio/padrão)
+poko = função avançada (grande)
+poku = função altamente especializada (máximo)
+```
+
+**Uso:**
+
+```
+da api va pi poki
+(a coisa está em função-padrão = funciona normalmente)
+
+ba ivi poku ňu da
+(eu faço função-especializada com isso)
+
+be ma evi poke
+(você pode pegar função-simples = usar de forma básica)
+```
+
+---
+
+## 📊 SUBCATEGORIA PA-U: Taxonomic/Classified Objects
+
+**Conceito:** Objetos inanimados, coisas classificáveis, taxonomia material
+
+**NOTA:** Este domínio (PU) pode ser desenvolvido separadamente como foco em objetos concretos.
+
+### **25 Categorias Base:**
+
+|Código|Conceito|Dimensão de Gradação|
+|---|---|---|
+|**puk-**|pedra/objeto mineral|tamanho|
+|**pub-**|objeto de comunicação|complexidade|
+|**pul-**|ferramenta de corte|tamanho/poder|
+|**pun-**|objeto temporal|duração|
+|**pum-**|recipiente|capacidade|
+|**pup-**|objeto luminoso|intensidade|
+|**pus-**|objeto sonoro|volume|
+|**put-**|objeto em mudança|velocidade|
+|**puv-**|objeto móvel|mobilidade|
+|**pug-**|objeto cíclico|frequência|
+|**pur-**|objeto em estado|permanência|
+|**puf-**|objeto valorizado|qualidade|
+|**puh-**|objeto conectivo|função|
+|**puy-**|objeto sensorial|sensibilidade|
+|**puš-**|objeto delimitador|rigidez|
+|**puř-**|objeto identificável|distintividade|
+|**puč-**|objeto cognitivo|complexidade|
+|**puž-**|objeto de magnitude|escala|
+|**puǰ-**|objeto causal|eficácia|
+|**puñ-**|objeto configurável|versatilidade|
+|**puc-**|objeto móvel/veículo|velocidade|
+|**pux-**|objeto real|tangibilidade|
+|**puz-**|objeto intencional|propositalidade|
+|**puw-**|objeto afetivo|valor emocional|
+|**pud-**|objeto denso|peso|
+
+---
+
+### **Exemplos PUK- (pedra/objeto mineral):**
+
+```
+puka = grão mineral (mínimo)
+puke = pedrinha (pequeno)
+puki = pedra objeto (médio/padrão)
+puko = rocha objeto (grande)
+puku = formação mineral (máximo)
+```
+
+**Uso:**
+
+```
+ba evi puki pi ami
+(eu pego pedra-objeto no lugar)
+
+da puku va so
+(a formação-mineral está perto)
+
+be ma ivi puke
+(você pode fazer pedrinha = usar pedras pequenas)
+```
+
+---
+
+## 📊 RESUMO DO DOMÍNIO PA COMPLETO
+
+### **Estrutura Total:**
+
+**5 Subcategorias × 25 Categorias cada = 125 categorias no domínio PA**
+
+**PA-A** (pa-) — Natural Primary Sources — 25 categorias ✅ Detalhado  
+**PA-E** (pe-) — Vital/Energetic Sources — 25 categorias ✅ Framework  
+**PA-I** (pi-) — Complex/Structural Sources — 25 categorias ✅ Framework  
+**PA-O** (po-) — Functional Sources — 25 categorias ✅ Framework  
+**PA-U** (pu-) — Taxonomic/Classified Objects — 25 categorias ✅ Framework
+
+---
+
+### **Capacidade de Palavras:**
+
+**Genéricas (CV+CV):** 125 termos  
+**Padrão (CV+CV+CV):** 125 × 25 = 3,125 termos  
+**Específicas (CV⁴):** 125 × 25 × 25 = 78,125 termos
+
+**Total no domínio PA: ~81,375 palavras sistemáticas possíveis**
+
+---
+
+## ✅ PRÓXIMO PASSO
+
+**Domínio PA está estruturalmente completo!**
+
+**Agora você quer:**
+
+1. **Desenvolver mais detalhes** de PA-E, PA-I, PA-O, PA-U (como fiz com PA-A)?
+2. **Criar exercícios de teste** para validar PA-A com learners?
+3. **Desenvolver outro domínio** (PU, MA, ou outro) para comparar?
+4. **Fazer comparação tripla** — mostrar como um conceito aparece em VCV, Nominal e Vetorial?
+
+**O que prefere?** 🎯

@@ -1,648 +1,717 @@
 # Roadmap
 
-**Universal Ontological Language Development Timeline**
+**Universal Ontological Language — From Breakthrough to Production**
 
 ---
 
-## 🎯 Vision Statement
+## 🎯 Mission Statement
 
-**Goal:** Create the world's first constructed language with 100% systematic vocabulary, accessible for casual conversation yet precise enough for scientific documentation.
+**Build the first language with 100% systematic vocabulary through rigorous scientific validation.**
 
-**Target:** International auxiliary language for human-human and human-AI communication.
+**Goal:** International auxiliary language accessible for daily conversation, precise enough for scientific documentation.
 
-**Timeline:** 3-5 years to v1.0 (production-ready)
+**Strategy:** Prototype → Test → Validate → Expand → Repeat
+
+**Timeline:** 18 months to v1.0 (production-ready)
+
+---
+
+## 🏆 The Breakthrough (March 2026)
+
+**We solved the 400-year problem.**
+
+Since 1668, every attempt at systematic object vocabulary either:
+- Became too complex (John Wilkins' 40 categories)
+- Gave up and used arbitrary words (Esperanto, Lojban, Toki Pona)
+
+**Our solution:** Progressive hierarchical naming (2-4 syllable depth, user's choice)
+
+**Innovation:** 244 million systematic words, zero arbitrary.
+
+**Now we validate it works in practice.**
 
 ---
 
 ## 📊 Current Status
 
-**Version:** 0.4.0 — Systematic Nominal Lexicon  
-**Released:** 2026-03-10  
-**Status:** Active Development  
+**Version:** 0.5.0-dev (Validation Phase)  
+**Date:** March 11, 2026  
+**Status:** Breakthrough framework complete, entering testing
 
-**Major Achievement:** First conlang with fully systematic nominal vocabulary (CVCV matrix)
+### What We Have:
 
----
+✅ **Grammar System:** 250 particles (100% complete)  
+✅ **Core Vocabulary:** 625 words (100% complete)  
+✅ **Nominal Framework:** 244M capacity (architecture complete)  
+✅ **Vector System:** 390K concepts (framework complete, 30% mapped)  
+✅ **Documentation:** Philosophy, structure, learning path updated  
+✅ **Fluency Threshold:** 875 resources ready for learners
 
-## 🏆 Completed Milestones
+### What We Need to Validate:
 
-### ✅ **v0.1.0 — Foundation** (2026-03-07)
-- [x] Initial phonology (30 phonemes)
-- [x] Core philosophy documentation
-- [x] Basic project structure
-- [x] Grammar system prototype
+❓ **Can people deduce unseen words from patterns?**  
+❓ **Are category mappings intuitive?**  
+❓ **Does progressive depth work in practice?**  
+❓ **What's the real learning curve?**  
+❓ **Which domains are priority for daily use?**
 
-**Impact:** Proof of concept established
-
----
-
-### ✅ **v0.2.0 — Vector Framework** (2026-03-08)
-- [x] Ontological vector system framework
-- [x] Matrix P initial development (Origin, Vitality, Complexity)
-- [x] Vector composition rules
-- [x] Technical precision layer architecture
-
-**Impact:** Scalability to scientific precision demonstrated
+**These questions drive the roadmap.**
 
 ---
 
-### ✅ **v0.3.0 — Complete Grammar & Vocabulary** (2026-03-09)
-- [x] Dual System Grammar complete (CV + VC, 250 particles)
-- [x] All 25 grammar families documented
-- [x] Core Vocabulary VCV complete (625 words, 25 domains)
-- [x] Z-marker numeral system
-- [x] Phonological disambiguation rules
-- [x] Triple-layer architecture
-
-**Impact:** Fluency threshold achieved (875 resources)
+## 📅 Development Phases
 
 ---
 
-### ✅ **v0.4.0 — REVOLUTIONARY BREAKTHROUGH** (2026-03-10)
+## **Phase 1: PROTOTYPE & VALIDATE** 
 
-**The Systematic Nominal Lexicon**
+### v0.5.0 — Domain Prototypes (March - June 2026)
 
-- [x] CVCV Matrix system designed (C₁V₁C₂V₂)
-- [x] 15,625 systematic nominal words framework
-- [x] Complete philosophical coherence (100% systematic)
-- [x] All core documentation updated
-- [x] Domain P, M, Y, V, D, C initial mappings
-- [x] Pattern deduction methodology established
-- [x] Learning path updated for CVCV
-- [x] New document: 09-lexicon-nominal-matrix.md
+**Target Date:** June 15, 2026  
+**Duration:** 3 months  
+**Focus:** Validate the nominal system works
 
-**Impact:** First language in history with zero arbitrary concrete nouns
+#### Primary Goals:
 
-**Statistics:**
-- Fluency: 875 resources
-- Nominal: 15,625 systematic words (framework)
-- Vectors: 390,625 concepts (framework)
-- **Total: 407,125+ pattern-derived resources**
-- **Arbitrary words: 0** ✅
+**1. Complete Domain PU (Objects) — First Full Prototype**
+
+- [ ] Map all 125 categories (pu- + 25C × 5V)
+- [ ] Document 500-1000 common words (CV+CV+CV)
+- [ ] Create deduction exercises
+- [ ] Build reference tables
+
+**Deliverable:** Complete PU domain as proof-of-concept
 
 ---
 
-## 🚀 Upcoming Releases
+**2. Recruit 5-10 Test Learners**
+
+- [ ] Find volunteers willing to learn prototype system
+- [ ] Provide learning materials
+- [ ] Track progress and difficulties
+- [ ] Collect detailed feedback
+
+**Deliverable:** Validation dataset from real learners
 
 ---
 
-## 📅 **v0.5.0 — Matrix Development** (Target: 2026-06-15, ~3 months)
+**3. Critical Validation Questions**
 
-**Focus:** Develop comprehensive CVCV matrices and expand learning materials
+Test and answer:
 
-### **Primary Goals:**
+- [ ] **Deduction test:** Can learners deduce unseen words correctly?
+- [ ] **Retention test:** Do patterns stick better than arbitrary words?
+- [ ] **Intuition test:** Are category mappings logical to users?
+- [ ] **Speed test:** How long to achieve deduction fluency?
+- [ ] **Error analysis:** Where do learners struggle most?
 
-#### **1. CVCV Matrix Completion — Priority Domains**
-
-**Tier 1 (Essential) — Complete mappings:**
-- [ ] **Domain P (Substance/Being)** — All 5 subcategories × 25 concepts × 5 variations
-  - [ ] pa- (Humans): 125 words
-  - [ ] pe- (Terrestrial Mammals): 125 words
-  - [ ] pi- (Birds): 125 words
-  - [ ] po- (Aquatic): 125 words
-  - [ ] pu- (Plants): 125 words
-  - **Total: 625 P-domain words fully mapped**
-
-- [ ] **Domain M (Space/Dimensional)** — All 5 subcategories
-  - [ ] ma- (Dwellings): 125 words
-  - [ ] me- (Structural Parts): 125 words
-  - [ ] mi- (Furniture): 125 words
-  - [ ] mo- (Geography): 125 words
-  - [ ] mu- (Urban): 125 words
-  - **Total: 625 M-domain words fully mapped**
-
-- [ ] **Domain Y (Perception/Sensory — Foods)** — All 5 subcategories
-  - [ ] ya- (Grains): 125 words
-  - [ ] ye- (Proteins): 125 words
-  - [ ] yi- (Vegetables): 125 words
-  - [ ] yo- (Fruits): 125 words
-  - [ ] yu- (Seasonings): 125 words
-  - **Total: 625 Y-domain words fully mapped**
-
-**Deliverable:** 1,875 fully documented CVCV words (3 complete domains)
+**Deliverable:** Scientific validation report
 
 ---
 
-#### **2. Advanced Classification System**
+**4. Refine Based on Data**
 
-**Taxonomic Integration (Planned feature):**
-- [ ] Design hierarchical classification framework
-- [ ] Map to Matrix P subcategory u-p (Taxonomy)
-- [ ] Develop systematic species naming (biological taxonomy)
-- [ ] Prototype with 50 common species
-- [ ] Documentation of taxonomic system principles
+- [ ] Identify problematic categories
+- [ ] Adjust mappings that don't work
+- [ ] Simplify confusing patterns
+- [ ] Document what works well
+- [ ] Prepare for expansion
 
-**Deliverable:** Taxonomic framework document + 50 species examples
-
----
-
-#### **3. Learning Materials Expansion**
-
-- [ ] **Flashcard sets** for each CVCV domain (Anki decks)
-- [ ] **Deduction exercises** — 100 practice problems with solutions
-- [ ] **Domain study guides** — Detailed for P, M, Y
-- [ ] **Conversation examples** using CVCV words
-- [ ] **Translation exercises** — Simple texts into the language
-- [ ] **Audio pronunciation guide** (if possible)
-
-**Deliverable:** Comprehensive study materials package
+**Deliverable:** Refined nominal system (PU v2)
 
 ---
 
-#### **4. Community Infrastructure**
+**5. Expand to 2 More Domains**
 
-- [ ] GitHub Discussions enabled
-- [ ] Discord server launched
-- [ ] Contributing guidelines refined
-- [ ] Issue templates for matrix suggestions
-- [ ] Community voting system for ambiguous CVCV mappings
+Based on validation success:
 
-**Deliverable:** Active community platform
+- [ ] **Domain MA (Places/Spaces)** — High priority for daily use
+- [ ] **Domain YA (Foods/Sensory)** — Common vocabulary need
 
----
-
-#### **5. Documentation Refinements**
-
-- [ ] Create quick reference cards (PDF)
-- [ ] Grammar cheat sheet (1-page)
-- [ ] CVCV domain poster (visual guide)
-- [ ] FAQ expansion (common CVCV questions)
-- [ ] Video introduction (if possible)
-
-**Deliverable:** Polished, accessible documentation suite
+**Deliverable:** 3 complete domains (PU, MA, YA)
 
 ---
 
-### **Success Criteria for v0.5.0:**
+#### Success Criteria for v0.5.0:
 
-- [ ] 1,875+ CVCV words fully documented (P, M, Y complete)
-- [ ] Taxonomic system framework established
-- [ ] 5+ community contributors
-- [ ] 100+ GitHub stars
-- [ ] 10+ active learners in community
-- [ ] Learning materials package published
+- [ ] Domain PU 100% mapped and documented
+- [ ] 5+ learners complete testing protocol
+- [ ] 70%+ deduction accuracy on unseen words
+- [ ] Positive feedback on intuitiveness
+- [ ] 2 additional domains prototyped
+- [ ] Validation report published
 
----
-
-## 📅 **v0.6.0 — Expanded Matrices** (Target: 2026-09-15, ~3 months after v0.5.0)
-
-**Focus:** Complete more CVCV domains and develop vector matrices
-
-### **Primary Goals:**
-
-#### **1. CVCV Matrix — Tier 2 Domains**
-
-**Complete mappings for:**
-- [ ] **Domain V (Action/Verbal — Tools)** — 625 words
-- [ ] **Domain D (Structure/Form — Body parts, shapes)** — 625 words
-- [ ] **Domain C (Movement — Transportation)** — 625 words
-- [ ] **Domain K (Social/Collective)** — 625 words
-- [ ] **Domain B (Communication)** — 625 words
-
-**Deliverable:** Additional 3,125 CVCV words (5 more complete domains)
-
-**Cumulative:** 5,000 CVCV words fully mapped (8/25 domains)
+**If criteria not met:** Iterate on PU until they are.
 
 ---
 
-#### **2. Vector Matrix Development**
+## **Phase 2: EXPAND & COMMUNITY**
 
-**Complete Matrix P (Substance/Being):**
-- [ ] o-p (Function) — Complete all 625 vectors
-- [ ] u-p (Taxonomy) — Complete all 625 vectors
-- **Total: Matrix P 100% complete (3,125 vectors)**
+### v0.6.0 — Proven Expansion (July - September 2026)
 
-**Start Matrix M (Dimensional/Spatial):**
-- [ ] a-m subcategory (500+ vectors)
+**Target Date:** September 15, 2026  
+**Duration:** 3 months  
+**Focus:** Scale what works, build community
 
-**Deliverable:** First complete vector matrix (P)
+#### Primary Goals:
 
----
+**1. Expand to 8 Total Domains**
 
-#### **3. Cross-Reference Tools**
+Based on validated patterns, complete:
 
-- [ ] CVCV-to-VCV dictionary
-- [ ] Interactive web tool for CVCV deduction practice
-- [ ] Searchable vector database
-- [ ] Matrix visualization tools
+- [ ] **Tier 1 Priority:** PU (objects), MA (places), YA (foods) — Already done
+- [ ] **Tier 2 Priority:** VA (tools), DA (body/form), CA (transport), KA (social), BA (communication)
 
-**Deliverable:** Digital learning tools
+**Deliverable:** 8 domains fully mapped (5,000+ documented words)
 
 ---
 
-#### **4. Translation Corpus**
+**2. Complete Matrix P (Substance/Being) in Vector System**
 
-- [ ] Universal Declaration of Human Rights (complete 30 articles)
-- [ ] 10 fables/short stories translated
-- [ ] 100 common phrases/idioms translated
-- [ ] Scientific abstract examples (5+)
+- [ ] Finish o-p (Function) subcategory — 625 vectors
+- [ ] Complete u-p (Taxonomy) subcategory — 625 vectors
+- [ ] **Total:** Matrix P 100% complete (3,125 vectors)
 
-**Deliverable:** Translation corpus for learners
+**Deliverable:** First complete vector matrix
 
----
-
-### **Success Criteria for v0.6.0:**
-
-- [ ] 5,000+ CVCV words documented
-- [ ] Matrix P complete (3,125 vectors)
-- [ ] 50+ translations in corpus
-- [ ] Interactive learning tools launched
-- [ ] 50+ active learners
-- [ ] 500+ GitHub stars
+**Why this matters:** Validates vector-nominal alignment
 
 ---
 
-## 📅 **v0.7.0 — Comprehensive Coverage** (Target: 2026-12-15, ~3 months after v0.6.0)
+**3. Build Community Infrastructure**
 
-**Focus:** Majority coverage of CVCV domains and expand community
+- [ ] Launch GitHub Discussions
+- [ ] Create Discord server
+- [ ] Establish contribution guidelines
+- [ ] Implement community voting on ambiguous mappings
+- [ ] Regular testing calls with learners
 
-### **Primary Goals:**
-
-#### **1. CVCV Matrix — Tier 3 Domains**
-
-**Complete mappings for:**
-- [ ] Domain L (Material/Quality) — 625 words
-- [ ] Domain R (State/Condition) — 625 words
-- [ ] Domain T (Process/Change) — 625 words
-- [ ] Domain H (Relation) — 625 words
-- [ ] Domain F (Value/Comparison) — 625 words
-- [ ] Domain N (Time/Temporal — expanded beyond VCV) — 625 words
-- [ ] Domain S (Spatial/Position) — 625 words
-
-**Deliverable:** Additional 4,375 CVCV words (7 more domains)
-
-**Cumulative:** 9,375 CVCV words fully mapped (15/25 domains = 60%)
+**Deliverable:** Active community platform (50+ members)
 
 ---
 
-#### **2. Vector Matrices Expansion**
+**4. Develop Learning Tools**
+
+- [ ] Interactive web app for deduction practice
+- [ ] Anki flashcard decks for each domain
+- [ ] Domain study guides (detailed)
+- [ ] Video tutorials on pattern recognition
+- [ ] Progress tracking system
+
+**Deliverable:** Digital learning ecosystem
+
+---
+
+**5. First Translation Corpus**
+
+- [ ] Complete Universal Declaration (30 articles)
+- [ ] Translate 10 short stories/fables
+- [ ] Create 100 common phrase examples
+- [ ] Document 5 scientific abstracts
+
+**Deliverable:** Real-world usage examples
+
+---
+
+#### Success Criteria for v0.6.0:
+
+- [ ] 8 domains (40% of total) complete and validated
+- [ ] Matrix P (vectors) 100% complete
+- [ ] 50+ active community members
+- [ ] Learning tools launched and used
+- [ ] 20+ learners using the system
+- [ ] Translation corpus available
+
+---
+
+## **Phase 3: COVERAGE & TEXTBOOK**
+
+### v0.7.0 — Comprehensive Coverage (October - December 2026)
+
+**Target Date:** December 15, 2026  
+**Duration:** 3 months  
+**Focus:** Majority coverage, professional materials
+
+#### Primary Goals:
+
+**1. Expand to 15 Total Domains (60% Coverage)**
+
+Complete:
+
+- [ ] 7 additional domains from Tier 3 priority
+- [ ] Focus on: LA (materials), RA (states), TA (processes), HA (relations), FA (values), NA (time-extended), SA (spatial)
+
+**Deliverable:** 15 domains complete (9,375+ words documented)
+
+---
+
+**2. Vector System Expansion**
 
 - [ ] Complete Matrix M (Dimensional/Spatial) — 3,125 vectors
 - [ ] Complete Matrix N (Gradual/Temporal) — 3,125 vectors
-- [ ] Start 3 more matrices
+- [ ] Start 3 additional matrices
 
-**Cumulative:** 3 complete vector matrices (9,375 vectors)
-
----
-
-#### **3. First Textbook**
-
-- [ ] Comprehensive learning textbook (200+ pages)
-- [ ] 20 lessons with exercises
-- [ ] Grammar drills
-- [ ] CVCV deduction exercises
-- [ ] Vocabulary building activities
-- [ ] Answer key
-
-**Deliverable:** Published textbook (PDF, print-on-demand)
+**Deliverable:** 3 complete vector matrices (9,375 vectors total)
 
 ---
 
-#### **4. Media Presence**
+**3. Comprehensive Textbook**
 
-- [ ] YouTube channel with lessons
-- [ ] Blog with weekly language insights
-- [ ] Social media presence (Twitter/X, Reddit)
-- [ ] Language showcase video
+- [ ] 200+ page learning textbook
+- [ ] 20 structured lessons with exercises
+- [ ] Grammar drills and vocabulary building
+- [ ] Nominal deduction practice chapters
+- [ ] Answer keys and reference tables
+- [ ] Progressive difficulty levels
 
-**Deliverable:** Active media channels
+**Deliverable:** Published textbook (PDF + print-on-demand)
 
 ---
 
-### **Success Criteria for v0.7.0:**
+**4. Academic Validation**
 
-- [ ] 9,375+ CVCV words (60% complete)
+- [ ] Write paper on nominal lexicon innovation
+- [ ] Submit to linguistics journals
+- [ ] Present at conlang/linguistics conferences
+- [ ] Invite academic review and critique
+- [ ] Publish validation results
+
+**Deliverable:** Academic credibility
+
+---
+
+**5. Media Presence**
+
+- [ ] Launch YouTube channel (weekly lessons)
+- [ ] Active blog with language insights
+- [ ] Social media presence (Twitter, Reddit)
+- [ ] Language showcase video (viral potential)
+- [ ] Podcast appearances
+
+**Deliverable:** Public awareness
+
+---
+
+#### Success Criteria for v0.7.0:
+
+- [ ] 15 domains complete (60% of total)
 - [ ] 3 complete vector matrices
-- [ ] Textbook published
-- [ ] 200+ active learners
+- [ ] Textbook published and distributed
+- [ ] Academic paper submitted
+- [ ] 100+ active learners
 - [ ] 1,000+ GitHub stars
-- [ ] Media presence established
+- [ ] Media channels established
 
 ---
 
-## 📅 **v0.8.0 — Near-Complete System** (Target: 2027-03-15, ~3 months after v0.7.0)
+## **Phase 4: COMPLETION & MOBILE**
 
-**Focus:** Complete CVCV matrices and develop advanced features
+### v0.8.0 — System Completion (January - March 2027)
 
-### **Primary Goals:**
+**Target Date:** March 15, 2027  
+**Duration:** 3 months  
+**Focus:** Complete all domains, launch mobile
 
-#### **1. CVCV Matrix — Completion**
+#### Primary Goals:
 
-**Complete remaining 10 domains:**
-- [ ] Remaining specialized domains (Č, Ň, Š, Ž, J̌, Ñ, W, X, G, + 2 TBD)
-- [ ] Each domain: 625 words
+**1. Complete All 125 Nominal Domains**
 
-**Deliverable:** All 15,625 CVCV words fully documented (100%)
+- [ ] Finish remaining 110 domains
+- [ ] Each domain: 125 categories mapped
+- [ ] Document 15,625 generic terms (CV+CV)
+- [ ] Document 50,000+ standard terms (CV+CV+CV)
 
-**Cumulative:** Complete nominal lexicon system ✅
+**Deliverable:** 🎉 **Complete nominal lexicon system** (all 125 domains)
 
 ---
 
-#### **2. Vector Matrices — Major Expansion**
+**2. Vector System Major Expansion**
 
 - [ ] Complete 5+ additional matrices
-- [ ] Advanced classification systems integrated
-- [ ] Cross-matrix referencing system
+- [ ] Total: 8+ complete matrices (25,000+ vectors)
+- [ ] Cross-matrix referencing complete
+- [ ] Integration with nominal system perfected
 
-**Cumulative:** 8+ complete matrices (25,000+ vectors)
+**Deliverable:** Comprehensive vector system
 
 ---
 
-#### **3. Advanced Learning Tools**
+**3. Mobile Learning App**
 
-- [ ] Mobile app (iOS/Android)
-- [ ] AI-powered practice partner
-- [ ] Spaced repetition system (SRS) built-in
+- [ ] iOS and Android native apps
+- [ ] Built-in spaced repetition (SRS)
+- [ ] Deduction practice games
 - [ ] Speech recognition for pronunciation
+- [ ] Progress tracking and achievements
+- [ ] Community features
 
 **Deliverable:** Mobile learning ecosystem
 
 ---
 
-#### **4. First Speakers Community**
+**4. Advanced Classification Systems**
 
-- [ ] 500+ active learners
-- [ ] 10+ fluent speakers (Path A complete)
-- [ ] Regular video conversations
-- [ ] Community-created content
+- [ ] Integrate taxonomic framework (biological)
+- [ ] Systematic species naming (50+ examples)
+- [ ] Chemical nomenclature alignment
+- [ ] Geographic naming system
+- [ ] Technical terminology protocols
 
-**Deliverable:** Thriving speaker community
+**Deliverable:** Scientific nomenclature integration
 
 ---
 
-### **Success Criteria for v0.8.0:**
+**5. First Fluent Speaker Milestone**
 
-- [ ] All 15,625 CVCV words documented ✅
-- [ ] 8+ complete vector matrices
+- [ ] 10+ learners achieve Path A fluency (875 resources)
+- [ ] 5+ learners achieve Path B competency (nominal mastery)
+- [ ] Regular video conversations in language
+- [ ] Community-created content (stories, videos)
+
+**Deliverable:** Proof of practical fluency
+
+---
+
+#### Success Criteria for v0.8.0:
+
+- [ ] All 125 domains complete ✅
+- [ ] 8+ vector matrices complete
 - [ ] Mobile app launched
 - [ ] 500+ active learners
 - [ ] 10+ fluent speakers
 - [ ] 5,000+ GitHub stars
+- [ ] Scientific nomenclature integrated
 
 ---
 
-## 📅 **v0.9.0 — Production Preparation** (Target: 2027-06-15, ~3 months after v0.8.0)
+## **Phase 5: PRODUCTION READY**
 
-**Focus:** Polish, testing, and community growth
+### v0.9.0 — Polish & Testing (April - June 2027)
 
-### **Primary Goals:**
+**Target Date:** June 15, 2027  
+**Duration:** 3 months  
+**Focus:** Professional polish, mass testing
 
-#### **1. Comprehensive Testing**
+#### Primary Goals:
 
-- [ ] 100+ learners complete Path A (fluency test)
-- [ ] 20+ learners complete Path B (CVCV mastery test)
-- [ ] Real-world usage testing (conversations, writing)
+**1. Comprehensive Real-World Testing**
+
+- [ ] 100+ learners complete Path A (fluency)
+- [ ] 20+ learners complete Path B (nominal mastery)
+- [ ] 5+ learners use in professional context
+- [ ] Real-world conversation testing
 - [ ] Identify and fix any systematic issues
 
-**Deliverable:** Thoroughly tested language system
+**Deliverable:** Battle-tested system
 
 ---
 
-#### **2. Complete Vector Matrices**
+**2. Complete Vector System**
 
 - [ ] All 25 matrices complete (96,875 vectors)
-- [ ] Cross-referencing complete
-- [ ] Taxonomic systems integrated
+- [ ] Full cross-referencing implemented
+- [ ] Taxonomic systems fully integrated
+- [ ] Scientific validation complete
 
-**Deliverable:** Complete vector system ✅
+**Deliverable:** 🎉 **Complete vector system**
 
 ---
 
-#### **3. Professional Documentation**
+**3. Professional Documentation Suite**
 
 - [ ] Complete reference grammar (500+ pages)
 - [ ] Comprehensive dictionary (all systems)
-- [ ] Style guide
-- [ ] Academic paper on CVCV innovation
+- [ ] Style guide for writers
+- [ ] Academic paper published
 - [ ] Linguistic analysis documentation
+- [ ] Translation guide
 
 **Deliverable:** Professional-grade documentation
 
 ---
 
-#### **4. Community Infrastructure**
+**4. Community Governance**
 
-- [ ] Foundation established (if needed)
-- [ ] Governance model for future changes
+- [ ] Establish foundation (if needed)
+- [ ] Governance model for changes
 - [ ] Community contribution protocols
 - [ ] Official recognition efforts (ISO code?)
+- [ ] Long-term sustainability plan
 
 **Deliverable:** Sustainable community structure
 
 ---
 
-### **Success Criteria for v0.9.0:**
+**5. Mass Media Campaign**
+
+- [ ] Conference presentations
+- [ ] Academic journal features
+- [ ] Tech media coverage
+- [ ] Language learning platform partnerships
+- [ ] Viral marketing campaign
+
+**Deliverable:** Public awareness at scale
+
+---
+
+#### Success Criteria for v0.9.0:
 
 - [ ] 1,000+ active learners
 - [ ] 100+ fluent speakers
-- [ ] Complete vector system (96,875+ vectors)
-- [ ] Professional documentation suite
-- [ ] Sustainable community governance
+- [ ] Complete vector system (96,875 vectors)
+- [ ] Professional documentation published
+- [ ] Governance structure established
+- [ ] Academic recognition achieved
 
 ---
 
-## 📅 **v1.0.0 — PRODUCTION RELEASE** (Target: 2027-09-15, ~3 months after v0.9.0)
+## **Phase 6: PRODUCTION RELEASE**
+
+### v1.0.0 — LAUNCH (July - September 2027)
+
+**Target Date:** September 15, 2027  
+**18 months after breakthrough**
 
 **🎉 First stable, production-ready release**
 
-### **What "Production Ready" Means:**
+### What "Production Ready" Means:
 
 ✅ **Complete Systems:**
-- Grammar: 250 particles ✅
-- Vocabulary: 625 words ✅
-- Nominal Lexicon: 15,625 words ✅
-- Vectors: 96,875+ vectors ✅
-- **Total: 113,125+ fully documented resources**
+- Grammar: 250 particles
+- Vocabulary: 625 words  
+- Nominal Lexicon: 125 domains, 15,625+ documented words
+- Vectors: 96,875+ vectors (25 complete matrices)
+- **Total: 113,125+ fully documented systematic resources**
 
 ✅ **Learning Materials:**
-- Complete textbook
-- Interactive courses
-- Mobile apps
-- Video lessons
-- Practice tools
+- Complete textbook (200+ pages)
+- Interactive mobile apps (iOS/Android)
+- Video course (50+ lessons)
+- Practice tools and games
+- Community learning platform
 
 ✅ **Community:**
 - 1,000+ active learners
-- 100+ fluent speakers
-- Active forums and discussions
-- Regular community events
+- 100+ fluent speakers (Path A complete)
+- 20+ comprehensive users (Path B complete)
+- Active forums, Discord, regular events
+- Content creators producing material
 
 ✅ **Documentation:**
 - Professional reference grammar
-- Complete dictionary
+- Complete dictionaries (all layers)
 - Academic publications
-- Style guide
-- Contribution protocols
+- Style guides and standards
+- Open contribution protocols
 
 ✅ **Real-World Usage:**
-- Conversations happening regularly
-- Written content (stories, articles)
+- Daily conversations happening
+- Written content (stories, articles, blogs)
 - Translations of classic texts
-- Scientific papers written in language
+- Scientific papers using system
 - International recognition
+- AI/NLP integration examples
+
+✅ **Scientific Validation:**
+- Peer-reviewed publications
+- Empirical learning studies
+- Comparative effectiveness data
+- Academic recognition
+- Linguistic community acceptance
 
 ---
 
-### **v1.0.0 Launch Events:**
+### v1.0.0 Launch Events:
 
-- [ ] Official announcement
-- [ ] Conference presentation
-- [ ] Media coverage
-- [ ] Community celebration
-- [ ] Academic paper publication
+- [ ] Official announcement ceremony
+- [ ] International conference presentation
+- [ ] Press releases to major media
+- [ ] Academic journal publication
+- [ ] Community celebration event
+- [ ] Launch party (virtual + regional meetups)
 
 ---
 
 ## 🔮 Post-v1.0 Vision (2027+)
 
-### **Ongoing Development:**
+### v1.x Series — Growth & Refinement
 
-**v1.x series — Refinements & Growth**
-- Expand vector matrices as needed
-- Refine CVCV mappings based on usage
+**Focus:** Community growth, refinement based on real usage
+
+- Expand learning materials
+- Refine domain mappings based on feedback
 - Develop specialized vocabularies
-- Create advanced learning materials
-- Foster speaker community growth
-
-**v2.x series — Advanced Features**
-- Sign language variant
-- Braille variant
-- Integration with translation software
-- AI language models trained on language
-- Expanded media presence
+- Foster native speaker community
+- Integration with translation tools
+- Educational institution adoption
 
 ---
 
-### **Long-Term Goals (5-10 years):**
+### v2.x Series — Advanced Features
+
+**Focus:** Extended capabilities, variant systems
+
+- Sign language variant
+- Braille variant  
+- Phonetic variants for different regions
+- AI language models trained natively
+- Advanced computational linguistics tools
+- Cross-platform integration
+
+---
+
+## 📈 Success Metrics by Version
+
+| Version | Learners | Fluent | Domains | Vectors | Documentation |
+|---------|----------|--------|---------|---------|---------------|
+| v0.5.0 | 10 | 0 | 3 (2%) | 30% | Basic |
+| v0.6.0 | 50 | 0 | 8 (6%) | 35% | Good |
+| v0.7.0 | 100 | 5 | 15 (12%) | 40% | Professional |
+| v0.8.0 | 500 | 10 | 125 (100%) | 50% | Complete |
+| v0.9.0 | 1,000 | 100 | 125 (100%) | 100% | Comprehensive |
+| v1.0.0 | 1,000+ | 100+ | 125 (100%) | 100% | Production |
+
+---
+
+## 🎯 Critical Path
+
+**Must-do items that block everything else:**
+
+### Q2 2026:
+1. ✅ Complete Domain PU prototype
+2. ✅ Validate with 5-10 learners
+3. ✅ Prove deduction works
+
+**If this fails, stop and fix before continuing.**
+
+### Q3-Q4 2026:
+4. Expand validated approach to 15 domains
+5. Build learning tools
+6. Grow to 100 learners
+
+### Q1-Q2 2027:
+7. Complete all 125 domains
+8. Reach 1,000 learners
+9. Achieve 100 fluent speakers
+
+### Q3 2027:
+10. Launch v1.0 with full validation
+
+---
+
+## 🚧 Risk Management
+
+### Risk 1: Deduction doesn't work in practice
+
+**Mitigation:**
+- Small-scale testing first (5-10 people)
+- Iterate quickly based on feedback
+- Adjust patterns that fail
+- Have backup: simplified categorization
+
+### Risk 2: Learning curve too steep
+
+**Mitigation:**
+- Excellent learning materials
+- Gamification of deduction practice
+- Community support strong
+- Optional depth (can stop at 2-syllable generic)
+
+### Risk 3: Community doesn't grow
+
+**Mitigation:**
+- Active social media presence
+- Partnerships with language learning platforms
+- Academic validation for credibility
+- Unique value proposition (100% systematic)
+
+### Risk 4: Competing priorities slow development
+
+**Mitigation:**
+- Clear milestones and deadlines
+- Community contributions
+- Modular development (one domain at a time)
+- Regular progress updates maintain momentum
+
+---
+
+## 💪 How You Can Help
+
+### Right Now (v0.5.0):
+- Volunteer to test Domain PU
+- Provide feedback on learning materials
+- Share the project with language enthusiasts
+- Star the GitHub repo ⭐
+
+### Coming Soon (v0.6.0+):
+- Contribute domain mappings
+- Create learning content
+- Translate materials
+- Build tools and apps
+- Join community governance
+
+---
+
+## 🌟 Long-Term Vision (5-10 Years)
+
+**By 2032:**
 
 **Adoption:**
-- [ ] 10,000+ active learners
-- [ ] 1,000+ fluent speakers
-- [ ] Used in international contexts
-- [ ] Academic recognition
-- [ ] AI assistants speak it natively
+- 10,000+ active learners worldwide
+- 1,000+ fluent speakers
+- Used in international contexts
+- Academic recognition established
+- AI assistants speak it natively
 
 **Usage:**
-- [ ] International conferences
-- [ ] Scientific publications
-- [ ] Literary works
-- [ ] Educational institutions teach it
-- [ ] ISO 639 language code assigned
+- International scientific conferences
+- Technical documentation standard
+- Literary works and creative content
+- Educational institutions teach it
+- ISO 639 language code assigned
 
 **Impact:**
-- [ ] Bridge language for global communication
-- [ ] Standard for human-AI interaction
-- [ ] Model for systematic language design
-- [ ] Academic study subject
-- [ ] Living, evolving language community
-
----
-
-## 📊 Progress Tracking
-
-### **Completion Status by System:**
-
-**Grammar (CV + VC):**  
-████████████████████ 100% (250/250)
-
-**Vocabulary (VCV):**  
-████████████████████ 100% (625/625)
-
-**Nominal Lexicon (CVCV):**  
-███░░░░░░░░░░░░░░░░░ 12% (~200/15,625 mapped)
-
-**Vector System:**  
-█░░░░░░░░░░░░░░░░░░░ 2.2% (2,125/96,875)
-
-**Overall System:**  
-███░░░░░░░░░░░░░░░░░ 2.5% (3,000/113,125 fully mapped)
-
-**Note:** Framework is 100% complete. Now filling in the systematic patterns.
-
----
-
-## 🎯 Key Milestones Summary
-
-| Version | Target Date | Key Achievement |
-|---------|-------------|-----------------|
-| v0.4.0 | 2026-03-10 | ✅ CVCV Matrix Innovation |
-| v0.5.0 | 2026-06-15 | 3 domains complete (P, M, Y) |
-| v0.6.0 | 2026-09-15 | 8 domains, Matrix P complete |
-| v0.7.0 | 2026-12-15 | 15 domains (60%), Textbook |
-| v0.8.0 | 2027-03-15 | All CVCV complete, Mobile app |
-| v0.9.0 | 2027-06-15 | All vectors, 1,000+ learners |
-| v1.0.0 | 2027-09-15 | 🎉 Production Ready |
-
----
-
-## 💡 How You Can Help
-
-### **For Developers:**
-- [ ] Build learning tools (flashcards, games)
-- [ ] Create mobile apps
-- [ ] Develop web interfaces
-- [ ] Build pronunciation tools
-
-### **For Linguists:**
-- [ ] Refine CVCV mappings
-- [ ] Develop vector matrices
-- [ ] Create learning materials
-- [ ] Write academic analyses
-
-### **For Learners:**
-- [ ] Learn the language
-- [ ] Test materials
-- [ ] Provide feedback
-- [ ] Create content
-- [ ] Spread the word
-
-### **For Everyone:**
-- [ ] Star the GitHub repo ⭐
-- [ ] Share with language enthusiasts
-- [ ] Join discussions
-- [ ] Contribute ideas
-- [ ] Be part of history
-
----
-
-## 🌟 The Vision
-
-**By 2027:**
-
-A fully functional, systematically complete language used by thousands worldwide for international communication, scientific precision, and creative expression.
-
-**The first language where:**
-- EVERY word is pattern-derived
-- Learning is deduction, not memorization
-- Casual conversation and quantum physics use the same grammar
-- Humans and AI communicate with equal clarity
-
-**A language that proves:**
-
-Systematic design doesn't mean complexity.  
-Logic doesn't mean coldness.  
-Patterns don't mean rigidity.  
-Innovation doesn't mean impracticality.
-
-**A language for humanity. Built together.**
+- Proven model for systematic language design
+- Bridge language for global communication
+- Standard for human-AI interaction
+- Living, evolving community
+- Inspiration for future conlangs
 
 ---
 
 ## 📞 Stay Updated
 
-- **GitHub:** Watch the repository for updates
-- **Discussions:** Avaliable in GitHub
-- **Discord:** Coming soon
-- **Newsletter:** Planned for v0.6.0
+**GitHub:** Watch repository for updates  
+**Discussions:** Join when available (v0.5.0)  
+**Discord:** Coming June 2026  
+**Newsletter:** Planned for v0.6.0  
+**Blog:** Regular development updates
 
 ---
 
-*"From breakthrough to production. From innovation to community. From v0.4.0 to v1.0.0."*
+## 🎊 The Journey Ahead
+
+**From breakthrough to production in 18 months.**
+
+**March 2026:** Revolutionary idea  
+**June 2026:** Validated prototype  
+**September 2027:** Production release
+
+**We're not just building a language.**  
+**We're solving a 400-year-old problem.**  
+**We're proving systematic vocabulary works.**  
+**We're doing it scientifically, together.**
+
+**Join us. Let's make history.**
 
 ---
 
-**Version:** 0.4.0  
-**Last Updated:** 2026-03-10  
+*"From theory to practice. From prototype to production. From 400 years of failure to systematic success."*
+
+---
+
+**Version:** 0.5.0-dev  
+**Last Updated:** 2026-03-11  
 **License:** CC0 1.0 Universal (Public Domain)
 
-**Join us:** [GitHub Repository](https://github.com/rogerdafonseca-hub/conlang-ontological)
+**[Join the project →](https://github.com/rogerdafonseca-hub/conlang-ontological)**
