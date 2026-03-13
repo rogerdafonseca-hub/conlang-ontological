@@ -63,10 +63,13 @@
 
 ---
 
-## **Family K — Intensity/Degree**
+## **Family K — Social/Collective
 
-
-
+- AK- Series — Greetings & Farewells
+- EK- Series — Politeness Markers
+- IK- Series — Apologies & Regrets
+- OK- Series — Congratulations & Celebrations
+- UK- Series — Social Acknowledgments
 
 ---
 
@@ -251,13 +254,6 @@
 - OZ- Series — Agreement & Consent
 - UZ- Series — Permission & Authorization
 
----
-
-**Total:** 25 Famílias × 5 Séries = **125 subtítulos** ✅
-
-
-
-# 📄 FAMÍLIA P — Process/Temporal Aspect
 
 ---
 
@@ -327,14 +323,6 @@
 
 ---
 
-**Agora está de acordo com os títulos das séries?** ✅
----
-
-
-# 📄 FAMÍLIA M — Magnitude/Scale
-
----
-
 ## **Family M — Magnitude/Scale**
 
 **Function:** Marks magnitude, size, quantity, intensity, and scale
@@ -345,11 +333,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ama**|minuscule, extremely small|size minimum|
-|**ame**|small quantity, few|quantity low|
-|**ami**|low intensity, weak|intensity low|
-|**amo**|small scale, micro level|scale micro|
-|**amu**|minimal degree, slight|degree minimal|
+|**ama**|minuscule, extremely small size|size minimal|
+|**ame**|small, little size|size small|
+|**ami**|medium size, average|size medium|
+|**amo**|large, big size|size large|
+|**amu**|enormous, gigantic size|size maximal|
 
 ---
 
@@ -357,11 +345,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ema**|very small, tiny|size very-small|
-|**eme**|little amount, some|quantity few|
-|**emi**|mild intensity, gentle|intensity mild|
-|**emo**|local scale, nearby|scale local|
-|**emu**|slight degree, moderate-low|degree slight|
+|**ema**|none, zero quantity|quantity none|
+|**eme**|few, small quantity|quantity few|
+|**emi**|moderate quantity, some|quantity moderate|
+|**emo**|much, great quantity|quantity much|
+|**emu**|maximum quantity, countless|quantity maximum|
 
 ---
 
@@ -369,11 +357,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ima**|medium size, average|size medium|
-|**ime**|moderate amount, several|quantity moderate|
+|**ima**|minimal intensity, negligible|intensity minimal|
+|**ime**|low intensity, weak|intensity low|
 |**imi**|medium intensity, normal|intensity medium|
-|**imo**|regional scale, area-wide|scale regional|
-|**imu**|moderate degree, balanced|degree moderate|
+|**imo**|high intensity, strong|intensity high|
+|**imu**|extreme intensity, overwhelming|intensity extreme|
 
 ---
 
@@ -381,11 +369,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oma**|large, big|size large|
-|**ome**|great quantity, much|quantity great|
-|**omi**|high intensity, strong|intensity high|
-|**omo**|continental scale, macro|scale macro|
-|**omu**|strong degree, significant|degree strong|
+|**oma**|microscopic scale, molecular|scale microscopic|
+|**ome**|local scale, nearby area|scale local|
+|**omi**|regional scale, area-wide|scale regional|
+|**omo**|continental scale, macro|scale continental|
+|**omu**|global scale, worldwide|scale global|
 
 ---
 
@@ -393,15 +381,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uma**|enormous, gigantic|size maximum|
-|**ume**|maximum quantity, countless|quantity maximum|
-|**umi**|extreme intensity, overwhelming|intensity extreme|
-|**umu**|global/universal scale|scale universal|
+|**uma**|minimal degree, slight|degree minimal|
+|**ume**|low degree, minor|degree low|
+|**umi**|moderate degree, balanced|degree moderate|
+|**umo**|high degree, significant|degree high|
 |**umu**|absolute degree, total|degree absolute|
-
----
-
-# 📄 FAMÍLIA N — Frequency/Recurrence
 
 ---
 
@@ -415,11 +399,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ana**|never, not ever|frequency zero|
-|**ane**|once, one time|single occurrence|
-|**ani**|irregular pattern, unpredictable|pattern irregular|
-|**ano**|long intervals, rarely|interval long|
-|**anu**|slow cycle, infrequent repetition|cycle slow|
+|**ana**|never, not ever|frequency never|
+|**ane**|rarely, seldom|frequency rare|
+|**ani**|sometimes, occasionally|frequency occasional|
+|**ano**|often, frequently|frequency frequent|
+|**anu**|always, constantly|frequency constant|
 
 ---
 
@@ -427,11 +411,11 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ena**|rarely, seldom|frequency rare|
-|**ene**|few times, occasionally|few occurrences|
-|**eni**|semi-regular, somewhat predictable|pattern semi-regular|
-|**eno**|medium intervals|interval medium|
-|**enu**|medium cycle|cycle medium|
+|**ena**|zero times, never occurred|occurrence zero|
+|**ene**|once, single occurrence|occurrence once|
+|**eni**|few times, several|occurrence few|
+|**eno**|many times, numerous|occurrence many|
+|**enu**|countless times, infinite|occurrence countless|
 
 ---
 
@@ -439,39 +423,35 @@
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ina**|sometimes, occasionally|frequency occasional|
-|**ine**|several times, multiple|several occurrences|
-|**ini**|regular pattern, predictable|pattern regular|
-|**ino**|short intervals|interval short|
-|**inu**|fast cycle|cycle fast|
+|**ina**|chaotic, no pattern|regularity chaotic|
+|**ine**|irregular, unpredictable|regularity irregular|
+|**ini**|regular, predictable|regularity regular|
+|**ino**|very regular, highly predictable|regularity very-regular|
+|**inu**|perfectly regular, clockwork|regularity perfect|
 
 ---
 
 ### **ON- Series — Interval Length**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**ona**|frequently, often|frequency frequent|
-|**one**|many times, numerous|many occurrences|
-|**oni**|very regular, highly predictable|pattern very-regular|
-|**ono**|very short intervals|interval very-short|
-|**onu**|very fast cycle, rapid|cycle very-fast|
+| VCV     | Meaning                           | Category            |
+| ------- | --------------------------------- | ------------------- |
+| **ona** | continuous, no interval           | interval continuous |
+| **one** | short intervals, close together   | interval short      |
+| **oni** | medium intervals, normal spacing  | interval medium     |
+| **ono** | long intervals, far apart         | interval long       |
+| **onu** | very long intervals, rare spacing | interval very-long  |
 
 ---
 
-### **UN- Series** — Cycle Speed
+### **UN- Series — Cycle Speed**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**una**|always, constantly|frequency constant|
-|**une**|countless times, infinite|infinite occurrences|
-|**uni**|perfectly regular, clockwork|pattern perfect|
-|**uno**|continuous, no interval|interval zero|
+|**una**|stopped, no cycle|cycle stopped|
+|**une**|slow cycle, infrequent|cycle slow|
+|**uni**|medium cycle, normal speed|cycle medium|
+|**uno**|fast cycle, rapid|cycle fast|
 |**unu**|instantaneous cycle, immediate|cycle instantaneous|
-
----
-
-# 📄 FAMÍLIA V — Manner of Action
 
 ---
 
@@ -541,10 +521,6 @@
 
 ---
 
-# 📄 FAMÍLIA W — Emotion/Affect
-
----
-
 ## **Family W — Emotion/Affect**
 
 **Function:** Marks emotional states and affective attitudes
@@ -553,61 +529,61 @@
 
 ### **AW- Series — Basic Emotions**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**awa**|with anger, angrily|emotion anger|
-|**awe**|with sadness, sadly|emotion sadness|
-|**awi**|with indifference, neutrally|emotion neutral|
-|**awo**|with surprise, surprisingly|emotion surprise|
-|**awu**|with happiness, happily|emotion happiness|
+| VCV     | Meaning                      | Category          |
+| ------- | ---------------------------- | ----------------- |
+| **awa** | with happiness, happily      | emotion happiness |
+| **awe** | with surprise, surprisingly  | emotion surprise  |
+| **awi** | with indifference, neutrally | emotion neutral   |
+| **awo** | with sadness, sadly          | emotion sadness   |
+| **awu** | with anger, angrily          | emotion anger     |
 
 ---
 
 ### **EW- Series — Secondary Emotions**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**ewa**|with irritation, annoyed|emotion irritation|
-|**ewe**|with melancholy, wistfully|emotion melancholy|
-|**ewi**|with calmness, peacefully|emotion calm|
-|**ewo**|with curiosity, curiously|emotion curiosity|
-|**ewu**|with joy, joyfully|emotion joy|
+| VCV     | Meaning                    | Category           |
+| ------- | -------------------------- | ------------------ |
+| **ewa** | with joy, joyfully         | emotion joy        |
+| **ewe** | with curiosity, curiously  | emotion curiosity  |
+| **ewi** | with calmness, peacefully  | emotion calm       |
+| **ewo** | with melancholy, wistfully | emotion melancholy |
+| **ewu** | with irritation, annoyed   | emotion irritation |
 
 ---
 
 ### **IW- Series — Complex Emotions**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**iwa**|with frustration, frustrated|emotion frustration|
-|**iwe**|with loneliness, lonely|emotion loneliness|
-|**iwi**|with contentment, content|emotion contentment|
-|**iwo**|with interest, interestedly|emotion interest|
-|**iwu**|with delight, delightedly|emotion delight|
+| VCV     | Meaning                      | Category            |
+| ------- | ---------------------------- | ------------------- |
+| **iwa** | with delight, delightedly    | emotion delight     |
+| **iwe** | with interest, interestedly  | emotion interest    |
+| **iwi** | with contentment, content    | emotion contentment |
+| **iwo** | with loneliness, lonely      | emotion loneliness  |
+| **iwu** | with frustration, frustrated | emotion frustration |
 
 ---
 
 ### **OW- Series — Intense Emotions**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**owa**|with rage, furiously|emotion rage|
-|**owe**|with grief, grieving|emotion grief|
-|**owi**|with serenity, serenely|emotion serenity|
-|**owo**|with amazement, amazed|emotion amazement|
-|**owu**|with elation, elatedly|emotion elation|
+| VCV     | Meaning                 | Category          |
+| ------- | ----------------------- | ----------------- |
+| **owa** | with elation, elatedly  | emotion elation   |
+| **owe** | with amazement, amazed  | emotion amazement |
+| **owi** | with serenity, serenely | emotion serenity  |
+| **owo** | with grief, grieving    | emotion grief     |
+| **owu** | with rage, furiously    | emotion rage      |
 
 ---
 
 ### **UW- Series — Extreme Emotions**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**uwa**|with hatred, hatefully|emotion hatred|
-|**uwe**|with despair, despairingly|emotion despair|
-|**uwi**|with tranquility, tranquilly|emotion tranquility|
-|**uwo**|with awe, awestruck|emotion awe|
-|**uwu**|with ecstasy, ecstatically|emotion ecstasy|
+| VCV     | Meaning                      | Category            |
+| ------- | ---------------------------- | ------------------- |
+| **uwa** | with ecstasy, ecstatically   | emotion ecstasy     |
+| **uwe** | with awe, awestruck          | emotion awe         |
+| **uwi** | with tranquility, tranquilly | emotion tranquility |
+| **uwo** | with despair, despairingly   | emotion despair     |
+| **uwu** | with hatred, hatefully       | emotion hatred      |
 
 ---
 
@@ -671,127 +647,66 @@
 
 ### **UT- Series — Temporal Extent**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**uta**|until now, so far|extent until-now|
-|**ute**|from beginning, since start|extent from-start|
-|**uti**|throughout, all along|extent throughout|
-|**uto**|indefinitely, without end|extent indefinite|
-|**utu**|eternally, forever|extent eternal|
+| VCV     | Meaning                     | Category          |
+| ------- | --------------------------- | ----------------- |
+| **uta** | until now, so far           | extent until-now  |
+| **ute** | from beginning, since start | extent from-start |
+| **uti** | throughout, all along       | extent throughout |
+| **uto** | indefinitely, without end   | extent indefinite |
+| **utu** | eternally, forever          | extent eternal    |
 
 ---
 
 ## 📊 FAMÍLIA K — Social/Collective
 
+---
+
 ### **AK- Series — Greetings & Farewells**
 
-- aka = hello, hi, greeting
-- ake = goodbye, farewell
-- aki = welcome, bem-vindo
-- ako = good morning/afternoon/evening
-- aku = see you later, até logo
-
+| VCV | Meaning                        |
+| --- | ------------------------------ |
+| aka | welcome, bem-vindo             |
+| ake | good morning/afternoon/evening |
+| aki | hello, hi, greeting            |
+| ako | see you later, até logo        |
+| aku | goodbye, farewell              |
 ### **EK- Series — Politeness Markers**
 
-- eka = please, por favor
-- eke = thank you, obrigado
-- eki = you're welcome, de nada
-- eko = excuse me, com licença (passar)
-- eku = pardon, perdão (não ouvi)
-
+| VCV | Meaning                         |
+| --- | ------------------------------- |
+| eka | thank you, obrigado             |
+| eke | you're welcome, de nada         |
+| eki | excuse me, com licença (passar) |
+| eko | please, por favor               |
+| eku | pardon, perdão (não ouvi)       |
 ### **IK- Series — Apologies & Regrets**
 
-- ika = sorry, desculpa (leve)
-- ike = I'm sorry, me desculpa
-- iki = I apologize, peço desculpas (formal)
-- iko = I regret, lamento
-- iku = my deepest apologies, desculpas profundas
-
+| VCV | Meaning                                   |
+| --- | ----------------------------------------- |
+| ika | sorry, desculpa (leve)                    |
+| ike | I'm sorry, me desculpa                    |
+| iki | I apologize, peço desculpas (formal)      |
+| iko | I regret, lamento                         |
+| iku | my deepest apologies, desculpas profundas |
 ### **OK- Series — Congratulations & Celebrations**
 
-- oka = congratulations, parabéns
-- oke = well done, muito bem
-- oki = cheers, saúde
-- oko = happy birthday/holiday
-- oku = blessings, bênçãos
+| VCV | Meaning                   |
+| --- | ------------------------- |
+| oka | congratulations, parabéns |
+| oke | well done, muito bem      |
+| oki | cheers, saúde             |
+| oko | happy birthday/holiday    |
+| oku | blessings, bênçãos        |
 
 ### **UK- Series — Social Acknowledgments**
 
-- uka = yes (social agreement)
-- uke = I understand, entendo
-- uki = I see, vejo
-- uko = of course, claro
-- uku = certainly, com certeza
-
----
-
-## **Family K — Quantity/Amount**
-
-**Function:** Marks quantity, amount, and numerical degree (non-numeral)
-
----
-
-### **AK- Series — Quantity Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**aka**|none, zero|quantity zero|
-|**ake**|very few, hardly any|quantity minimal|
-|**aki**|few, small number|quantity few|
-|**ako**|some, moderate amount|quantity some|
-|**aku**|many, numerous|quantity many|
-
----
-
-### **EK- Series — Amount Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**eka**|nothing, empty|amount none|
-|**eke**|a bit, a little|amount little|
-|**eki**|part of, portion|amount partial|
-|**eko**|much, considerable|amount much|
-|**eku**|all, everything|amount all|
-
----
-
-### **IK- Series — Adequacy Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ika**|insufficient, too little|adequacy insufficient|
-|**ike**|barely enough, scant|adequacy barely|
-|**iki**|enough, sufficient|adequacy sufficient|
-|**iko**|more than enough, ample|adequacy ample|
-|**iku**|excessive, too much|adequacy excessive|
-
----
-
-### **OK- Series — Distribution Type**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**oka**|sparse, scattered|distribution sparse|
-|**oke**|scattered, spread out|distribution scattered|
-|**oki**|distributed evenly|distribution even|
-|**oko**|concentrated, clustered|distribution concentrated|
-|**oku**|dense, packed|distribution dense|
-
----
-
-### **UK- Series — Proportion Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**uka**|nearly none, almost empty|proportion nearly-none|
-|**uke**|minority, less than half|proportion minority|
-|**uki**|half, equal parts|proportion half|
-|**uko**|majority, more than half|proportion majority|
-|**uku**|nearly all, almost complete|proportion nearly-all|
-
----
-
-# 📄 FAMÍLIA B — Communication/Discourse
+| VCV | Meaning                |
+| --- | ---------------------- |
+| uka | certainly, com certeza |
+| uke | of course, claro       |
+| uki | yes (social agreement) |
+| uko | I understand, entendo  |
+| uku | I see, vejo            |
 
 ---
 
@@ -861,10 +776,6 @@
 
 ---
 
-# 📄 FAMÍLIA D — Degree/Intensity
-
----
-
 ## **Family D — Degree/Intensity**
 
 **Function:** Marks degree, intensity, and level of properties or states
@@ -928,10 +839,6 @@
 |**udi**|substantially, to large extent|extent substantial|
 |**udo**|largely, to great extent|extent great|
 |**udu**|maximally, to fullest extent|extent maximal|
-
----
-
-# 📄 FAMÍLIA G — Cycle/Rhythm
 
 ---
 
@@ -1001,10 +908,6 @@
 
 ---
 
-# 📄 FAMÍLIA S — Speed/Velocity
-
----
-
 ## **Family S — Speed/Velocity**
 
 **Function:** Marks speed, velocity, and rate of action or process
@@ -1068,10 +971,6 @@
 |**usi**|smoothly, continuously|progression smooth|
 |**uso**|rapidly, swiftly|progression rapid|
 |**usu**|explosively, suddenly|progression explosive|
-
----
-
-# 📄 FAMÍLIA L — Quality/State
 
 ---
 
@@ -1141,10 +1040,6 @@
 
 ---
 
-# 📄 FAMÍLIA R — State/Condition
-
----
-
 ## **Family R — State/Condition**
 
 **Function:** Marks physical states, conditions, and properties
@@ -1208,10 +1103,6 @@
 |**uri**|sturdy, solid|strength sturdy|
 |**uro**|strong, robust|strength strong|
 |**uru**|unbreakable, indestructible|strength indestructible|
-
----
-
-# 📄 FAMÍLIA F — Comparison/Evaluation
 
 ---
 
@@ -1281,10 +1172,6 @@
 
 ---
 
-# 📄 FAMÍLIA H — Relation/Connection
-
----
-
 ## **Family H — Relation/Connection**
 
 **Function:** Marks relational structures and connections between entities
@@ -1348,10 +1235,6 @@
 |**uhi**|based on, founded on|relation based|
 |**uho**|derived from, originating|relation derivation|
 |**uhu**|consisting of, composed of|relation composition|
-
----
-
-# 📄 FAMÍLIA Y — Perception/Sensory
 
 ---
 
@@ -1421,10 +1304,6 @@
 
 ---
 
-# 📄 FAMÍLIA Š — Boundary/Limit
-
----
-
 ## **Family Š — Boundary/Limit**
 
 **Function:** Marks boundaries, limits, edges, and thresholds
@@ -1488,10 +1367,6 @@
 |**uši**|impermeable, impassable|property impermeable|
 |**ušo**|porous, having gaps|property porous|
 |**ušu**|solid, no gaps|property solid|
-
----
-
-# 📄 FAMÍLIA Ř — Identity/Possession
 
 ---
 
@@ -1561,10 +1436,6 @@
 
 ---
 
-# 📄 FAMÍLIA Č — Cognition/Mental
-
----
-
 ## **Family Č — Cognition/Mental**
 
 **Function:** Marks cognitive processes, mental states, and intellectual operations
@@ -1628,10 +1499,6 @@
 |**uči**|attentive, paying attention|attention attentive|
 |**učo**|concentrating, focused|attention concentrated|
 |**uču**|intensely focused, total concentration|attention intense|
-
----
-
-# 📄 FAMÍLIA Ž — Intensity/Degree
 
 ---
 
@@ -1770,10 +1637,6 @@
 
 ---
 
-# 📄 FAMÍLIA Ñ — Manner/Mode
-
----
-
 ## **Family Ñ — Manner/Mode**
 
 **Function:** Marks manner of execution, mode of action, and stylistic approach
@@ -1837,10 +1700,6 @@
 |**uñi**|with normal effort|effort normal|
 |**uño**|with great effort, strenuously|effort great|
 |**uñu**|with maximum effort, exhaustingly|effort maximum|
-
----
-
-# 📄 FAMÍLIA C — Movement/Direction
 
 ---
 
@@ -1910,10 +1769,6 @@
 
 ---
 
-# 📄 FAMÍLIA X — Existence/Reality
-
----
-
 ## **Family X — Existence/Reality**
 
 **Function:** Marks degrees of existence, reality, and ontological status
@@ -1977,10 +1832,6 @@
 |**uxi**|possible, can be|possibility possible|
 |**uxo**|likely, probable|possibility likely|
 |**uxu**|inevitable, must be|possibility inevitable|
-
----
-
-# 📄 FAMÍLIA Z — Intention/Volition
 
 ---
 
