@@ -1,871 +1,556 @@
-# 🧬 DOMÍNIO PA COMPLETO — Origin/Source
+# 📄 LÉXICO NOMINAL — Sistema de Nomeação Progressiva
 
-**Alinhamento Vetorial:** a-p (Origin subcategory)
-
----
-
-## 📋 VISÃO GERAL DO DOMÍNIO PA
-
-**Conceito Central:** Origem, fonte, proveniência, elementos primários
-
-**O que pertence aqui:**
-
-- Elementos naturais fundamentais
-- Fontes primárias de fenômenos
-- Origens de processos
-- Materiais base
-- Conceitos primordiais
+**Versão:** 0.5.0  
+**Data:** 2026-03-12  
+**Status:** Em Desenvolvimento
 
 ---
 
-## 🗂️ ESTRUTURA COMPLETA: 5 SUBCATEGORIAS
+## 🎯 Visão Geral
 
-### **PA = Origin/Source Domain (125 domínios nominais total)**
-
-**Variações por vogal:**
-
-- **PA (pa)** — Natural Primary Sources (origens naturais primárias)
-- **PE (pe)** — Vital/Energetic Sources (fontes vitais/energéticas)
-- **PI (pi)** — Complex/Structural Sources (origens estruturais/complexas)
-- **PO (po)** — Functional Sources (fontes funcionais)
-- **PU (pu)** — Taxonomic/Classified Objects (objetos classificados/inanimados)
-
-**Total de categorias no domínio PA-family:** 5 × 25 = **125 categorias**
+O **Léxico Nominal** é o sistema de nomeação de objetos, conceitos e entidades do idioma. Diferentemente do sistema vetorial (que descreve ontologicamente) e do vocabulário VCV (que fornece palavras essenciais), o léxico nominal permite **criar nomes sistemáticos** para qualquer coisa através de hierarquia progressiva.
 
 ---
 
-## 📊 SUBCATEGORIA PA-A: Natural Primary Sources
+## 🧬 Princípio Fundamental
 
-**Conceito:** Elementos naturais fundamentais, fontes primárias da natureza
+### **Profundidade Progressiva**
 
-### **25 Categorias Base:**
+Você escolhe quão específico quer ser adicionando sílabas:
 
-|Código|Conceito|Dimensão de Gradação|Progressão -a → -i → -u|
+- **2 sílabas (CV+CV)** = Genérico (como Toki Pona)
+- **3 sílabas (CV+CV+CV)** = Padrão (90% do uso diário)
+- **4 sílabas (CV+CV+CV+CV)** = Específico (técnico)
+- **5+ sílabas** = Científico (ilimitado)
+
+**Princípio:** "Adicione sílabas para adicionar especificidade. Pare quando tiver detalhes suficientes."
+
+---
+
+## 📊 Estrutura de Camadas
+
+### **Layer 1: CV¹ (Domínio + Subcategoria)**
+
+**Primeira sílaba** define área ontológica:
+
+**Consoante** = Domínio (1 de 25)  
+**Vogal** = Subcategoria (1 de 5)
+
+**Exemplo:**
+
+```
+pa = Origin domain (p) + subcategoria a
+pe = Vitality domain (p) + subcategoria e
+pu = Taxonomy domain (p) + subcategoria u
+```
+
+**Total:** 25 domínios × 5 subcategorias = **125 domínios nominais**
+
+---
+
+### **Layer 2: CV² (Conceito Base)**
+
+**Segunda sílaba** define o conceito generalizado:
+
+**Exemplo:**
+
+```
+pa + ba = paba (água — origem natural)
+pa + ka = paka (pedra — origem mineral)
+pa + na = pana (fogo — origem térmica)
+```
+
+**Nível genérico:** Pode parar aqui (2 sílabas)
+
+---
+
+### **Layer 3: CV³ (Especificação ou Quantização)**
+
+**Terceira sílaba** pode ser:
+
+**A) Se a palavra CONTINUA** → Especificação (detalha tipo/aspecto)  
+**B) Se a palavra TERMINA** → Quantização (vogal indica intensidade)
+
+**Exemplos:**
+
+**Quantização (palavra termina):**
+
+```
+pabama = mar (água + magnitude grande)
+pabaka = gota (água + magnitude pequena)
+pabava = rio (água + movimento)
+```
+
+**Especificação (palavra continua):**
+
+```
+pabama + ... = mar + mais detalhes
+```
+
+---
+
+### **Layer 4+: CV⁴, CV⁵... (Especificação Progressiva)**
+
+Mesma lógica:
+
+- **Se continua** → Mais especificação
+- **Se termina** → Quantização final
+
+**Exemplo científico (5 sílabas):**
+
+```
+pabamaXYZ = tipo específico de oceano
+(água-grande-aspecto1-aspecto2-quantização)
+```
+
+---
+
+## 🎨 Sistema de Quantização
+
+### **Vogal Final = Escala de Intensidade**
+
+**Progressão universal:**
+
+```
+-a = mínimo / primeiro / menor
+-e = baixo / segundo / pequeno  
+-i = médio / neutro / padrão
+-o = alto / quarto / grande
+-u = máximo / quinto / maior
+```
+
+**A dimensão varia conforme o conceito:**
+
+- **Tamanho:** areia (a) → pedra (i) → montanha (u)
+- **Volume:** gota (a) → água (i) → oceano (u)
+- **Intensidade:** brasa (a) → fogo (i) → incêndio (u)
+- **Velocidade:** lento (a) → normal (i) → rápido (u)
+
+**Princípio:** A vogal quantiza **a dimensão natural** daquele conceito.
+
+---
+
+## 📋 Os 25 Domínios Ontológicos
+
+|#|Letra|Domínio|Subcategorias (a/e/i/o/u)|
 |---|---|---|---|
-|**pak-**|pedra/mineral|tamanho|areia → pedra → montanha|
-|**pab-**|água|volume|gota → água → oceano|
-|**pal-**|terra/solo|quantidade/extensão|poeira → solo → continente|
-|**pan-**|fogo/calor|intensidade|brasa → fogo → incêndio|
-|**pam-**|ar/vento|movimento/força|calmo → vento → furacão|
-|**pap-**|luz|intensidade luminosa|penumbra → luz → radiância|
-|**pas-**|som|volume sonoro|sussurro → som → estrondo|
-|**pat-**|tempo|duração|instante → momento → era|
-|**pav-**|espaço/vácuo|extensão|ponto → espaço → infinito|
-|**pag-**|crescimento/vida|estágio|semente → crescimento → plenitude|
-|**par-**|movimento|velocidade|lento → movimento → veloz|
-|**paf-**|forma/aparência|complexidade|simples → forma → complexa|
-|**pah-**|conexão|força/intensidade|tênue → conexão → forte|
-|**pay-**|sensação|intensidade|fraca → sensação → intensa|
-|**paš-**|limite/fronteira|definição|vago → limite → rígido|
-|**pař-**|identidade/essência|clareza|difusa → identidade → clara|
-|**pač-**|pensamento|profundidade|superficial → pensamento → profundo|
-|**paž-**|força/poder|intensidade|fraca → força → poderosa|
-|**paǰ-**|causa|direteza|indireta → causa → direta|
-|**pañ-**|modo/método|complexidade|simples → modo → complexo|
-|**pac-**|direção|precisão|vaga → direção → precisa|
-|**pax-**|textura|rugosidade|lisa → textura → áspera|
-|**paz-**|intenção|determinação|hesitante → intenção → decidida|
-|**paw-**|afeto/emoção|intensidade|leve → emoção → intensa|
-|**pad-**|densidade/massa|compactação|rarefeito → densidade → denso|
+|1|P|Substance/Being|Origin, Vitality, Complexity, Function, Taxonomy|
+|2|M|Space/Dimensional|Location, Structure, Interior, Geography, Urban|
+|3|N|Time/Temporal|Point, Duration, Frequency, Cycle, Era|
+|4|V|Action/Verbal|Passive, Initiating, Transformative, Intensive, Forceful|
+|5|W|Emotion/Affect|Anger-expr, Sadness-expr, Indifference, Surprise, Happiness|
+|6|T|Process/Dynamic|Change, Growth, Cycle, Opening, Rise-Fall|
+|7|K|Social/Collective|Relationship, Family, Group, Role, Interaction|
+|8|B|Communication|Speech, Question, Word, Message, Writing|
+|9|D|Structure/Form|Shape, Size, Line, Surface, Pattern|
+|10|G|Cycle/Rhythm|Repetition, Rotation, Rhythm, Phase, Flow|
+|11|S|Quantity/Measurement|Unit, Portion, Measure, Value, Scale|
+|12|L|Quality/Modal|Value, Truth, Difficulty, Correctness, Purity|
+|13|R|State/Condition|Age, Temperature, Wetness, Fullness, Strength|
+|14|F|Value/Comparison|Similar, Different, Rare, Important, Preferred|
+|15|H|Relation|Part-Whole, Connection, Separation, Belonging, Exchange|
+|16|Y|Perception/Sensory|Vision, Audition, Touch, Taste, Smell|
+|17|Š|Boundary/Limit|Entry, Exit, Barrier, Opening, Crossing|
+|18|Ň|Identity/Possession|Name, Self, Property, Characteristic, Origin|
+|19|Č|Cognition/Mental|Knowledge, Thought, Memory, Understanding, Attention|
+|20|Ž|Intensity/Degree|Minimality, Lightness, Sufficiency, Heaviness, Excess|
+|21|J̌|Causality/Agency|Cause, Effect, Purpose, Means, Agent|
+|22|Ñ|Manner/Mode|Style, Speed, Care, Skill, Effort|
+|23|C|Movement/Direction|Linear, Approach, Rotation, Vertical, Flight|
+|24|X|Existence/Reality|Presence, Reality, Truth, Certainty, Possibility|
+|25|Z|Intention/Volition|Desire, Decision, Will, Agreement, Permission|
 
 ---
 
-## 📖 EXEMPLOS DETALHADOS POR CATEGORIA
+## 🎯 Exemplo Completo: Domínio PA (Origin)
 
-### **PAK- (pedra/mineral) — Dimensão: TAMANHO**
+### **Layer 1: PA**
 
-```
-paka = areia, grão fino (mínimo)
-pake = cascalho, pedrinha (pequeno)
-paki = pedra (médio/padrão)
-pako = rocha, rochedo (grande)
-paku = montanha, formação rochosa (máximo)
-```
-
-**Exemplos de uso:**
-
-```
-ba evi paka pi ami
-(eu pego areia no lugar)
-
-da paku va so pi amo
-(a montanha está perto do espaço/local)
-
-be ta ivi pake pa paki
-(você passado fazer cascalho para pedra = você transformou cascalho em pedra)
-```
-
-**Especificações (3 sílabas):**
-
-```
-pakola = rocha sedimentar (pedra-grande-tipo1)
-pakoma = rocha ígnea (pedra-grande-tipo2)
-pakova = rocha metamórfica (pedra-grande-tipo3)
-pakala = pedregulho, seixo grande (pedra-pequena-grande)
-pakama = formação rochosa extensa (pedra-grande-extensão)
-```
+**Domínio:** P (Substance/Being)  
+**Subcategoria:** a (Origin)  
+**Conceito:** Origens naturais, fontes primárias
 
 ---
 
-### **PAB- (água) — Dimensão: VOLUME**
+### **Layer 2: Conceitos Base**
 
 ```
-paba = gota, respingo (mínimo)
-pabe = poça, pequeno corpo d'água (pequeno)
-pabi = água, corpo d'água (médio/padrão)
-pabo = lago (grande)
-pabu = mar, oceano (máximo)
+paba = água (origem aquosa)
+paka = pedra (origem mineral)
+pala = terra (origem terrestre)
+pana = fogo (origem térmica)
+pama = ar (origem gasosa)
+papa = luz (origem luminosa)
+pasa = som (origem sonora)
+pata = tempo (origem temporal)
+pava = espaço (origem espacial)
+paga = vida (origem vital)
 ```
 
-**Exemplos de uso:**
+**Nível genérico:** Pode usar assim, 2 sílabas
+
+---
+
+### **Layer 3: Especificação + Quantização**
+
+**PABA (água) + vogal de quantização:**
+
+**Dimensão natural: VOLUME**
 
 ```
-ba wa pabi
-(eu quero água)
-
-bo ma avi pa pabu
-(nós podemos ir ao oceano)
-
-da paba va pi paki
-(a gota está na pedra)
-```
-
-**Especificações:**
-
-```
-pabola = lago de montanha (água-grande-altitude)
-paboma = lago profundo (água-grande-profundidade)
-pabura = água corrente (água-máxima-movimento)
-pabika = nascente (água-média-primeira)
-pabara = rio (água-movimento)
+paba + ma = pabama = mar (água grande)
+paba + ka = pabaka = gota (água pequena)
+paba + va = pabava = rio (água em movimento)
+paba + la = pabala = água suja (água de baixa qualidade)
+paba + lu = pabalu = água pura (água de alta qualidade)
 ```
 
 ---
 
-### **PAL- (terra/solo) — Dimensão: QUANTIDADE/EXTENSÃO**
+**PAKA (pedra) + vogal de quantização:**
+
+**Dimensão natural: TAMANHO**
 
 ```
-pala = poeira, grão de terra (mínimo)
-pale = punhado de terra (pequeno)
-pali = terra, solo (médio/padrão)
-palo = terreno, área terrestre (grande)
-palu = continente, massa terrestre (máximo)
-```
-
-**Exemplos de uso:**
-
-```
-ba ivi pali pi ami
-(eu faço/trabalho solo no lugar)
-
-da palu va rira
-(o continente está em estado ativo)
-
-epi vi pale ňu pabi
-(pessoas têm punhado-de-terra com água = lama)
-```
-
-**Especificações:**
-
-```
-palika = solo fértil (terra-média-primeira)
-paloma = terreno montanhoso (terra-grande-elevação)
-paluba = continente aquático/ilhas (terra-máxima-água)
-palafa = argila (terra-pequena-forma)
-palara = terra movediça (terra-pequena-movimento)
+paka + ma = pakama = montanha (pedra grande)
+paka + ka = pakaka = areia (pedra pequena)
+paka + la = pakala = cascalho (pedra + qualidade baixa)
 ```
 
 ---
 
-### **PAN- (fogo/calor) — Dimensão: INTENSIDADE**
+**PANA (fogo) + vogal de quantização:**
+
+**Dimensão natural: INTENSIDADE**
 
 ```
-pana = brasa, calor fraco (mínimo)
-pane = chama pequena (pequeno)
-pani = fogo (médio/padrão)
-pano = fogueira, fogo forte (grande)
-panu = incêndio, conflagração (máximo)
-```
-
-**Exemplos de uso:**
-
-```
-ba ivi pani pi maka
-(eu faço fogo na casa)
-
-da panu va rira pi paku
-(o incêndio está ativo na montanha)
-
-be ma evi pane
-(você pode pegar chama pequena = acender)
-```
-
-**Especificações:**
-
-```
-panola = fogueira cerimonial (fogo-grande-tipo1)
-panoma = fogo industrial (fogo-grande-trabalho)
-panura = incêndio florestal (fogo-máximo-movimento)
-panipa = luz do fogo (fogo-médio-luz)
-panaka = fagulha (fogo-mínimo-primeira)
+pana + ma = panama = incêndio (fogo grande)
+pana + ka = panaka = brasa (fogo pequeno)
+pana + pa = panapa = chama intensa (fogo + intensidade)
 ```
 
 ---
 
-### **PAM- (ar/vento) — Dimensão: MOVIMENTO/FORÇA**
+### **Layer 4: Especificação Técnica**
 
 ```
-pama = ar parado, calmo (mínimo)
-pame = brisa (pequeno)
-pami = vento (médio/padrão)
-pamo = ventania (grande)
-pamu = furacão, tempestade (máximo)
+pabama + XX = mar + tipo específico
+pakama + XX = montanha + característica
+panama + XX = incêndio + aspecto
 ```
 
-**Exemplos de uso:**
+**Expansão ilimitada conforme necessidade.**
+
+---
+
+## 🔄 Integração com Outros Sistemas
+
+### **Léxico Nominal vs Vocabulário VCV vs Sistema Vetorial**
+
+**Vocabulário VCV (625 palavras):**
+
+- Palavras essenciais do dia-a-dia
+- Conceitos abstratos, ações, qualidades
+- **Exemplo:** avi (go), api (thing), ami (place)
+
+**Léxico Nominal (244M+ palavras):**
+
+- Nomes de objetos, seres, conceitos
+- Sistemático, dedutível, expansível
+- **Exemplo:** pabama (mar), pakama (montanha)
+
+**Sistema Vetorial (390K+ vetores):**
+
+- Descrição ontológica precisa
+- Científico, técnico, formal
+- **Exemplo:** upaba (substância-aquosa), upaka (substância-mineral)
+
+---
+
+### **Diferenças Práticas:**
+
+|Sistema|Início|Propósito|Uso|
+|---|---|---|---|
+|VCV|Vogal|Vocabulário essencial|Conversação básica|
+|Nominal|Consoante|Nomeação sistemática|Objetos e conceitos|
+|Vetorial|Vogal + padrão longo|Descrição ontológica|Técnico/científico|
+
+**Exemplo em contexto:**
 
 ```
-da pami va rira
-(o vento está ativo)
+Casual: ba evi pabama
+        (eu pego mar)
 
-ba ya pamu pa avo
-(eu vejo furacão no trabalho/ação)
+Técnico: ba čo upabamu
+         (eu estudo substância-aquosa-grande)
 
-pame va so pi ami
-(brisa está perto do lugar)
-```
-
-**Especificações:**
-
-```
-pamora = vendaval (vento-grande-movimento)
-pamura = tornado (vento-máximo-rotação)
-pamika = corrente de ar (vento-médio-primeira)
-pamaba = vento úmido (vento-mínimo-água)
-pamala = vento de terra (vento-mínimo-terra)
+Duplo: ba evi pabama — da va upabamu
+       (eu pego mar — ele é substância-aquosa-grande)
 ```
 
 ---
 
-### **PAP- (luz) — Dimensão: INTENSIDADE LUMINOSA**
+## 💡 Vantagens do Sistema
 
-```
-papa = penumbra, luz fraca (mínimo)
-pape = claridade suave (pequeno)
-papi = luz (médio/padrão)
-papo = luz forte, brilhante (grande)
-papu = luz ofuscante, radiante (máximo)
-```
+### **1. Dedutibilidade**
 
-**Exemplos de uso:**
+Aprenda padrões, não listas:
 
-```
-ba wa papi pi ami
-(eu quero luz no lugar)
+**Aprender:**
 
-da papu va pi pana
-(a radiância está no fogo)
+- pa- = origem
+- -ba = água
+- -ma = grande
 
-be ya papa te
-(você vê penumbra agora)
-```
+**Deduzir:**
 
-**Especificações:**
-
-```
-papola = luz solar intensa (luz-grande-tipo1)
-papuma = luz estelar (luz-máxima-tipo2)
-papika = raio de luz (luz-média-primeira)
-papina = luz do fogo (luz-média-fogo)
-papaba = reflexo na água (luz-mínimo-água)
-```
+- pabama = água grande = mar ✓
 
 ---
 
-### **PAS- (som) — Dimensão: VOLUME SONORO**
+### **2. Escalabilidade**
+
+Mesma palavra, múltiplos níveis:
 
 ```
-pasa = sussurro (mínimo)
-pase = som baixo (pequeno)
-pasi = som (médio/padrão)
-paso = som alto (grande)
-pasu = estrondo, trovão (máximo)
+paba = água (genérico, 2 sílabas)
+pabama = mar (específico, 3 sílabas)
+pabamaXX = oceano Atlântico (técnico, 4+ sílabas)
 ```
 
-**Exemplos de uso:**
-
-```
-ba eb pasa
-(eu pergunto sussurrando)
-
-da pasu va pi pamu
-(o trovão está no furacão)
-
-be ivi pasi
-(você faz som)
-```
-
-**Especificações:**
-
-```
-pasola = grito (som-grande-tipo1)
-pasuma = explosão sonora (som-máximo-tipo2)
-pasika = melodia (som-médio-primeira)
-pasara = som contínuo (som-mínimo-movimento)
-pasama = som do vento (som-mínimo-ar)
-```
+**Cresce conforme necessidade.**
 
 ---
 
-### **PAT- (tempo) — Dimensão: DURAÇÃO**
+### **3. Naturalidade**
 
-```
-pata = instante, momento fugaz (mínimo)
-pate = momento breve (pequeno)
-pati = momento, tempo (médio/padrão)
-pato = período longo (grande)
-patu = era, época (máximo)
-```
+Vogal quantiza **dimensão relevante** do conceito:
 
-**Exemplos de uso:**
+- Pedra → tamanho (areia/montanha)
+- Água → volume (gota/oceano)
+- Fogo → intensidade (brasa/incêndio)
 
-```
-ba ivi da pi pata
-(eu faço isso em instante)
-
-da patu va pi uni
-(a era está na estação/período)
-
-be wa pate
-(você quer momento-breve = espere um pouco)
-```
-
-**Especificações:**
-
-```
-patola = década (tempo-grande-tipo1)
-patoma = século (tempo-grande-tipo2)
-patuma = milênio (tempo-máximo-tipo2)
-patika = hora (tempo-médio-primeira)
-patara = fluxo temporal (tempo-mínimo-movimento)
-```
+**Cognitivamente natural.**
 
 ---
 
-### **PAV- (espaço/vácuo) — Dimensão: EXTENSÃO**
+### **4. Flexibilidade**
 
-```
-pava = ponto, espaço mínimo (mínimo)
-pave = pequeno espaço (pequeno)
-pavi = espaço (médio/padrão)
-pavo = grande extensão (grande)
-pavu = infinito espacial (máximo)
-```
+Abstrato e concreto coexistem:
 
-**Exemplos de uso:**
-
-```
-ba vi pavi pi maka
-(eu tenho espaço na casa)
-
-da pavu va pi umu
-(o infinito está no centro/núcleo)
-
-be ma ivi pave
-(você pode fazer pequeno-espaço = abrir um espaço)
-```
-
-**Especificações:**
-
-```
-pavola = sala ampla (espaço-grande-tipo1)
-pavoma = campo aberto (espaço-grande-tipo2)
-pavuma = cosmos (espaço-máximo-tipo2)
-pavika = nicho (espaço-médio-primeiro)
-pavaka = intervalo (espaço-mínimo-primeiro)
-```
+- **Concreto:** pabama (mar), pakama (montanha)
+- **Abstrato:** paga (vida/crescimento), paha (conexão)
+- **Híbrido:** Funciona como substantivo OU adjetivo
 
 ---
 
-### **PAG- (crescimento/vida) — Dimensão: ESTÁGIO DE DESENVOLVIMENTO**
+### **5. Zero Arbitrariedade**
 
-```
-paga = semente, início (mínimo)
-page = broto, germinação (pequeno)
-pagi = crescimento, desenvolvimento (médio/padrão)
-pago = maturidade avançada (grande)
-pagu = plenitude, auge (máximo)
-```
+**Tudo é sistemático:**
 
-**Exemplos de uso:**
+- Domínio define área conceitual
+- Subcategoria refina
+- Conceito base nomeia
+- Especificação detalha
+- Vogal final quantiza
 
-```
-da puke va pi pagi
-(a flor está em crescimento)
-
-epi va pi pagu
-(pessoas estão no auge)
-
-ba evi paga pi pali
-(eu pego semente no solo)
-```
-
-**Especificações:**
-
-```
-pagola = adolescência (crescimento-grande-tipo1)
-pagoma = idade adulta (crescimento-grande-tipo2)
-paguma = velhice (crescimento-máximo-tipo2)
-pagika = infância (crescimento-médio-primeira)
-pagara = evolução (crescimento-mínimo-movimento)
-```
+**Nada é memorizado arbitrariamente.**
 
 ---
 
-### **PAR- (movimento) — Dimensão: VELOCIDADE**
+## 🎓 Como Aprender
+
+### **Fase 1: Domínios (125 padrões)**
+
+Aprenda os 25 domínios × 5 subcategorias:
 
 ```
-para = movimento lento, arrastar (mínimo)
-pare = movimento suave (pequeno)
-pari = movimento (médio/padrão)
-paro = movimento rápido (grande)
-paru = movimento muito rápido, disparada (máximo)
+pa, pe, pi, po, pu (família P)
+ma, me, mi, mo, mu (família M)
+...
 ```
 
-**Exemplos de uso:**
-
-```
-da api va pi paro
-(a coisa está em movimento-rápido)
-
-ba ma ivi pari
-(eu posso fazer movimento-normal)
-
-be avi pi para
-(você vai em lento = você vai devagar)
-```
-
-**Especificações:**
-
-```
-parola = corrida (movimento-grande-tipo1)
-paruma = velocidade extrema (movimento-máximo-tipo2)
-parika = caminhada (movimento-médio-primeira)
-paraba = fluir (movimento-mínimo-água)
-parala = deslizar (movimento-mínimo-terra)
-```
+**Tempo:** 1-2 semanas
 
 ---
 
-### **PAF- (forma/aparência) — Dimensão: COMPLEXIDADE**
+### **Fase 2: Conceitos Comuns (500-1000 palavras)**
+
+Aprenda conceitos base frequentes:
 
 ```
-pafa = forma simples, básica (mínimo)
-pafe = forma moderada (pequeno)
-pafi = forma (médio/padrão)
-pafo = forma elaborada (grande)
-pafu = forma extremamente complexa (máximo)
+paba (água), paka (pedra), pana (fogo)
+maka (casa), make (edifício), mako (montanha)
+yaka (grão), yake (proteína), yaki (vegetal)
 ```
 
-**Exemplos de uso:**
-
-```
-da api va pi pafa
-(a coisa está em forma-simples)
-
-ba ivi pafi ňu paki
-(eu faço forma com pedra = esculpo)
-
-be ya pafo
-(você vê forma-elaborada)
-```
-
-**Especificações:**
-
-```
-pafola = design ornamentado (forma-grande-tipo1)
-pafuma = padrão fractal (forma-máxima-tipo2)
-pafika = geometria básica (forma-médio-primeira)
-pafaka = ponto/círculo (forma-mínimo-primeira)
-pafara = forma fluida (forma-mínimo-movimento)
-```
+**Tempo:** 2-3 meses
 
 ---
 
-### **PAH- (conexão) — Dimensão: FORÇA/INTENSIDADE**
+### **Fase 3: Quantização (padrão único)**
+
+Entenda que vogal final quantiza:
 
 ```
-paha = conexão tênue (mínimo)
-pahe = conexão fraca (pequeno)
-pahi = conexão (médio/padrão)
-paho = conexão forte (grande)
-pahu = conexão indissolúvel (máximo)
+-a = mínimo
+-i = médio  
+-u = máximo
 ```
 
-**Exemplos de uso:**
-
-```
-da epi va pi pahu
-(as pessoas estão em conexão-forte)
-
-ba ivi pahi la be
-(eu faço conexão e você = eu me conecto com você)
-
-da paha va rira
-(a conexão-tênue está ativa = existe levemente)
-```
-
-**Especificações:**
-
-```
-pahola = vínculo profundo (conexão-grande-tipo1)
-pahuma = união total (conexão-máxima-tipo2)
-pahika = amizade (conexão-médio-primeira)
-pahaka = conhecimento superficial (conexão-mínimo-primeira)
-pahara = rede (conexão-mínimo-movimento)
-```
+**Tempo:** 1 semana
 
 ---
 
-### **PAY- (sensação) — Dimensão: INTENSIDADE**
+### **Fase 4: Dedução (prática)**
 
-```
-paya = sensação fraca (mínimo)
-paye = sensação leve (pequeno)
-payi = sensação (médio/padrão)
-payo = sensação forte (grande)
-payu = sensação avassaladora (máximo)
-```
+Deduza palavras não vistas:
 
-**Exemplos de uso:**
+**Exemplo:**
 
-```
-ba iy payu
-(eu toco sensação-avassaladora = sinto intensamente)
+- Sabe: paba (água), -ma (grande)
+- Vê: pabama
+- Deduz: "água grande" = mar ✓
 
-da payi va pi opi
-(a sensação está no corpo)
-
-be ya paya
-(você vê sensação-fraca = você percebe levemente)
-```
-
-**Especificações:**
-
-```
-payola = prazer intenso (sensação-grande-tipo1)
-payoma = dor aguda (sensação-grande-tipo2)
-payuma = êxtase/agonia (sensação-máxima-tipo2)
-payika = toque (sensação-médio-primeira)
-payaba = sensação líquida (sensação-mínimo-água)
-```
+**Resultado:** Vocabulário infinito sem memorização
 
 ---
 
-## 📊 SUBCATEGORIA PA-E: Vital/Energetic Sources
+## 📊 Capacidade do Sistema
 
-**Conceito:** Fontes de energia vital, força de vida, energias ativas
+### **Por Nível:**
 
-### **25 Categorias Base:**
+**2 sílabas (genérico):**  
+125 domínios × 125 conceitos = **15,625 palavras**
 
-|Código|Conceito|Dimensão de Gradação|
+**3 sílabas (padrão):**  
+15,625 × 125 especificações = **1,953,125 palavras**
+
+**4 sílabas (específico):**  
+1,953,125 × 125 = **244,140,625 palavras**
+
+**5+ sílabas:** Ilimitado (nomenclatura científica)
+
+---
+
+### **Total Teórico:**
+
+**244+ milhões de palavras sistemáticas**
+
+**Na prática:**
+
+- Maioria usa 2-3 sílabas (99% dos casos)
+- 4+ sílabas para contextos técnicos/científicos
+- Sistema escala conforme necessidade
+
+---
+
+## 🔍 Clusters Especiais
+
+### **Sistema Posicional XYZ**
+
+**Estrutura:** i + Eixo + Gradação
+
+Posição espacial 3D relativa ao tópico:
+
+```
+i + X/Y/Z + a/e/i/o/u
+
+iXa = muito à esquerda
+iXi = centro horizontal
+iXu = muito à direita
+
+iYa = muito abaixo
+iYi = mesmo nível
+iYu = muito acima
+
+iZa = muito atrás
+iZi = mesma profundidade
+iZu = muito à frente
+```
+
+**Vantagem:** Referência relativa ao tópico, não egocêntrica
+
+---
+
+### **Sistema Numeral**
+
+**Estrutura:** é + S + vogal
+
+```
+ésa = 0 (zero)
+ése = 1 (um)
+ési = 2 (dois)
+éso = 3 (três)
+ésu = 4 (quatro)
+```
+
+**Marcador especial** para numerais
+
+---
+
+## ✅ Diferenças Chave vs Sistema Vetorial
+
+|Aspecto|Léxico Nominal|Sistema Vetorial|
 |---|---|---|
-|**pek-**|energia vital|intensidade|
-|**peb-**|respiração/sopro|força|
-|**pel-**|pulsação/batimento|frequência|
-|**pen-**|calor corporal|temperatura|
-|**pem-**|circulação|fluxo|
-|**pep-**|brilho vital|luminosidade|
-|**pes-**|voz/grito|volume|
-|**pet-**|ritmo vital|regularidade|
-|**pev-**|vigor/ímpeto|força|
-|**peg-**|regeneração|capacidade|
-|**per-**|reação/resposta|velocidade|
-|**pef-**|vitalidade aparente|visibilidade|
-|**peh-**|laço vital|força|
-|**pey-**|consciência sensorial|clareza|
-|**peš-**|resistência vital|duração|
-|**peř-**|identidade viva|distinção|
-|**peč-**|instinto|intensidade|
-|**pež-**|força vital|magnitude|
-|**peǰ-**|impulso vital|direteza|
-|**peñ-**|metabolismo|velocidade|
-|**pec-**|movimento vital|agilidade|
-|**pex-**|presença vital|manifestação|
-|**pez-**|vontade de viver|determinação|
-|**pew-**|emoção vital|intensidade|
-|**ped-**|substância viva|densidade|
+|**Início**|Consoante (CV+)|Vogal (VCV+)|
+|**Propósito**|Nomear objetos|Descrever ontologicamente|
+|**Granularidade**|Genérico → específico|Específico desde início|
+|**Quantização**|Dimensão natural do conceito|Intensidade ontológica abstrata|
+|**Uso**|Conversacional, prático|Técnico, científico|
+|**Exemplo**|pabama (mar)|upabamu (substância-aquosa-grande)|
+
+**Complementares, não competitivos.**
 
 ---
 
-### **Exemplos PEK- (energia vital):**
+## 🚀 Status de Desenvolvimento
 
-```
-peka = energia fraca, letargia (mínimo)
-peke = energia baixa (pequeno)
-peki = energia vital (médio/padrão)
-peko = energia alta, vitalidade (grande)
-peku = energia máxima, exuberância (máximo)
-```
+### **Completo:**
 
-**Uso:**
+✅ Estrutura de camadas (1-5+)  
+✅ 25 domínios ontológicos definidos  
+✅ Sistema de quantização por vogal  
+✅ Princípio de profundidade progressiva  
+✅ Clusters especiais (XYZ, numerais)
 
-```
-ba vi peko te
-(eu tenho energia-alta agora)
+### **Em Desenvolvimento:**
 
-da epi va pi peka
-(a pessoa está em energia-fraca = está letárgica)
+🔄 Domínio PA (Origin) — 80% completo  
+🔄 Subcategorias detalhadas por domínio  
+🔄 Vocabulário comum (500-1000 palavras)
 
-be ma ivi peku
-(você pode fazer energia-máxima = você pode se energizar ao máximo)
-```
+### **Planejado:**
 
----
-
-### **Exemplos PEB- (respiração/sopro):**
-
-```
-peba = respiração superficial (mínimo)
-pebe = respiração leve (pequeno)
-pebi = respiração (médio/padrão)
-pebo = respiração profunda (grande)
-pebu = respiração máxima, ofegante (máximo)
-```
-
-**Uso:**
-
-```
-ba ivi pebi
-(eu faço respiração = eu respiro)
-
-da epi va pi pebu
-(a pessoa está em respiração-máxima = ofegante)
-
-be ma evi pebo
-(você pode pegar respiração-profunda = respirar fundo)
-```
+📋 Domínios PU (Objects), MA (Places), YA (Foods)  
+📋 Validação com learners (5-10 pessoas)  
+📋 Exercícios de dedução  
+📋 Materiais de aprendizado
 
 ---
 
-## 📊 SUBCATEGORIA PA-I: Complex/Structural Sources
+## 📚 Recursos Adicionais
 
-**Conceito:** Origens estruturais, fontes de complexidade, padrões organizacionais
+**Ver também:**
 
-### **25 Categorias Base:**
-
-|Código|Conceito|Dimensão de Gradação|
-|---|---|---|
-|**pik-**|estrutura básica|complexidade|
-|**pib-**|código/informação|densidade|
-|**pil-**|camada/nível|profundidade|
-|**pin-**|rede/teia|conectividade|
-|**pim-**|matriz/grade|ordem|
-|**pip-**|padrão visual|complexidade|
-|**pis-**|harmonia/ressonância|intensidade|
-|**pit-**|ciclo estrutural|complexidade|
-|**piv-**|mecanismo|sofisticação|
-|**pig-**|sistema recursivo|profundidade|
-|**pir-**|equilíbrio|estabilidade|
-|**pif-**|simetria|perfeição|
-|**pih-**|hierarquia|níveis|
-|**piy-**|percepção de padrão|clareza|
-|**piš-**|delimitação estrutural|definição|
-|**piř-**|assinatura única|distinção|
-|**pič-**|lógica interna|coerência|
-|**piž-**|magnitude estrutural|escala|
-|**piǰ-**|princípio causal|fundamentalidade|
-|**piñ-**|configuração|arranjo|
-|**pic-**|fluxo organizado|ordem|
-|**pix-**|realidade estrutural|solidez|
-|**piz-**|design intencional|propositalidade|
-|**piw-**|harmonia emocional|equilíbrio|
-|**pid-**|densidade estrutural|compactação|
+- [Filosofia do Projeto](https://claude.ai/docs/01-philosophy.md)
+- [Sistema Vetorial](https://claude.ai/docs/05-vector-system.md)
+- [Vocabulário VCV](https://claude.ai/docs/04-vocabulary.md)
+- [Roadmap](https://claude.ai/news/roadmap.md)
 
 ---
 
-### **Exemplos PIK- (estrutura básica):**
+## 💬 Princípio Central
 
-```
-pika = estrutura mínima (mínimo)
-pike = estrutura simples (pequeno)
-piki = estrutura (médio/padrão)
-piko = estrutura elaborada (grande)
-piku = estrutura altamente complexa (máximo)
-```
+> "Adicione sílabas para adicionar especificidade. Pare quando tiver detalhes suficientes."
 
-**Uso:**
+**De 2 sílabas (genérico) a 5+ sílabas (científico) — você escolhe a profundidade.**
 
-```
-da maka va pi piki
-(a casa está em estrutura-padrão)
-
-ba ivi piko ňu paki
-(eu faço estrutura-elaborada com pedra)
-
-da piku va rira pi api
-(a estrutura-complexa está ativa na coisa)
-```
+**244 milhões de palavras sistemáticas. Zero arbitrariedade. Dedução total.**
 
 ---
 
-## 📊 SUBCATEGORIA PA-O: Functional Sources
-
-**Conceito:** Fontes funcionais, origens de propósito, mecanismos de ação
-
-### **25 Categorias Base:**
-
-|Código|Conceito|Dimensão de Gradação|
-|---|---|---|
-|**pok-**|função primária|eficiência|
-|**pob-**|comunicação funcional|clareza|
-|**pol-**|utilidade|praticidade|
-|**pon-**|timing funcional|precisão|
-|**pom-**|capacidade espacial|amplitude|
-|**pop-**|iluminação funcional|eficácia|
-|**pos-**|sinalização|clareza|
-|**pot-**|operação temporal|regularidade|
-|**pov-**|ativação|prontidão|
-|**pog-**|ciclo operacional|consistência|
-|**por-**|estado operacional|estabilidade|
-|**pof-**|qualidade funcional|excelência|
-|**poh-**|integração|harmonia|
-|**poy-**|feedback sensorial|responsividade|
-|**poš-**|limite operacional|tolerância|
-|**poř-**|identidade funcional|especificidade|
-|**poč-**|inteligência operacional|adaptabilidade|
-|**pož-**|potência|magnitude|
-|**poǰ-**|propósito causal|direteza|
-|**poñ-**|modo operacional|eficiência|
-|**poc-**|mobilidade funcional|agilidade|
-|**pox-**|realização|concretude|
-|**poz-**|direcionamento|precisão|
-|**pow-**|resposta emocional|sensibilidade|
-|**pod-**|robustez|solidez|
-
----
-
-### **Exemplos POK- (função primária):**
-
-```
-poka = função básica (mínimo)
-poke = função simples (pequeno)
-poki = função (médio/padrão)
-poko = função avançada (grande)
-poku = função altamente especializada (máximo)
-```
-
-**Uso:**
-
-```
-da api va pi poki
-(a coisa está em função-padrão = funciona normalmente)
-
-ba ivi poku ňu da
-(eu faço função-especializada com isso)
-
-be ma evi poke
-(você pode pegar função-simples = usar de forma básica)
-```
-
----
-
-## 📊 SUBCATEGORIA PA-U: Taxonomic/Classified Objects
-
-**Conceito:** Objetos inanimados, coisas classificáveis, taxonomia material
-
-**NOTA:** Este domínio (PU) pode ser desenvolvido separadamente como foco em objetos concretos.
-
-### **25 Categorias Base:**
-
-|Código|Conceito|Dimensão de Gradação|
-|---|---|---|
-|**puk-**|pedra/objeto mineral|tamanho|
-|**pub-**|objeto de comunicação|complexidade|
-|**pul-**|ferramenta de corte|tamanho/poder|
-|**pun-**|objeto temporal|duração|
-|**pum-**|recipiente|capacidade|
-|**pup-**|objeto luminoso|intensidade|
-|**pus-**|objeto sonoro|volume|
-|**put-**|objeto em mudança|velocidade|
-|**puv-**|objeto móvel|mobilidade|
-|**pug-**|objeto cíclico|frequência|
-|**pur-**|objeto em estado|permanência|
-|**puf-**|objeto valorizado|qualidade|
-|**puh-**|objeto conectivo|função|
-|**puy-**|objeto sensorial|sensibilidade|
-|**puš-**|objeto delimitador|rigidez|
-|**puř-**|objeto identificável|distintividade|
-|**puč-**|objeto cognitivo|complexidade|
-|**puž-**|objeto de magnitude|escala|
-|**puǰ-**|objeto causal|eficácia|
-|**puñ-**|objeto configurável|versatilidade|
-|**puc-**|objeto móvel/veículo|velocidade|
-|**pux-**|objeto real|tangibilidade|
-|**puz-**|objeto intencional|propositalidade|
-|**puw-**|objeto afetivo|valor emocional|
-|**pud-**|objeto denso|peso|
-
----
-
-### **Exemplos PUK- (pedra/objeto mineral):**
-
-```
-puka = grão mineral (mínimo)
-puke = pedrinha (pequeno)
-puki = pedra objeto (médio/padrão)
-puko = rocha objeto (grande)
-puku = formação mineral (máximo)
-```
-
-**Uso:**
-
-```
-ba evi puki pi ami
-(eu pego pedra-objeto no lugar)
-
-da puku va so
-(a formação-mineral está perto)
-
-be ma ivi puke
-(você pode fazer pedrinha = usar pedras pequenas)
-```
-
----
-
-## 📊 RESUMO DO DOMÍNIO PA COMPLETO
-
-### **Estrutura Total:**
-
-**5 Subcategorias × 25 Categorias cada = 125 categorias no domínio PA**
-
-**PA-A** (pa-) — Natural Primary Sources — 25 categorias ✅ Detalhado  
-**PA-E** (pe-) — Vital/Energetic Sources — 25 categorias ✅ Framework  
-**PA-I** (pi-) — Complex/Structural Sources — 25 categorias ✅ Framework  
-**PA-O** (po-) — Functional Sources — 25 categorias ✅ Framework  
-**PA-U** (pu-) — Taxonomic/Classified Objects — 25 categorias ✅ Framework
-
----
-
-### **Capacidade de Palavras:**
-
-**Genéricas (CV+CV):** 125 termos  
-**Padrão (CV+CV+CV):** 125 × 25 = 3,125 termos  
-**Específicas (CV⁴):** 125 × 25 × 25 = 78,125 termos
-
-**Total no domínio PA: ~81,375 palavras sistemáticas possíveis**
-
----
-
-## ✅ PRÓXIMO PASSO
-
-**Domínio PA está estruturalmente completo!**
-
-**Agora você quer:**
-
-1. **Desenvolver mais detalhes** de PA-E, PA-I, PA-O, PA-U (como fiz com PA-A)?
-2. **Criar exercícios de teste** para validar PA-A com learners?
-3. **Desenvolver outro domínio** (PU, MA, ou outro) para comparar?
-4. **Fazer comparação tripla** — mostrar como um conceito aparece em VCV, Nominal e Vetorial?
-
-**O que prefere?** 🎯
+**Versão:** 0.5.0-dev  
+**Última Atualização:** 2026-03-12  
+**Status:** Em Desenvolvimento Ativo  
+**Licença:** CC0 1.0 Universal (Domínio Público)

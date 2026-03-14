@@ -68,33 +68,33 @@ The inventory includes:
 
 ### **25 Consonants (IPA)**
 
-|#|IPA|Letter|Manner|Place|Voice|Frequency|Examples|
-|---|---|---|---|---|---|---|---|
-|1|/p/|**p**|Plosive|Bilabial|Voiceless|90%|**p**ai (pt), **p**apa (es), **p**an (en)|
-|2|/b/|**b**|Plosive|Bilabial|Voiced|85%|**b**ola (pt), **b**all (en), **b**ā (hi)|
-|3|/t/|**t**|Plosive|Alveolar|Voiceless|90%|**t**u (pt), **t**ea (en), **t**ā (hi)|
-|4|/d/|**d**|Plosive|Alveolar|Voiced|85%|**d**edo (pt), **d**ay (en), **d**ā (hi)|
-|5|/k/|**k**|Plosive|Velar|Voiceless|90%|**c**asa (es), **k**ey (en), **k**ā (hi)|
-|6|/g/|**g**|Plosive|Velar|Voiced|80%|**g**ato (es), **g**o (en), **g**ā (hi)|
-|7|/m/|**m**|Nasal|Bilabial|Voiced|95%|**m**ãe (pt), **m**other (en), **m**ama (universal)|
-|8|/n/|**n**|Nasal|Alveolar|Voiced|95%|**n**ão (pt), **n**o (en), **n**ein (de)|
-|9|/ɲ/|**ñ**|Nasal|Palatal|Voiced|40%|ni**nh**o (pt), ca**ñ**a (es), gno**gn**o (it)|
-|10|/ŋ/|**ň**|Nasal|Velar|Voiced|50%|si**ng** (en), ba**nc**o (pt), wá**ng** (zh)|
-|11|/f/|**f**|Fricative|Labiodental|Voiceless|60%|**f**ogo (pt), **f**ire (en), **f**ā (hi)|
-|12|/v/|**v**|Fricative|Labiodental|Voiced|55%|**v**aca (pt), **v**ery (en), **w**asser (de)|
-|13|/s/|**s**|Fricative|Alveolar|Voiceless|85%|**s**ol (pt), **s**un (en), **s**ī (hi)|
-|14|/z/|**z**|Fricative|Alveolar|Voiced|55%|**z**ero (pt), **z**oo (en), **s**aison (fr)|
-|15|/ʃ/|**š**|Fricative|Postalveolar|Voiceless|65%|**ch**uveiro (pt), **sh**oe (en), **sh**ī (zh)|
-|16|/ʒ/|**ž**|Fricative|Postalveolar|Voiced|40%|**j**ardim (pt), plea**s**ure (en), **j**e (fr)|
-|17|/x/|**x**|Fricative|Velar|Voiceless|35%|**j**amón (es), Ba**ch** (de), خ (ar)|
-|18|/h/|**h**|Fricative|Glottal|Voiceless|70%|**h**ouse (en), **j**amón (es), ハ (ja)|
-|19|/tʃ/|**č**|Affricate|Postalveolar|Voiceless|50%|**ch**ave (pt), **ch**air (en), 茶 **ch**á (zh)|
-|20|/dʒ/|**ǰ**|Affricate|Postalveolar|Voiced|45%|**j**ump (en), **g**iorno (it), جـ (ar)|
-|21|/ts/|**c**|Affricate|Alveolar|Voiceless|30%|pi**zz**a (it), **ts**unami (ja), **Z**eit (de)|
-|22|/l/|**l**|Lateral|Alveolar|Voiced|80%|**l**ua (pt), **l**ight (en), **l**ā (hi)|
-|23|/r/|**r**|Rhotic|Alveolar|Voiced|80%|**r**ato (pt), **r**ed (en), ラ (ja)|
-|24|/w/|**w**|Approximant|Labial-velar|Voiced|75%|**w**ater (en), **u**ísque (pt)|
-|25|/j/|**y**|Approximant|Palatal|Voiced|75%|**y**es (en), **i**ogurte (pt)|
+| #   | IPA  | Letter | Manner      | Place        | Voice     | Frequency | Examples                                            |
+| --- | ---- | ------ | ----------- | ------------ | --------- | --------- | --------------------------------------------------- |
+| 1   | /p/  | **p**  | Plosive     | Bilabial     | Voiceless | 90%       | **p**ai (pt), **p**apa (es), **p**an (en)           |
+| 2   | /b/  | **b**  | Plosive     | Bilabial     | Voiced    | 85%       | **b**ola (pt), **b**all (en), **b**ā (hi)           |
+| 3   | /t/  | **t**  | Plosive     | Alveolar     | Voiceless | 90%       | **t**u (pt), **t**ea (en), **t**ā (hi)              |
+| 4   | /d/  | **d**  | Plosive     | Alveolar     | Voiced    | 85%       | **d**edo (pt), **d**ay (en), **d**ā (hi)            |
+| 5   | /k/  | **k**  | Plosive     | Velar        | Voiceless | 90%       | **c**asa (es), **k**ey (en), **k**ā (hi)            |
+| 6   | /g/  | **g**  | Plosive     | Velar        | Voiced    | 80%       | **g**ato (es), **g**o (en), **g**ā (hi)             |
+| 7   | /m/  | **m**  | Nasal       | Bilabial     | Voiced    | 95%       | **m**ãe (pt), **m**other (en), **m**ama (universal) |
+| 8   | /n/  | **n**  | Nasal       | Alveolar     | Voiced    | 95%       | **n**ão (pt), **n**o (en), **n**ein (de)            |
+| 9   | /ɲ/  | **ñ**  | Nasal       | Palatal      | Voiced    | 40%       | ni**nh**o (pt), ca**ñ**a (es), gno**gn**o (it)      |
+| 10  | /ŋ/  | **ň**  | Nasal       | Velar        | Voiced    | 50%       | si**ng** (en), ba**nc**o (pt), wá**ng** (zh)        |
+| 11  | /f/  | **f**  | Fricative   | Labiodental  | Voiceless | 60%       | **f**ogo (pt), **f**ire (en), **f**ā (hi)           |
+| 12  | /v/  | **v**  | Fricative   | Labiodental  | Voiced    | 55%       | **v**aca (pt), **v**ery (en), **w**asser (de)       |
+| 13  | /s/  | **s**  | Fricative   | Alveolar     | Voiceless | 85%       | **s**ol (pt), **s**un (en), **s**ī (hi)             |
+| 14  | /z/  | **z**  | Fricative   | Alveolar     | Voiced    | 55%       | **z**ero (pt), **z**oo (en), **s**aison (fr)        |
+| 15  | /ʃ/  | **š**  | Fricative   | Postalveolar | Voiceless | 65%       | **ch**uveiro (pt), **sh**oe (en), **sh**ī (zh)      |
+| 16  | /ʒ/  | **ž**  | Fricative   | Postalveolar | Voiced    | 40%       | **j**ardim (pt), plea**s**ure (en), **j**e (fr)     |
+| 17  | /x/  | **x**  | Fricative   | Velar        | Voiceless | 35%       | **j**amón (es), Ba**ch** (de), خ (ar)               |
+| 18  | /h/  | **h**  | Fricative   | Glottal      | Voiceless | 70%       | **h**ouse (en), **j**amón (es), ハ (ja)              |
+| 19  | /tʃ/ | **č**  | Affricate   | Postalveolar | Voiceless | 50%       | **ch**ave (pt), **ch**air (en), 茶 **ch**á (zh)      |
+| 20  | /dʒ/ | **ǰ**  | Affricate   | Postalveolar | Voiced    | 45%       | **j**ump (en), **g**iorno (it), جـ (ar)             |
+| 21  | /ts/ | **c**  | Affricate   | Alveolar     | Voiceless | 30%       | pi**zz**a (it), **ts**unami (ja), **Z**eit (de)     |
+| 22  | /l/  | **l**  | Lateral     | Alveolar     | Voiced    | 80%       | **l**ua (pt), **l**ight (en), **l**ā (hi)           |
+| 23  | /r/  | **r**  | Rhotic      | Alveolar     | Voiced    | 80%       | **r**ato (pt), **r**ed (en), ラ (ja)                 |
+| 24  | /w/  | **w**  | Approximant | Labial-velar | Voiced    | 75%       | **w**ater (en), **u**ísque (pt)                     |
+| 25  | /j/  | **y**  | Approximant | Palatal      | Voiced    | 75%       | **y**es (en), **i**ogurte (pt)                      |
 
 ---
 

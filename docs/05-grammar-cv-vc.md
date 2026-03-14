@@ -174,30 +174,6 @@
 |**up**|without, abessive|Mirror of `pu`|
 
 ---
-
-## 📋 FAMÍLIA N: NUMBER/QUANTITY
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**na**|one, singular|
-|**ne**|two, pair|
-|**ni**|some, several, indefinite quantity|
-|**no**|many, multiple|
-|**nu**|all, every, totality|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**an**|none, zero|Mirror of `nu`|
-|**en**|both (specifically two)|Extension of `ne`|
-|**in**|few, small quantity|Extension of `ni`|
-|**on**|most, majority|Extension of `no`|
-|**un**|each, every one (distributive)|Extension of `nu`|
-
----
 ## 📋 FAMÍLIA N: QUANTITY
 
 ### **CV System**
@@ -684,4 +660,3 @@
 
 ---
 
-**Pronta para aprovação?** 🚀
