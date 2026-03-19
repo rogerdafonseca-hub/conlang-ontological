@@ -1027,7 +1027,7 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 **Arquivo:** `01-grammar-cv-vc.md`  
 **Versão:** 0.6.0  
-**Status:** ✅ Completo (20 consoantes + 2 ECs + 3 slots em aberto)
+**Status:** ✅ Completo (20 consoantes + 7 ECs + 3 slots em aberto)
 
 ---
 

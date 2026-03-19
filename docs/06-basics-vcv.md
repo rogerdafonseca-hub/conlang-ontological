@@ -1,48 +1,85 @@
-# 📘 GRAMÁTICA EXPANDIDA VCV
+# 📘 EXPANDED GRAMMAR VCV
 
-**Sistema de Partículas com Gradação Vocálica**
+**Vowel-Consonant-Vowel Particle System with Systematic Gradation**
 
-_Versão 0.6.0 — Reestruturação Completa_
-
----
-
-## 🎯 Visão Geral
-
-O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs definidos em **625 partículas gramaticais nuanceadas** através de gradação vocálica sistemática.
-
-**Estrutura:**
-
-- **20 Consoantes Base:** 20 × 25 = 500 partículas VCV
-- **5 ECs Definidos:** 5 × 25 = 125 partículas VCV
-- **Total Atual:** 625 partículas expandidas
+_Version 0.6.0 — Complete Restructuring_
 
 ---
 
-## 📐 Princípio de Gradação
+## 🎯 Overview
 
-**A vogal inicial marca intensidade/grau/polaridade:**
+The VCV (Vowel-Consonant-Vowel) system expands the 20 base consonants + 7 defined ECs into **675 nuanced grammatical particles** through systematic vowel gradation.
 
-|Vogal|Significado|Escala|
+**Structure:**
+
+- **20 Base Consonants:** 20 × 25 = 500 VCV particles
+- **7 Defined ECs:** 7 × 25 = 175 VCV particles
+- **Current Total:** 675 expanded particles
+
+---
+
+## 📐 Gradation Principle
+
+**The initial vowel marks intensity/degree/polarity:**
+
+|Vowel|Meaning|Scale|
 |---|---|---|
-|**a**|Mínimo/Negativo/Ausente|←|
-|**e**|Fraco/Baixo|←←|
-|**i**|Neutro/Médio|●●|
-|**o**|Forte/Alto|→→|
-|**u**|Máximo/Positivo/Extremo|→|
+|**a**|Minimum/Negative/Absent|←|
+|**e**|Weak/Low|←←|
+|**i**|Neutral/Medium|●●|
+|**o**|Strong/High|→→|
+|**u**|Maximum/Positive/Extreme|→|
 
-**Exceção:** Família W (Emotion) tem gradação invertida (a=positivo, u=negativo)
+**Exceptions:**
+
+- **Family W (Emotion)** has inverted gradation (a=positive, u=negative)
+- **Families X, Y, Z (Spatial)** have inverted gradation (a=maximum, u=minimum)
 
 ---
 
-## 📋 FAMÍLIA B — Pronouns & Reference
+## 🌐 The 27 VCV Families
 
-**Função:** Expansão pronominal e referencial
+|#|Family|Function|
+|---|---|---|
+|1|**B**|Pronouns & Reference Expanded|
+|2|**M**|Modal Expanded|
+|3|**T**|Tense Expanded|
+|4|**K**|Question Expanded|
+|5|**P**|Preposition Expanded|
+|6|**N**|Quantity Expanded|
+|7|**D**|Demonstrative Expanded|
+|8|**L**|Conjunction Expanded|
+|9|**X**|Spatial (X-Axis Coordinate)|
+|10|**V**|Action/Verbal Expanded|
+|11|**G**|Aspect Expanded|
+|12|**R**|State/Condition Expanded|
+|13|**F**|Comparison Expanded|
+|14|**H**|Relation Expanded|
+|15|**S**|Boundary/Limit Expanded|
+|16|**Y**|Spatial (Y-Axis Coordinate)|
+|17|**J̌**|Causality/Agency Expanded|
+|18|**W**|Emotion/Affect Expanded|
+|19|**Z**|Spatial (Z-Axis Coordinate)|
+|20|**Ľ**|Evidentiality Expanded|
+|21|**PR**|Manner/Mode (EC)|
+|22|**BR**|Perception/Sensory (EC)|
+|23|**TR**|Movement/Direction (EC)|
+|24|**DR**|Existence/Reality (EC)|
+|25|**KR**|Possession/Belonging (EC)|
+|26|**GR**|Intensity/Degree (EC)|
+|27|**PL**|Intention/Volition (EC)|
+
+---
+
+## 📋 FAMILY B — Pronouns & Reference
+
+**Function:** Pronominal and referential expansion
 
 ---
 
 ### **AB- Series — Reflexive Emphasis**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**aba**|barely self, weakly reflexive|reflexive-weak|
 |**abe**|somewhat self|reflexive-moderate|
@@ -54,7 +91,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EB- Series — Reciprocal Relations**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eba**|barely each other, weak reciprocity|reciprocal-weak|
 |**ebe**|somewhat each other|reciprocal-moderate|
@@ -66,7 +103,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IB- Series — Anaphoric Reference**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iba**|vaguely that, unclear reference|anaphoric-vague|
 |**ibe**|that mentioned, previously stated|anaphoric-previous|
@@ -78,7 +115,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OB- Series — Inclusive/Exclusive**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**oba**|barely including, minimal inclusion|inclusive-minimal|
 |**obe**|somewhat including|inclusive-partial|
@@ -90,7 +127,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UB- Series — Generic Reference**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uba**|rarely anyone, hardly anyone|generic-rare|
 |**ube**|someone, anyone|generic-indefinite|
@@ -100,15 +137,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA M — Modal
+## 📋 FAMILY M — Modal
 
-**Função:** Modalidade expandida com nuances de possibilidade, necessidade e permissão
+**Function:** Expanded modality with nuances of possibility, necessity, and permission
 
 ---
 
 ### **AM- Series — Ability/Capability**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ama**|completely unable, impossible|ability-none|
 |**ame**|barely able, difficult|ability-low|
@@ -120,7 +157,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EM- Series — Permission/Allowance**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ema**|strictly forbidden|permission-forbidden|
 |**eme**|discouraged, not recommended|permission-discouraged|
@@ -132,7 +169,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IM- Series — Possibility/Likelihood**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ima**|impossible, cannot be|possibility-impossible|
 |**ime**|unlikely, improbable|possibility-unlikely|
@@ -144,7 +181,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OM- Series — Necessity/Obligation**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**oma**|unnecessary, no need|necessity-none|
 |**ome**|optional, not required|necessity-optional|
@@ -156,7 +193,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UM- Series — Willingness/Volition**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uma**|unwilling, refuse to|volition-unwilling|
 |**ume**|reluctant, hesitant|volition-reluctant|
@@ -166,15 +203,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA T — Tense
+## 📋 FAMILY T — Tense
 
-**Função:** Tempo expandido com nuances de distância temporal e duratividade
+**Function:** Expanded time with nuances of temporal distance and durativity
 
 ---
 
 ### **AT- Series — Past Time Distance**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ata**|just now, moments ago|past-immediate|
 |**ate**|recently, short time ago|past-recent|
@@ -186,7 +223,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **ET- Series — Present Time Aspect**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eta**|barely now, edge of present|present-edge|
 |**ete**|currently, at this moment|present-current|
@@ -198,7 +235,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IT- Series — Future Time Distance**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ita**|very soon, imminent|future-immediate|
 |**ite**|soon, near future|future-near|
@@ -210,7 +247,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OT- Series — Perfect/Completed**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ota**|barely completed, just finished|perfect-minimal|
 |**ote**|recently completed|perfect-recent|
@@ -222,7 +259,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UT- Series — Duration/Continuity**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uta**|momentary, instant|duration-instant|
 |**ute**|brief, short duration|duration-brief|
@@ -231,15 +268,16 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 |**utu**|permanent, eternal|duration-permanent|
 
 ---
-## 📋 FAMÍLIA K — Question
 
-**Função:** Interrogativos expandidos com nuances de certeza, retórica e especificidade
+## 📋 FAMILY K — Question
+
+**Function:** Expanded interrogatives with nuances of certainty, rhetoric, and specificity
 
 ---
 
 ### **AK- Series — What/Thing Questions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**aka**|what thing? anything?|what-indefinite|
 |**ake**|what sort of thing?|what-type|
@@ -251,7 +289,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EK- Series — Who/Person Questions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eka**|who? anyone?|who-indefinite|
 |**eke**|who among? which person?|who-selective|
@@ -263,7 +301,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IK- Series — Where/Location Questions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ika**|where? anywhere?|where-indefinite|
 |**ike**|whereabouts? around where?|where-approximate|
@@ -275,19 +313,19 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OK- Series — When/Time Questions**
 
-|VCV|Significado|Categoria|
-|---|---|---|
-|**oka**|when? anytime?|when-indefinite|
-|**oke**|around when?|when-approximate|
-|**oki**|when? at what time?|when-normal|
-|**oko**|when exactly?|when-specific|
-|**oku**|when precisely? at what exact moment?|when-emphatic|
+| VCV     | Meaning                               | Category         |
+| ------- | ------------------------------------- | ---------------- |
+| **oka** | when? anytime?                        | when-indefinite  |
+| **oke** | around when?                          | when-approximate |
+| **oki** | when? at what time?                   | when-normal      |
+| **oko** | when exactly?                         | when-specific    |
+| **oku** | when precisely? at what exact moment? | when-emphatic    |
 
 ---
 
 ### **UK- Series — Why/How Questions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uka**|why? for any reason?|why-indefinite|
 |**uke**|for what reason?|why-reason|
@@ -297,15 +335,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA P — Preposition
+## 📋 FAMILY P — Preposition
 
-**Função:** Preposições expandidas com nuances espaciais e abstratas
+**Function:** Expanded prepositions with spatial and abstract nuances
 
 ---
 
 ### **AP- Series — Direction/Goal**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**apa**|vaguely toward|direction-vague|
 |**ape**|generally toward|direction-general|
@@ -317,7 +355,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EP- Series — Path/Medium**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**epa**|barely through, grazing|path-minimal|
 |**epe**|somewhat through|path-partial|
@@ -329,7 +367,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IP- Series — Location/Position**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ipa**|barely at, edge of|location-edge|
 |**ipe**|near, around|location-near|
@@ -341,7 +379,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OP- Series — Source/Origin**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**opa**|vaguely from|source-vague|
 |**ope**|generally from|source-general|
@@ -353,7 +391,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UP- Series — Association/Accompaniment**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**upa**|barely with, loosely associated|association-loose|
 |**upe**|somewhat with|association-partial|
@@ -363,15 +401,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA N — Quantity
+## 📋 FAMILY N — Quantity
 
-**Função:** Quantidade expandida e negação nuanceada
+**Function:** Expanded quantity and nuanced negation
 
 ---
 
 ### **AN- Series — Negation Strength**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ana**|barely not, almost|negation-minimal|
 |**ane**|somewhat not, partially|negation-partial|
@@ -383,7 +421,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EN- Series — Affirmation Strength**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ena**|barely yes, weakly|affirmation-weak|
 |**ene**|somewhat yes|affirmation-moderate|
@@ -395,7 +433,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IN- Series — Quantity Gradation**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ina**|none, zero|quantity-none|
 |**ine**|few, little|quantity-few|
@@ -407,7 +445,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **ON- Series — Proportion**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ona**|almost none, negligible portion|proportion-minimal|
 |**one**|small portion, minority|proportion-small|
@@ -419,7 +457,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UN- Series — Totality/Completeness**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**una**|barely any, fragment|totality-fragment|
 |**une**|partial, incomplete|totality-partial|
@@ -429,81 +467,81 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA D — Demonstrative
+## 📋 FAMILY D — Demonstrative
 
-**Função:** Demonstrativos expandidos com distância e especificidade
+**Function:** Expanded demonstratives with distance and specificity
 
 ---
 
-### **AD- Series — Proximal (Near Speaker)**
+### **AD- Series — Identity/Sameness**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**ada**|barely this, edge of here|proximal-edge|
-|**ade**|around here, this area|proximal-area|
-|**adi**|this, here|proximal-normal|
-|**ado**|right here, this very one|proximal-exact|
-|**adu**|exactly this, this and only this|proximal-exclusive|
+|**ada**|barely the same, similar|identity-similar|
+|**ade**|mostly the same|identity-mostly|
+|**adi**|the same, identical|identity-same|
+|**ado**|exactly the same|identity-exact|
+|**adu**|the very same, absolutely identical|identity-absolute|
 
 ---
 
-### **ED- Series — Medial (Near Listener)**
+### **ED- Series — Manner/Quality**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eda**|barely that, edge of there|medial-edge|
-|**ede**|around there, that area|medial-area|
-|**edi**|that, there|medial-normal|
-|**edo**|right there, that very one|medial-exact|
-|**edu**|exactly that, that and only that|medial-exclusive|
+|**eda**|barely such, hardly like this|manner-minimal|
+|**ede**|somewhat such, kind of like this|manner-partial|
+|**edi**|such, like this|manner-normal|
+|**edo**|very such, strongly like this|manner-strong|
+|**edu**|exactly such, precisely like this|manner-exact|
 
 ---
 
-### **ID- Series — Distal (Far from Both)**
+### **ID- Series — Proximal (Near Speaker)**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**ida**|vaguely over there|distal-vague|
-|**ide**|somewhere over there|distal-general|
-|**idi**|that over there, yonder|distal-normal|
-|**ido**|that far one, distant|distal-far|
-|**idu**|that very distant one|distal-extreme|
+|**ida**|barely this, edge of here|proximal-edge|
+|**ide**|around here, this area|proximal-area|
+|**idi**|this, here|proximal-normal|
+|**ido**|right here, this very one|proximal-exact|
+|**idu**|exactly this, this and only this|proximal-exclusive|
 
 ---
 
-### **OD- Series — Identity/Sameness**
+### **OD- Series — Medial (Near Listener)**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oda**|barely the same, similar|identity-similar|
-|**ode**|mostly the same|identity-mostly|
-|**odi**|the same, identical|identity-same|
-|**odo**|exactly the same|identity-exact|
-|**odu**|the very same, absolutely identical|identity-absolute|
+|**oda**|barely that, edge of there|medial-edge|
+|**ode**|around there, that area|medial-area|
+|**odi**|that, there|medial-normal|
+|**odo**|right there, that very one|medial-exact|
+|**odu**|exactly that, that and only that|medial-exclusive|
 
 ---
 
-### **UD- Series — Manner/Quality**
+### **UD- Series — Distal (Far from Both)**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uda**|barely such, hardly like this|manner-minimal|
-|**ude**|somewhat such, kind of like this|manner-partial|
-|**udi**|such, like this|manner-normal|
-|**udo**|very such, strongly like this|manner-strong|
-|**udu**|exactly such, precisely like this|manner-exact|
+|**uda**|vaguely over there|distal-vague|
+|**ude**|somewhere over there|distal-general|
+|**udi**|that over there, yonder|distal-normal|
+|**udo**|that far one, distant|distal-far|
+|**udu**|that very distant one|distal-extreme|
 
 ---
 
-## 📋 FAMÍLIA L — Conjunction
+## 📋 FAMILY L — Conjunction
 
-**Função:** Conectivos lógicos expandidos com nuances condicionais e causais
+**Function:** Expanded logical connectors with conditional and causal nuances
 
 ---
 
 ### **AL- Series — Addition/Conjunction**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ala**|barely and, weak connection|conjunction-weak|
 |**ale**|and also, plus|conjunction-additive|
@@ -515,7 +553,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EL- Series — Disjunction/Alternative**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ela**|maybe or, weak alternative|disjunction-weak|
 |**ele**|or, alternatively|disjunction-normal|
@@ -527,7 +565,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IL- Series — Contrast/Opposition**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ila**|slightly but, mild contrast|contrast-mild|
 |**ile**|but, however|contrast-normal|
@@ -539,7 +577,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OL- Series — Condition/Hypothesis**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ola**|maybe if, weak condition|condition-weak|
 |**ole**|if, in case|condition-normal|
@@ -551,7 +589,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UL- Series — Consequence/Result**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ula**|weakly then, mild consequence|consequence-weak|
 |**ule**|then, so|consequence-normal|
@@ -561,81 +599,83 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA S — Spatial
+## 📋 FAMILY X — Spatial (X-Axis)
 
-**Função:** Relações espaciais expandidas com nuances de posição e orientação
+**Function:** Lateral positioning and X-axis coordinate system
+
+**⚠️ EXCEPTION: Inverted Gradation** (a=maximum positive, u=minimum negative)
 
 ---
 
-### **AS- Series — Vertical Position (Above/Below)**
+### **AX- Series — X-Axis Position (Rightward)**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**asa**|far below, deep under|vertical-deep-below|
-|**ase**|below, under|vertical-below|
-|**asi**|level with, at same height|vertical-level|
-|**aso**|above, over|vertical-above|
-|**asu**|high above, far over|vertical-high-above|
+|**axa**|extreme right maintained|x-axis-max-static|
+|**axe**|moving rightward moderately|x-axis-right-motion|
+|**axi**|at right position|x-axis-right-static|
+|**axo**|shifting from right|x-axis-right-departure|
+|**axu**|from extreme right to extreme left|x-axis-max-to-min|
 
 ---
 
-### **ES- Series — Horizontal Position (Beside/Across)**
+### **EX- Series — X-Axis Moderate Right**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**esa**|far from side, distant laterally|horizontal-far|
-|**ese**|near side, close by|horizontal-near|
-|**esi**|beside, next to|horizontal-beside|
-|**eso**|across from, opposite|horizontal-across|
-|**esu**|far across, distant opposite|horizontal-far-across|
+|**exa**|from moderate right to extreme right|x-axis-mid-to-max|
+|**exe**|staying moderately right|x-axis-mid-right-static|
+|**exi**|from moderate right to center|x-axis-mid-to-center|
+|**exo**|from moderate right to moderate left|x-axis-mid-to-mid-left|
+|**exu**|from moderate right to extreme left|x-axis-mid-to-min|
 
 ---
 
-### **IS- Series — Frontal Position (Front/Back)**
+### **IX- Series — X-Axis Center**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**isa**|far behind, way back|frontal-far-back|
-|**ise**|behind, in back|frontal-back|
-|**isi**|aligned, same plane|frontal-aligned|
-|**iso**|in front, ahead|frontal-front|
-|**isu**|far ahead, way in front|frontal-far-front|
+|**ixa**|from center to extreme right|x-axis-center-to-max|
+|**ixe**|from center to moderate right|x-axis-center-to-mid-right|
+|**ixi**|staying at lateral center|x-axis-center-static|
+|**ixo**|from center to moderate left|x-axis-center-to-mid-left|
+|**ixu**|from center to extreme left|x-axis-center-to-min|
 
 ---
 
-### **OS- Series — Containment (Inside/Outside)**
+### **OX- Series — X-Axis Moderate Left**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**osa**|far outside, remote from|containment-far-outside|
-|**ose**|outside, external|containment-outside|
-|**osi**|at boundary, on edge|containment-boundary|
-|**oso**|inside, within|containment-inside|
-|**osu**|deep inside, center|containment-deep-inside|
+|**oxa**|from moderate left to extreme right|x-axis-mid-left-to-max|
+|**oxe**|from moderate left to moderate right|x-axis-mid-left-to-mid-right|
+|**oxi**|from moderate left to center|x-axis-mid-left-to-center|
+|**oxo**|staying moderately left|x-axis-mid-left-static|
+|**oxu**|from moderate left to extreme left|x-axis-mid-left-to-min|
 
 ---
 
-### **US- Series — Proximity (Near/Far)**
+### **UX- Series — X-Axis Extreme Left**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**usa**|extremely far, remote|proximity-extreme-far|
-|**use**|far, distant|proximity-far|
-|**usi**|moderate distance|proximity-moderate|
-|**uso**|near, close|proximity-near|
-|**usu**|extremely near, touching|proximity-touching|
+|**uxa**|from extreme left to extreme right|x-axis-min-to-max|
+|**uxe**|from extreme left shifting rightward|x-axis-left-departure|
+|**uxi**|from extreme left to center|x-axis-min-to-center|
+|**uxo**|moving leftward moderately|x-axis-left-motion|
+|**uxu**|extreme left maintained|x-axis-min-static|
 
 ---
 
-## 📋 FAMÍLIA V — Action/Verbal
+## 📋 FAMILY V — Action/Verbal
 
-**Função:** Ações e processos verbais expandidos
+**Function:** Expanded actions and verbal processes
 
 ---
 
 ### **AV- Series — Action Initiation**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ava**|fail to start, not begin|initiation-fail|
 |**ave**|hesitate to start|initiation-hesitate|
@@ -647,7 +687,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EV- Series — Action Continuation**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eva**|stop, cease action|continuation-stop|
 |**eve**|pause, interrupt|continuation-pause|
@@ -659,7 +699,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IV- Series — Action Completion**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iva**|abandon, leave unfinished|completion-abandon|
 |**ive**|partially complete|completion-partial|
@@ -671,7 +711,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OV- Series — Action Intensity**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ova**|barely act, minimal effort|intensity-minimal|
 |**ove**|gently act, light effort|intensity-light|
@@ -683,7 +723,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UV- Series — Action Causation**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uva**|prevent, stop from happening|causation-prevent|
 |**uve**|allow, let happen|causation-allow|
@@ -693,15 +733,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA G — Aspect
+## 📋 FAMILY G — Aspect
 
-**Função:** Aspecto verbal expandido com fases e iterações
+**Function:** Expanded verbal aspect with phases and iterations
 
 ---
 
 ### **AG- Series — Inceptive/Beginning**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**aga**|fail to begin|inceptive-fail|
 |**age**|about to begin, on verge|inceptive-imminent|
@@ -713,7 +753,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EG- Series — Continuative/Ongoing**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ega**|stop continuing, cease|continuative-cease|
 |**ege**|intermittently continue|continuative-intermittent|
@@ -725,7 +765,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IG- Series — Habitual/Regular**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iga**|never habitually, never do|habitual-never|
 |**ige**|rarely habitually|habitual-rare|
@@ -737,7 +777,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OG- Series — Terminative/Ending**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**oga**|not finish, remain unfinished|terminative-unfinished|
 |**oge**|nearly finish, almost done|terminative-nearly|
@@ -749,7 +789,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UG- Series — Iterative/Repetitive**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uga**|do once only, never repeat|iterative-once|
 |**uge**|rarely repeat, seldom again|iterative-rare|
@@ -759,15 +799,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA R — State/Condition
+## 📋 FAMILY R — State/Condition
 
-**Função:** Estados e condições expandidos
+**Function:** Expanded states and conditions
 
 ---
 
 ### **AR- Series — State Change**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ara**|resist change, stay same|change-resist|
 |**are**|gradually change|change-gradual|
@@ -779,7 +819,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **ER- Series — State Persistence**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**era**|unstable, fleeting state|persistence-unstable|
 |**ere**|briefly remain|persistence-brief|
@@ -791,7 +831,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IR- Series — State Appearance**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ira**|deceptively seem, falsely appear|appearance-deceptive|
 |**ire**|vaguely seem|appearance-vague|
@@ -803,7 +843,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OR- Series — State Experience**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ora**|not feel, numb to|experience-numb|
 |**ore**|slightly feel|experience-slight|
@@ -815,7 +855,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UR- Series — State Characterization**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ura**|barely characterized by|characterization-minimal|
 |**ure**|somewhat characterized by|characterization-partial|
@@ -825,15 +865,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA F — Comparison
+## 📋 FAMILY F — Comparison
 
-**Função:** Comparação expandida e avaliação
+**Function:** Expanded comparison and evaluation
 
 ---
 
 ### **AF- Series — Equality**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**afa**|unequal, not as|equality-unequal|
 |**afe**|nearly equal, almost as|equality-nearly|
@@ -845,7 +885,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EF- Series — Similarity**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**efa**|completely different, unlike|similarity-different|
 |**efe**|somewhat similar|similarity-somewhat|
@@ -857,7 +897,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IF- Series — Comparative Degree**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ifa**|much less, far below|comparative-much-less|
 |**ife**|less, below|comparative-less|
@@ -869,7 +909,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OF- Series — Superlative Degree**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ofa**|least, minimum|superlative-least|
 |**ofe**|among the lesser|superlative-lower|
@@ -881,7 +921,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UF- Series — Evaluative Comparison**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ufa**|worse, inferior|evaluative-worse|
 |**ufe**|not as good, lesser|evaluative-lesser|
@@ -891,15 +931,15 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA H — Relation
+## 📋 FAMILY H — Relation
 
-**Função:** Relações entre entidades expandidas
+**Function:** Expanded relations between entities
 
 ---
 
 ### **AH- Series — Part-Whole**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**aha**|separate from, not part|part-whole-separate|
 |**ahe**|loosely part of|part-whole-loose|
@@ -911,7 +951,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EH- Series — Membership**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eha**|excluded from, not member|membership-excluded|
 |**ehe**|peripheral member|membership-peripheral|
@@ -923,7 +963,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IH- Series — Connection/Link**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iha**|disconnected, unrelated|connection-none|
 |**ihe**|weakly connected|connection-weak|
@@ -935,7 +975,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OH- Series — Dependency**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**oha**|independent, not dependent|dependency-independent|
 |**ohe**|slightly dependent|dependency-slight|
@@ -947,158 +987,159 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UH- Series — Association**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uha**|unassociated, separate|association-none|
 |**uhe**|loosely associated|association-loose|
 |**uhi**|associated with, linked to|association-normal|
 |**uho**|closely associated|association-close|
 |**uhu**|inherently associated, bound|association-inherent|
-# 📘 GRAMÁTICA EXPANDIDA VCV (Continuação)
 
 ---
 
-## 📋 FAMÍLIA Š — Boundary/Limit
+## 📋 FAMILY S — Boundary/Limit
 
-**Função:** Fronteiras, limites e transições expandidos
+**Function:** Expanded boundaries, limits, and transitions
 
 ---
 
-### **AŠ- Series — Boundary Points**
+### **AS- Series — Boundary Points**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aša**|far from boundary, deep interior|boundary-interior|
-|**aše**|approaching boundary|boundary-approaching|
-|**aši**|at boundary, on edge|boundary-at|
-|**ašo**|crossing boundary|boundary-crossing|
-|**ašu**|beyond boundary, outside|boundary-beyond|
+|**asa**|far from boundary, deep interior|boundary-interior|
+|**ase**|approaching boundary|boundary-approaching|
+|**asi**|at boundary, on edge|boundary-at|
+|**aso**|crossing boundary|boundary-crossing|
+|**asu**|beyond boundary, outside|boundary-beyond|
 
 ---
 
-### **EŠ- Series — Threshold/Transition**
+### **ES- Series — Threshold/Transition**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eša**|before threshold, not yet|threshold-before|
-|**eše**|approaching threshold|threshold-approaching|
-|**eši**|at threshold, on cusp|threshold-at|
-|**ešo**|crossing threshold|threshold-crossing|
-|**ešu**|past threshold, beyond|threshold-past|
+|**esa**|before threshold, not yet|threshold-before|
+|**ese**|approaching threshold|threshold-approaching|
+|**esi**|at threshold, on cusp|threshold-at|
+|**eso**|crossing threshold|threshold-crossing|
+|**esu**|past threshold, beyond|threshold-past|
 
 ---
 
-### **IŠ- Series — Limit/Extent**
+### **IS- Series — Limit/Extent**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iša**|far below limit, minimal|limit-minimal|
-|**iše**|below limit, under|limit-below|
-|**iši**|at limit, reaching|limit-at|
-|**išo**|exceeding limit, over|limit-exceeding|
-|**išu**|far beyond limit, extreme|limit-extreme|
+|**isa**|far below limit, minimal|limit-minimal|
+|**ise**|below limit, under|limit-below|
+|**isi**|at limit, reaching|limit-at|
+|**iso**|exceeding limit, over|limit-exceeding|
+|**isu**|far beyond limit, extreme|limit-extreme|
 
 ---
 
-### **OŠ- Series — Barrier/Obstacle**
+### **OS- Series — Barrier/Obstacle**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oša**|no barrier, open|barrier-none|
-|**oše**|slight barrier, permeable|barrier-slight|
-|**oši**|barrier, obstacle|barrier-normal|
-|**ošo**|strong barrier, resistant|barrier-strong|
-|**ošu**|impenetrable barrier, absolute|barrier-absolute|
+|**osa**|no barrier, open|barrier-none|
+|**ose**|slight barrier, permeable|barrier-slight|
+|**osi**|barrier, obstacle|barrier-normal|
+|**oso**|strong barrier, resistant|barrier-strong|
+|**osu**|impenetrable barrier, absolute|barrier-absolute|
 
 ---
 
-### **UŠ- Series — Permeability**
+### **US- Series — Permeability**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uša**|fully permeable, completely open|permeability-open|
-|**uše**|somewhat permeable, porous|permeability-porous|
-|**uši**|semi-permeable, selective|permeability-selective|
-|**ušo**|barely permeable, resistant|permeability-resistant|
-|**ušu**|impermeable, sealed|permeability-sealed|
+|**usa**|fully permeable, completely open|permeability-open|
+|**use**|somewhat permeable, porous|permeability-porous|
+|**usi**|semi-permeable, selective|permeability-selective|
+|**uso**|barely permeable, resistant|permeability-resistant|
+|**usu**|impermeable, sealed|permeability-sealed|
 
 ---
 
-## 📋 FAMÍLIA Ž — Intensity/Degree
+## 📋 FAMILY Y — Spatial (Y-Axis)
 
-**Função:** Intensidade e grau expandidos
+**Function:** Frontal positioning and Y-axis coordinate system
+
+**⚠️ EXCEPTION: Inverted Gradation** (a=maximum positive, u=minimum negative)
 
 ---
 
-### **AŽ- Series — Intensity Level**
+### **AY- Series — Y-Axis Position (Forward)**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aža**|no intensity, absent|intensity-none|
-|**aže**|low intensity, weak|intensity-low|
-|**aži**|moderate intensity, normal|intensity-moderate|
-|**ažo**|high intensity, strong|intensity-high|
-|**ažu**|extreme intensity, overwhelming|intensity-extreme|
+|**aya**|extreme front maintained|y-axis-max-static|
+|**aye**|moving forward moderately|y-axis-front-motion|
+|**ayi**|at front position|y-axis-front-static|
+|**ayo**|shifting from front|y-axis-front-departure|
+|**ayu**|from extreme front to extreme back|y-axis-max-to-min|
 
 ---
 
-### **EŽ- Series — Degree of Sufficiency**
+### **EY- Series — Y-Axis Moderate Front**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eža**|insufficient, too little|sufficiency-insufficient|
-|**eže**|barely sufficient|sufficiency-barely|
-|**eži**|sufficient, adequate|sufficiency-adequate|
-|**ežo**|more than sufficient|sufficiency-more|
-|**ežu**|excessive, too much|sufficiency-excessive|
+|**eya**|from moderate front to extreme front|y-axis-mid-to-max|
+|**eye**|staying moderately forward|y-axis-mid-front-static|
+|**eyi**|from moderate front to center|y-axis-mid-to-center|
+|**eyo**|from moderate front to moderate back|y-axis-mid-to-mid-back|
+|**eyu**|from moderate front to extreme back|y-axis-mid-to-min|
 
 ---
 
-### **IŽ- Series — Force/Strength**
+### **IY- Series — Y-Axis Center**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iža**|no force, powerless|force-none|
-|**iže**|weak force, gentle|force-weak|
-|**iži**|normal force, moderate|force-normal|
-|**ižo**|strong force, powerful|force-strong|
-|**ižu**|maximum force, overwhelming|force-maximum|
+|**iya**|from center to extreme front|y-axis-center-to-max|
+|**iye**|from center to moderate front|y-axis-center-to-mid-front|
+|**iyi**|staying at frontal center|y-axis-center-static|
+|**iyo**|from center to moderate back|y-axis-center-to-mid-back|
+|**iyu**|from center to extreme back|y-axis-center-to-min|
 
 ---
 
-### **OŽ- Series — Completeness**
+### **OY- Series — Y-Axis Moderate Back**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oža**|incomplete, fragmentary|completeness-incomplete|
-|**ože**|partially complete|completeness-partial|
-|**oži**|complete, whole|completeness-complete|
-|**ožo**|thoroughly complete|completeness-thorough|
-|**ožu**|absolutely complete, total|completeness-absolute|
+|**oya**|from moderate back to extreme front|y-axis-mid-back-to-max|
+|**oye**|from moderate back to moderate front|y-axis-mid-back-to-mid-front|
+|**oyi**|from moderate back to center|y-axis-mid-back-to-center|
+|**oyo**|staying moderately back|y-axis-mid-back-static|
+|**oyu**|from moderate back to extreme back|y-axis-mid-back-to-min|
 
 ---
 
-### **UŽ- Series — Extent/Scope**
+### **UY- Series — Y-Axis Extreme Back**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uža**|minimal extent, narrow scope|extent-minimal|
-|**uže**|limited extent|extent-limited|
-|**uži**|moderate extent, normal scope|extent-moderate|
-|**užo**|broad extent, wide scope|extent-broad|
-|**užu**|maximum extent, universal scope|extent-maximum|
+|**uya**|from extreme back to extreme front|y-axis-min-to-max|
+|**uye**|from extreme back shifting forward|y-axis-back-departure|
+|**uyi**|from extreme back to center|y-axis-min-to-center|
+|**uyo**|moving backward moderately|y-axis-back-motion|
+|**uyu**|extreme back maintained|y-axis-min-static|
 
 ---
 
-## 📋 FAMÍLIA J̌ — Causality/Agency
+## 📋 FAMILY J̌ — Causality/Agency
 
-**Função:** Causalidade e agência expandidas
+**Function:** Expanded causality and agency
 
 ---
 
 ### **AJ̌- Series — Cause/Reason**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**aǰa**|without cause, spontaneous|cause-none|
 |**aǰe**|weak cause, minor reason|cause-weak|
@@ -1110,7 +1151,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EJ̌- Series — Purpose/Goal**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eǰa**|without purpose, aimless|purpose-none|
 |**eǰe**|vague purpose|purpose-vague|
@@ -1122,7 +1163,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IJ̌- Series — Means/Method**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iǰa**|without means, impossible|means-none|
 |**iǰe**|indirect means|means-indirect|
@@ -1134,7 +1175,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OJ̌- Series — Agency/Agent**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**oǰa**|without agent, spontaneous|agency-none|
 |**oǰe**|indirect agent|agency-indirect|
@@ -1146,7 +1187,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UJ̌- Series — Instrumentality**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uǰa**|without instrument, bare|instrument-none|
 |**uǰe**|with simple instrument|instrument-simple|
@@ -1156,20 +1197,17 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA W — Emotion/Affect
+## 📋 FAMILY W — Emotion/Affect
 
-**Função:** Emoção e afeto expandidos
+**Function:** Expanded emotion and affect
 
-**⚠️ EXCEÇÃO: Família W tem gradação INVERTIDA**
-
-- **a** = positivo (felicidade)
-- **u** = negativo (raiva)
+**⚠️ EXCEPTION: Inverted Gradation** (a=positive, u=negative)
 
 ---
 
 ### **AW- Series — Basic Emotions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**awa**|with happiness, happily|emotion-happiness|
 |**awe**|with surprise, surprisingly|emotion-surprise|
@@ -1181,7 +1219,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EW- Series — Secondary Emotions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**ewa**|with joy, joyfully|emotion-joy|
 |**ewe**|with curiosity, curiously|emotion-curiosity|
@@ -1193,7 +1231,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IW- Series — Complex Emotions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iwa**|with delight, delightedly|emotion-delight|
 |**iwe**|with interest, interestedly|emotion-interest|
@@ -1205,7 +1243,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OW- Series — Intense Emotions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**owa**|with elation, elatedly|emotion-elation|
 |**owe**|with amazement, amazed|emotion-amazement|
@@ -1217,7 +1255,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UW- Series — Extreme Emotions**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uwa**|with ecstasy, ecstatically|emotion-ecstasy|
 |**uwe**|with awe, awestruck|emotion-awe|
@@ -1227,81 +1265,83 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA Z — Intention/Volition
+## 📋 FAMILY Z — Spatial (Z-Axis)
 
-**Função:** Intenção e vontade expandidas
+**Function:** Vertical positioning and Z-axis coordinate system
+
+**⚠️ EXCEPTION: Inverted Gradation** (a=maximum positive, u=minimum negative)
 
 ---
 
-### **AZ- Series — Desire/Want**
+### **AZ- Series — Z-Axis Position (Upward)**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aza**|not wanting, averse|desire-averse|
-|**aze**|indifferent, not caring|desire-indifferent|
-|**azi**|wanting, desiring|desire-wanting|
-|**azu**|strongly wanting, craving|desire-craving|
-|**azu**|desperately wanting, needing|desire-desperate|
+|**aza**|extreme top maintained|z-axis-max-static|
+|**aze**|moving upward moderately|z-axis-up-motion|
+|**azi**|at top position|z-axis-top-static|
+|**azo**|shifting from top|z-axis-top-departure|
+|**azu**|from extreme top to extreme bottom|z-axis-max-to-min|
 
 ---
 
-### **EZ- Series — Decision/Choice**
+### **EZ- Series — Z-Axis Moderate Above**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eza**|refusing, rejecting|decision-refuse|
-|**eze**|undecided, hesitant|decision-undecided|
-|**ezi**|deciding, choosing|decision-normal|
-|**ezo**|firmly decided|decision-firm|
-|**ezu**|absolutely decided, resolute|decision-resolute|
+|**eza**|from moderate above to extreme top|z-axis-mid-to-max|
+|**eze**|staying moderately above|z-axis-mid-above-static|
+|**ezi**|from moderate above to center|z-axis-mid-to-center|
+|**ezo**|from moderate above to moderate below|z-axis-mid-to-mid-below|
+|**ezu**|from moderate above to extreme bottom|z-axis-mid-to-min|
 
 ---
 
-### **IZ- Series — Willingness**
+### **IZ- Series — Z-Axis Center**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iza**|unwilling, reluctant|willingness-unwilling|
-|**ize**|barely willing|willingness-barely|
-|**izi**|willing, ready|willingness-willing|
-|**izo**|eager, enthusiastic|willingness-eager|
-|**izu**|zealous, fervent|willingness-zealous|
+|**iza**|from center to extreme top|z-axis-center-to-max|
+|**ize**|from center to moderate above|z-axis-center-to-mid-above|
+|**izi**|staying at vertical center|z-axis-center-static|
+|**izo**|from center to moderate below|z-axis-center-to-mid-below|
+|**izu**|from center to extreme bottom|z-axis-center-to-min|
 
 ---
 
-### **OZ- Series — Attempt/Effort**
+### **OZ- Series — Z-Axis Moderate Below**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oza**|refusing to try, giving up|attempt-refuse|
-|**oze**|half-heartedly trying|attempt-halfhearted|
-|**ozi**|trying, attempting|attempt-normal|
-|**ozo**|striving, making effort|attempt-striving|
-|**ozu**|straining, maximum effort|attempt-maximum|
+|**oza**|from moderate below to extreme top|z-axis-mid-below-to-max|
+|**oze**|from moderate below to moderate above|z-axis-mid-below-to-mid-above|
+|**ozi**|from moderate below to center|z-axis-mid-below-to-center|
+|**ozo**|staying moderately below|z-axis-mid-below-static|
+|**ozu**|from moderate below to extreme bottom|z-axis-mid-below-to-min|
 
 ---
 
-### **UZ- Series — Commitment/Determination**
+### **UZ- Series — Z-Axis Extreme Bottom**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uza**|uncommitted, wavering|commitment-none|
-|**uze**|weakly committed|commitment-weak|
-|**uzi**|committed, determined|commitment-normal|
-|**uzo**|strongly committed|commitment-strong|
-|**uzu**|absolutely committed, dedicated|commitment-absolute|
+|**uza**|from extreme bottom to extreme top|z-axis-min-to-max|
+|**uze**|from extreme bottom shifting upward|z-axis-bottom-departure|
+|**uzi**|from extreme bottom to center|z-axis-min-to-center|
+|**uzo**|moving downward moderately|z-axis-down-motion|
+|**uzu**|extreme bottom maintained|z-axis-min-static|
 
 ---
 
-## 📋 FAMÍLIA Ľ — Evidentiality
+## 📋 FAMILY Ľ — Evidentiality
 
-**Função:** Fonte de informação e certeza epistêmica expandidas
+**Function:** Expanded source of information and epistemic certainty
 
 ---
 
 ### **AĽ- Series — Source of Evidence**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**aľa**|hearsay, rumor|evidence-hearsay|
 |**aľe**|reported, told by someone|evidence-reported|
@@ -1313,7 +1353,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **EĽ- Series — Epistemic Certainty**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**eľa**|impossible, cannot be|certainty-impossible|
 |**eľe**|very unlikely, improbable|certainty-unlikely|
@@ -1325,7 +1365,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **IĽ- Series — Confidence Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**iľa**|no confidence, total doubt|confidence-none|
 |**iľe**|low confidence, uncertain|confidence-low|
@@ -1337,7 +1377,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **OĽ- Series — Belief Strength**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**oľa**|disbelieve, don't believe|belief-disbelieve|
 |**oľe**|skeptical, doubtful|belief-skeptical|
@@ -1349,7 +1389,7 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ### **UĽ- Series — Assumption Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
 |**uľa**|wild guess, pure speculation|assumption-guess|
 |**uľe**|speculation, guessing|assumption-speculation|
@@ -1359,410 +1399,510 @@ O sistema VCV (Vogal-Consoante-Vogal) expande as 20 consoantes base + 5 ECs defi
 
 ---
 
-## 📋 FAMÍLIA Š — Boundary/Limit
+## ➕ EXPANSION: CONSONANT CLUSTERS (ECs)
 
-**Função:** Fronteiras, limites e transições expandidos
+**The 7 defined ECs vertically expand the VCV system with 175 additional particles**
 
 ---
 
-### **AŠ- Series — Boundary Points**
+## 📋 EC PR — Manner/Mode
 
-|VCV|Significado|Categoria|
+**Function:** Expanded manner and mode of action
+
+---
+
+### **APR- Series — Style Level**
+
+|VCV|Meaning|Category|
 |---|---|---|
-|**aša**|far from boundary, deep interior|boundary-interior|
-|**aše**|approaching boundary|boundary-approaching|
-|**aši**|at boundary, on edge|boundary-at|
-|**ašo**|crossing boundary|boundary-crossing|
-|**ašu**|beyond boundary, outside|boundary-beyond|
+|**apra**|in crude style, roughly|style-crude|
+|**apre**|in simple style, plainly|style-simple|
+|**apri**|in normal style, standardly|style-normal|
+|**apro**|in refined style, elegantly|style-refined|
+|**apru**|in sophisticated style, artfully|style-sophisticated|
 
 ---
 
-### **EŠ- Series — Threshold/Transition**
+### **EPR- Series — Formality Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eša**|before threshold, not yet|threshold-before|
-|**eše**|approaching threshold|threshold-approaching|
-|**eši**|at threshold, on cusp|threshold-at|
-|**ešo**|crossing threshold|threshold-crossing|
-|**ešu**|past threshold, beyond|threshold-past|
+|**epra**|very informally, casually|formality-very-informal|
+|**epre**|informally|formality-informal|
+|**epri**|neutrally, standard register|formality-neutral|
+|**epro**|formally|formality-formal|
+|**epru**|very formally, ceremonially|formality-very-formal|
 
 ---
 
-### **IŠ- Series — Limit/Extent**
+### **IPR- Series — Precision Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iša**|far below limit, minimal|limit-minimal|
-|**iše**|below limit, under|limit-below|
-|**iši**|at limit, reaching|limit-at|
-|**išo**|exceeding limit, over|limit-exceeding|
-|**išu**|far beyond limit, extreme|limit-extreme|
+|**ipra**|carelessly, sloppily|precision-careless|
+|**ipre**|loosely, approximately|precision-loose|
+|**ipri**|normally, adequately|precision-normal|
+|**ipro**|carefully, precisely|precision-careful|
+|**ipru**|meticulously, exactly|precision-meticulous|
 
 ---
 
-### **OŠ- Series — Barrier/Obstacle**
+### **OPR- Series — Effort Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oša**|no barrier, open|barrier-none|
-|**oše**|slight barrier, permeable|barrier-slight|
-|**oši**|barrier, obstacle|barrier-normal|
-|**ošo**|strong barrier, resistant|barrier-strong|
-|**ošu**|impenetrable barrier, absolute|barrier-absolute|
+|**opra**|lazily, without effort|effort-lazy|
+|**opre**|casually, light effort|effort-casual|
+|**opri**|normally, moderate effort|effort-normal|
+|**opro**|diligently, with effort|effort-diligent|
+|**opru**|intensely, maximum effort|effort-intense|
 
 ---
 
-### **UŠ- Series — Permeability**
+### **UPR- Series — Skill Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uša**|fully permeable, completely open|permeability-open|
-|**uše**|somewhat permeable, porous|permeability-porous|
-|**uši**|semi-permeable, selective|permeability-selective|
-|**ušo**|barely permeable, resistant|permeability-resistant|
-|**ušu**|impermeable, sealed|permeability-sealed|
+|**upra**|clumsily, unskillfully|skill-clumsy|
+|**upre**|amateurishly, basic skill|skill-amateur|
+|**upri**|competently, adequate skill|skill-competent|
+|**upro**|skillfully, expert|skill-skillful|
+|**upru**|masterfully, virtuoso|skill-masterful|
 
 ---
 
-## 📋 FAMÍLIA Ž — Intensity/Degree
+## 📋 EC BR — Perception/Sensory
 
-**Função:** Intensidade e grau expandidos
+**Function:** Expanded perception and sensory experience
 
 ---
 
-### **AŽ- Series — Intensity Level**
+### **ABR- Series — Visual Perception**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aža**|no intensity, absent|intensity-none|
-|**aže**|low intensity, weak|intensity-low|
-|**aži**|moderate intensity, normal|intensity-moderate|
-|**ažo**|high intensity, strong|intensity-high|
-|**ažu**|extreme intensity, overwhelming|intensity-extreme|
+|**abra**|blindly, without seeing|visual-none|
+|**abre**|dimly seeing, barely visible|visual-dim|
+|**abri**|seeing, visually|visual-normal|
+|**abro**|clearly seeing|visual-clear|
+|**abru**|perfectly seeing, crystal clear|visual-perfect|
 
 ---
 
-### **EŽ- Series — Degree of Sufficiency**
+### **EBR- Series — Auditory Perception**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eža**|insufficient, too little|sufficiency-insufficient|
-|**eže**|barely sufficient|sufficiency-barely|
-|**eži**|sufficient, adequate|sufficiency-adequate|
-|**ežo**|more than sufficient|sufficiency-more|
-|**ežu**|excessive, too much|sufficiency-excessive|
+|**ebra**|deafly, without hearing|auditory-none|
+|**ebre**|faintly hearing, barely audible|auditory-faint|
+|**ebri**|hearing, auditorily|auditory-normal|
+|**ebro**|clearly hearing|auditory-clear|
+|**ebru**|perfectly hearing, crisp|auditory-perfect|
 
 ---
 
-### **IŽ- Series — Force/Strength**
+### **IBR- Series — Tactile Perception**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iža**|no force, powerless|force-none|
-|**iže**|weak force, gentle|force-weak|
-|**iži**|normal force, moderate|force-normal|
-|**ižo**|strong force, powerful|force-strong|
-|**ižu**|maximum force, overwhelming|force-maximum|
+|**ibra**|numbly, without feeling|tactile-none|
+|**ibre**|barely feeling, faint touch|tactile-faint|
+|**ibri**|feeling, by touch|tactile-normal|
+|**ibro**|clearly feeling|tactile-clear|
+|**ibru**|acutely feeling, sensitive|tactile-acute|
 
 ---
 
-### **OŽ- Series — Completeness**
+### **OBR- Series — Gustatory Perception**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oža**|incomplete, fragmentary|completeness-incomplete|
-|**ože**|partially complete|completeness-partial|
-|**oži**|complete, whole|completeness-complete|
-|**ožo**|thoroughly complete|completeness-thorough|
-|**ožu**|absolutely complete, total|completeness-absolute|
+|**obra**|tastelessly, without taste|gustatory-none|
+|**obre**|barely tasting, faint flavor|gustatory-faint|
+|**obri**|tasting, by taste|gustatory-normal|
+|**obro**|clearly tasting|gustatory-clear|
+|**obru**|intensely tasting, strong flavor|gustatory-intense|
 
 ---
 
-### **UŽ- Series — Extent/Scope**
+### **UBR- Series — Olfactory Perception**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uža**|minimal extent, narrow scope|extent-minimal|
-|**uže**|limited extent|extent-limited|
-|**uži**|moderate extent, normal scope|extent-moderate|
-|**užo**|broad extent, wide scope|extent-broad|
-|**užu**|maximum extent, universal scope|extent-maximum|
+|**ubra**|without smell, odorless|olfactory-none|
+|**ubre**|faintly smelling, weak odor|olfactory-faint|
+|**ubri**|smelling, by smell|olfactory-normal|
+|**ubro**|clearly smelling|olfactory-clear|
+|**ubru**|strongly smelling, pungent|olfactory-strong|
 
 ---
 
-## 📋 FAMÍLIA J̌ — Causality/Agency
+## 📋 EC TR — Movement/Direction
 
-**Função:** Causalidade e agência expandidas
+**Function:** Expanded movement and directional dynamics
 
 ---
 
-### **AJ̌- Series — Cause/Reason**
+### **ATR- Series — Vertical Movement**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aǰa**|without cause, spontaneous|cause-none|
-|**aǰe**|weak cause, minor reason|cause-weak|
-|**aǰi**|because of, due to|cause-normal|
-|**aǰo**|strong cause, major reason|cause-strong|
-|**aǰu**|sole cause, only reason|cause-sole|
+|**atra**|descending rapidly, plummeting|vertical-descending-fast|
+|**atre**|descending, going down|vertical-descending|
+|**atri**|level, horizontal|vertical-level|
+|**atro**|ascending, going up|vertical-ascending|
+|**atru**|ascending rapidly, soaring|vertical-ascending-fast|
 
 ---
 
-### **EJ̌- Series — Purpose/Goal**
+### **ETR- Series — Linear Movement**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eǰa**|without purpose, aimless|purpose-none|
-|**eǰe**|vague purpose|purpose-vague|
-|**eǰi**|for, in order to|purpose-normal|
-|**eǰo**|clear purpose, specific goal|purpose-clear|
-|**eǰu**|sole purpose, only goal|purpose-sole|
+|**etra**|retreating, moving back|linear-backward|
+|**etre**|slowing, decelerating|linear-slowing|
+|**etri**|maintaining, steady|linear-steady|
+|**etro**|advancing, moving forward|linear-forward|
+|**etru**|accelerating, speeding up|linear-accelerating|
 
 ---
 
-### **IJ̌- Series — Means/Method**
+### **ITR- Series — Rotational Movement**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iǰa**|without means, impossible|means-none|
-|**iǰe**|indirect means|means-indirect|
-|**iǰi**|by means of, through|means-normal|
-|**iǰo**|direct means|means-direct|
-|**iǰu**|sole means, only way|means-sole|
+|**itra**|counter-rotating, reverse spin|rotation-counter|
+|**itre**|slowly rotating|rotation-slow|
+|**itri**|rotating, spinning|rotation-normal|
+|**itro**|rapidly rotating|rotation-fast|
+|**itru**|whirling, spinning wildly|rotation-whirling|
 
 ---
 
-### **OJ̌- Series — Agency/Agent**
+### **OTR- Series — Trajectory Type**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oǰa**|without agent, spontaneous|agency-none|
-|**oǰe**|indirect agent|agency-indirect|
-|**oǰi**|by (agent), performed by|agency-normal|
-|**oǰo**|direct agent, active performer|agency-direct|
-|**oǰu**|sole agent, only performer|agency-sole|
+|**otra**|erratically, chaotically|trajectory-erratic|
+|**otre**|curved, arcing|trajectory-curved|
+|**otri**|straight, direct|trajectory-straight|
+|**otro**|spiraling, helical|trajectory-spiral|
+|**otru**|oscillating, back-and-forth|trajectory-oscillating|
 
 ---
 
-### **UJ̌- Series — Instrumentality**
+### **UTR- Series — Speed of Movement**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uǰa**|without instrument, bare|instrument-none|
-|**uǰe**|with simple instrument|instrument-simple|
-|**uǰi**|with, using (instrument)|instrument-normal|
-|**uǰo**|with complex instrument|instrument-complex|
-|**uǰu**|with specialized instrument only|instrument-specialized|
+|**utra**|motionless, still|speed-none|
+|**utre**|slowly moving, crawling|speed-slow|
+|**utri**|moderately moving|speed-moderate|
+|**utro**|quickly moving, rushing|speed-fast|
+|**utru**|instantaneously, flashing|speed-instant|
 
 ---
 
-## 📋 FAMÍLIA W — Emotion/Affect
+## 📋 EC DR — Existence/Reality
 
-**Função:** Emoção e afeto expandidos
-
-**⚠️ EXCEÇÃO: Família W tem gradação INVERTIDA**
-
-- **a** = positivo (felicidade)
-- **u** = negativo (raiva)
+**Function:** Expanded existence and ontological status
 
 ---
 
-### **AW- Series — Basic Emotions**
+### **ADR- Series — Ontological Status**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**awa**|with happiness, happily|emotion-happiness|
-|**awe**|with surprise, surprisingly|emotion-surprise|
-|**awi**|with indifference, neutrally|emotion-neutral|
-|**awo**|with sadness, sadly|emotion-sadness|
-|**awu**|with anger, angrily|emotion-anger|
+|**adra**|non-existent, absent|existence-none|
+|**adre**|barely existing, trace|existence-trace|
+|**adri**|existing, present|existence-normal|
+|**adro**|substantially existing|existence-substantial|
+|**adru**|undeniably existing, concrete|existence-undeniable|
 
 ---
 
-### **EW- Series — Secondary Emotions**
+### **EDR- Series — Reality vs Appearance**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**ewa**|with joy, joyfully|emotion-joy|
-|**ewe**|with curiosity, curiously|emotion-curiosity|
-|**ewi**|with calmness, peacefully|emotion-calm|
-|**ewo**|with melancholy, wistfully|emotion-melancholy|
-|**ewu**|with irritation, annoyed|emotion-irritation|
+|**edra**|illusory, unreal|reality-illusion|
+|**edre**|seemingly, apparently|reality-apparent|
+|**edri**|actually, really|reality-actual|
+|**edro**|genuinely, authentically|reality-genuine|
+|**edru**|absolutely real, undeniable|reality-absolute|
 
 ---
 
-### **IW- Series — Complex Emotions**
+### **IDR- Series — Possibility of Existence**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iwa**|with delight, delightedly|emotion-delight|
-|**iwe**|with interest, interestedly|emotion-interest|
-|**iwi**|with contentment, content|emotion-contentment|
-|**iwo**|with loneliness, lonely|emotion-loneliness|
-|**iwu**|with frustration, frustrated|emotion-frustration|
+|**idra**|impossible, cannot exist|possibility-impossible|
+|**idre**|unlikely to exist|possibility-unlikely|
+|**idri**|possibly existing|possibility-possible|
+|**idro**|probably existing|possibility-probable|
+|**idru**|necessarily existing, must be|possibility-necessary|
 
 ---
 
-### **OW- Series — Intense Emotions**
+### **ODR- Series — Certainty of Reality**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**owa**|with elation, elatedly|emotion-elation|
-|**owe**|with amazement, amazed|emotion-amazement|
-|**owi**|with serenity, serenely|emotion-serenity|
-|**owo**|with grief, grieving|emotion-grief|
-|**owu**|with rage, furiously|emotion-rage|
+|**odra**|doubtfully, uncertainly|certainty-doubtful|
+|**odre**|questionably|certainty-questionable|
+|**odri**|probably, likely|certainty-probable|
+|**odro**|certainly, definitely|certainty-certain|
+|**odru**|indisputably, undeniably|certainty-indisputable|
 
 ---
 
-### **UW- Series — Extreme Emotions**
+### **UDR- Series — Factuality**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uwa**|with ecstasy, ecstatically|emotion-ecstasy|
-|**uwe**|with awe, awestruck|emotion-awe|
-|**uwi**|with tranquility, tranquilly|emotion-tranquility|
-|**uwo**|with despair, despairingly|emotion-despair|
-|**uwu**|with hatred, hatefully|emotion-hatred|
+|**udra**|fictional, made-up|factuality-fiction|
+|**udre**|hypothetical, supposing|factuality-hypothetical|
+|**udri**|factual, true|factuality-factual|
+|**udro**|verified, confirmed|factuality-verified|
+|**udru**|proven, established|factuality-proven|
 
 ---
 
-## 📋 FAMÍLIA Z — Intention/Volition
+## 📋 EC KR — Possession/Belonging
 
-**Função:** Intenção e vontade expandidas
+**Function:** Expanded possession and belonging
 
 ---
 
-### **AZ- Series — Desire/Want**
+### **AKR- Series — Ownership**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aza**|not wanting, averse|desire-averse|
-|**aze**|indifferent, not caring|desire-indifferent|
-|**azi**|wanting, desiring|desire-wanting|
-|**azu**|strongly wanting, craving|desire-craving|
-|**azu**|desperately wanting, needing|desire-desperate|
+|**akra**|not owned, ownerless|ownership-none|
+|**akre**|loosely owned, tenuous|ownership-loose|
+|**akri**|owned, possessed|ownership-normal|
+|**akro**|firmly owned|ownership-firm|
+|**akru**|exclusively owned, sole possession|ownership-exclusive|
 
 ---
 
-### **EZ- Series — Decision/Choice**
+### **EKR- Series — Control**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eza**|refusing, rejecting|decision-refuse|
-|**eze**|undecided, hesitant|decision-undecided|
-|**ezi**|deciding, choosing|decision-normal|
-|**ezo**|firmly decided|decision-firm|
-|**ezu**|absolutely decided, resolute|decision-resolute|
+|**ekra**|uncontrolled, free|control-none|
+|**ekre**|loosely controlled|control-loose|
+|**ekri**|controlled, managed|control-normal|
+|**ekro**|tightly controlled|control-tight|
+|**ekru**|absolutely controlled, dominated|control-absolute|
 
 ---
 
-### **IZ- Series — Willingness**
+### **IKR- Series — Belonging**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iza**|unwilling, reluctant|willingness-unwilling|
-|**ize**|barely willing|willingness-barely|
-|**izi**|willing, ready|willingness-willing|
-|**izo**|eager, enthusiastic|willingness-eager|
-|**izu**|zealous, fervent|willingness-zealous|
+|**ikra**|not belonging, foreign|belonging-none|
+|**ikre**|loosely belonging|belonging-loose|
+|**ikri**|belonging to, part of|belonging-normal|
+|**ikro**|firmly belonging|belonging-firm|
+|**ikru**|inherently belonging, intrinsic|belonging-inherent|
 
 ---
 
-### **OZ- Series — Attempt/Effort**
+### **OKR- Series — Rights/Claims**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oza**|refusing to try, giving up|attempt-refuse|
-|**oze**|half-heartedly trying|attempt-halfhearted|
-|**ozi**|trying, attempting|attempt-normal|
-|**ozo**|striving, making effort|attempt-striving|
-|**ozu**|straining, maximum effort|attempt-maximum|
+|**okra**|no right, no claim|rights-none|
+|**okre**|weak claim|rights-weak|
+|**okri**|rightful claim, entitled|rights-normal|
+|**okro**|strong claim|rights-strong|
+|**okru**|absolute right, inalienable|rights-absolute|
 
 ---
 
-### **UZ- Series — Commitment/Determination**
+### **UKR- Series — Acquisition**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uza**|uncommitted, wavering|commitment-none|
-|**uze**|weakly committed|commitment-weak|
-|**uzi**|committed, determined|commitment-normal|
-|**uzo**|strongly committed|commitment-strong|
-|**uzu**|absolutely committed, dedicated|commitment-absolute|
+|**ukra**|losing, giving up|acquisition-losing|
+|**ukre**|temporarily having|acquisition-temporary|
+|**ukri**|acquiring, obtaining|acquisition-normal|
+|**ukro**|gaining permanently|acquisition-permanent|
+|**ukru**|inheriting, receiving by right|acquisition-inheriting|
 
 ---
 
-## 📋 FAMÍLIA Ľ — Evidentiality
+## 📋 EC GR — Intensity/Degree
 
-**Função:** Fonte de informação e certeza epistêmica expandidas
+**Function:** Expanded intensity and gradation
 
 ---
 
-### **AĽ- Series — Source of Evidence**
+### **AGR- Series — Intensity Level**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**aľa**|hearsay, rumor|evidence-hearsay|
-|**aľe**|reported, told by someone|evidence-reported|
-|**aľi**|inferred, deduced|evidence-inferred|
-|**aľo**|perceived, sensory evidence|evidence-sensory|
-|**aľu**|direct witness, saw firsthand|evidence-direct|
+|**agra**|no intensity, absent|intensity-none|
+|**agre**|low intensity, weak|intensity-low|
+|**agri**|moderate intensity, normal|intensity-moderate|
+|**agro**|high intensity, strong|intensity-high|
+|**agru**|extreme intensity, overwhelming|intensity-extreme|
 
 ---
 
-### **EĽ- Series — Epistemic Certainty**
+### **EGR- Series — Degree of Sufficiency**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**eľa**|impossible, cannot be|certainty-impossible|
-|**eľe**|very unlikely, improbable|certainty-unlikely|
-|**eľi**|possible, maybe|certainty-possible|
-|**eľo**|probable, likely|certainty-probable|
-|**eľu**|certain, sure|certainty-certain|
+|**egra**|insufficient, too little|sufficiency-insufficient|
+|**egre**|barely sufficient|sufficiency-barely|
+|**egri**|sufficient, adequate|sufficiency-adequate|
+|**egro**|more than sufficient|sufficiency-more|
+|**egru**|excessive, too much|sufficiency-excessive|
 
 ---
 
-### **IĽ- Series — Confidence Level**
+### **IGR- Series — Force/Strength**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**iľa**|no confidence, total doubt|confidence-none|
-|**iľe**|low confidence, uncertain|confidence-low|
-|**iľi**|moderate confidence, neutral|confidence-moderate|
-|**iľo**|high confidence, fairly sure|confidence-high|
-|**iľu**|absolute confidence, no doubt|confidence-absolute|
+|**igra**|no force, powerless|force-none|
+|**igre**|weak force, gentle|force-weak|
+|**igri**|normal force, moderate|force-normal|
+|**igro**|strong force, powerful|force-strong|
+|**igru**|maximum force, overwhelming|force-maximum|
 
 ---
 
-### **OĽ- Series — Belief Strength**
+### **OGR- Series — Completeness**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**oľa**|disbelieve, don't believe|belief-disbelieve|
-|**oľe**|skeptical, doubtful|belief-skeptical|
-|**oľi**|believe, accept as true|belief-believe|
-|**oľo**|strongly believe, convinced|belief-strong|
-|**oľu**|know for certain, absolute knowledge|belief-certain|
+|**ogra**|incomplete, fragmentary|completeness-incomplete|
+|**ogre**|partially complete|completeness-partial|
+|**ogri**|complete, whole|completeness-complete|
+|**ogro**|thoroughly complete|completeness-thorough|
+|**ogru**|absolutely complete, total|completeness-absolute|
 
 ---
 
-### **UĽ- Series — Assumption Level**
+### **UGR- Series — Extent/Scope**
 
-|VCV|Significado|Categoria|
+|VCV|Meaning|Category|
 |---|---|---|
-|**uľa**|wild guess, pure speculation|assumption-guess|
-|**uľe**|speculation, guessing|assumption-speculation|
-|**uľi**|assumption, supposing|assumption-assumption|
-|**uľo**|educated guess, informed|assumption-educated|
-|**uľu**|logical conclusion, deduced|assumption-logical|
+|**ugra**|minimal extent, narrow scope|extent-minimal|
+|**ugre**|limited extent|extent-limited|
+|**ugri**|moderate extent, normal scope|extent-moderate|
+|**ugro**|broad extent, wide scope|extent-broad|
+|**ugru**|maximum extent, universal scope|extent-maximum|
 
 ---
 
-**[CONTINUA NO PRÓXIMO BLOCO - ECs...]**
+## 📋 EC PL — Intention/Volition
+
+**Function:** Expanded intention and volitional states
 
 ---
 
-**Status:** Famílias 1-20 completas (todas as consoantes base)  
-**Próximo:** Famílias 21-25 (PR, BR, TR, DR, KR - os 5 ECs definidos)
+### **APL- Series — Desire/Want**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**apla**|not wanting, averse|desire-averse|
+|**aple**|indifferent, not caring|desire-indifferent|
+|**apli**|wanting, desiring|desire-wanting|
+|**aplo**|strongly wanting, craving|desire-craving|
+|**aplu**|desperately wanting, needing|desire-desperate|
+
+---
+
+### **EPL- Series — Decision/Choice**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**epla**|refusing, rejecting|decision-refuse|
+|**eple**|undecided, hesitant|decision-undecided|
+|**epli**|deciding, choosing|decision-normal|
+|**eplo**|firmly decided|decision-firm|
+|**eplu**|absolutely decided, resolute|decision-resolute|
+
+---
+
+### **IPL- Series — Willingness**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ipla**|unwilling, reluctant|willingness-unwilling|
+|**iple**|barely willing|willingness-barely|
+|**ipli**|willing, ready|willingness-willing|
+|**iplo**|eager, enthusiastic|willingness-eager|
+|**iplu**|zealous, fervent|willingness-zealous|
+
+---
+
+### **OPL- Series — Attempt/Effort**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**opla**|refusing to try, giving up|attempt-refuse|
+|**ople**|half-heartedly trying|attempt-halfhearted|
+|**opli**|trying, attempting|attempt-normal|
+|**oplo**|striving, making effort|attempt-striving|
+|**oplu**|straining, maximum effort|attempt-maximum|
+
+---
+
+### **UPL- Series — Commitment/Determination**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**upla**|uncommitted, wavering|commitment-none|
+|**uple**|weakly committed|commitment-weak|
+|**upli**|committed, determined|commitment-normal|
+|**uplo**|strongly committed|commitment-strong|
+|**uplu**|absolutely committed, dedicated|commitment-absolute|
+
+---
+
+## ✅ SYSTEM VCV COMPLETE
+
+**Total:** 27 families × 25 particles = **675 VCV particles**
+
+---
+
+### **Final Summary:**
+
+|Category|Families|VCV Particles|
+|---|---|---|
+|**Base Consonants**|20|500 (20×25)|
+|**Defined ECs**|7|175 (7×25)|
+|**Open ECs**|3|75 slots reserved|
+|**CURRENT TOTAL**|**27**|**675**|
+|**POTENTIAL TOTAL**|**30**|**750**|
+
+---
+
+**File:** `02-grammar-vcv.md`  
+**Version:** 0.6.0  
+**Status:** ✅ Complete (20 base consonants + 7 defined ECs + 3 reserved slots)
+
+---
+
+## 📐 **Special Notes:**
+
+**3D Spatial Coordinate System:**
+
+- **X, Y, Z** form an integrated Cartesian coordinate system
+- Complete spatial words use three syllables: `[X-vowel] + [Y-vowel] + [Z-vowel]`
+- Examples: **xiyizi** (0,0,0), **xayaza** (+,+,+), **xuyuzu** (−,−,−)
+
+**Gradation Exceptions:**
+
+- **Family W (Emotion):** a=positive → u=negative
+- **Families X, Y, Z (Spatial):** a=maximum → u=minimum
+
+---
+
