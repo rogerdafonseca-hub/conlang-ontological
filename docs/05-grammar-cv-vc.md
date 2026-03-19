@@ -1,662 +1,878 @@
+# 📘 GRAMÁTICA FUNDAMENTAL CV & VC
 
-### **RESUMO DAS 25 FAMÍLIAS:**
+**Sistema de Partículas Básicas e Casos Gramaticais**
 
-|#|Família|CV|VC|Função|
-|---|---|---|---|---|
-|1|**B**|ba/be/bi/bo/bu|ab/eb/ib/ob/ub|Pronouns & Reference|
-|2|**M**|ma/me/mi/mo/mu|am/em/im/om/um|Modal|
-|3|**T**|ta/te/ti/to/tu|at/et/it/ot/ut|Tense|
-|4|**K**|ka/ke/ki/ko/ku|ak/ek/ik/ok/uk|Question|
-|5|**P**|pa/pe/pi/po/pu|ap/ep/ip/op/up|Preposition|
-|6|**N**|na/ne/ni/no/nu|an/en/in/on/un|Quantity|
-|7|**D**|da/de/di/do/du|ad/ed/id/od/ud|Demonstrative|
-|8|**L**|la/le/li/lo/lu|al/el/il/ol/ul|Conjunction|
-|9|**S**|sa/se/si/so/su|as/es/is/os/us|Spatial|
-|10|**V**|va/ve/vi/vo/vu|av/ev/iv/ov/uv|Action/Verbal|
-|11|**G**|ga/ge/gi/go/gu|ag/eg/ig/og/ug|Aspect|
-|12|**R**|ra/re/ri/ro/ru|ar/er/ir/or/ur|State/Condition|
-|13|**F**|fa/fe/fi/fo/fu|af/ef/if/of/uf|Comparison|
-|14|**H**|ha/he/hi/ho/hu|ah/eh/ih/oh/uh|Relation|
-|15|**Y**|ya/ye/yi/yo/yu|ay/ey/iy/oy/uy|Perception/Sensory|
-|16|**Š**|ša/še/ši/šo/šu|aš/eš/iš/oš/uš|Boundary/Limit|
-|17|**Ň**|ňa/ňe/ňi/ňo/ňu|ař/eř/iř/oř/uř|Possession/Belonging|
-|18|**Č**|ča/če/či/čo/ču|ač/eč/ič/oč/uč|Cognition/Mental|
-|19|**Ž**|ža/že/ži/žo/žu|až/ež/iž/ož/už|Intensity/Degree|
-|20|**J̌**|ǰa/ǰe/ǰi/ǰo/ǰu|aǰ/eǰ/iǰ/oǰ/uǰ|Causality/Agency|
-|21|**Ñ**|ña/ñe/ñi/ño/ñu|añ/eñ/iñ/oñ/uñ|Manner/Mode|
-|22|**C**|ca/ce/ci/co/cu|ac/ec/ic/oc/uc|Movement/Direction|
-|23|**X**|xa/xe/xi/xo/xu|ax/ex/ix/ox/ux|Existence/Reality|
-|24|**W**|wa/we/wi/wo/wu|aw/ew/iw/ow/uw|Emotion/Affect|
-|25|**Z**|za/ze/zi/zo/zu|az/ez/iz/oz/uz|Intention/Volition|
+_Versão 0.6.0 — Reestruturação Completa_
 
 ---
 
-## 🎯 COBERTURA GRAMATICAL COMPLETA
+## 🎯 Visão Geral
 
-✅ **Pronomes:** B, Ň
-✅ **Tempo/Aspecto:** T, G
-✅ **Modalidade:** M, R
-✅ **Interrogativos:** K
-✅ **Preposições:** P, S, Š
-✅ **Determinantes:** D, N
-✅ **Conjunções:** L
-✅ **Verbos:** V, C
-✅ **Comparação:** F
-✅ **Relações:** H
-✅ **Percepção:** Y
-✅ **Cognição:** Č
-✅ **Intensidade:** Ž, F
-✅ **Causalidade:** J̌
-✅ **Maneira:** Ñ
-✅ **Existência:** X
-✅ **Emoção:** W
-✅ **Intenção:** Z
+O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal gramatical** da língua, fornecendo 200 partículas essenciais organizadas em 20 famílias funcionais.
 
----
-## 📋 FAMÍLIA B
+**Estrutura:**
 
-### **CV System**
-
-| Particle | Function                          | Example            |
-| -------- | --------------------------------- | ------------------ |
-| **ba**   | I, me (1st person singular)       | `ba iva` (I do)    |
-| **be**   | you (2nd person singular)         | `be iva` (you do)  |
-| **bi**   | he/she/they (3rd person singular) | `bi iva` (they do) |
-| **bo**   | we (1st person plural)            | `bo iva` (we do)   |
-| **bu**   | they (3rd person plural)          | `bu iva` (they do) |
-### **VC System**
-
-| Particle | Function                              | Example                             | Relation to CV    |
-| -------- | ------------------------------------- | ----------------------------------- | ----------------- |
-| **ab**   | myself (reflexive 1st sg)             | `ba ab iva` (I do it myself)        | Extension of `ba` |
-| **eb**   | yourself (reflexive 2nd sg)           | `be eb iva` (you do it yourself)    | Extension of `be` |
-| **ib**   | oneself/themselves (reflexive 3rd sg) | `bi ib iva` (they do it themselves) | Extension of `bi` |
-| **ob**   | ourselves (reflexive 1st pl)          | `bo ob iva` (we do it ourselves)    | Extension of `bo` |
-| **ub**   | each other (reciprocal)               | `bu ub awi` (they anger each other) | Extension of `bu` |
+- **CV:** 20 consoantes × 5 vogais = 100 partículas básicas
+- **VC:** 20 consoantes × 5 vogais = 100 partículas expandidas
+- **Total:** 200 recursos gramaticais fundamentais
 
 ---
 
-## 📋 FAMÍLIA M: MODAL
+## 🌐 As 20 Famílias Gramaticais
 
-### **CV System**
-
-|Particle|Function|Example|
-|---|---|---|
-|**ma**|can, able to, capability|`ba ma iva` (I can do)|
-|**me**|may, permission, allowed to|`be me iva` (you may do)|
-|**mi**|neutral/indicative (no modality)|`bi mi iva` (they do [statement of fact])|
-|**mo**|must, should, obligation|`bo mo iva` (we must do)|
-|**mu**|will, future certainty, inevitable|`bu mu iva` (they will do)|
-
----
-
-### **VC System**
-
-|Particle|Function|Example|Relation to CV|
+|#|Consoante|Domínio Gramatical|Função Principal|
 |---|---|---|---|
-|**am**|cannot, unable to, incapable|`ba am iva` (I cannot do)|**Mirror** of `ma`|
-|**em**|may not, forbidden, not allowed|`be em iva` (you may not do)|**Mirror** of `me`|
-|**im**|might, possible, conditional|`bi im iva` (they might do)|**Independent** (conditional)|
-|**om**|should, recommendation (weaker than must)|`bo om iva` (we should do)|Related to `mo` (weaker)|
-|**um**|certainly, definitely, absolute certainty|`bu um iva` (they certainly will do)|Extension of `mu` (stronger)|
-
+|1|**B**|Pronouns & Reference|Pronomes, referência pessoal|
+|2|**M**|Modal|Modalidade (poder, dever, querer)|
+|3|**T**|Tense|Tempo (passado, presente, futuro)|
+|4|**K**|Question|Interrogativos (quem, o quê, onde)|
+|5|**P**|Preposition|Preposições espaciais|
+|6|**N**|Quantity|Quantidade, números|
+|7|**D**|Demonstrative|Demonstrativos (este, esse, aquele)|
+|8|**L**|Conjunction|Conjunções lógicas|
+|9|**S**|Spatial|Relações espaciais|
+|10|**V**|Action/Verbal|Ações, verbos|
+|11|**G**|Aspect|Aspecto verbal|
+|12|**R**|State/Condition|Estados, condições|
+|13|**F**|Comparison|Comparação|
+|14|**H**|Relation|Relações|
+|15|**Š**|Boundary/Limit|Fronteiras, limites|
+|16|**Ž**|Intensity/Degree|Intensidade, grau|
+|17|**J̌**|Causality/Agency|Causalidade, agência|
+|18|**W**|Emotion/Affect|Emoção, afeto|
+|19|**Z**|Intention/Volition|Intenção, vontade|
+|20|**Ľ**|Evidentiality|Fonte de informação, certeza epistêmica|
 
 ---
 
-## 📋 FAMÍLIA T: TENSE
+## 📋 FAMÍLIA B — Pronouns & Reference
+
+**Função:** Pronomes pessoais e referência a entidades
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ta**|past tense|
-|**te**|present tense|
-|**ti**|timeless, general truth|
-|**to**|future tense|
-|**tu**|immediate (just now / about to)|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Pessoa|
 |---|---|---|
-|**at**|past habitual (used to)|Extension of `ta`|
-|**et**|present continuous (is doing)|Extension of `te`|
-|**it**|present perfect (has done)|Independent|
-|**ot**|future intentional (going to)|Extension of `to`|
-|**ut**|past perfect (had done)|Independent|
+|**ba**|I, me|1ª pessoa singular|
+|**be**|you|2ª pessoa singular|
+|**bi**|he/she/they|3ª pessoa singular|
+|**bo**|we|1ª pessoa plural|
+|**bu**|you all, they|2ª/3ª pessoa plural|
 
 ---
 
-## 📋 FAMÍLIA K: QUESTION
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**ka**|what?|
-|**ke**|who?|
-|**ki**|where?|
-|**ko**|when?|
-|**ku**|why?|
-
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**ak**|which? (selection)|Extension of `ka`|
-|**ek**|whose?|Extension of `ke`|
-|**ik**|where to/from? (directional)|Extension of `ki`|
-|**ok**|how long? (duration)|Extension of `ko`|
-|**uk**|how? (manner)|Independent|
+|**ab**|myself|Reflexivo de ba|
+|**eb**|yourself|Reflexivo de be|
+|**ib**|oneself, themselves|Reflexivo de bi|
+|**ob**|ourselves|Reflexivo de bo|
+|**ub**|each other|Recíproco|
 
 ---
 
-## 📋 FAMÍLIA P: PREPOSITION
+## 📋 FAMÍLIA M — Modal
+
+**Função:** Modalidade (possibilidade, necessidade, permissão)
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**pa**|to, toward, directional|
-|**pe**|from, source, origin|
-|**pi**|at, in, locative|
-|**po**|with, comitative|
-|**pu**|for, benefactive, purpose|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Tipo|
 |---|---|---|
-|**ap**|into, entering|Extension of `pa`|
-|**ep**|out of, exiting|Extension of `pe`|
-|**ip**|on, upon, surface contact|Extension of `pi`|
-|**op**|together with, accompaniment|Extension of `po`|
-|**up**|without, abessive|Mirror of `pu`|
+|**ma**|can, be able to|Capacidade/possibilidade|
+|**me**|may, be allowed to|Permissão|
+|**mi**|neutral (indicative)|Sem modalidade|
+|**mo**|must, should|Obrigação/necessidade|
+|**mu**|will (certain future)|Certeza futura|
 
 ---
-## 📋 FAMÍLIA N: QUANTITY
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**na**|none, zero quantity|
-|**ne**|some, indefinite small quantity|
-|**ni**|several, moderate quantity|
-|**no**|many, large quantity|
-|**nu**|all, every, totality|
 
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**an**|any, whatever quantity|Extension of `na`|
-|**en**|few, small but definite|Extension of `ne`|
-|**in**|most, majority|Extension of `ni`|
-|**on**|much, great amount|Extension of `no`|
-|**un**|each, every individual (distributive)|Extension of `nu`|
+|**am**|cannot, be unable to|Negação de ma|
+|**em**|may not, be forbidden|Negação de me|
+|**im**|might, could (conditional)|Condicional|
+|**om**|should (recomendação)|Modalidade fraca|
+|**um**|certainly will|Reforço de mu|
 
 ---
 
-## 📋 FAMÍLIA D: DEMONSTRATIVE
+## 📋 FAMÍLIA T — Tense
+
+**Função:** Tempo verbal (passado, presente, futuro)
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**da**|this, proximal (near speaker)|
-|**de**|that, medial (near listener)|
-|**di**|that, distal (away from both)|
-|**do**|the, definite article|
-|**du**|a/an, indefinite article|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Tempo|
 |---|---|---|
-|**ad**|here, this place|Extension of `da`|
-|**ed**|there, that place (near you)|Extension of `de`|
-|**id**|over there, that place (distant)|Extension of `di`|
-|**od**|the same, that very one|Extension of `do`|
-|**ud**|another, a different one|Extension of `du`|
+|**ta**|past|Passado|
+|**te**|present|Presente|
+|**ti**|future|Futuro|
+|**to**|perfect (completed)|Perfectivo|
+|**tu**|progressive (ongoing)|Progressivo|
 
 ---
 
-## 📋 FAMÍLIA L: CONJUNCTION
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**la**|and, addition|
-|**le**|or, alternative|
-|**li**|but, contrast|
-|**lo**|if, conditional|
-|**lu**|because, cause/reason|
-
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**al**|also, too, as well|Extension of `la`|
-|**el**|either...or, exclusive alternative|Extension of `le`|
-|**il**|however, nevertheless|Extension of `li`|
-|**ol**|then, therefore, consequence|Extension of `lo`|
-|**ul**|so that, purpose|Extension of `lu`|
+|**at**|distant past|Passado remoto|
+|**et**|immediate present|Presente imediato|
+|**it**|near future|Futuro próximo|
+|**ot**|completed action|Ação completada|
+|**ut**|continuous action|Ação contínua|
 
 ---
 
-## 📋 FAMÍLIA S: SPATIAL
+## 📋 FAMÍLIA K — Question
+
+**Função:** Interrogativos e perguntas
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**sa**|up, above, superior|
-|**se**|down, below, inferior|
-|**si**|middle, center, between|
-|**so**|near, close, proximity|
-|**su**|far, distant, remote|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Pergunta|
 |---|---|---|
-|**as**|upward, ascending|Extension of `sa`|
-|**es**|downward, descending|Extension of `se`|
-|**is**|across, through the middle|Extension of `si`|
-|**os**|around, surrounding|Extension of `so`|
-|**us**|beyond, past, further|Extension of `su`|
+|**ka**|what?|O quê?|
+|**ke**|who?|Quem?|
+|**ki**|where?|Onde?|
+|**ko**|when?|Quando?|
+|**ku**|why?|Por quê?|
 
 ---
 
-## 📋 FAMÍLIA V: ACTION/VERBAL
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**va**|be, exist, copula|
-|**ve**|do, make, perform action|
-|**vi**|have, possess|
-|**vo**|become, change into|
-|**vu**|cause, make (causative)|
-
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**av**|not be, non-existence|Mirror of `va`|
-|**ev**|happen, occur|Extension of `ve`|
-|**iv**|belong to, possession relation|Extension of `vi`|
-|**ov**|remain, stay, continue being|Extension of `vo`|
-|**uv**|let, allow, permit (permissive causative)|Extension of `vu`|
+|**ak**|which? what kind?|Qual tipo?|
+|**ek**|whose?|De quem?|
+|**ik**|how?|Como?|
+|**ok**|how much? how many?|Quanto?|
+|**uk**|whether, if|Se (interrogativo)|
 
 ---
 
-## 📋 FAMÍLIA G: ASPECT
+## 📋 FAMÍLIA P — Preposition
+
+**Função:** Preposições espaciais e abstratas
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ga**|start, begin, inchoative|
-|**ge**|continue, progressive|
-|**gi**|complete, perfective|
-|**go**|repeat, iterative|
-|**gu**|stop, cease, terminative|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação|
 |---|---|---|
-|**ag**|about to, prospective|Extension of `ga`|
-|**eg**|still, ongoing|Extension of `ge`|
-|**ig**|already, anterior|Extension of `gi`|
-|**og**|again, once more|Extension of `go`|
-|**ug**|no longer, cessative|Extension of `gu`|
+|**pa**|to, toward|Direção|
+|**pe**|by, through|Meio/passagem|
+|**pi**|in, at, on|Localização|
+|**po**|from, since|Origem|
+|**pu**|with, together|Companhia|
 
 ---
 
-## 📋 FAMÍLIA R: STATE/CONDITION
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**ra**|active, dynamic state|
-|**re**|passive, recipient of action|
-|**ri**|static, unchanging state|
-|**ro**|potential, possible state|
-|**ru**|necessary, required state|
-
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**ar**|in process, undergoing|Extension of `ra`|
-|**er**|affected by, experiencing|Extension of `re`|
-|**ir**|stable, fixed|Extension of `ri`|
-|**or**|able to be, capable of being|Extension of `ro`|
-|**ur**|must be, obligatory state|Extension of `ru`|
+|**ap**|away from|Afastamento|
+|**ep**|around, near|Proximidade|
+|**ip**|inside, within|Interior|
+|**op**|out of, outside|Exterior|
+|**up**|without, separate from|Separação|
 
 ---
-## 📋 FAMÍLIA F: COMPARISON
+
+## 📋 FAMÍLIA N — Quantity
+
+**Função:** Quantidade, números e quantificadores
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**fa**|equal, same, as...as|
-|**fe**|less, inferior degree|
-|**fi**|different, unlike|
-|**fo**|more, superior degree|
-|**fu**|most, superlative|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Quantidade|
 |---|---|---|
-|**af**|as much as, equivalent to|Extension of `fa`|
-|**ef**|least, minimum|Extension of `fe`|
-|**if**|other than, except|Extension of `fi`|
-|**of**|too much, excessive|Extension of `fo`|
-|**uf**|very, extremely|Extension of `fu`|
+|**na**|not, no|Negação/zero|
+|**ne**|nor, neither|Nem|
+|**ni**|none, nothing|Nenhum|
+|**no**|yes|Afirmação|
+|**nu**|all, everything|Tudo|
 
 ---
 
-## 📋 FAMÍLIA H: RELATION
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**ha**|about, concerning, topic|
-|**he**|like, similar to|
-|**hi**|as, in the role of|
-|**ho**|according to, based on|
-|**hu**|instead of, replacement|
-
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**ah**|regarding, with respect to|Extension of `ha`|
-|**eh**|unlike, dissimilar to|Mirror of `he`|
-|**ih**|such as, for example|Extension of `hi`|
-|**oh**|depending on, conditional on|Extension of `ho`|
-|**uh**|rather than, preference|Extension of `hu`|
+|**an**|almost not|Quase nenhum|
+|**en**|probably not|Provavelmente não|
+|**in**|simply not|Simplesmente não|
+|**on**|definitely not|Definitivamente não|
+|**un**|never, not at all|Nunca, de forma alguma|
 
 ---
 
-## 📋 FAMÍLIA Y: PERCEPTION/SENSORY
+## 📋 FAMÍLIA D — Demonstrative
+
+**Função:** Demonstrativos (este, esse, aquele)
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ya**|see, visual perception|
-|**ye**|hear, auditory perception|
-|**yi**|feel, tactile perception|
-|**yo**|seem, appear, perception marker|
-|**yu**|sense, perceive (general)|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Distância|
 |---|---|---|
-|**ay**|visible, can be seen|Extension of `ya`|
-|**ey**|audible, can be heard|Extension of `ye`|
-|**iy**|tangible, can be felt|Extension of `yi`|
-|**oy**|evident, apparent|Extension of `yo`|
-|**uy**|perceptible, noticeable|Extension of `yu`|
+|**da**|this (proximal)|Este (perto do falante)|
+|**de**|that (medial)|Esse (perto do ouvinte)|
+|**di**|that (distal)|Aquele (longe de ambos)|
+|**do**|the same|O mesmo|
+|**du**|such, like this|Tal, assim|
 
 ---
 
-## 📋 FAMÍLIA Š: BOUNDARY/LIMIT
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**ša**|inside, within, interior|
-|**še**|outside, beyond, exterior|
-|**ši**|edge, border, boundary|
-|**šo**|between, among|
-|**šu**|throughout, across entire extent|
-
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**aš**|into, entering interior|Extension of `ša`|
-|**eš**|out of, exiting exterior|Extension of `še`|
-|**iš**|along, following boundary|Extension of `ši`|
-|**oš**|through, passing between|Extension of `šo`|
-|**uš**|all over, covering extent|Extension of `šu`|
+|**ad**|this one here|Este aqui (ênfase)|
+|**ed**|that one there|Esse aí (ênfase)|
+|**id**|that one yonder|Aquele lá (ênfase)|
+|**od**|exactly the same|Exatamente o mesmo|
+|**ud**|precisely such|Precisamente tal|
 
 ---
 
-# 🎯 FAMÍLIA Ň — POSSESSION/BELONGING (Posse/Pertencimento)
+## 📋 FAMÍLIA L — Conjunction
+
+**Função:** Conjunções e conectivos lógicos
 
 ---
-
-## 📋 FAMÍLIA Ň ř: POSSESSION/BELONGING
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ňa**|my, 1st person possessive|
-|**ňe**|your, 2nd person possessive|
-|**ňi**|their, 3rd person possessive|
-|**ňo**|our, 1st person plural possessive|
-|**ňu**|of, genitive/possessive marker|
-
-### **VC System**
-
-| Particle | Function                          | Relation to CV    |
-| -------- | --------------------------------- | ----------------- |
-| **ař**   | mine, possessive pronoun 1st sg   | Extension of `ňa` |
-| **eř**   | yours, possessive pronoun 2nd sg  | Extension of `ňe` |
-| **iř**   | theirs, possessive pronoun 3rd sg | Extension of `ňi` |
-| **oř**   | ours, possessive pronoun 1st pl   | Extension of `ňo` |
-| **uř**   | belonging to, ownership relation  | Extension of `ňu` |
-
-
----
-
-## 📋 FAMÍLIA Č: COGNITION/MENTAL
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**ča**|know, knowledge|
-|**če**|think, thought|
-|**či**|believe, opinion|
-|**čo**|understand, comprehension|
-|**ču**|remember, recall|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Lógica|
 |---|---|---|
-|**ač**|unknown, not known|Mirror of `ča`|
-|**eč**|consider, ponder|Extension of `če`|
-|**ič**|doubt, uncertainty|Extension of `či`|
-|**oč**|realize, come to understand|Extension of `čo`|
-|**uč**|forget, not recall|Mirror of `ču`|
+|**la**|and|E (adição)|
+|**le**|or|Ou (alternativa)|
+|**li**|but|Mas (contraste)|
+|**lo**|if|Se (condicional)|
+|**lu**|then|Então (consequência)|
 
 ---
-
-## 📋 FAMÍLIA Ž: INTENSITY/DEGREE
-
-### **CV System**
-
-|Particle|Function|
-|---|---|
-|**ža**|not, negation|
-|**že**|a little, slightly|
-|**ži**|somewhat, moderately|
-|**žo**|quite, considerably|
-|**žu**|very, extremely|
 
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**až**|barely, scarcely|Extension of `ža`|
-|**ež**|slightly more, a bit|Extension of `že`|
-|**iž**|enough, sufficiently|Extension of `ži`|
-|**ož**|rather, fairly|Extension of `žo`|
-|**už**|too, excessively|Extension of `žu`|
+|**al**|both...and|Tanto...quanto|
+|**el**|either...or|Ou...ou|
+|**il**|however, yet|Porém, contudo|
+|**ol**|even if|Mesmo se|
+|**ul**|therefore|Portanto, logo|
 
 ---
-## 📋 FAMÍLIA J̌: CAUSALITY/AGENCY
+
+## 📋 FAMÍLIA S — Spatial
+
+**Função:** Relações espaciais específicas
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ǰa**|by, agent marker (passive)|
-|**ǰe**|due to, caused by|
-|**ǰi**|despite, in spite of|
-|**ǰo**|thanks to, because of (positive)|
-|**ǰu**|in order to, for the purpose of|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Posição|
 |---|---|---|
-|**aǰ**|via, by means of|Extension of `ǰa`|
-|**eǰ**|resulting from, consequence of|Extension of `ǰe`|
-|**iǰ**|regardless of, without regard to|Extension of `ǰi`|
-|**oǰ**|owing to, on account of|Extension of `ǰo`|
-|**uǰ**|aimed at, intended for|Extension of `ǰu`|
+|**sa**|above, over|Acima, sobre|
+|**se**|below, under|Abaixo, sob|
+|**si**|beside, next to|Ao lado, próximo|
+|**so**|between, among|Entre, no meio|
+|**su**|behind, after|Atrás, depois|
 
 ---
 
-## 📋 FAMÍLIA Ñ: MANNER/MODE
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**as**|high above|Muito acima|
+|**es**|deep below|Profundamente abaixo|
+|**is**|right beside|Logo ao lado|
+|**os**|right between|Bem no meio|
+|**us**|far behind|Bem atrás|
+
+---
+
+## 📋 FAMÍLIA V — Action/Verbal
+
+**Função:** Marcadores de ação e categorias verbais
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ña**|thus, in this way|
-|**ñe**|how, in what manner|
-|**ñi**|so, in such a way|
-|**ño**|well, properly, correctly|
-|**ñu**|badly, improperly, wrongly|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Tipo de Ação|
 |---|---|---|
-|**añ**|like this, in this manner|Extension of `ña`|
-|**eñ**|somehow, in some way|Extension of `ñe`|
-|**iñ**|like that, in that manner|Extension of `ñi`|
-|**oñ**|better, more correctly|Extension of `ño`|
-|**uñ**|worse, less correctly|Extension of `ñu`|
+|**va**|do, make (generic action)|Ação genérica|
+|**ve**|become, change into|Mudança de estado|
+|**vi**|be, exist|Existência|
+|**vo**|happen, occur|Ocorrência|
+|**vu**|cause, make happen|Causação|
 
 ---
 
-## 📋 FAMÍLIA C: MOVEMENT/DIRECTION
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**av**|undo, reverse|Desfazer ação|
+|**ev**|keep being, remain|Permanecer|
+|**iv**|continue to be|Continuar sendo|
+|**ov**|start to happen|Começar a ocorrer|
+|**uv**|let happen, allow|Permitir ocorrer|
+
+---
+
+## 📋 FAMÍLIA G — Aspect
+
+**Função:** Aspecto verbal (como a ação se desenrola)
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**ca**|go, move away from speaker|
-|**ce**|come, move toward speaker|
-|**ci**|pass, move past/through|
-|**co**|arrive, reach destination|
-|**cu**|leave, depart from|
+|Partícula|Função|Aspecto|
+|---|---|---|
+|**ga**|begin, start|Incoativo|
+|**ge**|continue|Continuativo|
+|**gi**|habitually, regularly|Habitual|
+|**go**|finish, complete|Completivo|
+|**gu**|repeat, again|Iterativo|
+
+---
 
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**ac**|going, departing (progressive)|Extension of `ca`|
-|**ec**|coming, approaching (progressive)|Extension of `ce`|
-|**ic**|passing by, in transit|Extension of `ci`|
-|**oc**|having arrived, present|Extension of `co`|
-|**uc**|having left, absent|Extension of `cu`|
+|**ag**|be about to start|Prospectivo|
+|**eg**|keep on|Persistência|
+|**ig**|always, permanently|Permanente|
+|**og**|have finished|Resultativo|
+|**ug**|do again and again|Repetitivo|
 
 ---
-## 📋 FAMÍLIA X: EXISTENCE/REALITY
+
+## 📋 FAMÍLIA R — State/Condition
+
+**Função:** Estados e condições
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**xa**|real, actual, truly existing|
-|**xe**|possible, potential, could exist|
-|**xi**|hypothetical, imaginary|
-|**xo**|certain, definitely existing|
-|**xu**|impossible, cannot exist|
+|Partícula|Função|Estado|
+|---|---|---|
+|**ra**|become|Mudança de estado|
+|**re**|remain, stay|Permanência|
+|**ri**|seem, appear|Aparência|
+|**ro**|feel (physical state)|Sensação física|
+|**ru**|be in condition of|Estar em condição|
+
+---
 
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**ax**|really, actually, in reality|Extension of `xa`|
-|**ex**|possibly, potentially|Extension of `xe`|
-|**ix**|supposedly, allegedly|Extension of `xi`|
-|**ox**|certainly, definitely|Extension of `xo`|
-|**ux**|impossibly, cannot be|Extension of `xu`|
+|**ar**|change into|Transformação|
+|**er**|stay as|Manter-se como|
+|**ir**|look like|Parecer com|
+|**or**|feel like|Sentir-se como|
+|**ur**|be characterized by|Ser caracterizado por|
+
+---
+# 📘 GRAMÁTICA FUNDAMENTAL CV & VC (Continuação)
 
 ---
 
-# 🎯 FAMÍLIA W — EMOTION/AFFECT (Emoção/Afeto)
+## 📋 FAMÍLIA F — Comparison
+
+**Função:** Comparação e gradação
 
 ---
-
-## 📋 FAMÍLIA W: EMOTION/AFFECT
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**wa**|want, desire|
-|**we**|like, enjoy|
-|**wi**|neutral, indifferent|
-|**wo**|dislike, not enjoy|
-|**wu**|hate, strong negative feeling|
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
+|Partícula|Função|Comparação|
 |---|---|---|
-|**aw**|wish, hope for|Extension of `wa`|
-|**ew**|love, strong positive feeling|Extension of `we`|
-|**iw**|accept, tolerate|Extension of `wi`|
-|**ow**|reject, refuse|Extension of `wo`|
-|**uw**|fear, dread|Independent|
+|**fa**|equal, as...as|Igualdade|
+|**fe**|similar, like|Semelhança|
+|**fi**|different, unlike|Diferença|
+|**fo**|more, -er|Comparativo superior|
+|**fu**|most, -est|Superlativo|
 
 ---
 
-## 📋 FAMÍLIA Z: INTENTION/VOLITION
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**af**|exactly equal|Exatamente igual|
+|**ef**|somewhat similar|Um pouco similar|
+|**if**|quite different|Bastante diferente|
+|**of**|much more|Muito mais|
+|**uf**|by far the most|De longe o mais|
+
+---
+
+## 📋 FAMÍLIA H — Relation
+
+**Função:** Relações entre entidades
+
+---
 
 ### **CV System**
 
-|Particle|Function|
-|---|---|
-|**za**|try, attempt|
-|**ze**|intend, plan to|
-|**zi**|decide, choose to|
-|**zo**|refuse, decline to|
-|**zu**|agree, consent to|
+|Partícula|Função|Relação|
+|---|---|---|
+|**ha**|part of|Parte de|
+|**he**|member of|Membro de|
+|**hi**|related to|Relacionado a|
+|**ho**|belong to|Pertencer a|
+|**hu**|connected with|Conectado com|
+
+---
 
 ### **VC System**
 
-|Particle|Function|Relation to CV|
+|Partícula|Função|Relação com CV|
 |---|---|---|
-|**az**|attempt at, effort toward|Extension of `za`|
-|**ez**|on purpose, intentionally|Extension of `ze`|
-|**iz**|choice, option|Extension of `zi`|
-|**oz**|unwilling, reluctant|Extension of `zo`|
-|**uz**|willing, ready to|Extension of `zu`|
+|**ah**|component of|Componente de|
+|**eh**|element of|Elemento de|
+|**ih**|linked to|Ligado a|
+|**oh**|property of|Propriedade de|
+|**uh**|associated with|Associado com|
+
+---
+
+## 📋 FAMÍLIA Š — Boundary/Limit
+
+**Função:** Fronteiras, limites e transições
+
+---
+
+### **CV System**
+
+|Partícula|Função|Limite|
+|---|---|---|
+|**ša**|at edge, on border|Na borda|
+|**še**|at boundary|No limite|
+|**ši**|at threshold|No limiar|
+|**šo**|at frontier|Na fronteira|
+|**šu**|at extreme|No extremo|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**aš**|beyond edge|Além da borda|
+|**eš**|within boundary|Dentro do limite|
+|**iš**|across threshold|Através do limiar|
+|**oš**|past frontier|Passado a fronteira|
+|**uš**|to the extreme|Até o extremo|
+
+---
+
+## 📋 FAMÍLIA Ž — Intensity/Degree
+
+**Função:** Intensidade e grau
+
+---
+
+### **CV System**
+
+|Partícula|Função|Grau|
+|---|---|---|
+|**ža**|barely, hardly|Mal, quase não|
+|**že**|slightly, a bit|Levemente|
+|**ži**|moderately|Moderadamente|
+|**žo**|quite, considerably|Consideravelmente|
+|**žu**|extremely, very|Extremamente|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**až**|minimally|Minimamente|
+|**ež**|somewhat|De certa forma|
+|**iž**|fairly|Razoavelmente|
+|**ož**|highly|Altamente|
+|**už**|maximally|Maximamente|
+
+---
+
+## 📋 FAMÍLIA J̌ — Causality/Agency
+
+**Função:** Causalidade e agência
+
+---
+
+### **CV System**
+
+|Partícula|Função|Causalidade|
+|---|---|---|
+|**ǰa**|because of|Por causa de|
+|**ǰe**|due to|Devido a|
+|**ǰi**|for (purpose)|Para (propósito)|
+|**ǰo**|by means of|Por meio de|
+|**ǰu**|by (agent)|Por (agente)|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**aǰ**|caused by|Causado por|
+|**eǰ**|resulting from|Resultante de|
+|**iǰ**|in order to|A fim de|
+|**oǰ**|through, via|Através de|
+|**uǰ**|performed by|Realizado por|
+
+---
+
+## 📋 FAMÍLIA W — Emotion/Affect
+
+**Função:** Emoção e afeto
+
+---
+
+### **CV System**
+
+|Partícula|Função|Emoção|
+|---|---|---|
+|**wa**|with happiness|Com felicidade|
+|**we**|with surprise|Com surpresa|
+|**wi**|with indifference|Com indiferença|
+|**wo**|with sadness|Com tristeza|
+|**wu**|with anger|Com raiva|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**aw**|joyfully|Com alegria|
+|**ew**|curiously|Com curiosidade|
+|**iw**|calmly|Com calma|
+|**ow**|mournfully|Com pesar|
+|**uw**|furiously|Com fúria|
+
+---
+
+## 📋 FAMÍLIA Z — Intention/Volition
+
+**Função:** Intenção e vontade
+
+---
+
+### **CV System**
+
+|Partícula|Função|Intenção|
+|---|---|---|
+|**za**|wanting to|Querendo|
+|**ze**|intending to|Intencionando|
+|**zi**|willing to|Disposto a|
+|**zo**|trying to|Tentando|
+|**zu**|deciding to|Decidindo|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**az**|desiring|Desejando|
+|**ez**|planning to|Planejando|
+|**iz**|ready to|Pronto para|
+|**oz**|attempting to|Tentando|
+|**uz**|determined to|Determinado a|
+
+---
+
+## 📋 FAMÍLIA Ľ — Evidentiality
+
+**Função:** Fonte de informação e certeza epistêmica
+
+---
+
+### **CV System**
+
+|Partícula|Função|Evidência|
+|---|---|---|
+|**ľa**|I heard (hearsay)|Ouvi dizer|
+|**ľe**|someone told me|Me contaram|
+|**ľi**|I inferred|Deduzi|
+|**ľo**|I perceived|Percebi|
+|**ľu**|I witnessed|Presenciei|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**aľ**|reportedly|Supostamente|
+|**eľ**|apparently|Aparentemente|
+|**iľ**|presumably|Presumivelmente|
+|**oľ**|evidently|Evidentemente|
+|**uľ**|certainly|Certamente|
+
+---
+
+## ✅ SISTEMA CV & VC COMPLETO
+
+**Total:** 20 famílias × 5 vogais × 2 sistemas = **200 partículas gramaticais**
+
+---
+
+### **Resumo das Famílias:**
+
+|Família|Domínio|CV|VC|
+|---|---|---|---|
+|B|Pronouns|5|5|
+|M|Modal|5|5|
+|T|Tense|5|5|
+|K|Question|5|5|
+|P|Preposition|5|5|
+|N|Quantity|5|5|
+|D|Demonstrative|5|5|
+|L|Conjunction|5|5|
+|S|Spatial|5|5|
+|V|Action/Verbal|5|5|
+|G|Aspect|5|5|
+|R|State/Condition|5|5|
+|F|Comparison|5|5|
+|H|Relation|5|5|
+|Š|Boundary/Limit|5|5|
+|Ž|Intensity/Degree|5|5|
+|J̌|Causality/Agency|5|5|
+|W|Emotion/Affect|5|5|
+|Z|Intention/Volition|5|5|
+|Ľ|Evidentiality|5|5|
+|**TOTAL**|**20 famílias**|**100**|**100**|
+
+---
+
+# 📘 GRAMÁTICA FUNDAMENTAL CV & VC (Adição de ECs)
+
+---
+
+## ➕ EXPANSÃO: ENCONTROS CONSONANTAIS (ECs)
+
+**Os Encontros Consonantais expandem o sistema verticalmente, adicionando 50 partículas CV + 50 partículas VC para cobrir funções gramaticais adicionais.**
+
+---
+
+## 📋 EC PR — Manner/Mode
+
+**Função:** Maneira e modo de ação
+
+---
+
+### **CV System**
+
+|Partícula|Função|Modo|
+|---|---|---|
+|**pra**|roughly, crudely|De forma bruta|
+|**pre**|simply, plainly|De forma simples|
+|**pri**|normally, standardly|De forma normal|
+|**pro**|elegantly, refinedly|De forma elegante|
+|**pru**|artfully, sophisticatedly|De forma sofisticada|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**apr**|in crude manner|Em modo bruto|
+|**epr**|in simple manner|Em modo simples|
+|**ipr**|in standard manner|Em modo padrão|
+|**opr**|in refined manner|Em modo refinado|
+|**upr**|in sophisticated manner|Em modo sofisticado|
+
+---
+
+## 📋 EC BR — Perception/Sensory
+
+**Função:** Percepção e sentidos
+
+---
+
+### **CV System**
+
+|Partícula|Função|Sentido|
+|---|---|---|
+|**bra**|visually, by sight|Visualmente|
+|**bre**|auditorily, by hearing|Auditivamente|
+|**bri**|tactilely, by touch|Tatilmente|
+|**bro**|gustatorily, by taste|Gustativamente|
+|**bru**|olfactorily, by smell|Olfativamente|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**abr**|seeing|Vendo|
+|**ebr**|hearing|Ouvindo|
+|**ibr**|touching|Tocando|
+|**obr**|tasting|Provando|
+|**ubr**|smelling|Cheirando|
+
+---
+
+## 📋 EC TR — Movement/Direction
+
+**Função:** Movimento e direção
+
+---
+
+### **CV System**
+
+|Partícula|Função|Movimento|
+|---|---|---|
+|**tra**|upward, ascending|Para cima|
+|**tre**|downward, descending|Para baixo|
+|**tri**|forward, ahead|Para frente|
+|**tro**|backward, behind|Para trás|
+|**tru**|sideways, lateral|Para o lado|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**atr**|rising|Subindo|
+|**etr**|falling|Caindo|
+|**itr**|advancing|Avançando|
+|**otr**|retreating|Recuando|
+|**utr**|circling|Circulando|
+
+---
+
+## 📋 EC DR — Existence/Reality
+
+**Função:** Existência e realidade
+
+---
+
+### **CV System**
+
+|Partícula|Função|Realidade|
+|---|---|---|
+|**dra**|really, actually|Realmente|
+|**dre**|seemingly, apparently|Aparentemente|
+|**dri**|possibly, potentially|Possivelmente|
+|**dro**|certainly, definitely|Certamente|
+|**dru**|necessarily, inevitably|Necessariamente|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**adr**|in reality|Na realidade|
+|**edr**|in appearance|Na aparência|
+|**idr**|in possibility|Na possibilidade|
+|**odr**|in certainty|Na certeza|
+|**udr**|in necessity|Na necessidade|
+
+---
+
+## 📋 EC KR — Possession/Belonging
+
+**Função:** Posse e pertencimento
+
+---
+
+### **CV System**
+
+|Partícula|Função|Posse|
+|---|---|---|
+|**kra**|own, possess|Possuir|
+|**kre**|have, hold|Ter|
+|**kri**|belong to|Pertencer a|
+|**kro**|control, manage|Controlar|
+|**kru**|master, dominate|Dominar|
+
+---
+
+### **VC System**
+
+|Partícula|Função|Relação com CV|
+|---|---|---|
+|**akr**|owned by|Possuído por|
+|**ekr**|held by|Mantido por|
+|**ikr**|belonging to|Pertencente a|
+|**okr**|controlled by|Controlado por|
+|**ukr**|dominated by|Dominado por|
+
+---
+
+## 📋 ECs EM ABERTO (5 restantes)
+
+**Os seguintes ECs estão reservados para funções gramaticais a serem definidas:**
+
+|EC|IPA|Tipo|Status|
+|---|---|---|---|
+|**GR**|/gɾ/|oclusiva + vibrante|🔓 Em aberto|
+|**PL**|/pl/|oclusiva + lateral|🔓 Em aberto|
+|**BL**|/bl/|oclusiva + lateral|🔓 Em aberto|
+|**KL**|/kl/|oclusiva + lateral|🔓 Em aberto|
+|**GL**|/gl/|oclusiva + lateral|🔓 Em aberto|
+
+**Cada EC em aberto adiciona:** 5 partículas CV + 5 partículas VC quando definido.
+
+---
+
+## ✅ SISTEMA CV & VC COMPLETO COM ECs
+
+### **Resumo Total:**
+
+|Categoria|Consoantes Simples|ECs Definidos|ECs Em Aberto|Total|
+|---|---|---|---|---|
+|**CV**|100 (20×5)|25 (5×5)|25 (5×5)|**150**|
+|**VC**|100 (20×5)|25 (5×5)|25 (5×5)|**150**|
+|**Total Partículas**|200|50|50|**300**|
+
+---
+
+**Arquivo:** `01-grammar-cv-vc.md`  
+**Versão:** 0.6.0  
+**Status:** ✅ Completo (20 consoantes + 5 ECs + 5 slots em aberto)
 
 ---
 

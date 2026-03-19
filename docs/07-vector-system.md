@@ -99,33 +99,33 @@ Every vector begins by specifying its **domain** — the general ontological cat
 
 ### **The 25 Domains**
 
-|#|Letter|Domain|Description|Status|
-|---|---|---|---|---|
-|1|**p**|Substance/Being|What is it? Matter, entities, existence|✅ Complete|
-|2|**m**|Dimensional/Spatial|Where/what shape? Space, geometry, position|✅ Complete|
-|3|**n**|Gradual/Temporal|When/how long? Time, duration, change|🔄 Partial|
-|4|**t**|Dynamic/Processual|What process? Actions, transformations|⏳ Planned|
-|5|**k**|Social/Collective|What group? Society, relationships|⏳ Planned|
-|6|**b**|Communicative/Linguistic|What message? Language, information|⏳ Planned|
-|7|**d**|Structural/Formal|What structure? Organization, patterns|⏳ Planned|
-|8|**g**|Temporal/Cyclical|What cycle? Rhythms, repetition|⏳ Planned|
-|9|**s**|Spatial/Positional|What location? Specific positioning|⏳ Planned|
-|10|**l**|Modal/Qualitative|What quality? Attributes, properties|⏳ Planned|
-|11|**w**|Actional/Verbal|What action? Deeds, activities|⏳ Planned|
-|12|**y**|Perceptual/Sensorial|What sensation? Perception, senses|⏳ Planned|
-|13|**h**|Relational/Interactive|What relation? Connections, interactions|⏳ Planned|
-|14|**š**|Liminal/Interfacial|What boundary? Edges, transitions|⏳ Planned|
-|15|**r**|State/Phase|What state? Conditions, phases|⏳ Planned|
-|16|**f**|Valorative/Axiological|What value? Worth, significance|⏳ Planned|
-|17|**v**|Emotional/Affective|What emotion? Feelings, moods|⏳ Planned|
-|18|**z**|Intentional/Volitional|What intent? Will, purpose|⏳ Planned|
-|19|**ň**|Identitary/Existential|What identity? Self, being|⏳ Planned|
-|20|**č**|Cognitive/Mental|What thought? Mind, cognition|⏳ Planned|
-|21|**ž**|Intensity/Magnitude|How strong? Force, degree|⏳ Planned|
-|22|**ǰ**|Causality/Agency|What cause? Reasons, agents|⏳ Planned|
-|23|**ñ**|Material/Composition|Made of what? Materials, substances|⏳ Planned|
-|24|**c**|Movement/Dynamics|What motion? Movement, flow|⏳ Planned|
-|25|**x**|Textural/Tactile|What texture? Physical properties|⏳ Planned|
+| #   | Letter | Domain                   | Description                                 |
+| --- | ------ | ------------------------ | ------------------------------------------- |
+| 1   | **p**  | Substance/Being          | What is it? Matter, entities, existence     |
+| 2   | **m**  | Dimensional/Spatial      | Where/what shape? Space, geometry, position |
+| 3   | **n**  | Gradual/Temporal         | When/how long? Time, duration, change       |
+| 4   | **t**  | Dynamic/Processual       | What process? Actions, transformations      |
+| 5   | **k**  | Social/Collective        | What group? Society, relationships          |
+| 6   | **b**  | Communicative/Linguistic | What message? Language, information         |
+| 7   | **d**  | Structural/Formal        | What structure? Organization, patterns      |
+| 8   | **g**  | Temporal/Cyclical        | What cycle? Rhythms, repetition             |
+| 9   | **s**  | Spatial/Positional       | What location? Specific positioning         |
+| 10  | **l**  | Modal/Qualitative        | What quality? Attributes, properties        |
+| 11  | **w**  | Actional/Verbal          | What action? Deeds, activities              |
+| 12  | **y**  | Perceptual/Sensorial     | What sensation? Perception, senses          |
+| 13  | **h**  | Relational/Interactive   | What relation? Connections, interactions    |
+| 14  | **š**  | Liminal/Interfacial      | What boundary? Edges, transitions           |
+| 15  | **r**  | State/Phase              | What state? Conditions, phases              |
+| 16  | **f**  | Valorative/Axiological   | What value? Worth, significance             |
+| 17  | **v**  | Emotional/Affective      | What emotion? Feelings, moods               |
+| 18  | **z**  | Intentional/Volitional   | What intent? Will, purpose                  |
+| 19  | **ň**  | Identitary/Existential   | What identity? Self, being                  |
+| 20  | **č**  | Cognitive/Mental         | What thought? Mind, cognition               |
+| 21  | **ž**  | Intensity/Magnitude      | How strong? Force, degree                   |
+| 22  | **ǰ**  | Causality/Agency         | What cause? Reasons, agents                 |
+| 23  | **ñ**  | Material/Composition     | Made of what? Materials, substances         |
+| 24  | **c**  | Movement/Dynamics        | What motion? Movement, flow                 |
+| 25  | **x**  | Textural/Tactile         | What texture? Physical properties           |
 
 **Total capacity:** 25 domains × 5 subcategories × 25 vectors × 5 gradations = **78,125 precise concepts**
 
