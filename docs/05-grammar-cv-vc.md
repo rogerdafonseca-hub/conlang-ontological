@@ -18,31 +18,90 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ---
 
-## 🌐 As 20 Famílias Gramaticais
+## 🌐**20 Base Consonants (Complete Grammar: CV + VC)**
 
-|#|Consoante|Domínio Gramatical|Função Principal|
-|---|---|---|---|
-|1|**B**|Pronouns & Reference|Pronomes, referência pessoal|
-|2|**M**|Modal|Modalidade (poder, dever, querer)|
-|3|**T**|Tense|Tempo (passado, presente, futuro)|
-|4|**K**|Question|Interrogativos (quem, o quê, onde)|
-|5|**P**|Preposition|Preposições espaciais|
-|6|**N**|Quantity|Quantidade, números|
-|7|**D**|Demonstrative|Demonstrativos (este, esse, aquele)|
-|8|**L**|Conjunction|Conjunções lógicas|
-|9|**S**|Spatial|Relações espaciais|
-|10|**V**|Action/Verbal|Ações, verbos|
-|11|**G**|Aspect|Aspecto verbal|
-|12|**R**|State/Condition|Estados, condições|
-|13|**F**|Comparison|Comparação|
-|14|**H**|Relation|Relações|
-|15|**Š**|Boundary/Limit|Fronteiras, limites|
-|16|**Ž**|Intensity/Degree|Intensidade, grau|
-|17|**J̌**|Causality/Agency|Causalidade, agência|
-|18|**W**|Emotion/Affect|Emoção, afeto|
-|19|**Z**|Intention/Volition|Intenção, vontade|
-|20|**Ľ**|Evidentiality|Fonte de informação, certeza epistêmica|
+|#|Consonant|IPA|Grammatical Domain|Function|
+|---|---|---|---|---|
+|1|**B**|/b/|Pronouns & Reference|Personal pronouns, reflexives|
+|2|**M**|/m/|Modal|Modality (can, must, may)|
+|3|**T**|/t/|Tense|Temporal markers|
+|4|**K**|/k/|Question|Interrogatives|
+|5|**P**|/p/|Preposition|Spatial prepositions|
+|6|**N**|/n/|Quantity|Quantifiers, numbers|
+|7|**D**|/d/|Demonstrative|Demonstratives (this, that)|
+|8|**L**|/l/|Conjunction|Logical connectors|
+|9|**X**|/ʃ/|Spatial (X-Axis)|Lateral positioning|
+|10|**V**|/v/|Action/Verbal|Actions, verbs|
+|11|**G**|/g/|Aspect|Verbal aspect|
+|12|**R**|/ɾ/|State/Condition|States, conditions|
+|13|**F**|/f/|Comparison|Comparative markers|
+|14|**H**|/h/|Relation|Relational markers|
+|15|**S**|/s/|Boundary/Limit|Limits, boundaries|
+|16|**Y**|/ʒ/|Spatial (Y-Axis)|Frontal positioning|
+|17|**J̌**|/dʒ/|Causality/Agency|Causation, agency|
+|18|**W**|/w/|Emotion/Affect|Emotional markers|
+|19|**Z**|/z/|Spatial (Z-Axis)|Vertical positioning|
+|20|**Ľ**|/ʎ/|Evidentiality|Source of information|
 
+---
+
+## **➕ 10 Consonant Clusters (ECs) — Vertical Expansion**
+
+### **5 Defined ECs (Complete Grammar: CV + VC):**
+
+|#|Cluster|IPA|Grammatical Domain|Function|
+|---|---|---|---|---|
+|21|**PR**|/pɾ/|Manner/Mode|Style, formality, precision|
+|22|**BR**|/bɾ/|Perception/Sensory|Sensory perception (5 senses)|
+|23|**TR**|/tɾ/|Movement/Direction|Movement types, trajectories|
+|24|**DR**|/dɾ/|Existence/Reality|Ontological status, reality|
+|25|**KR**|/kɾ/|Possession/Belonging|Ownership, control, belonging|
+|26|**GR**|/gɾ/|Intensity/Degree|Intensity, gradation markers|
+|27|**PL**|/pl/|Intention/Volition|Willingness, commitment|
+
+### **3 Open ECs (Reserved for Future Functions):**
+
+|#|Cluster|IPA|Type|Status|
+|---|---|---|---|---|
+|28|**BL**|/bl/|occlusive + lateral|🔓 Open|
+|29|**KL**|/kl/|occlusive + lateral|🔓 Open|
+|30|**GL**|/gl/|occlusive + lateral|🔓 Open|
+
+---
+
+## **📊 System Summary**
+
+|Category|Quantity|Resources|
+|---|---|---|
+|**Base Consonants**|20|CV: 100, VC: 100, VCV: 500|
+|**Defined ECs**|7|CV: 35, VC: 35, VCV: 175|
+|**Open ECs**|3|CV: 15, VC: 15, VCV: 75 (reserved)|
+|**CURRENT TOTAL**|**27**|**CV: 135, VC: 135, VCV: 675**|
+|**POTENTIAL TOTAL**|**30**|**CV: 150, VC: 150, VCV: 750**|
+
+---
+
+**Note:** X, Y, Z form an integrated 3D spatial coordinate system. GR and PL are ECs that assumed the functions previously held by Y and Z.
+
+
+
+---
+
+## **🔊 Pronunciation Note: VEC (Vowel + Consonant Cluster)**
+
+When **V + EC** appears without a following vowel, it is pronounced with a **nasal final vowel** to distinguish from VECV:
+
+|Context|Written|Pronunciation|
+|---|---|---|
+|**VEC isolated**|agr|/agɾã/ or /agɾâ/ (nasal)|
+|**VECV (with vowel)**|agra|/agɾa/ (normal oral)|
+
+**Examples:**
+
+- **egr** (isolated) → /egɾã/
+- **egri** (with vowel) → /egɾi/
+- **upl** (isolated) → /uplã/
+- **uplo** (with vowel) → /uplo/
 ---
 
 ## 📋 FAMÍLIA B — Pronouns & Reference
@@ -113,25 +172,28 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ### **CV System**
 
-|Partícula|Função|Tempo|
-|---|---|---|
-|**ta**|past|Passado|
-|**te**|present|Presente|
-|**ti**|future|Futuro|
-|**to**|perfect (completed)|Perfectivo|
-|**tu**|progressive (ongoing)|Progressivo|
+| Partícula | Função                | Tempo       |
+| --------- | --------------------- | ----------- |
+| **ta**    | past                  | Passado     |
+| **te**    | progressive (ongoing) | Progressivo |
+| **ti**    | present               | Presente    |
+| **to**    | perfect (completed)   | Perfectivo  |
+| **tu**    | future                | Futuro      |
+
+
+
 
 ---
 
 ### **VC System**
 
-|Partícula|Função|Relação com CV|
-|---|---|---|
-|**at**|distant past|Passado remoto|
-|**et**|immediate present|Presente imediato|
-|**it**|near future|Futuro próximo|
-|**ot**|completed action|Ação completada|
-|**ut**|continuous action|Ação contínua|
+| Partícula | Função            | Relação com CV    |
+| --------- | ----------------- | ----------------- |
+| **at**    | distant past      | Passado remoto    |
+| **et**    | continuous action | Ação contínua     |
+| **it**    | immediate present | Presente imediato |
+| **ot**    | completed action  | Ação completada   |
+| **ut**    | near future       | Futuro próximo    |
 
 ---
 
@@ -194,34 +256,33 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 |**up**|without, separate from|Separação|
 
 ---
-
-## 📋 FAMÍLIA N — Quantity
+# 📋 FAMÍLIA N — Quantity
 
 **Função:** Quantidade, números e quantificadores
 
 ---
 
-### **CV System**
+## **CV System**
 
 |Partícula|Função|Quantidade|
 |---|---|---|
-|**na**|not, no|Negação/zero|
-|**ne**|nor, neither|Nem|
-|**ni**|none, nothing|Nenhum|
-|**no**|yes|Afirmação|
-|**nu**|all, everything|Tudo|
+|**na**|none, zero|Nenhum, zero|
+|**ne**|few, little|Poucos, pouco|
+|**ni**|some, several|Alguns, vários|
+|**no**|many, much|Muitos, muito|
+|**nu**|all, everything|Todos, tudo|
 
 ---
 
-### **VC System**
+## **VC System**
 
 |Partícula|Função|Relação com CV|
 |---|---|---|
-|**an**|almost not|Quase nenhum|
-|**en**|probably not|Provavelmente não|
-|**in**|simply not|Simplesmente não|
-|**on**|definitely not|Definitivamente não|
-|**un**|never, not at all|Nunca, de forma alguma|
+|**an**|exactly none, absolutely zero|Exatamente nenhum|
+|**en**|very few, hardly any|Muito poucos|
+|**in**|a certain amount, specific quantity|Certa quantidade|
+|**on**|great many, vast amount|Grande quantidade|
+|**un**|absolutely all, totality|Absolutamente todos|
 
 ---
 
@@ -233,28 +294,25 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ### **CV System**
 
-|Partícula|Função|Distância|
-|---|---|---|
-|**da**|this (proximal)|Este (perto do falante)|
-|**de**|that (medial)|Esse (perto do ouvinte)|
-|**di**|that (distal)|Aquele (longe de ambos)|
-|**do**|the same|O mesmo|
-|**du**|such, like this|Tal, assim|
+| Partícula | Função          | Distância               |
+| --------- | --------------- | ----------------------- |
+| **da**    | the same        | O mesmo                 |
+| **de**    | such, like this | Tal, assim              |
+| **di**    | this (proximal) | Este (perto do falante) |
+| **do**    | that (medial)   | Esse (perto do ouvinte) |
+| **du**    | that (distal)   | Aquele (longe de ambos) |
 
 ---
 
 ### **VC System**
 
-|Partícula|Função|Relação com CV|
-|---|---|---|
-|**ad**|this one here|Este aqui (ênfase)|
-|**ed**|that one there|Esse aí (ênfase)|
-|**id**|that one yonder|Aquele lá (ênfase)|
-|**od**|exactly the same|Exatamente o mesmo|
-|**ud**|precisely such|Precisamente tal|
-
----
-
+| Partícula | Função           | Relação com CV     |
+| --------- | ---------------- | ------------------ |
+| **ad**    | exactly the same | Exatamente o mesmo |
+| **ed**    | precisely such   | Precisamente tal   |
+| **id**    | this one here    | Este aqui (ênfase) |
+| **od**    | that one there   | Esse aí (ênfase)   |
+| **ud**    | that one yonder  | Aquele lá (ênfase) |
 ## 📋 FAMÍLIA L — Conjunction
 
 **Função:** Conjunções e conectivos lógicos
@@ -285,33 +343,85 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ---
 
-## 📋 FAMÍLIA S — Spatial
+# 📋 FAMILY X — Spatial
 
-**Função:** Relações espaciais específicas
-
----
-
-### **CV System**
-
-|Partícula|Função|Posição|
-|---|---|---|
-|**sa**|above, over|Acima, sobre|
-|**se**|below, under|Abaixo, sob|
-|**si**|beside, next to|Ao lado, próximo|
-|**so**|between, among|Entre, no meio|
-|**su**|behind, after|Atrás, depois|
+**Function:** Three-dimensional spatial coordinate system
 
 ---
 
-### **VC System**
+## **CV System**
 
-|Partícula|Função|Relação com CV|
+|Particle|Function|Position on X-Axis (Lateral)|
 |---|---|---|
-|**as**|high above|Muito acima|
-|**es**|deep below|Profundamente abaixo|
-|**is**|right beside|Logo ao lado|
-|**os**|right between|Bem no meio|
-|**us**|far behind|Bem atrás|
+|**xa**|extreme right|Extreme right (+++)|
+|**xe**|right|Right (++)|
+|**xi**|center|Center (0)|
+|**xo**|left|Left (−−)|
+|**xu**|extreme left|Extreme left (−−−)|
+
+---
+
+## **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**ax**|from the right|From the right|
+|**ex**|toward the right|Toward the right|
+|**ix**|at center laterally|At lateral center|
+|**ox**|toward the left|Toward the left|
+|**ux**|from the left|From the left|
+
+---
+
+## **⚠️ EXCEPTION: Inverted Gradation**
+
+**Family X (Spatial) uses INVERTED gradation:**
+
+|Vowel|Meaning|Spatial Value|
+|---|---|---|
+|**a**|Maximum/Positive|+++|
+|**e**|Moderate Positive|++|
+|**i**|Center/Neutral|0|
+|**o**|Moderate Negative|−−|
+|**u**|Minimum/Negative|−−−|
+
+**Rationale:** Facilitates intuitive coordinate mapping (a=high/right/front, u=low/left/back)
+
+---
+
+## **📐 3D Coordinate System (with Y and Z)**
+
+**Note:** X works together with Y and Z to form an integrated Cartesian coordinate system. Complete spatial words use **three syllables** (one for each axis):
+
+**Structure:** `[X-vowel] + [Y-vowel] + [Z-vowel]`
+
+- **X-** = X-Axis (lateral: left ↔ right)
+- **Y-** = Y-Axis (frontal: back ↔ front)
+- **Z-** = Z-Axis (vertical: down ↔ up)
+
+### **Position Table by Axis:**
+
+|Vowel|X-Axis (Lateral)|Y-Axis (Frontal)|Z-Axis (Vertical)|
+|---|---|---|---|
+|**a**|extreme right|extreme front|extreme top|
+|**e**|right|front|above|
+|**i**|center|center|middle|
+|**o**|left|back|below|
+|**u**|extreme left|extreme back|extreme bottom|
+
+### **3D Coordinate Examples:**
+
+|Word|Decomposition|Coordinate|Meaning|
+|---|---|---|---|
+|**xiyizi**|xi + yi + zi|(0, 0, 0)|absolute center|
+|**xayaza**|xa + ya + za|(+, +, +)|top-right-front corner|
+|**xuyuzu**|xu + yu + zu|(−, −, −)|bottom-left-back corner|
+|**xayizu**|xa + yi + zu|(+, 0, −)|right side, frontal center, below|
+|**xeyeza**|xe + ye + za|(+, +, +)|moderately right-front-above|
+
+
+**Note:** Y and Z maintain their original grammatical functions (Intensity/Degree and Intention/Volition respectively) in CV and VC systems. The integrated coordinate system is explained in detail in the VCV documentation.
+
 
 ---
 
@@ -353,25 +463,25 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ### **CV System**
 
-|Partícula|Função|Aspecto|
-|---|---|---|
-|**ga**|begin, start|Incoativo|
-|**ge**|continue|Continuativo|
-|**gi**|habitually, regularly|Habitual|
-|**go**|finish, complete|Completivo|
-|**gu**|repeat, again|Iterativo|
+| Partícula | Função                | Aspecto      |
+| --------- | --------------------- | ------------ |
+| **ga**    | begin, start          | Incoativo    |
+| **ge**    | habitually, regularly | Habitual     |
+| **gi**    | continue              | Continuativo |
+| **go**    | repeat, again         | Iterativo    |
+| **gu**    | finish, complete      | Completivo   |
 
 ---
 
 ### **VC System**
 
-|Partícula|Função|Relação com CV|
-|---|---|---|
-|**ag**|be about to start|Prospectivo|
-|**eg**|keep on|Persistência|
-|**ig**|always, permanently|Permanente|
-|**og**|have finished|Resultativo|
-|**ug**|do again and again|Repetitivo|
+| Partícula | Função              | Relação com CV |
+| --------- | ------------------- | -------------- |
+| **ag**    | be about to start   | Prospectivo    |
+| **eg**    | always, permanently | Permanente     |
+| **ig**    | keep on             | Persistência   |
+| **og**    | do again and again  | Repetitivo     |
+| **ug**    | have finished       | Resultativo    |
 
 ---
 
@@ -416,25 +526,25 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ### **CV System**
 
-|Partícula|Função|Comparação|
-|---|---|---|
-|**fa**|equal, as...as|Igualdade|
-|**fe**|similar, like|Semelhança|
-|**fi**|different, unlike|Diferença|
-|**fo**|more, -er|Comparativo superior|
-|**fu**|most, -est|Superlativo|
+| Partícula | Função            | Comparação           |
+| --------- | ----------------- | -------------------- |
+| **fa**    | different, unlike | Diferença            |
+| **fe**    | similar, like     | Semelhança           |
+| **fi**    | equal, as...as    | Igualdade            |
+| **fo**    | more, -er         | Comparativo superior |
+| **fu**    | most, -est        | Superlativo          |
 
 ---
 
 ### **VC System**
 
-|Partícula|Função|Relação com CV|
-|---|---|---|
-|**af**|exactly equal|Exatamente igual|
-|**ef**|somewhat similar|Um pouco similar|
-|**if**|quite different|Bastante diferente|
-|**of**|much more|Muito mais|
-|**uf**|by far the most|De longe o mais|
+| Partícula | Função           | Relação com CV     |
+| --------- | ---------------- | ------------------ |
+| **af**    | quite different  | Bastante diferente |
+| **ef**    | somewhat similar | Um pouco similar   |
+| **if**    | exactly equal    | Exatamente igual   |
+| **of**    | much more        | Muito mais         |
+| **uf**    | by far the most  | De longe o mais    |
 
 ---
 
@@ -488,43 +598,56 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ### **VC System**
 
-|Partícula|Função|Relação com CV|
-|---|---|---|
-|**aš**|beyond edge|Além da borda|
-|**eš**|within boundary|Dentro do limite|
-|**iš**|across threshold|Através do limiar|
-|**oš**|past frontier|Passado a fronteira|
-|**uš**|to the extreme|Até o extremo|
+| Partícula | Função           | Relação com CV      |
+| --------- | ---------------- | ------------------- |
+| **aš**    | beyond edge      | Além da borda       |
+| **eš**    | within boundary  | Dentro do limite    |
+| **iš**    | across threshold | Através do limiar   |
+| **oš**    | past frontier    | Passado a fronteira |
+| **uš**    | to the extreme   | Até o extremo       |
+
+---
+# 📋 FAMILY Y — Spatial (Y-Axis)
+
+**Function:** Frontal positioning (front ↔ back axis)
 
 ---
 
-## 📋 FAMÍLIA Ž — Intensity/Degree
+## **CV System**
 
-**Função:** Intensidade e grau
+|Particle|Function|Position on Y-Axis (Frontal)|
+|---|---|---|
+|**ya**|extreme front|Extreme front (+++)|
+|**ye**|front|Front (++)|
+|**yi**|center|Center (0)|
+|**yo**|back|Back (−−)|
+|**yu**|extreme back|Extreme back (−−−)|
 
 ---
 
-### **CV System**
+## **VC System**
 
-|Partícula|Função|Grau|
+|Particle|Function|Relation to CV|
 |---|---|---|
-|**ža**|barely, hardly|Mal, quase não|
-|**že**|slightly, a bit|Levemente|
-|**ži**|moderately|Moderadamente|
-|**žo**|quite, considerably|Consideravelmente|
-|**žu**|extremely, very|Extremamente|
+|**ay**|from the front|From the front|
+|**ey**|toward the front|Toward the front|
+|**iy**|at center frontally|At frontal center|
+|**oy**|toward the back|Toward the back|
+|**uy**|from the back|From the back|
 
 ---
 
-### **VC System**
+## **⚠️ EXCEPTION: Inverted Gradation**
 
-|Partícula|Função|Relação com CV|
+**Family Y (Spatial) uses INVERTED gradation:**
+
+|Vowel|Meaning|Spatial Value|
 |---|---|---|
-|**až**|minimally|Minimamente|
-|**ež**|somewhat|De certa forma|
-|**iž**|fairly|Razoavelmente|
-|**ož**|highly|Altamente|
-|**už**|maximally|Maximamente|
+|**a**|Maximum/Positive|+++|
+|**e**|Moderate Positive|++|
+|**i**|Center/Neutral|0|
+|**o**|Moderate Negative|−−|
+|**u**|Minimum/Negative|−−−|
 
 ---
 
@@ -588,33 +711,68 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ---
 
-## 📋 FAMÍLIA Z — Intention/Volition
+# 📋 FAMILY Z — Spatial (Z-Axis)
 
-**Função:** Intenção e vontade
-
----
-
-### **CV System**
-
-|Partícula|Função|Intenção|
-|---|---|---|
-|**za**|wanting to|Querendo|
-|**ze**|intending to|Intencionando|
-|**zi**|willing to|Disposto a|
-|**zo**|trying to|Tentando|
-|**zu**|deciding to|Decidindo|
+**Function:** Vertical positioning (down ↔ up axis)
 
 ---
 
-### **VC System**
+## **CV System**
 
-|Partícula|Função|Relação com CV|
+|Particle|Function|Position on Z-Axis (Vertical)|
 |---|---|---|
-|**az**|desiring|Desejando|
-|**ez**|planning to|Planejando|
-|**iz**|ready to|Pronto para|
-|**oz**|attempting to|Tentando|
-|**uz**|determined to|Determinado a|
+|**za**|extreme top|Extreme top (+++)|
+|**ze**|above|Above (++)|
+|**zi**|center|Center (0)|
+|**zo**|below|Below (−−)|
+|**zu**|extreme bottom|Extreme bottom (−−−)|
+
+---
+
+## **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**az**|from above|From above|
+|**ez**|toward above|Toward above|
+|**iz**|at center vertically|At vertical center|
+|**oz**|toward below|Toward below|
+|**uz**|from below|From below|
+
+---
+
+## **⚠️ EXCEPTION: Inverted Gradation**
+
+**Family Z (Spatial) uses INVERTED gradation:**
+
+|Vowel|Meaning|Spatial Value|
+|---|---|---|
+|**a**|Maximum/Positive|+++|
+|**e**|Moderate Positive|++|
+|**i**|Center/Neutral|0|
+|**o**|Moderate Negative|−−|
+|**u**|Minimum/Negative|−−−|
+
+---
+
+## **📐 Integrated 3D System**
+
+**X, Y, and Z work together to form complete spatial coordinates:**
+
+- **X** = Lateral axis (left ↔ right)
+- **Y** = Frontal axis (back ↔ front)
+- **Z** = Vertical axis (down ↔ up)
+
+**Complete spatial words use three syllables:** `[X-vowel] + [Y-vowel] + [Z-vowel]`
+
+**Examples:**
+
+- **xiyizi** = (0, 0, 0) — absolute center
+- **xayaza** = (+, +, +) — top-right-front corner
+- **xuyuzu** = (−, −, −) — bottom-left-back corner
+
+
+**Note:** The complete 3D coordinate system and movement mechanics are explained in detail in the VCV documentation.
 
 ---
 
@@ -647,41 +805,6 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 |**uľ**|certainly|Certamente|
 
 ---
-
-## ✅ SISTEMA CV & VC COMPLETO
-
-**Total:** 20 famílias × 5 vogais × 2 sistemas = **200 partículas gramaticais**
-
----
-
-### **Resumo das Famílias:**
-
-|Família|Domínio|CV|VC|
-|---|---|---|---|
-|B|Pronouns|5|5|
-|M|Modal|5|5|
-|T|Tense|5|5|
-|K|Question|5|5|
-|P|Preposition|5|5|
-|N|Quantity|5|5|
-|D|Demonstrative|5|5|
-|L|Conjunction|5|5|
-|S|Spatial|5|5|
-|V|Action/Verbal|5|5|
-|G|Aspect|5|5|
-|R|State/Condition|5|5|
-|F|Comparison|5|5|
-|H|Relation|5|5|
-|Š|Boundary/Limit|5|5|
-|Ž|Intensity/Degree|5|5|
-|J̌|Causality/Agency|5|5|
-|W|Emotion/Affect|5|5|
-|Z|Intention/Volition|5|5|
-|Ľ|Evidentiality|5|5|
-|**TOTAL**|**20 famílias**|**100**|**100**|
-
----
-
 # 📘 GRAMÁTICA FUNDAMENTAL CV & VC (Adição de ECs)
 
 ---
@@ -760,25 +883,25 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ### **CV System**
 
-|Partícula|Função|Movimento|
-|---|---|---|
-|**tra**|upward, ascending|Para cima|
-|**tre**|downward, descending|Para baixo|
-|**tri**|forward, ahead|Para frente|
-|**tro**|backward, behind|Para trás|
-|**tru**|sideways, lateral|Para o lado|
+| Partícula | Função               | Movimento   |
+| --------- | -------------------- | ----------- |
+| **tra**   | upward, ascending    | Para cima   |
+| **tre**   | sideways, lateral    | Para o lado |
+| **tri**   | forward, ahead       | Para frente |
+| **tro**   | backward, behind     | Para trás   |
+| **tru**   | downward, descending | Para baixo  |
 
 ---
 
 ### **VC System**
 
-|Partícula|Função|Relação com CV|
-|---|---|---|
-|**atr**|rising|Subindo|
-|**etr**|falling|Caindo|
-|**itr**|advancing|Avançando|
-|**otr**|retreating|Recuando|
-|**utr**|circling|Circulando|
+| Partícula | Função     | Relação com CV |
+| --------- | ---------- | -------------- |
+| **atr**   | rising     | Subindo        |
+| **etr**   | circling   | Circulando     |
+| **itr**   | advancing  | Avançando      |
+| **otr**   | retreating | Recuando       |
+| **utr**   | falling    | Caindo         |
 
 ---
 
@@ -842,37 +965,69 @@ O sistema CV (Consoante-Vogal) e VC (Vogal-Consoante) formam a **espinha dorsal 
 
 ---
 
-## 📋 ECs EM ABERTO (5 restantes)
+# 📋 EC GR — Intensity/Degree
 
-**Os seguintes ECs estão reservados para funções gramaticais a serem definidas:**
-
-|EC|IPA|Tipo|Status|
-|---|---|---|---|
-|**GR**|/gɾ/|oclusiva + vibrante|🔓 Em aberto|
-|**PL**|/pl/|oclusiva + lateral|🔓 Em aberto|
-|**BL**|/bl/|oclusiva + lateral|🔓 Em aberto|
-|**KL**|/kl/|oclusiva + lateral|🔓 Em aberto|
-|**GL**|/gl/|oclusiva + lateral|🔓 Em aberto|
-
-**Cada EC em aberto adiciona:** 5 partículas CV + 5 partículas VC quando definido.
+**Function:** Intensity, degree, and gradation markers
 
 ---
 
-## ✅ SISTEMA CV & VC COMPLETO COM ECs
+## **CV System**
 
-### **Resumo Total:**
+|Particle|Function|Intensity Level|
+|---|---|---|
+|**gra**|barely, hardly|Minimal intensity|
+|**gre**|slightly, a bit|Low intensity|
+|**gri**|moderately|Normal intensity|
+|**gro**|quite, considerably|High intensity|
+|**gru**|extremely, very|Maximum intensity|
 
-|Categoria|Consoantes Simples|ECs Definidos|ECs Em Aberto|Total|
-|---|---|---|---|---|
-|**CV**|100 (20×5)|25 (5×5)|25 (5×5)|**150**|
-|**VC**|100 (20×5)|25 (5×5)|25 (5×5)|**150**|
-|**Total Partículas**|200|50|50|**300**|
+---
+
+## **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**agr**|minimally|At minimum degree|
+|**egr**|somewhat|At low degree|
+|**igr**|fairly, reasonably|At moderate degree|
+|**ogr**|highly|At high degree|
+|**ugr**|maximally|At maximum degree|
+
+---
+
+# 📋 EC PL — Intention/Volition
+
+**Function:** Intention, volition, and willingness markers
+
+---
+
+## **CV System**
+
+|Particle|Function|Intentional State|
+|---|---|---|
+|**pla**|unwillingly, against will|No intention|
+|**ple**|reluctantly|Weak intention|
+|**pli**|willingly|Normal intention|
+|**plo**|eagerly, gladly|Strong intention|
+|**plu**|determinedly, resolutely|Absolute intention|
+
+---
+
+## **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**apl**|refusing, rejecting|Refusing intention|
+|**epl**|hesitating|Hesitant intention|
+|**ipl**|deciding, choosing|Deciding intention|
+|**opl**|committing|Committed intention|
+|**upl**|insisting, determined|Absolute commitment|
 
 ---
 
 **Arquivo:** `01-grammar-cv-vc.md`  
 **Versão:** 0.6.0  
-**Status:** ✅ Completo (20 consoantes + 5 ECs + 5 slots em aberto)
+**Status:** ✅ Completo (20 consoantes + 2 ECs + 3 slots em aberto)
 
 ---
 
