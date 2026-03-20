@@ -8,16 +8,16 @@ _Last Updated: March 19, 2026_
 
 ## 🎯 Quick Navigation
 
-| I Want To... | Go To |
-|--------------|-------|
+| I Want To...                    | Go To                                                       |
+| ------------------------------- | ----------------------------------------------------------- |
 | **Start learning from scratch** | [WELCOME.md](#welcome) → [LEARNING-PATH.md](#learning-path) |
-| **Understand the system** | [README.md](#readme) |
-| **Learn basic grammar** | [05-grammar-cv-vc.md](#grammar-cv-vc) |
-| **Learn advanced grammar** | [06-basics-vcv.md](#grammar-vcv) |
-| **Build vocabulary** | [09-lexicon-nominal-matrix.md](#lexicon-matrix) |
-| **Look up specific words** | [nominal-lexicon.md](#nominal-lexicon) |
-| **Find examples** | [Examples Section](#examples) |
-| **Check my progress** | [Learning Path Milestones](#milestones) |
+| **Understand the system**       | [README.md](#readme)                                        |
+| **Learn basic grammar**         | [05-grammar-cv-vc.md](#grammar-cv-vc)                       |
+| **Learn advanced grammar**      | [06-basics-vcv.md](#grammar-vcv)                            |
+| **Build vocabulary**            | [09-lexicon-nominal-matrix.md](#lexicon-matrix)             |
+| **Look up specific words**      | [nominal-lexicon.md](#nominal-lexicon)                      |
+| **Find examples**               | [Examples Section](#examples)                               |
+| **Check my progress**           | [Learning Path Milestones](#milestones)                     |
 
 ---
 
