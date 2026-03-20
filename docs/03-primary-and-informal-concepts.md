@@ -1,750 +1,698 @@
-# Primary and Informal Concepts
+# 💬 PRIMARY AND INFORMAL CONCEPTS
 
-**Foundational Ideas for Understanding the Universal Ontological Language**
+**Vowel Responses and Everyday Usage**
 
----
-
-## 🎯 Purpose of This Document
-
-Before diving into grammar, vocabulary, and vectors, you need to understand the **fundamental concepts** that make this language work.
-
-Think of this as your **conceptual foundation** — the mental model that will help everything else make sense.
-
-**Read this after Philosophy, before Phonology.**
+_Version 0.6.5 — Practical Communication Foundations_
 
 ---
 
-## 🧩 Core Concept 1: Layers, Not Levels
+## 🎯 Overview
 
-### **Many languages have ONE complexity level:**
+Beyond their role in systematic gradation within words, the **five vowels function independently** as complete communicative units. This dual nature—both building blocks and standalone expressions—reflects the language's philosophy of minimal phonology with maximum productivity.
 
-**Natural languages:** Everything mixed together  
-- Grammar + vocabulary + idioms + exceptions + irregularity
-
-**Minimal conlangs (Toki Pona):** Everything simplified  
-- ~120 words, intentionally vague, philosophical ambiguity
-
-**Maximal conlangs (Ithkuil):** Everything complex  
-- Thousands of morphemes, all precision all the time
+**Core Principle:** Every element serves multiple systematic functions.
 
 ---
 
-### **This language has FOUR LAYERS:**
+## 🗣️ Standalone Vowel Responses
 
-**LAYER 1: Grammar (250 particles)**  
-The skeleton. Fixed forever. Learn once, use forever.
+### **The Five-Point Response Scale**
 
-**LAYER 2: Core Vocabulary (625 words)**  
-The flesh. Everyday concepts. Systematic from 25 domains.
+Vowels alone form a complete agreement/disagreement spectrum, usable as standalone utterances in conversation.
 
-**LAYER 3: Nominal Lexicon (15,625 words)**  
-The concrete world. Objects, beings, places. **Fully systematic matrix.**
-
-**LAYER 4: Technical Vectors (390,625 concepts)**  
-The precision layer. Scientific, formal, optional.
-
-**Key insight:** You choose your layer. You don't need Layer 4 to use Layer 2. You don't need Layer 3 to understand Layer 1.
-
-**Each layer is complete and functional.**
+| Vowel | IPA | Meaning | English Equivalent | Intensity |
+|-------|-----|---------|-------------------|-----------|
+| **a** | /a/ | **Definitively yes** | Absolutely! / Yes! / Definitely! | Maximum affirmative |
+| **e** | /e/ | **Yes / I agree** | Yes / I think so / I agree | Affirmative |
+| **i** | /i/ | **Maybe / Neutral** | Maybe / Could be / Meh / Whatever | Neutral/Ambivalent |
+| **o** | /o/ | **No / I disagree** | No / I don't think so / I disagree | Negative |
+| **u** | /u/ | **Definitively no** | Absolutely not! / No way! / Never! | Maximum negative |
 
 ---
 
-## 🧩 Core Concept 2: Form = Function
+### **Usage Examples**
 
-### **In natural languages, form is arbitrary:**
+#### **In Conversation:**
 
-**English:**
-- "go" = verb
-- "going" = verb (progressive)
-- "went" = verb (past)
-- "gone" = verb (perfect)
+**Question:** `ka be va ti?` (What are you doing?)
 
-**You must memorize each form. No visual pattern.**
-
----
-
-### **In this language, form tells you function instantly:**
-
-**CV** (1 syllable, starts C) = Basic grammar = `ma` (can)
-
-**VC** (1 syllable, starts V, ends C) = Extended grammar = `am` (cannot)
-
-**VCV** (1 syllable, starts V, ends V) = Core vocabulary = `awi` (argue)
-
-**CVCV** (2 syllables, starts C) = Nominal lexicon = `peka` (dog)
-
-**ZV+** (starts with Z) = Numeral = `zane` (1), `zaneno` (13)
-
-**VCV+CV+** (2+ syllables, starts V) = Technical vector = `apimabi` (organism)
-
-**Visual recognition = instant understanding.**
-
-Starts with consonant + 1 syllable? → Grammar.  
-Starts with vowel + 1 syllable + ends in vowel? → Everyday word.  
-Starts with consonant + 2 syllables? → Concrete object (matrix-derived).  
-Starts with Z? → Number.  
-Starts with vowel + 2+ syllables? → Technical term.
-
-**You never have to guess what type of word you're looking at.**
+**Responses:**
+- `a!` — Absolutely doing it!
+- `e` — Yes, doing it
+- `i` — Maybe... sort of...
+- `o` — Not really / No
+- `u!` — Absolutely not!
 
 ---
 
-## 🧩 Core Concept 3: Derivation, Not Invention
+**Question:** `be va pa kipi tu?` (Will you go to the community?)
 
-### **Natural languages invent words arbitrarily:**
-
-**Why is "dog" called "dog"?**  
-No reason. Historical accident. You must memorize it.
-
-**Why is "happy" related to "happiness" but "glad" → "gladness"?**  
-Arbitrary morphology. Memorize each pattern.
+**Responses:**
+- `a!` — Definitely going!
+- `e` — Yes, I'll go
+- `i` — Maybe / Not sure
+- `o` — Probably not / No
+- `u!` — No way!
 
 ---
 
-### **This language derives words systematically:**
+**Statement:** `di la` (This is good) — seeking agreement
 
-**Domain W (Emotion) — Action expressions:**
+**Responses:**
+- `a!` — Totally agree! It's definitely good!
+- `e` — Yes, I agree
+- `i` — Meh / It's okay
+- `o` — I disagree / Not really
+- `u!` — Absolutely not! It's terrible!
+
+---
+
+### **Emotional Intensity Markers**
+
+Vowel responses can be modified with:
+
+**Repetition** (increases emphasis):
+- `a` — yes
+- `aa` or `a a` — YES!
+- `aaa` — YES YES YES!
+
+**Elongation** (in speech):
+- `a` /a/ — yes
+- `aaa` /a:/ — yeeees
+- `aaaaa` /a::/ — yeeeeees!
+
+**Tone** (prosodic):
+- Rising: questioning agreement (`e?` — really yes?)
+- Falling: firm statement (`u.` — definitely no.)
+- Emphatic: strong emotion (`A!` — YES!)
+
+---
+
+## 🎭 Informal Discourse Particles
+
+### **Standalone Vowels in Context**
+
+Beyond yes/no responses, vowels function as discourse markers:
+
+#### **A /a/ — Affirmation & Realization**
+
+**As agreement:**
 ```
-First vowel = which emotion
-Consonant = W (emotion domain)
-Last vowel = intensity
-
-a-w-a = frown (anger, minimal)
-a-w-i = argue (anger, neutral)
-a-w-u = rage (anger, maximal)
-
-e-w-a = sigh (sadness, minimal)
-e-w-i = cry (sadness, neutral)
-e-w-u = wail (sadness, maximal)
-
-u-w-a = smile (happiness, minimal)
-u-w-i = laugh (happiness, neutral)
-u-w-u = exult (happiness, maximal)
+Speaker 1: di la (this is good)
+Speaker 2: a (yes/agreed)
 ```
 
-**Learn the pattern once. Generate infinite words.**
-
-If you know `awi` = argue (anger-neutral), you can predict:
-- `awa` = something less angry (frown)
-- `awo` = something more angry (shout)
-- `awu` = maximum anger (rage)
-
-**Logic > memorization.**
-
----
-
-## 🧩 Core Concept 4: The CVCV Matrix Revolution
-
-### **This is the breakthrough that changes everything.**
-
-**Every previous constructed language:**
-
-Esperanto: "hundo" (dog) — borrowed from Germanic languages  
-Lojban: "gerku" (dog) — artificial blend from multiple languages  
-Toki Pona: "soweli" (animal) — invented, must memorize  
-Ithkuil: Roots are still arbitrary despite systematic grammar
-
-**They all have the same problem: concrete nouns are ARBITRARY.**
-
----
-
-### **This language solves it with the CVCV Matrix:**
-
-**Structure: C₁V₁C₂V₂**
-
-**C₁** = Domain (which ontological category?)  
-**V₁** = Subcategory (which type within that domain?)  
-**C₂** = Concept (which specific concept?)  
-**V₂** = Variation (which variant of that concept?)
-
----
-
-### **Example: "dog" = peka**
-
-**p** = P-domain (Substance/Being — living things)  
-**e** = pe- subcategory (terrestrial mammals)  
-**k** = pek- concept (domestic animals)  
-**a** = first variation (primary domestic animal)
-
-→ **peka** = dog
-
-**You don't memorize "dog = peka"**
-
-**You understand:**
-- P = living things
-- pe- = mammals
-- pek- = domestic mammals
-- → peka is probably the most common domestic mammal = dog
-
----
-
-### **Example: "cat" = peke**
-
-Same logic:
-- P = living things
-- pe- = mammals
-- pek- = domestic mammals
-- **e** = second variation
-
-→ **peke** = cat (second most common domestic mammal)
-
----
-
-### **Example: "house" = maka**
-
-**m** = M-domain (Space/Dimensional — places and structures)  
-**a** = ma- subcategory (dwellings)  
-**k** = mak- concept (primary residence)  
-**a** = first variation (standard house)
-
-→ **maka** = house
-
----
-
-### **The Power:**
-
-**15,625 systematically derivable words for concrete objects.**
-
-You don't memorize them.  
-You learn the matrix structure.  
-You deduce what words mean.
-
-**This has never been done before in any language in history.**
-
----
-
-## 🧩 Core Concept 5: Compositionality
-
-### **Meaning builds predictably.**
-
-**Simple example:**
+**As realization/understanding:**
 ```
-ba = I
-ma = can
-ivi = do
-
-ba ma ivi
-I can do
-→ "I can do it"
+Speaker 1: bi va pi hapi (they work at home)
+Speaker 2: a... (ah... I see...)
 ```
 
-**Complex example:**
+**As encouragement:**
 ```
-ba = I
-ta = past
-ma = can
-am = cannot
-ivi = do
-
-ba ta ma ivi
-I past can do
-→ "I could do it"
-
-ba ta am ivi
-I past cannot do
-→ "I couldn't do it"
+Speaker 1: ba va di (I'm doing this)
+Speaker 2: a! (yes! go for it!)
 ```
 
-**Each word adds one piece of meaning.**  
-**No hidden grammar. No irregular forms.**
-
 ---
 
-### **With nominal lexicon:**
+#### **E /e/ — Confirmation & Acknowledgment**
+
+**As mild agreement:**
 ```
-ba vi peka
-I have dog
-→ "I have a dog"
-
-ba vi zani peka
-I have 2 dog
-→ "I have two dogs"
-
-ba vi zani peka la zane peke
-I have 2 dog and 1 cat
-→ "I have two dogs and one cat"
+Speaker 1: di fo la? (is this better?)
+Speaker 2: e (yes, I think so)
 ```
 
-**Everything compositional. Everything predictable.**
-
----
-
-### **Even technical vectors are compositional:**
+**As acknowledgment:**
 ```
-apimabi
-a-p-i = thing (substance, neutral)
-m-a-b-i = biological-organism structure
-
-→ "biological organism"
+Speaker 1: ba va tu (I will do it)
+Speaker 2: e (okay/understood)
 ```
 
-**Written as one word:** `apimabi`  
-**But built from logical pieces.**
+**As hedged affirmation:**
+```
+Speaker 1: be va? (you do?)
+Speaker 2: e... (yeah... sort of...)
+```
 
 ---
 
-## 🧩 Core Concept 6: Phonological Disambiguation
+#### **I /i/ — Neutrality & Indifference**
 
-### **Problem:** What if patterns conflict?
+**As ambivalence:**
+```
+Speaker 1: ka be va? (what are you doing?)
+Speaker 2: i (meh/whatever/not much)
+```
 
-**Example:** 
-- Grammar: `ař` = mine (possessive pronoun)
-- Vocabulary: `aře` = mark, label (if it existed)
+**As "I don't know":**
+```
+Speaker 1: ki di? (where is this?)
+Speaker 2: i (dunno/not sure)
+```
 
-**They could sound similar in casual speech.**
-
----
-
-### **Solution: Vowel Doubling + Strong Articulation**
-
-**Grammar VC:** Pronounce naturally  
-`ař` → sounds naturally like [aɾa] or [aɾe] depending on speaker
-
-**Vocabulary VCV (when conflict exists):** Double final vowel + emphasize  
-`ařaa` → written with double vowel, pronounced [a.ɾa.a:] with strong emphasis on final vowel
-
-**In practice:**
-
-Grammar: `ba ař` → "my/mine" (natural pronunciation)  
-Vocabulary: `ba ařaa` → "mark/label" (written double, spoken with intensity)
-
-**This disambiguation applies to ~5 patterns per conflicting domain.**  
-Most words never need special handling. Context usually makes meaning clear.
+**As "doesn't matter":**
+```
+Speaker 1: di va? (do this?)
+Speaker 2: i (whatever/either way)
+```
 
 ---
 
-## 🧩 Core Concept 7: Domains = Ontological Categories
+#### **O /o/ — Disagreement & Doubt**
 
-### **Not just random word groups.**
+**As mild disagreement:**
+```
+Speaker 1: di la (this is good)
+Speaker 2: o (no/I don't think so)
+```
 
-The 25 domains aren't arbitrary categories like "animals" or "furniture."
+**As doubt:**
+```
+Speaker 1: bi va tu (they will do)
+Speaker 2: o... (hmm... I doubt it...)
+```
 
-**They're fundamental ontological dimensions:**
-
-**P** — Substance/Being — What things fundamentally ARE  
-**M** — Space/Dimension — Where things exist  
-**N** — Time/Temporal — When things exist  
-**V** — Action/Verbal — What things DO  
-**W** — Emotion/Affect — How minds FEEL  
-**T** — Process/Change — How things TRANSFORM  
-**K** — Social/Collective — How beings RELATE
-
-**These aren't cultural categories.**  
-**They're universal dimensions of existence.**
-
-A rock has substance, exists in space, exists in time.  
-A thought has no substance, but exists in time, has emotional content.  
-An action transforms things over time.
-
-**The domains map to reality, not just human classification systems.**
+**As negative acknowledgment:**
+```
+Speaker 1: be va di? (you do this?)
+Speaker 2: o (no/nope)
+```
 
 ---
 
-## 🧩 Core Concept 8: Four Systems with Clear Boundaries
+#### **U /u/ — Strong Rejection & Prohibition**
 
-### **Grammar (CV + VC) — 250 particles**
+**As emphatic no:**
+```
+Speaker 1: ba va di? (should I do this?)
+Speaker 2: u! (NO!/don't!)
+```
 
-**Purpose:** Structure, syntax, relationships  
-**Pattern:** C+V or V+C, single syllable  
-**Examples:** `ma` (can), `ta` (past), `la` (and), `am` (cannot)
+**As refusal:**
+```
+Speaker 1: be va? (will you?)
+Speaker 2: u (absolutely not)
+```
 
-**Function:** Forms the skeleton of every sentence.  
-**Unchanging:** These 250 particles are fixed.
-
----
-
-### **Core Vocabulary (VCV) — 625 words**
-
-**Purpose:** Everyday communication  
-**Pattern:** V+C+V, single syllable  
-**Examples:** `avi` (go), `ewi` (cry), `ami` (place), `eno` (day)
-
-**Function:** The flesh on the grammatical skeleton.  
-**Learnable:** Master these 625 and you're fluent for daily life.
+**As prohibition:**
+```
+Speaker 1: ba va pa? (I'm going?)
+Speaker 2: u! (NO! don't go!)
+```
 
 ---
 
-### **Nominal Lexicon (CVCV) — 15,625 words**
+## 💡 Primary Concepts — Building Blocks
 
-**Purpose:** Concrete objects, beings, places  
-**Pattern:** C₁+V₁+C₂+V₂, two syllables  
-**Examples:** `peka` (dog), `maka` (house), `yaka` (bread)
+### **Demonstratives (D-family)**
 
-**Function:** Systematic naming of everything concrete.  
-**Revolutionary:** First language where these are 100% pattern-derived.
+From 05-grammar-cv-vc.md, the most essential pointing words:
 
----
+| Particle | Meaning | Usage |
+|----------|---------|-------|
+| **di** | this (near speaker) | di la (this is good) |
+| **de** | that (near listener) | de va (that does) |
+| **da** | that (distant from both) | da bi (that one over there) |
+| **do** | which? / what? (question) | do bi? (which one?) |
+| **du** | such / like this | du va (do like this) |
 
-### **Technical Vectors (VCV+CV+) — 390,625 concepts**
-
-**Purpose:** Scientific precision, technical terminology  
-**Pattern:** V+C+V+C+V+..., multiple syllables  
-**Examples:** `apimabi` (biological-organism)
-
-**Function:** Optional precision layer for specialists.  
-**Reference:** Use like a technical dictionary, don't memorize.
-
----
-
-### **Boundaries are absolute.**
-
-Grammar never looks like vocabulary.  
-Vocabulary never looks like nominal lexicon.  
-Nominal lexicon never looks like technical vectors.  
-Numerals never look like anything else (Z-marker).
-
-**Visual recognition = instant classification.**
+**Informal use:** Point + vowel response
+```
+[pointing at object]
+Speaker 1: di? (this one?)
+Speaker 2: a! (yes!/that's the one!)
+```
 
 ---
 
-## 🧩 Core Concept 9: No Irregularity, Ever
+### **Personal Pronouns (B-family)**
 
-### **Every rule applies consistently. No exceptions.**
+The absolute essentials:
 
-**English has exceptions:**
-- "I go, you go, he go**es**" (why the S?)
-- "child → child**ren**" (why not "childs"?)
-- "good, better, best" (why not "gooder, goodest"?)
-- "dog, cat, bird" (why these arbitrary sounds?)
+| Particle | Meaning | Example |
+|----------|---------|---------|
+| **ba** | I / me | ba va (I do) |
+| **be** | you (singular) | be va (you do) |
+| **bi** | he/she/they (singular) | bi va (they do) |
+| **bo** | we | bo va (we do) |
+| **bu** | you all / they (plural) | bu va (you all do) |
 
-**This language has ZERO exceptions:**
-
-**Pronouns:**
+**Informal shortening:**
 ```
 ba = I
 be = you
-bi = they (singular)
-bo = we
-bu = they (plural)
-
-All follow the same pattern: b + vowel
+bi = he/she
 ```
 
-**Tense:**
+**Question about person + vowel response:**
 ```
-ta = past
-te = present
-ti = timeless
-to = future
-tu = immediate
-
-All follow the same pattern: t + vowel
+Speaker 1: ke? (who?)
+Speaker 2: ba (me)
 ```
-
-**Negation:**
-```
-ma = can      → am = cannot
-me = may      → em = may not
-xa = real     → ax = unreal
-va = be       → av = not be
-
-All follow the same pattern: flip CV → VC
-```
-
-**Nominal Lexicon:**
-```
-peka = dog (P-e-k-a matrix position)
-peke = cat (P-e-k-e matrix position)
-maka = house (M-a-k-a matrix position)
-meka = door (M-e-k-a matrix position)
-
-All follow CVCV matrix: C₁V₁C₂V₂
-```
-
-**No memorization of special cases. Just learn the pattern.**
 
 ---
 
-## 🧩 Core Concept 10: Numerals = Positional Logic + Z-Marker
+### **Basic Actions (V-family)**
 
-### **Numbers aren't arbitrary words.**
+Core verbs for everyday life:
 
-**English:** one, two, three, four... (must memorize)  
-**Mandarin:** yī, èr, sān, sì... (must memorize)
+| Particle | Meaning | Example |
+|----------|---------|---------|
+| **va** | do / make / act | ba va (I do) |
+| **ve** | become / change | di ve la (this becomes good) |
+| **vi** | be / exist | bi vi (they are/exist) |
+| **vo** | have / possess | ba vo di (I have this) |
+| **vu** | give / provide | be vu di (you give this) |
 
-**This language:** Z-marker + Positional structure
+**Simple sentences:**
+```
+ba va = I do
+be vi = you are
+bi vo = they have
+```
 
 ---
 
-### **System:**
+### **Tense Markers (T-family)**
 
-**All numerals start with Z + vowel (type marker)**
+Essential for any narrative:
 
-**za-** = cardinal (1, 2, 3...)  
-**ze-** = ordinal (1st, 2nd, 3rd...)  
-**zi-** = fractional (1/2, 1/3, 1/4...)  
-**zo-** = multiplicative (2×, 3×, 4×...)  
-**zu-** = collective (pair, trio, quartet...)
+| Particle | Meaning | Example |
+|----------|---------|---------|
+| **ta** | past (did) | ba va ta (I did) |
+| **ti** | present (do) | ba va ti (I do / am doing) |
+| **tu** | future (will do) | ba va tu (I will do) |
+
+**Casual time reference:**
+```
+ta = before / past
+ti = now
+tu = later / future
+```
 
 ---
 
-### **Digits:**
-```
-0-4: na, ne, ni, no, nu
-5-9: sa, se, si, so, su
+### **Questions (K-family)**
 
-Structure:
-1 syllable = units (0-9)
-2 syllables = tens (10-99)
-3 syllables = hundreds (100-999)
-4 syllables = thousands (1000+)
-```
+The essential interrogatives:
 
-**Examples:**
-```
-zane = 1 (za + ne)
-zanenu = 14 (za + ne-nu = 1-4)
-zanenuno = 143 (za + ne-nu-no = 1-4-3)
-zanenunosi = 1437 (za + ne-nu-no-si = 1-4-3-7)
-```
+| Particle | Meaning | Example |
+|----------|---------|---------|
+| **ka** | what? | ka di? (what is this?) |
+| **ke** | who? | ke va? (who does?) |
+| **ki** | where? | ki bi? (where is it?) |
+| **ko** | when? | ko be va? (when do you?) |
+| **ku** | why? | ku di? (why this?) |
 
-**Pattern = meaning. Always.**
+**Quick questions + vowel answers:**
+```
+Speaker 1: ka? (what?)
+Speaker 2: i (dunno/nothing much)
+
+Speaker 1: ko? (when?)
+Speaker 2: ti (now)
+```
 
 ---
 
-## 🧩 Core Concept 11: Vectors = Ontological Coordinates
+## 🗨️ Informal Conversation Patterns
 
-### **Technical vectors aren't "big words."**
+### **Greeting & Leave-taking**
 
-**They're like GPS coordinates for concepts.**
-
-**Example:** Describing water
-
-**Natural language (vague):**
+**Greetings (using demonstratives + state):**
 ```
-"Water is a clear liquid"
-```
+di la = this good (hello/things are good)
+→ Response: a / e (yes/agreed)
 
-**This language - casual (Layer 2):**
-```
-lavu va
-material-liquid is
-"liquid material" / "water"
+ko be? = when you? (when did you arrive? / how's it going?)
+→ Response: ti (now/just arrived / good)
 ```
 
-**This language - precise (Layer 4):**
+**Leave-taking:**
 ```
-lavunaopateitaexa
-l-a-v-u = material-liquid (L-domain)
-n-a-o = molecular (complexity)
-p-a-t = chemical (origin)
-e-i = standard (quality)
-t-a-e = liquid (state)
-x-a = real (existence)
-
-→ "real standard liquid material of molecular chemical origin"
+ba va tu = I do future (I'll do / I'm going)
+→ Response: a / e (okay/goodbye)
 ```
-
-**Vectors aren't for showing off.**  
-**They're for when casual words aren't precise enough.**
-
-Most people never need them. Scientists do.
 
 ---
 
-## 🧩 Core Concept 12: Cultural Neutrality = Conscious Design
+### **Requests & Commands**
 
-### **Not perfectly neutral (impossible), but intentionally universal.**
-
-**What we avoid:**
-- ❌ Gendered grammar (no "el/la", "he/she" mandatory)
-- ❌ Cultural metaphors (no "break the ice")
-- ❌ Religious concepts in core vocabulary
-- ❌ Bias toward one language family's phonology
-- ❌ **Borrowed vocabulary from any specific language**
-
-**What we include:**
-- ✅ Sounds from many language families
-- ✅ Concepts derived from universal ontology
-- ✅ Grammar based on logic, not tradition
-- ✅ Vocabulary from fundamental human experiences
-- ✅ **CVCV matrix derived purely from logical structure**
-
-**Example:**
-
-**English:** "brotherhood" (gendered, cultural)  
-**This language:** `uviewo ňu eki` = spirit-love of family (universal)
-
-**Esperanto:** "hundo" (dog) = borrowed from Germanic  
-**This language:** `peka` (dog) = P-e-k-a (matrix position, universal)
-
-**We acknowledge imperfection.**  
-The creators have biases. The community helps remove them.
-
-**But the CVCV matrix is culturally neutral by design — it's pure logic.**
-
----
-
-## 🧩 Core Concept 13: Learning = Pattern Recognition
-
-### **You're not memorizing thousands of random items.**
-
-**You're learning ~30-40 core patterns:**
-
-- 25 grammar families (CV + VC)
-- 25 vocabulary domains (VCV)
-- CVCV matrix structure (Domain → Subcategory → Concept → Variation)
-- Z-marker numeral system
-- A few combining rules
-
-**Once you know the patterns, you can:**
-- Predict word meanings
-- Generate new valid words
-- Recognize word types instantly
-- Build complex expressions logically
-- **Deduce nominal words you've never seen**
-
-**Example pattern recognition:**
+**Polite request (with modal):**
 ```
-You learn:
-- awi = argue (emotion-anger-action)
-- avo = run fast (action-go-strong)
-- emi = near (space-proximity)
-
-You can predict:
-- awo = shout (emotion-anger-strong)
-- avi = go (action-go-neutral)
-- emu = very far (space-distance-maximum)
+be ma va di? = you can do this? (can you do this?)
+→ Response: a (yes) / o (no)
 ```
 
-**Example CVCV pattern recognition:**
+**Direct request:**
 ```
-You learn:
-- P = living things
-- pe- = terrestrial mammals
-- pek- = domestic animals
-- peka = dog
-
-You can predict:
-- peke = probably cat (second domestic animal)
-- peki = probably horse (third domestic animal)
-- pela = probably a wild mammal (different concept group)
+be va di! = you do this! (do this!)
+→ Response: a (okay) / u (no way)
 ```
 
-**Pattern recognition > rote memorization.**
+**Offering:**
+```
+ba vu di? = I give this? (should I give this? / want this?)
+→ Response: a (yes please) / o (no thanks)
+```
 
 ---
 
-## 🧩 Core Concept 14: Fluency = 875 Resources
+### **Agreement & Disagreement**
 
-### **Not 875,000. Not 87,500. Just 875.**
+**Seeking agreement:**
+```
+di la? = this good? (is this good? / right?)
+→ Responses:
+   a! = totally!
+   e = yes
+   i = meh
+   o = no
+   u! = definitely not!
+```
 
-**Compare to other systems:**
-
-Toki Pona: 120-140 words (minimal but vague)  
-Basic English: 850 words (but irregular grammar)  
-**This language: 875 resources (systematic)**  
-Esperanto: ~2,000 words (many arbitrary)  
-Natural languages: ~3,000-5,000 words
-
-**Breakdown:**
-- 250 grammar particles (structure)
-- 625 core vocabulary (meaning)
-- = 875 total for everyday fluency
-
-**Everything beyond that is optional:**
-- Nominal lexicon (learn by pattern, not memorization)
-- Technical vectors (reference as needed)
-
-**You can stop at 875 and communicate fully about daily life.**
+**Expressing opinion:**
+```
+ba [statement]
+→ Listener: vowel response showing agreement level
+```
 
 ---
 
-## 🧩 Core Concept 15: Public Domain = Truly Universal
+### **Acknowledgment & Backchanneling**
 
-### **CC0 = No restrictions. Ever.**
+**Active listening:**
+```
+Speaker: [long statement]
+Listener: e... e... a... (yeah... yeah... right...)
+```
 
-**You can:**
-- ✅ Learn it freely
-- ✅ Teach it commercially
-- ✅ Modify it completely
-- ✅ Create derived works
-- ✅ Use it in products
-- ✅ Never ask permission
-- ✅ Never give attribution (though appreciated!)
-
-**No one owns this language.**  
-**It belongs to humanity.**
-
-**Like mathematical notation.**  
-**Like the periodic table.**  
-**Like the metric system.**
-
-**Tools for everyone.**
+**Understanding check:**
+```
+Speaker: [explanation]
+Speaker: di? (this? / understand?)
+Listener: a (yes/got it)
+```
 
 ---
 
-## 📚 How These Concepts Connect
+## 🎨 Combining Vowels with Basic Particles
 
-**Form = Function (Concept 2)**  
-↓  
-Visual recognition tells you word type instantly  
+### **Particle + Vowel Patterns**
 
-**Layers (Concept 1)**  
-↓  
-Choose your complexity: 875 for fluency, more for depth  
+**Location + confirmation:**
+```
+Speaker 1: ki? (where?)
+Speaker 2: pi hapi (at house)
+Speaker 1: a (ah, okay)
+```
 
-**CVCV Matrix (Concept 4)**  
-↓  
-Revolutionary: 15,625 words, ZERO arbitrary  
+**Person + agreement:**
+```
+Speaker 1: ke va? (who does?)
+Speaker 2: ba (me)
+Speaker 1: a (okay)
+```
 
-**Derivation (Concept 3)**  
-↓  
-Patterns generate words across all systems  
-
-**Compositionality (Concept 5)**  
-↓  
-Meaning builds predictably from components  
-
-**No Irregularity (Concept 9)**  
-↓  
-Everything follows patterns, always  
-
-**Pattern Recognition (Concept 13)**  
-↓  
-Learn logic, generate infinite expressions  
-
-**Public Domain (Concept 15)**  
-↓  
-Language for all humanity, forever
-
-**These aren't isolated ideas.**  
-**They're a coherent system.**
+**Object + selection:**
+```
+Speaker 1: ka? (what?)
+Speaker 2: [points] di
+Speaker 1: e (okay, that one)
+```
 
 ---
 
-## 🎯 Key Takeaways
+### **Minimal Utterances**
 
-**If you remember nothing else, remember this:**
+Two-particle complete exchanges:
 
-1. **Four layers** — Grammar, Vocabulary, Nominal Lexicon, Vectors (last two optional)
-2. **Form = Function** — Visual pattern tells you word type instantly
-3. **CVCV Matrix** — Revolutionary system: 15,625 words, ZERO arbitrary
-4. **Patterns > Memorization** — Learn logic, not lists
-5. **875 for fluency** — Not thousands. Not tens of thousands.
-6. **No exceptions** — Every rule applies 100% of the time
-7. **Your choice** — Stop when you're satisfied with your depth
+```
+Q: ka?     (what?)
+A: i       (nothing/dunno)
 
----
+Q: ko?     (when?)
+A: ti      (now)
 
-## 🚀 What's Next?
+Q: ke?     (who?)
+A: ba      (me)
 
-Now that you understand the foundational concepts:
+Q: ki?     (where?)
+A: i       (nowhere/dunno)
 
-**[Phonology](02-phonology.md)** — Learn the 30 sounds  
-**[Structure](04-structure.md)** — See how it all fits together  
-**[Grammar CV-VC](05-grammar-cv-vc.md)** — Start learning!  
-**[Nominal Lexicon Matrix](lexicon-nominal-matrix.md)** — Understand CVCV system
-
-**You're ready.**
+Q: di?     (this?)
+A: a!      (yes!)
+```
 
 ---
 
-*"Understanding the 'why' makes learning the 'how' infinitely easier."*
+## 📱 Casual Speech Patterns
+
+### **Ellipsis & Context**
+
+In informal speech, speakers drop predictable elements:
+
+**Full:** `ba va pi hapi ti` (I work at home now)  
+**Casual:** `pi hapi` (at home) — *context makes "I" and "now" clear*
+
+**Full:** `be va tu?` (will you do?)  
+**Casual:** `tu?` (later?) — *"you" and "do" understood*
+
+**Full:** `di la` (this is good)  
+**Casual:** `la` (good) — *"this" understood from context*
 
 ---
 
-**Version:** 0.4.0 — Systematic Nominal Lexicon  
-**Last Updated:** 2026-03-10  
-**Status:** Foundational Document  
-**License:** CC0 1.0 Universal (Public Domain)
+### **Particle Stacking**
+
+Quick, informal combinations:
+
+```
+ba ti = I now = me right now
+be ta = you past = you before
+di pi = this at = here
+da po = that from = from there
+```
+
+---
+
+### **Vowel Clustering (Emotional)**
+
+Repeated vowels show intensity:
+
+```
+a a a! = yes yes yes!
+u u u! = no no no!
+i i i... = whatever whatever whatever...
+```
+
+---
+
+## 🎭 Pragmatic Functions of Vowels
+
+### **Discourse Management**
+
+**Opening attention:** `a!` (hey! / listen!)  
+**Holding floor:** `e... e...` (um... uh...)  
+**Yielding turn:** `i` (okay/go ahead)  
+**Closing topic:** `a` (okay then)
+
+---
+
+### **Emotional Expression**
+
+**Joy/excitement:** `a! a!` (yes! yay!)  
+**Disappointment:** `u...` (aww... no...)  
+**Uncertainty:** `i...` (hmm...)  
+**Agreement:** `e e` (yeah yeah)  
+**Strong disagreement:** `u! u!` (no! no!)
+
+---
+
+### **Politeness Strategies**
+
+**Softening disagreement:**
+- Direct: `u` (no)
+- Soft: `o...` (hmm... I don't think so...)
+- Softer: `i...` (well... maybe not...)
+
+**Enthusiastic agreement:**
+- Neutral: `e` (yes)
+- Warm: `a` (yes!)
+- Enthusiastic: `a!` (absolutely!)
+
+---
+
+## 🌐 Cultural Notes
+
+### **Vowel Response Etiquette**
+
+**Appropriate use:**
+- Among friends: All vowels freely
+- Formal settings: Prefer `e` and `o` over extreme `a` and `u`
+- To superiors: `e` for agreement, avoid harsh `u`
+
+**Intensity:**
+- Casual: Vowel alone
+- Emphatic: Vowel + exclamation
+- Extreme: Repeated vowels
+
+---
+
+### **Regional Variation (Future)**
+
+As the language community grows, vowel responses may develop:
+- Length variations (short `a` vs. long `aa`)
+- Tone variations (high `á` vs. low `à`)
+- Emotional coloring specific to communities
+
+**Current standard:** Simple, clear, single vowel utterances
+
+---
+
+## 📊 Frequency in Conversation
+
+**Most common informal utterances (estimated):**
+
+1. `a` — affirmative responses (~25% of responses)
+2. `e` — mild agreement (~20%)
+3. `i` — neutral/dunno (~15%)
+4. `o` — mild disagreement (~15%)
+5. `di` — pointing/this (~10%)
+6. `ba` — I/me (~8%)
+7. `be` — you (~7%)
+
+**Result:** With ~10 particles + 5 vowels, speakers can handle majority of casual conversation.
+
+---
+
+## 🎯 Pedagogical Implications
+
+### **Teaching Sequence**
+
+**Week 1:** 5 vowels as responses
+- Students can already participate in basic Q&A
+- `a, e, i, o, u` = instant communication
+
+**Week 2:** Add pronouns (ba, be, bi)
+- Now can indicate who
+
+**Week 3:** Add demonstratives (di, de, da)
+- Now can point and identify
+
+**Week 4:** Add basic verbs (va, vi, vo)
+- Now can make statements
+
+**Week 5:** Add tense (ta, ti, tu)
+- Now can situate in time
+
+**Week 6:** Add questions (ka, ke, ki, ko, ku)
+- Now can ask anything
+
+**Result:** With ~20 particles + 5 vowels, basic functional communication achieved.
+
+---
+
+## 💬 Practice Dialogues
+
+### **Dialogue 1: Meeting**
+
+```
+A: di la?          (this good? / hi, how are you?)
+B: a!              (yes! / I'm good!)
+A: ko be va?       (when you do? / what are you up to?)
+B: ti va           (now do / just working)
+A: e               (okay)
+B: be?             (you? / and you?)
+A: i               (meh / nothing much)
+```
+
+---
+
+### **Dialogue 2: Offering**
+
+```
+A: ba vu di?       (I give this? / want this?)
+B: ka di?          (what this? / what is it?)
+A: [shows object]
+B: a!              (yes! / yes please!)
+A: [gives]
+B: e e             (thanks thanks)
+```
+
+---
+
+### **Dialogue 3: Asking Location**
+
+```
+A: ki [object]?    (where [object]?)
+B: pi hapi?        (at house?)
+A: o               (no)
+B: pi...           (at... / hmm...)
+A: i               (never mind / doesn't matter)
+B: a               (okay)
+```
+
+---
+
+### **Dialogue 4: Decision Making**
+
+```
+A: ba va di?       (I do this? / should I?)
+B: i...            (maybe...)
+A: di la?          (this good?)
+B: e               (yes / I think so)
+A: a!              (okay! / let's do it!)
+B: a               (agreed)
+```
+
+---
+
+## 🔮 Future Development
+
+### **Vowel Combinations**
+
+Potential for diphthong-like emotional expressions:
+- `ai` /ai/ — surprise/discovery
+- `au` /au/ — disappointment
+- `ei` /ei/ — hesitation
+
+**Status:** Not yet standardized, may emerge naturally
+
+---
+
+## 📖 Summary
+
+**The five vowels serve dual functions:**
+
+1. **Within words:** Systematic gradation (a=min → u=max)
+2. **Standalone:** Complete response scale (a=def.yes → u=def.no)
+
+**This reflects core philosophy:**
+- Minimal phonology (5 sounds)
+- Maximum productivity (infinite uses)
+- Systematic throughout (same sounds, multiple contexts)
+
+**Practical result:**
+- Day-one learners can communicate (yes/no responses)
+- Grows naturally into full vocabulary (same vowels in complex words)
+- System reinforces itself (vowel meanings consistent)
+
+---
+
+**File:** `03-primary-and-informal-concepts.md`  
+**Version:** 0.6.5  
+**Status:** ✅ Complete — Vowel responses and informal usage documented
+
+**Related Documentation:**
+- **[02-phonology.md](02-phonology.md)** — How to pronounce vowels
+- **[05-grammar-cv-vc.md](05-grammar-cv-vc.md)** — Basic particles referenced
+- **[LEARNING-PATH.md](LEARNING-PATH.md)** — Teaching sequence integration
+
+---
+
+> *"Five vowels. Infinite conversations."*
+
+---
