@@ -1,58 +1,60 @@
-# 📑 INDEX — Conlang Project v0.6.0
+# 📑 INDEX — Conlang Project v0.6.5
 
 **Complete Documentation Index and Navigation Guide**
 
-_Last Updated: March 19, 2026_
+_Last Updated: March 20, 2026_
 
 ---
 
 ## 🎯 Quick Navigation
 
-| I Want To...                    | Go To                                                       |
-| ------------------------------- | ----------------------------------------------------------- |
+| I Want To... | Go To |
+|--------------|-------|
 | **Start learning from scratch** | [WELCOME.md](#welcome) → [LEARNING-PATH.md](#learning-path) |
-| **Understand the system**       | [README.md](#readme)                                        |
-| **Learn basic grammar**         | [05-grammar-cv-vc.md](#grammar-cv-vc)                       |
-| **Learn advanced grammar**      | [06-basics-vcv.md](#grammar-vcv)                            |
-| **Build vocabulary**            | [09-lexicon-nominal-matrix.md](#lexicon-matrix)             |
-| **Look up specific words**      | [nominal-lexicon.md](#nominal-lexicon)                      |
-| **Find examples**               | [Examples Section](#examples)                               |
-| **Check my progress**           | [Learning Path Milestones](#milestones)                     |
+| **Understand the system** | [README.md](#readme) |
+| **Learn basic grammar** | [05-grammar-cv-vc.md](#grammar-cv-vc) |
+| **Learn advanced grammar** | [06-basics-vcv.md](#grammar-vcv) |
+| **Build vocabulary** | [09-lexicon-nominal-matrix.md](#lexicon-matrix) |
+| **Look up the domain order** | [Domain Reference Table](#domain-reference) |
+| **Find examples** | [Examples Section](#examples) |
+| **Check my progress** | [Learning Path Milestones](#milestones) |
+| **See what changed** | [CHANGELOG.md](#changelog) |
 
 ---
 
 ## 📚 Core Documentation
+
+### <a name="readme"></a>**README.md** — System Overview
+**Purpose:** Comprehensive project overview  
+**Length:** ~20 minutes read  
+**Contents:**
+- Core design principles (3-layer grammar, ontological lexicon, systematic gradation)
+- System architecture (phonology, grammar, lexicon)
+- **NEW v0.6.5:** 20 immutable base domains in definitive order
+- **NEW v0.6.5:** Dual-function X, Y, Z system explained
+- 7 specialized EC domains + 3 reserved
+- Word formation rules
+- Statistics (945 grammar particles, 27 domains)
+- Version history
+- Quick links
+
+**Best for:** Understanding the big picture, reference
+
+---
 
 ### <a name="welcome"></a>**WELCOME.md** — Start Here
 **Purpose:** Introduction and orientation  
 **Length:** ~15 minutes read  
 **Contents:**
 - What makes this language special
-- Quick start guide
-- Sample sentences
+- Quick start guide (4 immediate steps)
+- Sample sentences with progression
 - Navigation guide
-- Timeline expectations
-- FAQs
-- First steps
+- Timeline expectations (1 week to 18 months)
+- FAQs and motivations
+- First actionable steps
 
 **Best for:** Complete beginners, first-time visitors
-
----
-
-### <a name="readme"></a>**README.md** — System Overview
-**Purpose:** Comprehensive project overview  
-**Length:** ~20 minutes read  
-**Contents:**
-- Core design principles
-- System architecture (phonology, grammar, lexicon)
-- 27 ontological domains
-- Word formation rules
-- Real examples
-- Statistics (675 base words, 81k potential)
-- Version history
-- Learning path summary
-
-**Best for:** Understanding the big picture, reference
 
 ---
 
@@ -65,23 +67,23 @@ _Last Updated: March 19, 2026_
 - Month 1: Phonology + 10 consonants
 - Month 2: Basic CV grammar
 - Month 3: First 50 words
-- Month 4: Basic modifiers
+- Month 4: Basic modifiers (M, L, K, V, P)
 - Month 5: VC system introduction
 - Month 6: Basic fluency practice
 
 **Intermediate Level (Months 7-12):**
-- Month 7: Remaining consonants
-- Month 8: Consonant clusters (ECs)
+- Month 7: Remaining 10 consonants
+- Month 8: 7 consonant clusters (ECs)
 - Month 9: All 24 modifiers
 - Month 10: VCV introduction
 - Month 11: 3D spatial system
 - Month 12: Intermediate consolidation
 
 **Advanced Level (Months 13-18):**
-- Months 13-14: Complete VCV mastery
-- Month 15: All 675 base words
+- Months 13-14: Complete VCV mastery (675 particles)
+- Month 15: All base words
 - Month 16: Creative word formation
-- Month 17: Literary register
+- Month 17: Literary/formal register
 - Month 18: Full fluency
 
 **Master Level (18+ months):**
@@ -101,47 +103,40 @@ _Last Updated: March 19, 2026_
 **Length:** ~45 minutes study  
 **Contents:**
 
-**System Overview:**
-- 20 base consonants + 7 defined ECs
+**NEW v0.6.5 Structure:**
+- **Ontological order:** P, T, K, B, M, G, V, R, J̌, S, F, H, N, D, L, Ľ, W, X, Y, Z
+- **Exception group:** Positions 17-20 (W, X, Y, Z) with inverted/specialized gradation
 - 135 CV particles
 - 135 VC particles
-- Total: 270 grammatical resources
+- 7 defined EC families (PR, BR, TR, DR, KR, GR, PL)
+- 3 reserved ECs (BL, KL, GL)
 
 **20 Base Families:**
-1. B — Pronouns & Reference
-2. M — Modal
-3. T — Tense
-4. K — Question
-5. P — Preposition
-6. N — Quantity
-7. D — Demonstrative
-8. L — Conjunction
-9. X — Spatial (X-Axis)
-10. V — Action/Verbal
-11. G — Aspect
-12. R — State/Condition
-13. F — Comparison
-14. H — Relation
-15. S — Boundary/Limit
-16. Y — Spatial (Y-Axis)
-17. J̌ — Causality/Agency
-18. W — Emotion/Affect
-19. Z — Spatial (Z-Axis)
-20. Ľ — Evidentiality
-
-**7 EC Families:**
-21. PR — Manner/Mode
-22. BR — Perception/Sensory
-23. TR — Movement/Direction
-24. DR — Existence/Reality
-25. KR — Possession/Belonging
-26. GR — Intensity/Degree
-27. PL — Intention/Volition
+1. P — Preposition
+2. T — Tense
+3. K — Question
+4. B — Pronouns & Reference
+5. M — Modal
+6. G — Aspect
+7. V — Action/Verbal
+8. R — State/Condition
+9. J̌ — Causality/Agency
+10. S — Boundary/Limit
+11. F — Comparison
+12. H — Relation
+13. N — Quantity
+14. D — Demonstrative
+15. L — Conjunction
+16. Ľ — Evidentiality
+17. **W — Emotion/Affect** ⚠️ (exception)
+18. **X — Spatial (X-Axis)** ⚠️ (exception)
+19. **Y — Spatial (Y-Axis)** ⚠️ (exception)
+20. **Z — Spatial (Z-Axis)** ⚠️ (exception)
 
 **Special Features:**
-- Pronunciation rules (VEC nasal)
-- 3D spatial coordinate system (X-Y-Z)
-- Gradation exceptions (W, X, Y, Z)
+- VEC pronunciation rules (nasal)
+- 3D spatial coordinate system
+- Gradation exceptions documented
 
 **Best for:** Months 2-6 of learning, ongoing reference
 
@@ -152,19 +147,19 @@ _Last Updated: March 19, 2026_
 **Length:** Reference document  
 **Contents:**
 
-**System Structure:**
+**NEW v0.6.5 Structure:**
+- Same ontological order as CV/VC
 - 27 families (20 base + 7 ECs)
 - 25 particles per family
 - Total: 675 VCV particles
 
-**Coverage by Domain:**
-- All 20 base consonant families expanded
-- All 7 EC families expanded
-- Systematic gradation (a→e→i→o→u)
-- Exceptions documented
+**System Structure:**
+- [Initial Vowel] + [Consonant] + [Final Vowel]
+- Systematic gradation throughout
+- Exception families (W, X, Y, Z) clearly marked
 
 **Key Features:**
-- Movement patterns (spatial)
+- Spatial movement patterns (X, Y, Z)
 - Nuanced grammatical expressions
 - Context-specific meanings
 - Semantic progressions
@@ -182,25 +177,22 @@ _Last Updated: March 19, 2026_
 
 **System Architecture:**
 - Word structure rules (CV¹CV²CVⁿCV-modifier)
-- 27 ontological domains explained
+- **NEW v0.6.5:** 27 ontological domains in definitive order
 - 24 functional modifiers detailed
+- Dual-function X, Y, Z explained
 
 **Comprehensive Examples:**
-- Water domain (pepi → pepima/pepimu/pepiva/etc.)
-- Person domain (kapi → kapima/kapimu/kapila/etc.)
-- Speech domain (babi → babipa/babipra/etc.)
+- Will be updated with new domain structure
+- Modifier application patterns
+- Word formation rules
 
 **Modifier Tables:**
 - 17 base modifiers with progressions
 - 7 EC modifiers with progressions
 - All a→e→i→o→u gradations
 
-**Case System:**
-- Grammatical cases via VC particles
-- Examples with real words
-
 **Statistics:**
-- 675 CVCV base words
+- Target: 675 CVCV base words (restructuring in progress)
 - 81,000 theoretical words with modifiers
 - 500,000+ potential with 3-syllable expansion
 
@@ -209,49 +201,107 @@ _Last Updated: March 19, 2026_
 ---
 
 ### <a name="nominal-lexicon"></a>**nominal-lexicon.md** — Complete Word List
-**Purpose:** All 675 base words documented  
-**Length:** Reference document (1600+ lines)  
+**Purpose:** All base words documented  
+**Status:** 🔄 **RESTRUCTURING for v0.6.5**  
 **Contents:**
 
-**All 27 Domains Complete:**
+**New Domain Order (in development):**
+All 27 domains × 25 words = 675 total
 
-**Domain B (Communication):** 25 words
-- BA-series: Verbal expression (formality)
-- BE-series: Written record (permanence)
-- BI-series: Gestural signal (range)
-- BO-series: Acoustic signal (complexity)
-- BU-series: Symbolic system (abstraction)
+1. P — Substance/Matter
+2. T — Time/Temporality
+3. K — Social/Collective
+4. B — Communication
+5. M — Cognitive/Mental
+6. G — Spatial/Positional
+7. V — Action/Verbal
+8. R — State/Condition
+9. J̌ — Motion/Movement
+10. S — Quantity/Measurement
+11. F — Food/Nutrition
+12. H — Dwelling/Shelter
+13. N — Nature/Living
+14. D — Tool/Artifact
+15. L — Structure/Form
+16. Ľ — Perception/Sensory
+17. W — Emotion/Affect
+18. X — Causality/Agency
+19. Y — Knowledge/Information
+20. Z — Intensity/Degree
+21-27. PR, BR, TR, DR, KR, GR, PL (ECs)
 
-**Domain M (Mind/Cognition):** 25 words
-- MA-series: Thought process (speed)
-- ME-series: Memory (temporal distance)
-- MI-series: Understanding (scope)
-- MO-series: Attention (selectivity)
-- MU-series: Mental state (clarity)
-
-**Domain T (Time/Temporality):** 25 words
-- TA-series: Duration/span
-- TE-series: Cycle/rhythm
-- TI-series: Point in time
-- TO-series: Temporal phase
-- TU-series: Temporal relation
-
-**[... continues for all 27 domains × 25 words = 675 total]**
-
-**Best for:** Vocabulary lookup, systematic study, reference
+**Best for:** Vocabulary lookup, systematic study, reference (when complete)
 
 ---
 
 ## 📊 Reference Tables
 
+### <a name="domain-reference"></a>**Domain Quick Reference**
+
+#### **20 IMMUTABLE BASE DOMAINS** 🔒
+
+| # | Letter | IPA | Grammatical Domain | Lexical Domain |
+|---|--------|-----|-------------------|----------------|
+| 1 | **P** | /p/ | Preposition | Substance/Matter |
+| 2 | **T** | /t/ | Tense | Time/Temporality |
+| 3 | **K** | /k/ | Question | Social/Collective |
+| 4 | **B** | /b/ | Pronouns & Reference | Communication |
+| 5 | **M** | /m/ | Modal | Cognitive/Mental |
+| 6 | **G** | /g/ | Aspect | Spatial/Positional |
+| 7 | **V** | /v/ | Action/Verbal | Action/Verbal |
+| 8 | **R** | /ɾ/ | State/Condition | State/Condition |
+| 9 | **J̌** | /dʒ/ | Causality/Agency | Motion/Movement |
+| 10 | **S** | /s/ | Boundary/Limit | Quantity/Measurement |
+| 11 | **F** | /f/ | Comparison | Food/Nutrition |
+| 12 | **H** | /h/ | Relation | Dwelling/Shelter |
+| 13 | **N** | /n/ | Quantity | Nature/Living |
+| 14 | **D** | /d/ | Demonstrative | Tool/Artifact |
+| 15 | **L** | /l/ | Conjunction | Structure/Form |
+| 16 | **Ľ** | /ʎ/ | Evidentiality | Perception/Sensory |
+| 17 | **W** | /w/ | Emotion/Affect ⚠️ | Emotion/Affect ⚠️ |
+| 18 | **X** | /ʃ/ | Spatial (X-Axis) ⚠️ | Causality/Agency |
+| 19 | **Y** | /ʒ/ | Spatial (Y-Axis) ⚠️ | Knowledge/Information |
+| 20 | **Z** | /z/ | Spatial (Z-Axis) ⚠️ | Intensity/Degree |
+
+**⚠️ Exception Group (17-20):**
+- **W:** Inverted emotion scale (a=positive → u=negative)
+- **X, Y, Z (Grammar):** Spatial coordinates (a=max+ → u=min−)
+- **X, Y, Z (Lexicon):** Standard domains (different from grammar use)
+
+---
+
+#### **7 SPECIALIZED DOMAINS (ECs)** ✅
+
+| # | EC | IPA | Grammatical Domain | Lexical Domain |
+|---|-----|-----|-------------------|----------------|
+| 21 | **PR** | /pɾ/ | Manner/Mode | Process/Method |
+| 22 | **BR** | /bɾ/ | Perception/Sensory | Transport/Vehicle |
+| 23 | **TR** | /tɾ/ | Movement/Direction | Container/Vessel |
+| 24 | **DR** | /dɾ/ | Existence/Reality | Creation/Art |
+| 25 | **KR** | /kɾ/ | Possession/Belonging | Growth/Development |
+| 26 | **GR** | /gɾ/ | Intensity/Degree | Intention/Volition |
+| 27 | **PL** | /pl/ | Intention/Volition | Modal/Qualitative |
+
+---
+
+#### **3 RESERVED CLUSTERS** 🔓
+
+| EC | IPA | Status | Future Use |
+|----|-----|--------|------------|
+| **BL** | /bl/ | Open | Available for future domain |
+| **KL** | /kl/ | Open | Available for future domain |
+| **GL** | /gl/ | Open | Available for future domain |
+
+---
+
 ### **Phonology Quick Reference**
 
 **Consonants (20 base):**
 ```
-B  /b/    M  /m/    T  /t/    K  /k/    P  /p/
-N  /n/    D  /d/    L  /l/    V  /v/    G  /g/
-R  /ɾ/    F  /f/    H  /h/    S  /s/    J̌ /dʒ/
-W  /w/    X  /ʃ/    Y  /ʒ/    Z  /z/    Ľ /ʎ/
+P  /p/    T  /t/    K  /k/    B  /b/    M  /m/
+G  /g/    V  /v/    R  /ɾ/    J̌ /dʒ/   S  /s/
+F  /f/    H  /h/    N  /n/    D  /d/    L  /l/
+Ľ  /ʎ/    W  /w/    X  /ʃ/    Y  /ʒ/    Z  /z/
 ```
 
 **Consonant Clusters (10 total):**
@@ -267,37 +317,10 @@ Reserved (3): BL /bl/  KL /kl/  GL /gl/
 a /a/    e /e/    i /i/    o /o/    u /u/
 ```
 
----
-
-### **Domain Quick Reference**
-
-| # | Consonant | Domain | Examples |
-|---|-----------|--------|----------|
-| 1 | B | Communication | speech, writing, gestures |
-| 2 | M | Mind/Cognition | thought, memory, understanding |
-| 3 | T | Time/Temporality | duration, cycles, moments |
-| 4 | K | Social/Cultural | people, relationships, groups |
-| 5 | N | Nature/Living | plants, animals, ecosystems |
-| 6 | D | Structure/Form | shapes, patterns, complexity |
-| 7 | L | Light/Energy | brightness, heat, radiation |
-| 8 | V | Life/Vitality | health, vigor, healing |
-| 9 | G | Geography/Space | landforms, water, climate |
-| 10 | R | Tool/Artifact | tools, machines, containers |
-| 11 | F | Food/Nutrition | sources, meals, flavors |
-| 12 | H | Dwelling/Shelter | houses, buildings, settlements |
-| 13 | S | Quantity/Measure | numbers, units, values |
-| 14 | J̌ | Motion/Movement | speed, paths, journeys |
-| 15 | W | Weather/Climate | precipitation, wind, temperature |
-| 16 | Ľ | Knowledge/Info | truth, sources, methods |
-| 17 | P | Substance/Matter | gases, liquids, solids |
-| 18-20 | X,Y,Z | *Spatial Grammar* | coordinates |
-| 21 | PR | Process/Method | stages, techniques |
-| 22 | BR | Sense/Perception | visual, auditory, tactile |
-| 23 | TR | Transport/Vehicle | land, water, air |
-| 24 | DR | Container/Vessel | size, material, seal |
-| 25 | KR | Creation/Art | medium, form, style |
-| 26 | GR | Growth/Development | rate, stage, evolution |
-| 27 | PL | Plant/Vegetation | type, parts, habits |
+**Gradation Pattern:**
+- **Standard (1-16):** a (minimum) → u (maximum)
+- **Exception W (17):** a (positive) → u (negative)
+- **Exception X,Y,Z (18-20):** a (maximum+) → u (minimum−)
 
 ---
 
@@ -355,56 +378,26 @@ ba va ti = I do (present)
 ba va tu = I will do (future)
 ```
 
-**With Objects:**
+**With Location (P-family):**
 ```
-ba va fopi = I do meal = I eat
-be va babi = you do speech = you speak
-bi va hapi = they do house = they work
-```
-
-**With Location:**
-```
-ba va pi hapi = I do in house = I work at home
-be va po kipi = you do from community = you come from community
-bi va pa gapi = they do to plain = they go to the plain
+ba va pi [location] = I work at [location]
+be va po [location] = you come from [location]
+bi va pa [location] = they go to [location]
 ```
 
 ### **Intermediate Level Examples**
 
 **With Modifiers:**
 ```
-ba va fopima = I eat small-meal = I snack
-be va babipru = you speak perfectly = you speak eloquently
-bi va pi hapimo = they work in large-house = they work in mansion
+[word]ma = small [word]
+[word]mu = large [word]
+[word]va = still [word]
+[word]vu = moving [word]
 ```
 
 **Complex Sentences:**
 ```
-ba ti va pepilu po hapi pa kipi
-I present do water-pure from house to community
-"I am bringing pure water from the house to the community"
-```
-
-**Questions:**
-```
-ke va fopi? = who does meal? = who eats?
-ka be va? = what you do? = what do you do?
-ki bi va? = where they do? = where do they work?
-```
-
-### **Advanced Level Examples**
-
-**With Multiple Modifiers:**
-```
-ba ti va pepilumu po hapima pa kipimo
-I present do water-pure-large from house-small to community-large
-"I am bringing a large amount of pure water from the small house to the large community"
-```
-
-**Using VCV Particles:**
-```
-ba ama va di = I completely-unable do this = I cannot do this at all
-be emu va du = you encouraged do that = you are encouraged to do that
+Structure being developed with new domain order
 ```
 
 ---
@@ -413,13 +406,13 @@ be emu va du = you encouraged do that = you are encouraged to do that
 
 ### **Week 1**
 - ✓ Know 5 vowels and gradation system
-- ✓ Understand basic phonology
+- ✓ Understand exception group (W, X, Y, Z)
 - ✓ Can pronounce all consonants
 
 ### **Month 1**
-- ✓ Know 10 base consonants and domains
-- ✓ Recognize domain semantics
-- ✓ 20 words learned
+- ✓ Know first 10 base consonants and domains
+- ✓ Recognize ontological order
+- ✓ Understand dual-function X, Y, Z
 
 ### **Month 3**
 - ✓ 50 words vocabulary
@@ -451,40 +444,52 @@ be emu va du = you encouraged do that = you are encouraged to do that
 
 ```
 conlang-project/
-├── INDEX.md (this file)
+├── README.md (system overview)
+├── INDEX.md (this file - navigation)
 ├── WELCOME.md (start here)
-├── README.md (overview)
 ├── LEARNING-PATH.md (curriculum)
+├── 04-structure.md (v0.6.5 domain definitions)
 ├── 05-grammar-cv-vc.md (basic grammar)
 ├── 06-basics-vcv.md (advanced grammar)
 ├── 09-lexicon-nominal-matrix.md (vocabulary system)
-└── nominal-lexicon.md (all 675 words)
+├── nominal-lexicon.md (all words - restructuring)
+├── community/
+│   └── FAQ.md (frequently asked questions)
+└── news/
+    ├── ROADMAP.md (development plan)
+    └── CHANGELOG.md (version history)
 ```
 
 ---
 
 ## 📈 Version History
 
-### **v0.6.0 (Current)** — March 2026
-- Complete restructuring
-- X/Y/Z exclusively spatial
-- GR/PL new ECs (migrated from Y/Z functions)
-- 675 base words documented
-- All 27 domains complete
-- Modifier system finalized (24 modifiers)
+### **v0.6.5 (Current)** — March 2026
+- **MAJOR RESTRUCTURING:** Definitive ontological domain order
+- 20 base domains now immutable 🔒
+- Exception gradations (W, X, Y, Z) grouped at positions 17-20
+- Dual-function system formalized for X, Y, Z
+- All grammar documentation updated to new order
+- Lexicon restructuring in progress
+
+### **v0.6.0** — March 2026
+- Complete grammatical foundation
+- X, Y, Z spatial system
+- GR and PL ECs defined
+- 675 base words (old structure)
 
 ---
 
 ## 🔍 Search Tips
 
 **Looking for a specific word?**
-→ Use `nominal-lexicon.md` and search by domain
+→ Wait for `nominal-lexicon.md` restructuring completion
 
 **Need grammar clarification?**
 → Check `05-grammar-cv-vc.md` for basics, `06-basics-vcv.md` for advanced
 
-**Want to create a new word?**
-→ See `09-lexicon-nominal-matrix.md` for formation rules
+**Want to understand domain order?**
+→ See [Domain Reference Table](#domain-reference) above
 
 **Planning your study?**
 → Follow `LEARNING-PATH.md` month-by-month
@@ -507,19 +512,33 @@ conlang-project/
 3. Practice with examples
 
 **Advanced user?**
-1. Reference nominal-lexicon.md for vocabulary
+1. Reference domain tables above
 2. Explore 06-basics-vcv.md for nuances
-3. Create original content
+3. Wait for restructured nominal-lexicon.md
 
 **Contributor?**
 1. Review all documentation
-2. Identify gaps or improvements
-3. Create supplementary materials
+2. Check ROADMAP.md for priorities
+3. See CHANGELOG.md for recent changes
 
 ---
 
-**Last Updated:** March 19, 2026  
-**Version:** 0.6.0  
+## <a name="changelog"></a>**CHANGELOG.md** — Version History
+**Location:** `news/CHANGELOG.md`  
+**Purpose:** Complete development log  
+**Latest:** v0.6.5 — Ontological restructuring
+
+---
+
+## <a name="roadmap"></a>**ROADMAP.md** — Development Plan
+**Location:** `news/ROADMAP.md`  
+**Purpose:** Future development strategy  
+**Current Phase:** Phase 2 — Expansion (restructuring)
+
+---
+
+**Last Updated:** March 20, 2026  
+**Version:** 0.6.5  
 **Total Documentation:** ~8 core files, 2000+ pages equivalent
 
 **Happy exploring!** 🌐

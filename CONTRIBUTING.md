@@ -1,364 +1,584 @@
-# Contributing to Universal Ontological Language
+# 🤝 CONTRIBUTING
 
-Thank you for your interest in contributing to this project! 🌍
+**How to Contribute to the Conlang Project**
 
-This is an **open-source, public domain project** — everyone is welcome to participate, regardless of experience level.
+_Version 0.6.5 — March 2026_
 
 ---
 
-## 🎯 Ways to Contribute
+## 🎯 Overview
 
-### 1. 🐛 Report Issues
+Thank you for your interest in contributing to this constructed language project! Whether you're a linguist, a learner, a developer, or simply curious about conlangs, there are many ways you can help this language grow.
 
-Found a problem? Let us know!
+**Current Project Phase:** v0.6.5 — Ontological Restructuring  
+**Focus:** Rebuilding nominal lexicon with definitive domain order
+
+---
+
+## 🌟 Ways to Contribute
+
+### **1. 📝 Content Creation**
+
+#### **Example Sentences**
+- Write original sentences using current vocabulary
+- Translate common phrases from English/Portuguese
+- Create dialogues for different contexts (greetings, shopping, travel)
+- Develop conversation scenarios
+
+**Priority:** HIGH — We need 1,000+ example sentences
+
+#### **Educational Materials**
+- Create practice exercises
+- Develop quizzes (grammar, vocabulary)
+- Write explanatory articles
+- Make visual learning aids
+
+#### **Literary Works**
+- Write short stories
+- Compose poetry
+- Translate existing works
+- Create cultural texts
+
+---
+
+### **2. 🔧 Technical Development**
+
+#### **Dictionary Tools**
+- Searchable database (web-based)
+- English ↔ Conlang lookup
+- Filter by domain
+- Show word formation patterns
+
+**Stack suggestions:** React, Vue, or vanilla JS + JSON/SQLite
+
+#### **Learning Tools**
+- Flashcard generators
+- Spaced repetition systems
+- Grammar checkers
+- Word formation validators
+
+#### **Mobile Apps**
+- iOS/Android dictionary
+- Practice apps
+- Pronunciation guides
+- Progress trackers
+
+---
+
+### **3. 🎨 Creative Contributions**
+
+#### **Audio Resources**
+- Record pronunciation guides
+- Create audio examples for all 35 phonemes
+- Record example sentences
+- Produce listening comprehension materials
+
+#### **Visual Design**
+- Infographics explaining grammar
+- Domain visualization charts
+- Learning posters
+- Social media graphics
+
+#### **Video Content**
+- Tutorial videos
+- Pronunciation demonstrations
+- Grammar explanations
+- Cultural content
+
+---
+
+### **4. 📚 Documentation**
+
+#### **Improvements Needed**
+- Clarify ambiguous sections
+- Add more examples
+- Fix typos and errors
+- Improve explanations
+
+#### **Translations**
+- Translate docs to other languages
+- Create language-specific learning paths
+- Localize examples
+
+#### **Expansion**
+- Write detailed grammar explanations
+- Create domain-specific vocabularies
+- Develop usage guides
+- Document idiomatic patterns
+
+---
+
+### **5. 🧪 Testing & Feedback**
+
+#### **Grammar Testing**
+- Test systematic consistency
+- Find edge cases
+- Verify word formation rules
+- Check particle usage
+
+#### **Learning Path Testing**
+- Follow curriculum month-by-month
+- Report difficult sections
+- Suggest improvements
+- Share learning strategies
+
+#### **Usability Feedback**
+- Review documentation clarity
+- Test navigation
+- Identify missing information
+- Suggest organizational improvements
+
+---
+
+## 🚫 What NOT to Contribute
+
+### **Breaking Changes**
+❌ Fundamental alterations to:
+- The 20 immutable base domains (positions 1-20) 🔒
+- Vowel gradation system (a→e→i→o→u)
+- Exception group structure (W, X, Y, Z)
+- Core phonology (35 phonemes)
+
+### **Arbitrary Additions**
+❌ Changes that:
+- Don't follow systematic patterns
+- Break consistency
+- Ignore ontological organization
+- Create irregularities
+
+### **Unsolicited Major Restructuring**
+❌ Proposals for:
+- Complete grammar overhauls
+- Domain reorganization
+- Phonology changes
+- Fundamental design shifts
+
+**Note:** Discuss major ideas first before investing significant work!
+
+---
+
+## 📋 Contribution Guidelines
+
+### **1. Systematic Consistency**
+
+**✅ DO:**
+- Follow existing patterns
+- Maintain vowel gradation logic
+- Respect domain semantics
+- Use established formation rules
+
+**❌ DON'T:**
+- Create exceptions without justification
+- Ignore systematic relationships
+- Break established patterns
+- Add arbitrary elements
+
+---
+
+### **2. Documentation Standards**
+
+**Format:**
+- Use Markdown (.md files)
+- Follow existing document structure
+- Include clear headings
+- Provide examples
+
+**Style:**
+- Clear, concise language
+- Professional but approachable tone
+- Systematic organization
+- Consistent terminology
 
 **Examples:**
-- Inconsistency in grammar rules
-- Error in ontological matrices
-- Typo in documentation
-- Phonological impossibility
-- Missing information
-
-**How:**
-1. Go to [Issues](../../issues)
-2. Click "New Issue"
-3. Describe the problem clearly
-4. Include examples if possible
+- Always include concrete examples
+- Show both correct and incorrect usage
+- Provide context
+- Explain reasoning
 
 ---
 
-### 2. 💡 Suggest Improvements
+### **3. Code Standards (for tools)**
 
-Have an idea to make the language better?
+**General:**
+- Clean, readable code
+- Comments for complex logic
+- Modular architecture
+- Error handling
 
-**Examples:**
-- Alternative vector structure
-- Better organization for subcategories
-- More intuitive grammatical particle
-- Improved learning path
-- New example dialogues
+**Data Format:**
+- JSON for vocabulary databases
+- CSV for simple lists
+- Markdown tables for documentation
+- SQLite for complex queries
 
-**How:**
-1. Go to [Discussions](../../discussions)
-2. Start a new discussion
-3. Explain your suggestion
-4. Discuss with the community
-
----
-
-### 3. 📝 Improve Documentation
-
-Help make the language easier to understand!
-
-**What you can do:**
-- Fix typos or unclear explanations
-- Add examples to existing documentation
-- Translate documentation to other languages
-- Create learning guides
-- Write tutorials
-- Improve README clarity
-
-**How:**
-1. Fork the repository
-2. Make your changes
-3. Submit a Pull Request (see below)
+**API Design:**
+- RESTful patterns
+- Clear endpoint naming
+- Proper HTTP methods
+- JSON responses
 
 ---
 
-### 4. 🧬 Expand Ontological Matrices
+### **4. Version Control**
 
-Help complete the 25 ontological domains!
+**Branching:**
+- `main` — Stable releases only
+- `develop` — Active development
+- `feature/[name]` — New features
+- `fix/[name]` — Bug fixes
 
-**Current status:** 2.6/25 matrices complete
+**Commits:**
+- Clear, descriptive messages
+- One logical change per commit
+- Reference issues when applicable
+- Follow conventional commit format
 
-**What you can do:**
-- Complete subcategories in Matrix N (Temporal)
-- Design new matrices (T, K, B, D, G, etc.)
-- Review existing matrices for consistency
-- Suggest better vector categorizations
-
-**Guidelines:**
-- Each matrix has 5 subcategories
-- Each subcategory has 20 vectors
-- Each vector has 5 gradations (a/e/i/o/u)
-- Follow the established pattern (see completed matrices P and M)
-
----
-
-### 5. 📚 Create Examples
-
-Show how the language works in practice!
-
-**What you can do:**
-- Write basic sentences
-- Create dialogues
-- Translate short texts
-- Compose poetry or creative writing
-- Record pronunciation samples
-- Make video tutorials
-
-**Place them in:** `examples/` directory
-
----
-
-### 6. 🔨 Build Tools
-
-Help learners and users with practical tools!
-
-**Ideas:**
-- Web-based vector constructor
-- IPA pronunciation trainer
-- Anki flashcard decks
-- Mobile apps
-- Dictionary software
-- Translation tools
-- Text-to-speech (TTS) support
-
-**Place them in:** `tools/` directory
-
----
-
-### 7. 🌍 Translate
-
-Make the project accessible to non-English speakers!
-
-**What you can do:**
-- Translate README to your language
-- Translate core documentation
-- Create culture-specific examples
-- Adapt pronunciation guide for your native language
-
-**Place them in:** `docs/translations/[language-code]/`
-
----
-
-## 🔄 Pull Request Process
-
-### Before You Start
-
-1. **Check existing issues/PRs** — someone might already be working on it
-2. **Open an issue first** (for major changes) — discuss the approach
-3. **Fork the repository** — work on your own copy
-
-### Making Changes
-
-1. **Create a branch** with a descriptive name:
-```bash
-   git checkout -b fix-phonology-typos
-   git checkout -b add-matrix-t-structure
-   git checkout -b improve-readme-examples
+**Example commit messages:**
+```
+feat: Add pronunciation guide for X, Y, Z consonants
+fix: Correct gradation pattern in W-family documentation
+docs: Update README with v0.6.5 changes
+refactor: Reorganize domain tables in INDEX.md
 ```
 
-2. **Make your changes**
-   - Follow existing style/format
-   - Test if applicable
-   - Keep commits focused
+---
 
-3. **Write clear commit messages**
-```
-   ✅ Good:
-   "Fix IPA transcription error in consonant table"
-   "Add 25 vectors to Matrix N subcategory e-n"
-   "Improve clarity of grammar CV examples"
-   
-   ❌ Bad:
-   "update"
-   "changes"
-   "fix"
-```
+## 🎯 Current Priorities (v0.6.5)
 
-### Submitting
+### **🔥 HIGH PRIORITY**
 
-1. **Push your branch** to your fork
-2. **Open a Pull Request** on the main repository
-3. **Describe your changes** clearly:
-   - What did you change?
-   - Why did you change it?
-   - How does it improve the project?
+#### **1. Nominal Lexicon Restructuring**
+**Status:** In Progress  
+**Help Needed:**
+- Creating words for new domain order
+- Verifying semantic coherence
+- Documenting gradation patterns
+- Testing word formation
 
-4. **Wait for review**
-   - Maintainers will review your PR
-   - Be open to feedback
-   - Make requested changes if needed
+#### **2. Example Sentence Database**
+**Status:** Foundation only (~50 sentences)  
+**Goal:** 1,000 sentences  
+**Help Needed:**
+- Basic sentences (200)
+- Intermediate sentences (300)
+- Advanced sentences (200)
+- Dialogues (45)
 
-5. **Merge!**
-   - Once approved, your contribution becomes part of the project
-   - You'll be credited in the commit history
+#### **3. Grammar Documentation Updates**
+**Status:** Core files updated, examples needed  
+**Help Needed:**
+- Updating examples with new domains
+- Creating usage scenarios
+- Clarifying ambiguities
+- Adding cross-references
 
 ---
 
-## 📐 Style Guidelines
+### **⚡ MEDIUM PRIORITY**
 
-### Documentation
+#### **4. Audio Pronunciation Guide**
+**Status:** Not started  
+**Help Needed:**
+- Recording all 35 phonemes
+- Example word recordings
+- Sentence pronunciation
+- Stress pattern demonstrations
 
-- **Use Markdown** for all documentation files
-- **Clear headers** — organize with `#`, `##`, `###`
-- **Examples** — provide concrete examples whenever possible
-- **Formatting:**
-  - Code blocks for IPA: `` `/p/` ``, `` `/m/` ``
-  - Bold for emphasis: `**important**`
-  - Tables for structured data
-  - Lists for sequences
+#### **5. Dictionary Tool Development**
+**Status:** Not started  
+**Help Needed:**
+- Frontend development
+- Database design
+- Search functionality
+- Word formation algorithm
 
-### Ontological Matrices
+#### **6. Flashcard Decks**
+**Status:** Not started  
+**Help Needed:**
+- Anki deck creation
+- Vocabulary organization by level
+- Grammar concept cards
+- Spaced repetition optimization
 
-Follow this structure:
-```markdown
-## MATRIX X (Domain Name)
+---
 
-### **Vetor b: Concept Name**
-| Código | Descrição |
-|--------|-----------|
-| **x-x-a-b-?** | Minimal level |
-| **x-x-e-b-?** | Low level |
-| **x-x-i-b-?** | Medium level |
-| **x-x-o-b-?** | High level |
-| **x-x-u-b-?** | Maximal level |
-```
+### **📝 LOW PRIORITY (but welcome!)**
 
-### Code/Tools
+#### **7. Translations**
+**Status:** English only  
+**Help Needed:**
+- Spanish translation
+- Portuguese translation
+- Other languages
 
-- **Comment your code** — explain non-obvious logic
-- **Use meaningful variable names**
-- **Include usage examples**
-- **Test before submitting**
+#### **8. Cultural Development**
+**Status:** Conceptual  
+**Help Needed:**
+- Original stories
+- Poetry
+- Idiomatic expressions
+- Cultural context
+
+---
+
+## 🚀 Getting Started
+
+### **Step 1: Learn the Basics**
+
+1. Read [`WELCOME.md`](WELCOME.md)
+2. Understand [`README.md`](README.md)
+3. Review [`05-grammar-cv-vc.md`](05-grammar-cv-vc.md)
+4. Study domain structure in [`04-structure.md`](04-structure.md)
+
+### **Step 2: Choose Your Contribution**
+
+Pick an area that matches your skills:
+- **Linguistic:** Content, examples, explanations
+- **Technical:** Tools, databases, apps
+- **Creative:** Audio, visual, literary
+- **Educational:** Tutorials, exercises, guides
+
+### **Step 3: Check Current Work**
+
+Review:
+- [`ROADMAP.md`](news/ROADMAP.md) — What's planned
+- [`CHANGELOG.md`](news/CHANGELOG.md) — What's been done
+- Open issues (if applicable)
+
+### **Step 4: Start Contributing**
+
+**For small contributions:**
+- Make your changes
+- Document what you did
+- Share your work
+
+**For large contributions:**
+- Discuss your idea first
+- Outline your approach
+- Get feedback
+- Then proceed
+
+---
+
+## 📬 How to Submit
+
+### **Documentation/Content**
+
+1. **Create your content** following guidelines
+2. **Format in Markdown** (.md files)
+3. **Review for consistency** with existing docs
+4. **Submit** via your preferred method:
+   - Email to project maintainer
+   - Pull request (if using Git)
+   - Shared document link
+
+### **Code/Tools**
+
+1. **Develop locally** and test thoroughly
+2. **Document** your code and usage
+3. **Follow code standards** above
+4. **Share** source code and documentation
+
+### **Feedback/Suggestions**
+
+1. **Use** the thumbs down in documentation
+2. **Email** specific suggestions
+3. **Be specific** about what needs improvement
+4. **Provide examples** when possible
+
+---
+
+## ✅ Review Process
+
+### **What We Look For**
+
+**Quality:**
+- ✓ Systematic consistency
+- ✓ Clear documentation
+- ✓ Proper examples
+- ✓ Professional presentation
+
+**Utility:**
+- ✓ Helps learners
+- ✓ Improves documentation
+- ✓ Advances the project
+- ✓ Fills a real need
+
+**Integration:**
+- ✓ Fits existing structure
+- ✓ Follows conventions
+- ✓ Compatible with roadmap
+- ✓ Maintainable long-term
+
+### **Feedback Timeline**
+
+- **Small contributions:** 1-3 days
+- **Medium contributions:** 1 week
+- **Large contributions:** 2-4 weeks
+
+---
+
+## 🎓 Learning While Contributing
+
+**The best way to learn is to contribute!**
+
+### **For Beginners:**
+Start with:
+- Finding typos
+- Suggesting clarifications
+- Creating simple example sentences
+- Testing learning materials
+
+### **For Intermediate:**
+Move to:
+- Writing dialogues
+- Creating exercises
+- Developing grammar explanations
+- Building simple tools
+
+### **For Advanced:**
+Take on:
+- Systematic word creation
+- Complex tool development
+- Comprehensive documentation
+- Pedagogical design
 
 ---
 
 ## 🤔 Questions?
 
-Not sure where to start? Have questions?
+### **Before Contributing:**
 
-- **Browse existing issues** — maybe your question is already answered
-- **Start a discussion** — [Discussions](../../discussions)
-- **Ask in a new issue** — tag it with `question`
+**"Can I suggest a new domain?"**
+→ The 20 base domains are fixed. The 3 reserved ECs (BL, KL, GL) are open for future definition.
+
+**"Can I change the vowel gradation?"**
+→ No, it's core to the system. But you can propose refinements within the existing pattern.
+
+**"Can I create words freely?"**
+→ Yes! Follow the formation rules and maintain semantic coherence with domain.
+
+**"What if I don't know linguistics?"**
+→ Perfect! We need diverse perspectives. Focus on usability and learning experience.
+
+**"How technical should my contribution be?"**
+→ Match the existing documentation style: clear, systematic, example-rich.
+
+### **During Contributing:**
+
+**"Am I doing this right?"**
+→ If you're following the systematic patterns and domain semantics, probably yes!
+
+**"Can I get feedback before finishing?"**
+→ Absolutely! Share early drafts for guidance.
+
+**"What if my idea conflicts with the roadmap?"**
+→ Discuss it! Maybe it's a better approach, or can be adapted.
 
 ---
 
 ## 🌟 Recognition
 
-All contributors are valued and recognized!
+### **Contributors Will Be:**
 
-- **Commit history** — your contributions are permanently recorded
-- **Contributors list** — we maintain a list of all contributors (coming soon)
-- **Attribution** — though CC0 doesn't require it, we appreciate acknowledgment
+- ✅ Credited in documentation
+- ✅ Listed in project acknowledgments
+- ✅ Recognized in version releases
+- ✅ Invited to shape future development
 
----
+### **Significant Contributions:**
 
-## 📜 Code of Conduct
+- Major tool development
+- Substantial content creation
+- Critical documentation improvements
+- Pedagogical innovations
 
-### Our Pledge
-
-This is a welcoming, inclusive community. We pledge to make participation a harassment-free experience for everyone, regardless of:
-
-- Age, body size, disability
-- Ethnicity, gender identity and expression
-- Level of experience, education
-- Nationality, personal appearance, race, religion
-- Sexual identity and orientation
-
-### Our Standards
-
-**Positive behavior:**
-- ✅ Using welcoming and inclusive language
-- ✅ Being respectful of differing viewpoints
-- ✅ Gracefully accepting constructive criticism
-- ✅ Focusing on what's best for the community
-- ✅ Showing empathy towards others
-
-**Unacceptable behavior:**
-- ❌ Harassment, trolling, insulting/derogatory comments
-- ❌ Personal or political attacks
-- ❌ Publishing others' private information
-- ❌ Any conduct inappropriate in a professional setting
-
-### Enforcement
-
-Instances of unacceptable behavior may be reported by opening an issue or contacting project maintainers. All complaints will be reviewed and investigated.
-
-Maintainers have the right to remove, edit, or reject comments, commits, code, issues, and other contributions not aligned with this Code of Conduct.
+Will receive special recognition and may influence project direction.
 
 ---
 
-## ✅ Checklist for Contributors
+## 📜 License & Rights
 
-Before submitting a contribution:
+### **Your Contributions:**
 
-- [ ] I've read this CONTRIBUTING guide
-- [ ] My changes follow the project's style guidelines
-- [ ] I've tested my changes (if applicable)
-- [ ] I've added examples or documentation (if needed)
-- [ ] My commit messages are clear and descriptive
-- [ ] I've checked for typos and formatting issues
-- [ ] I'm ready to accept feedback and make revisions
+By contributing, you agree that:
+- Your work can be used in project documentation
+- Attribution will be given
+- Work becomes part of the project
+- Educational use is permitted
+
+### **Your Rights:**
+
+You retain:
+- Credit for your work
+- Right to use your contributions elsewhere
+- Moral rights as creator
+
+---
+
+## 🔄 Contribution Lifecycle
+
+```
+1. Idea → 2. Discussion → 3. Development → 4. Review → 5. Integration → 6. Credit
+   ↓           ↓              ↓              ↓             ↓              ↓
+ Share      Get          Create         Get          Merged         Thank
+ early    feedback       work        reviewed      into docs        you!
+```
+
+---
+
+## 🎯 Impact Areas
+
+Your contribution helps:
+
+**Learners:**
+- Better materials
+- Clearer explanations
+- More practice opportunities
+- Easier navigation
+
+**The Language:**
+- Richer vocabulary
+- More examples
+- Better documentation
+- Stronger foundation
+
+**The Community:**
+- Growing resources
+- Shared knowledge
+- Collaborative development
+- Collective creativity
+
+**The Field:**
+- Conlang methodologies
+- Systematic language design
+- Ontological organization
+- Educational approaches
+
+---
+
+## 📞 Contact
+
+**Project Maintainer:** Roger (Passo Fundo, RS, Brazil)
+
+**For Contributions:**
+- Discuss ideas before major work
+- Ask questions anytime
+- Request feedback freely
+- Share early and often
 
 ---
 
 ## 🙏 Thank You!
 
-Every contribution, no matter how small, helps make this language better and more accessible.
+Every contribution, no matter how small, helps this language grow. Whether you fix a typo, create a tool, write a story, or just provide feedback—you're making the project better.
 
-Whether you:
-- Fix a typo
-- Translate a document
-- Complete an entire matrix
-- Build a tool
-- Just spread the word
-
-**You're helping build something meaningful for humanity.** 🌍
+**Welcome to the community!** 🌐
 
 ---
 
-**Happy contributing!** 🚀
+**Last Updated:** March 20, 2026  
+**Version:** 0.6.5  
+**Status:** Active Development — Contributors Welcome!
 
 ---
-
-*This project is released under [CC0 1.0 Universal (Public Domain)](LICENSE). By contributing, you agree to release your contributions under the same terms.*
-```
-
----
-
-## 💾 SALVAR
-
-- `Ctrl+S` no Obsidian
-
----
-
-## 🔍 VERIFICAR
-
-### **No GitHub Desktop:**
-- Deve aparecer `CONTRIBUTING.md` nas mudanças
-- ✅ Confirma criação
-
----
-
-## 📋 FAZER COMMIT
-
-### **No GitHub Desktop:**
-
-**Summary:**
-```
-Add comprehensive contributing guide
-```
-
-**Description:**
-```
-- Guidelines for reporting issues and suggesting improvements
-- Instructions for Pull Requests
-- Documentation and code style guides
-- Code of Conduct included
-- Recognition for contributors
-```
-
-**Commit to main** ✅
-
----
-
-## 📊 STATUS ATUAL
-```
-✅ README.md         — Completo
-✅ LICENSE           — CC0 1.0
-✅ .gitignore        — Configurado
-✅ CONTRIBUTING.md   — Completo
-⏳ Estrutura pastas  — Próximo?
-⏳ Documentação      — Depois

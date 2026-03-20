@@ -1,71 +1,77 @@
-# 📘 FUNDAMENTAL GRAMMAR CV & VC
+# 📘 CV & VC GRAMMAR SYSTEM
 
-**Basic Particles and Grammatical Cases System**
+**Complete Grammatical Foundation — Particles and Functions**
 
-_Version 0.6.0 — Complete Restructuring_
-
----
-
-## 🎯 Overview
-
-The CV (Consonant-Vowel) and VC (Vowel-Consonant) systems form the **grammatical backbone** of the language, providing 200 essential particles organized into 20 functional families.
-
-**Structure:**
-
-- **CV:** 20 consonants × 5 vowels = 100 basic particles
-- **VC:** 20 consonants × 5 vowels = 100 expanded particles
-- **Total:** 200 fundamental grammatical resources
+_Version 0.6.5 — Ontological Restructuring_
 
 ---
 
-## 🌐**20 Base Consonants (Complete Grammar: CV + VC)**
+## 🎯 Introduction
 
-|#|Consonant|IPA|Grammatical Domain|Function|
-|---|---|---|---|---|
-|1|**B**|/b/|Pronouns & Reference|Personal pronouns, reflexives|
-|2|**M**|/m/|Modal|Modality (can, must, may)|
-|3|**T**|/t/|Tense|Temporal markers|
-|4|**K**|/k/|Question|Interrogatives|
-|5|**P**|/p/|Preposition|Spatial prepositions|
-|6|**N**|/n/|Quantity|Quantifiers, numbers|
-|7|**D**|/d/|Demonstrative|Demonstratives (this, that)|
-|8|**L**|/l/|Conjunction|Logical connectors|
-|9|**X**|/ʃ/|Spatial (X-Axis)|Lateral positioning|
-|10|**V**|/v/|Action/Verbal|Actions, verbs|
-|11|**G**|/g/|Aspect|Verbal aspect|
-|12|**R**|/ɾ/|State/Condition|States, conditions|
-|13|**F**|/f/|Comparison|Comparative markers|
-|14|**H**|/h/|Relation|Relational markers|
-|15|**S**|/s/|Boundary/Limit|Limits, boundaries|
-|16|**Y**|/ʒ/|Spatial (Y-Axis)|Frontal positioning|
-|17|**J̌**|/dʒ/|Causality/Agency|Causation, agency|
-|18|**W**|/w/|Emotion/Affect|Emotional markers|
-|19|**Z**|/z/|Spatial (Z-Axis)|Vertical positioning|
-|20|**Ľ**|/ʎ/|Evidentiality|Source of information|
+The CV (Consonant-Vowel) and VC (Vowel-Consonant) systems form the **grammatical foundation** of the language. Together, they provide 270 particles (135 CV + 135 VC) that handle all essential grammatical functions—from pronouns and tenses to spatial coordinates and evidentiality.
+
+**Core Principle:** Each consonant represents a **grammatical domain**, and vowel gradation (a → e → i → o → u) creates systematic progressions within that domain. The CV and VC forms work as complementary pairs, with VC particles often extending or refining the meanings established by CV.
+
+**System Architecture:**
+
+- **20 base consonants** = 20 grammatical domains
+- **7 defined consonant clusters (ECs)** = specialized grammatical functions
+- **5 vowels** = systematic gradation within each domain
+- **Result:** Highly productive grammatical system with predictable patterns
+
+This document presents all 27 grammatical families in **ontological order**—aligned with the fundamental domains that structure both grammar and vocabulary throughout the language.
 
 ---
 
-## **➕ 10 Consonant Clusters (ECs) — Vertical Expansion**
+## 🌐 20 BASE CONSONANTS — Complete Grammar (CV + VC)
 
-### **7 Defined ECs (Complete Grammar: CV + VC):**
+| #   | Consonant | IPA  | Grammatical Domain       | Function                                     |
+| --- | --------- | ---- | ------------------------ | -------------------------------------------- |
+| 1   | **P**     | /p/  | **Preposition**          | Spatial prepositions, locative cases         |
+| 2   | **T**     | /t/  | **Tense**                | Temporal markers (past, present, future)     |
+| 3   | **K**     | /k/  | **Question**             | Interrogatives (what, who, where, when, why) |
+| 4   | **B**     | /b/  | **Pronouns & Reference** | Personal pronouns, reflexives, anaphora      |
+| 5   | **M**     | /m/  | **Modal**                | Modality (can, must, may, should)            |
+| 6   | **G**     | /g/  | **Aspect**               | Verbal aspect (perfective, imperfective)     |
+| 7   | **V**     | /v/  | **Action/Verbal**        | Action markers, verbal particles             |
+| 8   | **R**     | /ɾ/  | **State/Condition**      | States, conditions, phases                   |
+| 9   | **J̌**    | /dʒ/ | **Causality/Agency**     | Causation, agency, causative markers         |
+| 10  | **S**     | /s/  | **Boundary/Limit**       | Limits, boundaries, endpoints                |
+| 11  | **F**     | /f/  | **Comparison**           | Comparative markers (more, most, equal)      |
+| 12  | **H**     | /h/  | **Relation**             | Relational markers, connections              |
+| 13  | **N**     | /n/  | **Quantity**             | Quantifiers, numbers, amount                 |
+| 14  | **D**     | /d/  | **Demonstrative**        | Demonstratives (this, that, these, those)    |
+| 15  | **L**     | /l/  | **Conjunction**          | Logical connectors (and, or, but)            |
+| 16  | **Ľ**     | /ʎ/  | **Evidentiality**        | Source of information (hearsay, witnessed)   |
+| 17  | **W**     | /w/  | **Emotion/Affect**       | Emotional markers, affective states          |
+| 18  | **X**     | /ʃ/  | **Spatial (X-Axis)**     | Lateral positioning (left ↔ right)           |
+| 19  | **Y**     | /ʒ/  | **Spatial (Y-Axis)**     | Frontal positioning (back ↔ front)           |
+| 20  | **Z**     | /z/  | **Spatial (Z-Axis)**     | Vertical positioning (down ↔ up)             |
+
+
+---
+
+## ➕ 7 CONSONANT CLUSTERS (ECs) — Specialized Grammar
 
 |#|Cluster|IPA|Grammatical Domain|Function|
 |---|---|---|---|---|
-|21|**PR**|/pɾ/|Manner/Mode|Style, formality, precision|
-|22|**BR**|/bɾ/|Perception/Sensory|Sensory perception (5 senses)|
-|23|**TR**|/tɾ/|Movement/Direction|Movement types, trajectories|
-|24|**DR**|/dɾ/|Existence/Reality|Ontological status, reality|
-|25|**KR**|/kɾ/|Possession/Belonging|Ownership, control, belonging|
-|26|**GR**|/gɾ/|Intensity/Degree|Intensity, gradation markers|
-|27|**PL**|/pl/|Intention/Volition|Willingness, commitment|
+|21|**PR**|/pɾ/|**Manner/Mode**|Style, formality, precision, procedural|
+|22|**BR**|/bɾ/|**Perception/Sensory**|Sensory perception (visual, auditory, tactile, gustatory, olfactory)|
+|23|**TR**|/tɾ/|**Movement/Direction**|Movement types, trajectories, vectors|
+|24|**DR**|/dɾ/|**Existence/Reality**|Ontological status, reality levels|
+|25|**KR**|/kɾ/|**Possession/Belonging**|Ownership, control, belonging, attribution|
+|26|**GR**|/gɾ/|**Intensity/Degree**|Intensity gradation, degree markers|
+|27|**PL**|/pl/|**Intention/Volition**|Willingness, commitment, deliberateness|
 
-### **3 Open ECs (Reserved for Future Functions):**
+---
 
-|#|Cluster|IPA|Type|Status|
+## 🔮 3 RESERVED CLUSTERS — Future Expansion
+
+|#|Cluster|IPA|Status|Available For|
 |---|---|---|---|---|
-|28|**BL**|/bl/|occlusive + lateral|🔓 Open|
-|29|**KL**|/kl/|occlusive + lateral|🔓 Open|
-|30|**GL**|/gl/|occlusive + lateral|🔓 Open|
+|28|**BL**|/bl/|🔓 Open|Future grammatical domain|
+|29|**KL**|/kl/|🔓 Open|Future grammatical domain|
+|30|**GL**|/gl/|🔓 Open|Future grammatical domain|
 
 ---
 
@@ -102,6 +108,100 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 - **egri** (with vowel) → /egɾi/
 - **upl** (isolated) → /uplã/
 - **uplo** (with vowel) → /uplo/
+---
+
+**Total Grammatical Resources:** 270 particles (27 families × 5 vowels × 2 forms [CV + VC])
+
+**Next Section:** Detailed exposition of each grammatical family with complete CV/VC paradigms and usage examples.
+
+---
+## 📋 FAMILY P — Preposition
+
+**Function:** Spatial and abstract prepositions
+
+---
+
+### **CV System**
+
+|Particle|Function|Relation|
+|---|---|---|
+|**pa**|to, toward|Direction|
+|**pe**|by, through|Means/passage|
+|**pi**|in, at, on|Location|
+|**po**|from, since|Origin|
+|**pu**|with, together|Company|
+
+---
+
+### **VC System**
+
+| Particle | Function               | Relation to CV |
+| -------- | ---------------------- | -------------- |
+| **ap**   | away from              | Moving away    |
+| **ep**   | around, near           | Proximity      |
+| **ip**   | inside, within         | Interior       |
+| **op**   | out of, outside        | Exterior       |
+| **up**   | without, separate from | Separation     |
+
+---
+
+## 📋 FAMILY T — Tense
+
+**Function:** Verbal tense (past, present, future)
+
+---
+
+### **CV System**
+
+| Particle | Function                | Tense       |
+| --------- | --------------------- | ----------- |
+| **ta**    | past                  | Past     |
+| **te**    | progressive (ongoing) | Progressive |
+| **ti**    | present               | Present    |
+| **to**    | perfect (completed)   | Perfective  |
+| **tu**    | future                | Future      |
+
+---
+
+### **VC System**
+
+| Particle | Function            | Relation to CV    |
+| --------- | ----------------- | ----------------- |
+| **at**    | distant past      | Remote past    |
+| **et**    | continuous action | Continuous action     |
+| **it**    | immediate present | Immediate present |
+| **ot**    | completed action  | Completed action   |
+| **ut**    | near future       | Near future    |
+
+---
+## 📋 FAMILY K — Question
+
+**Function:** Interrogatives and questions
+
+---
+
+### **CV System**
+
+|Particle|Function|Question|
+|---|---|---|
+|**ka**|what?|What?|
+|**ke**|who?|Who?|
+|**ki**|where?|Where?|
+|**ko**|when?|When?|
+|**ku**|why?|Why?|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**ak**|which? what kind?|What type?|
+|**ek**|whose?|Whose?|
+|**ik**|how?|How?|
+|**ok**|how much? how many?|How much?|
+|**uk**|whether, if|If (interrogative)|
+
 ---
 
 ## 📋 FAMILY B — Pronouns & Reference
@@ -164,54 +264,21 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 ---
 
-## 📋 FAMILY T — Tense
+## 📋 FAMILY G — Aspect
 
-**Function:** Verbal tense (past, present, future)
-
----
-
-### **CV System**
-
-| Particle | Function                | Tense       |
-| --------- | --------------------- | ----------- |
-| **ta**    | past                  | Past     |
-| **te**    | progressive (ongoing) | Progressive |
-| **ti**    | present               | Present    |
-| **to**    | perfect (completed)   | Perfective  |
-| **tu**    | future                | Future      |
-
-
-
-
----
-
-### **VC System**
-
-| Particle | Function            | Relation to CV    |
-| --------- | ----------------- | ----------------- |
-| **at**    | distant past      | Remote past    |
-| **et**    | continuous action | Continuous action     |
-| **it**    | immediate present | Immediate present |
-| **ot**    | completed action  | Completed action   |
-| **ut**    | near future       | Near future    |
-
----
-
-## 📋 FAMILY K — Question
-
-**Function:** Interrogatives and questions
+**Function:** Verbal aspect (how action unfolds)
 
 ---
 
 ### **CV System**
 
-|Particle|Function|Question|
+|Particle|Function|Aspect|
 |---|---|---|
-|**ka**|what?|What?|
-|**ke**|who?|Who?|
-|**ki**|where?|Where?|
-|**ko**|when?|When?|
-|**ku**|why?|Why?|
+|**ga**|begin, start|Inceptive|
+|**ge**|continue|Continuative|
+|**gi**|habitually, regularly|Habitual|
+|**go**|finish, complete|Completive|
+|**gu**|repeat, again|Iterative|
 
 ---
 
@@ -219,17 +286,167 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Relation to CV|
 |---|---|---|
-|**ak**|which? what kind?|What type?|
-|**ek**|whose?|Whose?|
-|**ik**|how?|How?|
-|**ok**|how much? how many?|How much?|
-|**uk**|whether, if|If (interrogative)|
+|**ag**|be about to start|Prospective|
+|**eg**|keep on|Persistence|
+|**ig**|always, permanently|Permanent|
+|**og**|have finished|Resultative|
+|**ug**|do again and again|Repetitive|
 
 ---
 
-## 📋 FAMILY P — Preposition
+## 📋 FAMILY V — Action/Verbal
 
-**Function:** Spatial and abstract prepositions
+**Function:** Action markers and verbal categories
+
+---
+
+### **CV System**
+
+|Particle|Function|Action Type|
+|---|---|---|
+|**va**|do, make (generic action)|Generic action|
+|**ve**|become, change into|State change|
+|**vi**|be, exist|Existence|
+|**vo**|happen, occur|Occurrence|
+|**vu**|cause, make happen|Causation|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**av**|undo, reverse|Undo action|
+|**ev**|keep being, remain|Remain|
+|**iv**|continue to be|Continue being|
+|**ov**|start to happen|Begin occurring|
+|**uv**|let happen, allow|Allow to occur|
+
+---
+
+## 📋 FAMILY R — State/Condition
+
+**Function:** States and conditions
+
+---
+
+### **CV System**
+
+|Particle|Function|State|
+|---|---|---|
+|**ra**|become|State change|
+|**re**|remain, stay|Permanence|
+|**ri**|seem, appear|Appearance|
+|**ro**|feel (physical state)|Physical sensation|
+|**ru**|be in condition of|Be in condition|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**ar**|change into|Transformation|
+|**er**|stay as|Maintain as|
+|**ir**|look like|Seem like|
+|**or**|feel like|Feel like|
+|**ur**|be characterized by|Be characterized by|
+
+---
+
+## 📋 FAMILY J̌ — Causality/Agency
+
+**Function:** Causality and agency
+
+---
+
+### **CV System**
+
+|Particle|Function|Causality|
+|---|---|---|
+|**ǰa**|because of|Because of|
+|**ǰe**|due to|Due to|
+|**ǰi**|for (purpose)|For (purpose)|
+|**ǰo**|by means of|By means of|
+|**ǰu**|by (agent)|By (agent)|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**aǰ**|caused by|Caused by|
+|**eǰ**|resulting from|Resulting from|
+|**iǰ**|in order to|In order to|
+|**oǰ**|through, via|Through, via|
+|**uǰ**|performed by|Performed by|
+
+---
+
+## 📋 FAMILY S — Boundary/Limit
+
+**Function:** Boundaries, limits and transitions
+
+---
+
+### **CV System**
+
+|Particle|Function|Limit|
+|---|---|---|
+|**sa**|at edge, on border|On border|
+|**se**|at boundary|At boundary|
+|**si**|at threshold|At threshold|
+|**so**|at frontier|At frontier|
+|**su**|at extreme|At extreme|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**as**|beyond edge|Beyond edge|
+|**es**|within boundary|Within boundary|
+|**is**|across threshold|Across threshold|
+|**os**|past frontier|Past frontier|
+|**us**|to the extreme|To the extreme|
+
+---
+
+## 📋 FAMILY F — Comparison
+
+**Function:** Comparison and gradation
+
+---
+
+### **CV System**
+
+|Particle|Function|Comparison|
+|---|---|---|
+|**fa**|equal, as...as|Equality|
+|**fe**|similar, like|Similarity|
+|**fi**|different, unlike|Difference|
+|**fo**|more, -er|Superior comparative|
+|**fu**|most, -est|Superlative|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**af**|exactly equal|Exactly equal|
+|**ef**|somewhat similar|Somewhat similar|
+|**if**|quite different|Quite different|
+|**of**|much more|Much more|
+|**uf**|by far the most|By far the most|
+
+---
+
+## 📋 FAMILY H — Relation
+
+**Function:** Relations between entities
 
 ---
 
@@ -237,11 +454,11 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Relation|
 |---|---|---|
-|**pa**|to, toward|Direction|
-|**pe**|by, through|Means/passage|
-|**pi**|in, at, on|Location|
-|**po**|from, since|Origin|
-|**pu**|with, together|Company|
+|**ha**|part of|Part of|
+|**he**|member of|Member of|
+|**hi**|related to|Related to|
+|**ho**|belong to|Belong to|
+|**hu**|connected with|Connected with|
 
 ---
 
@@ -249,13 +466,14 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Relation to CV|
 |---|---|---|
-|**ap**|away from|Moving away|
-|**ep**|around, near|Proximity|
-|**ip**|inside, within|Interior|
-|**op**|out of, outside|Exterior|
-|**up**|without, separate from|Separation|
+|**ah**|component of|Component of|
+|**eh**|element of|Element of|
+|**ih**|linked to|Linked to|
+|**oh**|property of|Property of|
+|**uh**|associated with|Associated with|
 
 ---
+
 # 📋 FAMILY N — Quantity
 
 **Function:** Quantity, numbers and quantifiers
@@ -313,6 +531,9 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 | **id**    | this one here    | This here (emphasis) |
 | **od**    | that one there   | That there (emphasis)   |
 | **ud**    | that one yonder  | That yonder (emphasis) |
+
+---
+
 ## 📋 FAMILY L — Conjunction
 
 **Function:** Conjunctions and logical connectives
@@ -340,6 +561,67 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 |**il**|however, yet|However, yet|
 |**ol**|even if|Even if|
 |**ul**|therefore|Therefore|
+
+---
+
+## 📋 FAMILY Ľ — Evidentiality
+
+**Function:** Source of information and epistemic certainty
+
+---
+
+### **CV System**
+
+|Particle|Function|Evidence|
+|---|---|---|
+|**ľa**|I heard (hearsay)|Hearsay|
+|**ľe**|someone told me|Reported|
+|**ľi**|I inferred|Inferred|
+|**ľo**|I perceived|Perceived|
+|**ľu**|I witnessed|Witnessed|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**aľ**|reportedly|Reportedly|
+|**eľ**|apparently|Apparently|
+|**iľ**|presumably|Presumably|
+|**oľ**|evidently|Evidently|
+|**uľ**|certainly|Certainly|
+
+---
+## 📋 FAMILY W — Emotion/Affect
+
+**Function:** Emotion and affect
+
+**⚠️ EXCEPTION: Family W has INVERTED gradation** (a=positive, u=negative)
+
+---
+
+### **CV System**
+
+|Particle|Function|Emotion|
+|---|---|---|
+|**wa**|with happiness|With happiness|
+|**we**|with surprise|With surprise|
+|**wi**|with indifference|With indifference|
+|**wo**|with sadness|With sadness|
+|**wu**|with anger|With anger|
+
+---
+
+### **VC System**
+
+|Particle|Function|Relation to CV|
+|---|---|---|
+|**aw**|joyfully|Joyfully|
+|**ew**|curiously|Curiously|
+|**iw**|calmly|Calmly|
+|**ow**|mournfully|Mournfully|
+|**uw**|furiously|Furiously|
 
 ---
 
@@ -425,186 +707,6 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 ---
 
-## 📋 FAMILY V — Action/Verbal
-
-**Function:** Action markers and verbal categories
-
----
-
-### **CV System**
-
-|Particle|Function|Action Type|
-|---|---|---|
-|**va**|do, make (generic action)|Generic action|
-|**ve**|become, change into|State change|
-|**vi**|be, exist|Existence|
-|**vo**|happen, occur|Occurrence|
-|**vu**|cause, make happen|Causation|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**av**|undo, reverse|Undo action|
-|**ev**|keep being, remain|Remain|
-|**iv**|continue to be|Continue being|
-|**ov**|start to happen|Begin occurring|
-|**uv**|let happen, allow|Allow to occur|
-
----
-
-## 📋 FAMILY G — Aspect
-
-**Function:** Verbal aspect (how action unfolds)
-
----
-
-### **CV System**
-
-|Particle|Function|Aspect|
-|---|---|---|
-|**ga**|begin, start|Inceptive|
-|**ge**|continue|Continuative|
-|**gi**|habitually, regularly|Habitual|
-|**go**|finish, complete|Completive|
-|**gu**|repeat, again|Iterative|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**ag**|be about to start|Prospective|
-|**eg**|keep on|Persistence|
-|**ig**|always, permanently|Permanent|
-|**og**|have finished|Resultative|
-|**ug**|do again and again|Repetitive|
-
----
-
-## 📋 FAMILY R — State/Condition
-
-**Function:** States and conditions
-
----
-
-### **CV System**
-
-|Particle|Function|State|
-|---|---|---|
-|**ra**|become|State change|
-|**re**|remain, stay|Permanence|
-|**ri**|seem, appear|Appearance|
-|**ro**|feel (physical state)|Physical sensation|
-|**ru**|be in condition of|Be in condition|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**ar**|change into|Transformation|
-|**er**|stay as|Maintain as|
-|**ir**|look like|Seem like|
-|**or**|feel like|Feel like|
-|**ur**|be characterized by|Be characterized by|
-
----
-
-## 📋 FAMILY F — Comparison
-
-**Function:** Comparison and gradation
-
----
-
-### **CV System**
-
-|Particle|Function|Comparison|
-|---|---|---|
-|**fa**|equal, as...as|Equality|
-|**fe**|similar, like|Similarity|
-|**fi**|different, unlike|Difference|
-|**fo**|more, -er|Superior comparative|
-|**fu**|most, -est|Superlative|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**af**|exactly equal|Exactly equal|
-|**ef**|somewhat similar|Somewhat similar|
-|**if**|quite different|Quite different|
-|**of**|much more|Much more|
-|**uf**|by far the most|By far the most|
-
----
-
-## 📋 FAMILY H — Relation
-
-**Function:** Relations between entities
-
----
-
-### **CV System**
-
-|Particle|Function|Relation|
-|---|---|---|
-|**ha**|part of|Part of|
-|**he**|member of|Member of|
-|**hi**|related to|Related to|
-|**ho**|belong to|Belong to|
-|**hu**|connected with|Connected with|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**ah**|component of|Component of|
-|**eh**|element of|Element of|
-|**ih**|linked to|Linked to|
-|**oh**|property of|Property of|
-|**uh**|associated with|Associated with|
-
----
-
-## 📋 FAMILY S — Boundary/Limit
-
-**Function:** Boundaries, limits and transitions
-
----
-
-### **CV System**
-
-|Particle|Function|Limit|
-|---|---|---|
-|**sa**|at edge, on border|On border|
-|**se**|at boundary|At boundary|
-|**si**|at threshold|At threshold|
-|**so**|at frontier|At frontier|
-|**su**|at extreme|At extreme|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**as**|beyond edge|Beyond edge|
-|**es**|within boundary|Within boundary|
-|**is**|across threshold|Across threshold|
-|**os**|past frontier|Past frontier|
-|**us**|to the extreme|To the extreme|
-
----
-
 # 📋 FAMILY Y — Spatial (Y-Axis)
 
 **Function:** Frontal positioning (back ↔ front axis)
@@ -646,68 +748,6 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 |**i**|Center/Neutral|0|
 |**o**|Moderate Negative|−−|
 |**u**|Minimum/Negative|−−−|
-
----
-
-## 📋 FAMILY J̌ — Causality/Agency
-
-**Function:** Causality and agency
-
----
-
-### **CV System**
-
-|Particle|Function|Causality|
-|---|---|---|
-|**ǰa**|because of|Because of|
-|**ǰe**|due to|Due to|
-|**ǰi**|for (purpose)|For (purpose)|
-|**ǰo**|by means of|By means of|
-|**ǰu**|by (agent)|By (agent)|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**aǰ**|caused by|Caused by|
-|**eǰ**|resulting from|Resulting from|
-|**iǰ**|in order to|In order to|
-|**oǰ**|through, via|Through, via|
-|**uǰ**|performed by|Performed by|
-
----
-
-## 📋 FAMILY W — Emotion/Affect
-
-**Function:** Emotion and affect
-
-**⚠️ EXCEPTION: Family W has INVERTED gradation** (a=positive, u=negative)
-
----
-
-### **CV System**
-
-|Particle|Function|Emotion|
-|---|---|---|
-|**wa**|with happiness|With happiness|
-|**we**|with surprise|With surprise|
-|**wi**|with indifference|With indifference|
-|**wo**|with sadness|With sadness|
-|**wu**|with anger|With anger|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**aw**|joyfully|Joyfully|
-|**ew**|curiously|Curiously|
-|**iw**|calmly|Calmly|
-|**ow**|mournfully|Mournfully|
-|**uw**|furiously|Furiously|
 
 ---
 
@@ -773,36 +813,6 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 
 **Note:** The complete 3D coordinate system and movement mechanics are explained in detail in the VCV documentation.
-
----
-
-## 📋 FAMILY Ľ — Evidentiality
-
-**Function:** Source of information and epistemic certainty
-
----
-
-### **CV System**
-
-|Particle|Function|Evidence|
-|---|---|---|
-|**ľa**|I heard (hearsay)|Hearsay|
-|**ľe**|someone told me|Reported|
-|**ľi**|I inferred|Inferred|
-|**ľo**|I perceived|Perceived|
-|**ľu**|I witnessed|Witnessed|
-
----
-
-### **VC System**
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**aľ**|reportedly|Reportedly|
-|**eľ**|apparently|Apparently|
-|**iľ**|presumably|Presumably|
-|**oľ**|evidently|Evidently|
-|**uľ**|certainly|Certainly|
 
 ---
 # 📘 FUNDAMENTAL GRAMMAR CV & VC (EC Addition)
@@ -1026,7 +1036,7 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 ---
 
 **File:** `01-grammar-cv-vc.md`  
-**Version:** 0.6.0  
+**Version:** 0.6.5 
 **Status:** ✅ Complete (20 consonants + 7 defined ECs + 3 open slots)
 
 ---
