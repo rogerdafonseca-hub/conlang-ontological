@@ -152,7 +152,7 @@ How to combine words and build complex concepts
 
 ---
 
-**[09 - Lexicon & Foreign Rules](09-lexicon-nominal-matrix.md)** 🔄 In Progress  
+**[09 - Lexicon & Foreign Rules](09-lexicon-nominal-matrix-old.md)** 🔄 In Progress  
 Foreign word integration guidelines
 
 ---
