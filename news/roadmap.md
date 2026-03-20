@@ -1,717 +1,595 @@
-# Roadmap
+# 🗺️ ROADMAP — Conlang Project Development
 
-**Universal Ontological Language — From Breakthrough to Production**
+**Strategic Vision and Development Plan**
 
----
-
-## 🎯 Mission Statement
-
-**Build the first language with 100% systematic vocabulary through rigorous scientific validation.**
-
-**Goal:** International auxiliary language accessible for daily conversation, precise enough for scientific documentation.
-
-**Strategy:** Prototype → Test → Validate → Expand → Repeat
-
-**Timeline:** 18 months to v1.0 (production-ready)
+_Version 0.6.0 — March 2026_
 
 ---
 
-## 🏆 The Breakthrough (March 2026)
+## 🎯 Project Vision
 
-**We solved the 400-year problem.**
+**Mission:** Create a fully functional, systematic constructed language that demonstrates how ontological organization, vowel gradation, and logical structure can combine into a practical communication system.
 
-Since 1668, every attempt at systematic object vocabulary either:
-- Became too complex (John Wilkins' 40 categories)
-- Gave up and used arbitrary words (Esperanto, Lojban, Toki Pona)
-
-**Our solution:** Progressive hierarchical naming (2-4 syllable depth, user's choice)
-
-**Innovation:** 244 million systematic words, zero arbitrary.
-
-**Now we validate it works in practice.**
+**Core Values:**
+- **Systematic:** Every element follows predictable patterns
+- **Learnable:** Deducible through logic, not pure memorization
+- **Practical:** Designed for actual communication, not just theory
+- **Expandable:** Open architecture for systematic growth
 
 ---
 
-## 📊 Current Status
+## 📊 Current Status (v0.6.0)
 
-**Version:** 0.5.0-dev (Validation Phase)  
-**Date:** March 11, 2026  
-**Status:** Breakthrough framework complete, entering testing
+### ✅ **COMPLETE — Foundation Phase**
 
-### What We Have:
+**Phonology (100%)**
+- ✓ 20 base consonants defined
+- ✓ 10 consonant clusters (7 defined, 3 reserved)
+- ✓ 5-vowel system with systematic gradation
+- ✓ Pronunciation rules documented
+- ✓ IPA transcription complete
 
-✅ **Grammar System:** 250 particles (100% complete)  
-✅ **Core Vocabulary:** 625 words (100% complete)  
-✅ **Nominal Framework:** 244M capacity (architecture complete)  
-✅ **Vector System:** 390K concepts (framework complete, 30% mapped)  
-✅ **Documentation:** Philosophy, structure, learning path updated  
-✅ **Fluency Threshold:** 875 resources ready for learners
+**Grammar (100%)**
+- ✓ CV system: 135 particles
+- ✓ VC system: 135 particles
+- ✓ VCV system: 675 particles
+- ✓ All 27 families fully developed
+- ✓ Spatial coordinate system (X-Y-Z)
+- ✓ Exception handling (W, X, Y, Z gradations)
 
-### What We Need to Validate:
+**Lexicon Foundation (100%)**
+- ✓ 27 ontological domains defined
+- ✓ 675 CVCV base words created
+- ✓ 24 functional modifiers documented
+- ✓ Systematic word formation rules
+- ✓ Modifier application examples
 
-❓ **Can people deduce unseen words from patterns?**  
-❓ **Are category mappings intuitive?**  
-❓ **Does progressive depth work in practice?**  
-❓ **What's the real learning curve?**  
-❓ **Which domains are priority for daily use?**
-
-**These questions drive the roadmap.**
-
----
-
-## 📅 Development Phases
-
----
-
-## **Phase 1: PROTOTYPE & VALIDATE** 
-
-### v0.5.0 — Domain Prototypes (March - June 2026)
-
-**Target Date:** June 15, 2026  
-**Duration:** 3 months  
-**Focus:** Validate the nominal system works
-
-#### Primary Goals:
-
-**1. Complete Domain PU (Objects) — First Full Prototype**
-
-- [ ] Map all 125 categories (pu- + 25C × 5V)
-- [ ] Document 500-1000 common words (CV+CV+CV)
-- [ ] Create deduction exercises
-- [ ] Build reference tables
-
-**Deliverable:** Complete PU domain as proof-of-concept
+**Documentation (90%)**
+- ✓ Core grammar files (CV-VC, VCV)
+- ✓ Lexicon matrix
+- ✓ Complete domain list
+- ✓ README and navigation docs
+- ✓ Learning path curriculum
+- ✓ Welcome guide
+- ⏳ Example sentences (in progress)
 
 ---
 
-**2. Recruit 5-10 Test Learners**
-
-- [ ] Find volunteers willing to learn prototype system
-- [ ] Provide learning materials
-- [ ] Track progress and difficulties
-- [ ] Collect detailed feedback
-
-**Deliverable:** Validation dataset from real learners
+## 🚀 Development Phases
 
 ---
 
-**3. Critical Validation Questions**
+## **PHASE 1: FOUNDATION** ✅ COMPLETE
 
-Test and answer:
+**Timeline:** Completed March 2026  
+**Status:** 100% complete
 
-- [ ] **Deduction test:** Can learners deduce unseen words correctly?
-- [ ] **Retention test:** Do patterns stick better than arbitrary words?
-- [ ] **Intuition test:** Are category mappings logical to users?
-- [ ] **Speed test:** How long to achieve deduction fluency?
-- [ ] **Error analysis:** Where do learners struggle most?
+### Deliverables (All Complete):
+- [x] Phonological system
+- [x] Three-layer grammar (CV/VC/VCV)
+- [x] Ontological domain structure
+- [x] Base vocabulary (675 words)
+- [x] Modifier system
+- [x] Core documentation
+- [x] Learning curriculum
 
-**Deliverable:** Scientific validation report
-
----
-
-**4. Refine Based on Data**
-
-- [ ] Identify problematic categories
-- [ ] Adjust mappings that don't work
-- [ ] Simplify confusing patterns
-- [ ] Document what works well
-- [ ] Prepare for expansion
-
-**Deliverable:** Refined nominal system (PU v2)
+**Achievement:** Language has complete grammatical foundation and systematic vocabulary structure
 
 ---
 
-**5. Expand to 2 More Domains**
+## **PHASE 2: EXPANSION** 🔄 IN PROGRESS
 
-Based on validation success:
+**Timeline:** March 2026 - August 2026 (6 months)  
+**Status:** 15% complete
 
-- [ ] **Domain MA (Places/Spaces)** — High priority for daily use
-- [ ] **Domain YA (Foods/Sensory)** — Common vocabulary need
+### Priority 1: Vocabulary Expansion (April - May 2026)
 
-**Deliverable:** 3 complete domains (PU, MA, YA)
+**3-Syllable Words (CVCVCV)**
+- [ ] Define 100 high-priority 3-syllable words
+- [ ] Document formation patterns
+- [ ] Create semantic field expansions
+- [ ] Example: pepika (collected water) → pepikava (pond), pepikavu (waterfall)
 
----
+**Specialized Vocabularies**
+- [ ] Technology domain (50 words)
+- [ ] Science domain (50 words)
+- [ ] Abstract concepts (50 words)
+- [ ] Emotional states (50 words)
 
-#### Success Criteria for v0.5.0:
-
-- [ ] Domain PU 100% mapped and documented
-- [ ] 5+ learners complete testing protocol
-- [ ] 70%+ deduction accuracy on unseen words
-- [ ] Positive feedback on intuitiveness
-- [ ] 2 additional domains prototyped
-- [ ] Validation report published
-
-**If criteria not met:** Iterate on PU until they are.
-
----
-
-## **Phase 2: EXPAND & COMMUNITY**
-
-### v0.6.0 — Proven Expansion (July - September 2026)
-
-**Target Date:** September 15, 2026  
-**Duration:** 3 months  
-**Focus:** Scale what works, build community
-
-#### Primary Goals:
-
-**1. Expand to 8 Total Domains**
-
-Based on validated patterns, complete:
-
-- [ ] **Tier 1 Priority:** PU (objects), MA (places), YA (foods) — Already done
-- [ ] **Tier 2 Priority:** VA (tools), DA (body/form), CA (transport), KA (social), BA (communication)
-
-**Deliverable:** 8 domains fully mapped (5,000+ documented words)
+**Target:** 1,000 total documented words by May 2026
 
 ---
 
-**2. Complete Matrix P (Substance/Being) in Vector System**
+### Priority 2: Example Corpus (May - June 2026)
 
-- [ ] Finish o-p (Function) subcategory — 625 vectors
-- [ ] Complete u-p (Taxonomy) subcategory — 625 vectors
-- [ ] **Total:** Matrix P 100% complete (3,125 vectors)
+**Sentence Database**
+- [ ] 500 example sentences (basic level)
+- [ ] 300 example sentences (intermediate level)
+- [ ] 200 example sentences (advanced level)
+- [ ] Organized by grammar topic
+- [ ] Organized by vocabulary domain
 
-**Deliverable:** First complete vector matrix
+**Dialogues**
+- [ ] 20 basic dialogues (greetings, introductions, daily life)
+- [ ] 15 intermediate dialogues (planning, describing, explaining)
+- [ ] 10 advanced dialogues (debate, storytelling, philosophy)
 
-**Why this matters:** Validates vector-nominal alignment
-
----
-
-**3. Build Community Infrastructure**
-
-- [ ] Launch GitHub Discussions
-- [ ] Create Discord server
-- [ ] Establish contribution guidelines
-- [ ] Implement community voting on ambiguous mappings
-- [ ] Regular testing calls with learners
-
-**Deliverable:** Active community platform (50+ members)
+**Target:** 1,000+ example sentences by June 2026
 
 ---
 
-**4. Develop Learning Tools**
+### Priority 3: Audio Resources (June - July 2026)
 
-- [ ] Interactive web app for deduction practice
-- [ ] Anki flashcard decks for each domain
-- [ ] Domain study guides (detailed)
-- [ ] Video tutorials on pattern recognition
+**Pronunciation Guide**
+- [ ] Record all 20 consonants
+- [ ] Record all 10 consonant clusters
+- [ ] Record all 5 vowels
+- [ ] Record common CV/VC combinations
+- [ ] Record example words (100 most common)
+
+**Audio Examples**
+- [ ] 50 basic sentences recorded
+- [ ] 25 intermediate sentences recorded
+- [ ] 10 advanced sentences recorded
+
+**Target:** Complete audio pronunciation guide by July 2026
+
+---
+
+### Priority 4: Interactive Tools (July - August 2026)
+
+**Dictionary Tool**
+- [ ] Searchable database
+- [ ] English → Conlang
+- [ ] Conlang → English
+- [ ] Filter by domain
+- [ ] Show word formation
+
+**Word Generator**
+- [ ] Input: base word + modifier
+- [ ] Output: correctly formed word with meaning
+- [ ] Batch generation capability
+- [ ] Export word lists
+
+**Grammar Checker**
+- [ ] Basic sentence validation
+- [ ] Particle usage verification
+- [ ] Suggest corrections
+
+**Target:** Functional tools by August 2026
+
+---
+
+## **PHASE 3: REFINEMENT** 📅 PLANNED
+
+**Timeline:** September 2026 - February 2027 (6 months)  
+**Status:** Not started
+
+### Priority 1: Verbal System (Sept - Oct 2026)
+
+**Conjugation Patterns**
+- [ ] Define verbal classes
+- [ ] Aspect marking refinement
+- [ ] Tense-aspect combinations
+- [ ] Mood integration
+- [ ] Voice (active/passive) system
+
+**Verbal Modifiers**
+- [ ] Adverbial formation from modifiers
+- [ ] Verbal aspect particles (VCV)
+- [ ] Complex tense constructions
+
+**Target:** Complete verbal conjugation system
+
+---
+
+### Priority 2: Derivational Morphology (Nov - Dec 2026)
+
+**Word Formation Rules**
+- [ ] Noun → Verb derivation
+- [ ] Verb → Noun derivation
+- [ ] Adjective formation (from modifiers)
+- [ ] Adverb formation patterns
+- [ ] Compound word rules
+
+**Productive Patterns**
+- [ ] Agent nouns (doer)
+- [ ] Instrument nouns (tool)
+- [ ] Location nouns (place)
+- [ ] Abstract nouns (concept)
+
+**Target:** Systematic derivation documented
+
+---
+
+### Priority 3: Syntax Deep Dive (Jan - Feb 2027)
+
+**Word Order Variations**
+- [ ] Topic-comment structure
+- [ ] Focus marking
+- [ ] Question word order
+- [ ] Subordinate clauses
+- [ ] Relative clauses
+
+**Complex Sentences**
+- [ ] Coordination strategies
+- [ ] Subordination markers
+- [ ] Conditional structures
+- [ ] Comparative constructions
+
+**Target:** Complete syntax documentation
+
+---
+
+## **PHASE 4: CULTURAL DEVELOPMENT** 📅 PLANNED
+
+**Timeline:** March 2027 - August 2027 (6 months)  
+**Status:** Not started
+
+### Priority 1: Literary Corpus (Mar - Apr 2027)
+
+**Original Texts**
+- [ ] 10 short stories (500-1000 words each)
+- [ ] 5 poems (various styles)
+- [ ] 3 essays (philosophical, technical, personal)
+- [ ] 1 novella (5,000+ words)
+
+**Translations**
+- [ ] Universal Declaration of Human Rights
+- [ ] The Little Prince (excerpts)
+- [ ] Poetry anthology (20 poems)
+- [ ] Philosophical texts (selected passages)
+
+**Target:** Substantial literary corpus
+
+---
+
+### Priority 2: Idiomatic Development (May - June 2027)
+
+**Expressions**
+- [ ] 100 common idioms
+- [ ] 50 proverbs
+- [ ] 25 sayings
+- [ ] Cultural metaphors
+
+**Usage Patterns**
+- [ ] Politeness levels
+- [ ] Formal vs informal register
+- [ ] Situational appropriateness
+- [ ] Cultural contexts
+
+**Target:** Rich idiomatic language
+
+---
+
+### Priority 3: Community Building (July - Aug 2027)
+
+**Learning Resources**
+- [ ] Anki flashcard decks (full vocabulary)
+- [ ] Practice exercises (by level)
+- [ ] Interactive quizzes
 - [ ] Progress tracking system
 
-**Deliverable:** Digital learning ecosystem
+**Community Platform**
+- [ ] Discussion forum
+- [ ] Practice partner matching
+- [ ] Content sharing
+- [ ] Collaborative projects
+
+**Target:** Active learning community
 
 ---
 
-**5. First Translation Corpus**
+## **PHASE 5: ADVANCED FEATURES** 📅 FUTURE
 
-- [ ] Complete Universal Declaration (30 articles)
-- [ ] Translate 10 short stories/fables
-- [ ] Create 100 common phrase examples
-- [ ] Document 5 scientific abstracts
+**Timeline:** September 2027+ (Ongoing)  
+**Status:** Future planning
 
-**Deliverable:** Real-world usage examples
+### Potential Developments:
 
----
+**Reserved Consonant Clusters**
+- [ ] Define BL /bl/ domain
+- [ ] Define KL /kl/ domain
+- [ ] Define GL /gl/ domain
+- [ ] Integrate into existing system
 
-#### Success Criteria for v0.6.0:
+**Register Development**
+- [ ] Scientific/technical register
+- [ ] Poetic/literary register
+- [ ] Legal/formal register
+- [ ] Casual/slang register
 
-- [ ] 8 domains (40% of total) complete and validated
-- [ ] Matrix P (vectors) 100% complete
-- [ ] 50+ active community members
-- [ ] Learning tools launched and used
-- [ ] 20+ learners using the system
-- [ ] Translation corpus available
+**Writing System**
+- [ ] Native script design
+- [ ] Romanization refinement
+- [ ] Typography guidelines
+- [ ] Calligraphic traditions
 
----
-
-## **Phase 3: COVERAGE & TEXTBOOK**
-
-### v0.7.0 — Comprehensive Coverage (October - December 2026)
-
-**Target Date:** December 15, 2026  
-**Duration:** 3 months  
-**Focus:** Majority coverage, professional materials
-
-#### Primary Goals:
-
-**1. Expand to 15 Total Domains (60% Coverage)**
-
-Complete:
-
-- [ ] 7 additional domains from Tier 3 priority
-- [ ] Focus on: LA (materials), RA (states), TA (processes), HA (relations), FA (values), NA (time-extended), SA (spatial)
-
-**Deliverable:** 15 domains complete (9,375+ words documented)
+**Cultural Context**
+- [ ] Fictional culture background
+- [ ] Historical timeline
+- [ ] Geographic setting
+- [ ] Social structures
 
 ---
 
-**2. Vector System Expansion**
+## 📈 Success Metrics
 
-- [ ] Complete Matrix M (Dimensional/Spatial) — 3,125 vectors
-- [ ] Complete Matrix N (Gradual/Temporal) — 3,125 vectors
-- [ ] Start 3 additional matrices
+### **Vocabulary Growth**
+- **Current:** 675 base words
+- **Q2 2026 Target:** 1,000 words
+- **Q4 2026 Target:** 2,000 words
+- **2027 Target:** 5,000+ words
 
-**Deliverable:** 3 complete vector matrices (9,375 vectors total)
+### **Learning Resources**
+- **Current:** 7 core documents
+- **Q2 2026 Target:** +1,000 example sentences
+- **Q3 2026 Target:** Complete audio guide
+- **Q4 2026 Target:** Interactive tools
 
----
+### **Community**
+- **Current:** Creator + documentation
+- **Q3 2026 Target:** 10 active learners
+- **Q4 2026 Target:** 50 active learners
+- **2027 Target:** 100+ community members
 
-**3. Comprehensive Textbook**
-
-- [ ] 200+ page learning textbook
-- [ ] 20 structured lessons with exercises
-- [ ] Grammar drills and vocabulary building
-- [ ] Nominal deduction practice chapters
-- [ ] Answer keys and reference tables
-- [ ] Progressive difficulty levels
-
-**Deliverable:** Published textbook (PDF + print-on-demand)
-
----
-
-**4. Academic Validation**
-
-- [ ] Write paper on nominal lexicon innovation
-- [ ] Submit to linguistics journals
-- [ ] Present at conlang/linguistics conferences
-- [ ] Invite academic review and critique
-- [ ] Publish validation results
-
-**Deliverable:** Academic credibility
+### **Content Production**
+- **Current:** Documentation
+- **Q4 2026 Target:** First literary works
+- **Q2 2027 Target:** Literary corpus
+- **Q4 2027 Target:** Original creative works
 
 ---
 
-**5. Media Presence**
+## 🎯 Immediate Priorities (Next 3 Months)
 
-- [ ] Launch YouTube channel (weekly lessons)
-- [ ] Active blog with language insights
-- [ ] Social media presence (Twitter, Reddit)
-- [ ] Language showcase video (viral potential)
-- [ ] Podcast appearances
+### **April 2026**
+1. Create 100 essential 3-syllable words
+2. Write 200 basic example sentences
+3. Begin audio recording planning
 
-**Deliverable:** Public awareness
+### **May 2026**
+1. Complete 500 example sentences
+2. Develop specialized vocabularies (technology, science)
+3. Start dictionary tool development
 
----
-
-#### Success Criteria for v0.7.0:
-
-- [ ] 15 domains complete (60% of total)
-- [ ] 3 complete vector matrices
-- [ ] Textbook published and distributed
-- [ ] Academic paper submitted
-- [ ] 100+ active learners
-- [ ] 1,000+ GitHub stars
-- [ ] Media channels established
+### **June 2026**
+1. Record pronunciation guide
+2. Complete sentence database (1,000 examples)
+3. Launch searchable dictionary
 
 ---
 
-## **Phase 4: COMPLETION & MOBILE**
+## 🔧 Technical Development Roadmap
 
-### v0.8.0 — System Completion (January - March 2027)
+### **Tools to Build**
 
-**Target Date:** March 15, 2027  
-**Duration:** 3 months  
-**Focus:** Complete all domains, launch mobile
+**Dictionary (Priority: HIGH)**
+- Database: SQLite or JSON
+- Frontend: Web-based search
+- Features: Bidirectional search, domain filtering
+- Timeline: May-June 2026
 
-#### Primary Goals:
+**Word Generator (Priority: MEDIUM)**
+- Input validation
+- Automatic formation rules
+- Batch processing
+- Timeline: June-July 2026
 
-**1. Complete All 125 Nominal Domains**
+**Grammar Checker (Priority: LOW)**
+- Basic validation
+- Particle usage
+- Simple suggestions
+- Timeline: August 2026+
 
-- [ ] Finish remaining 110 domains
-- [ ] Each domain: 125 categories mapped
-- [ ] Document 15,625 generic terms (CV+CV)
-- [ ] Document 50,000+ standard terms (CV+CV+CV)
-
-**Deliverable:** 🎉 **Complete nominal lexicon system** (all 125 domains)
-
----
-
-**2. Vector System Major Expansion**
-
-- [ ] Complete 5+ additional matrices
-- [ ] Total: 8+ complete matrices (25,000+ vectors)
-- [ ] Cross-matrix referencing complete
-- [ ] Integration with nominal system perfected
-
-**Deliverable:** Comprehensive vector system
+**Flashcard Integration (Priority: HIGH)**
+- Anki deck generation
+- Spaced repetition optimization
+- Progress tracking
+- Timeline: July-August 2026
 
 ---
 
-**3. Mobile Learning App**
+## 📚 Documentation Roadmap
 
-- [ ] iOS and Android native apps
-- [ ] Built-in spaced repetition (SRS)
-- [ ] Deduction practice games
-- [ ] Speech recognition for pronunciation
-- [ ] Progress tracking and achievements
-- [ ] Community features
+### **New Documents Needed**
 
-**Deliverable:** Mobile learning ecosystem
+**Immediate (Q2 2026)**
+- [ ] EXAMPLES.md — Comprehensive sentence database
+- [ ] VOCABULARY-EXPANSION.md — 3-syllable word guide
+- [ ] QUICK-REFERENCE.md — Cheat sheets and tables
+- [ ] FAQ.md — Frequently asked questions
 
----
+**Near-term (Q3 2026)**
+- [ ] PRONUNCIATION-GUIDE.md — Audio + written guide
+- [ ] EXERCISES.md — Practice activities by level
+- [ ] PHRASEBOOK.md — Common expressions
+- [ ] VERBAL-SYSTEM.md — Verb conjugation complete
 
-**4. Advanced Classification Systems**
-
-- [ ] Integrate taxonomic framework (biological)
-- [ ] Systematic species naming (50+ examples)
-- [ ] Chemical nomenclature alignment
-- [ ] Geographic naming system
-- [ ] Technical terminology protocols
-
-**Deliverable:** Scientific nomenclature integration
-
----
-
-**5. First Fluent Speaker Milestone**
-
-- [ ] 10+ learners achieve Path A fluency (875 resources)
-- [ ] 5+ learners achieve Path B competency (nominal mastery)
-- [ ] Regular video conversations in language
-- [ ] Community-created content (stories, videos)
-
-**Deliverable:** Proof of practical fluency
+**Long-term (Q4 2026+)**
+- [ ] SYNTAX.md — Advanced sentence structure
+- [ ] DERIVATION.md — Word formation patterns
+- [ ] STYLE-GUIDE.md — Writing in different registers
+- [ ] LITERARY-CORPUS.md — Collection of texts
 
 ---
 
-#### Success Criteria for v0.8.0:
+## 🤝 Community Contribution Opportunities
 
-- [ ] All 125 domains complete ✅
-- [ ] 8+ vector matrices complete
-- [ ] Mobile app launched
-- [ ] 500+ active learners
-- [ ] 10+ fluent speakers
-- [ ] 5,000+ GitHub stars
-- [ ] Scientific nomenclature integrated
+### **Current Needs**
 
----
+**Content Creation**
+- Example sentence writing
+- Dialogue creation
+- Story translation
+- Original creative works
 
-## **Phase 5: PRODUCTION READY**
+**Technical Development**
+- Dictionary database
+- Interactive tools
+- Website development
+- Mobile app
 
-### v0.9.0 — Polish & Testing (April - June 2027)
+**Educational Materials**
+- Exercise creation
+- Quiz development
+- Flashcard decks
+- Video tutorials
 
-**Target Date:** June 15, 2027  
-**Duration:** 3 months  
-**Focus:** Professional polish, mass testing
-
-#### Primary Goals:
-
-**1. Comprehensive Real-World Testing**
-
-- [ ] 100+ learners complete Path A (fluency)
-- [ ] 20+ learners complete Path B (nominal mastery)
-- [ ] 5+ learners use in professional context
-- [ ] Real-world conversation testing
-- [ ] Identify and fix any systematic issues
-
-**Deliverable:** Battle-tested system
+**Feedback & Testing**
+- Learning path testing
+- Documentation review
+- Tool beta testing
+- Error reporting
 
 ---
 
-**2. Complete Vector System**
+## 🎓 Research & Experimentation
 
-- [ ] All 25 matrices complete (96,875 vectors)
-- [ ] Full cross-referencing implemented
-- [ ] Taxonomic systems fully integrated
-- [ ] Scientific validation complete
+### **Areas for Exploration**
 
-**Deliverable:** 🎉 **Complete vector system**
+**Linguistic Research**
+- Ontological organization effectiveness
+- Vowel gradation learning curves
+- Systematic vs. natural language acquisition
+- Memory retention in logical systems
 
----
+**Pedagogical Research**
+- Optimal learning sequence
+- Effective practice methods
+- Retention strategies
+- Motivation factors
 
-**3. Professional Documentation Suite**
-
-- [ ] Complete reference grammar (500+ pages)
-- [ ] Comprehensive dictionary (all systems)
-- [ ] Style guide for writers
-- [ ] Academic paper published
-- [ ] Linguistic analysis documentation
-- [ ] Translation guide
-
-**Deliverable:** Professional-grade documentation
-
----
-
-**4. Community Governance**
-
-- [ ] Establish foundation (if needed)
-- [ ] Governance model for changes
-- [ ] Community contribution protocols
-- [ ] Official recognition efforts (ISO code?)
-- [ ] Long-term sustainability plan
-
-**Deliverable:** Sustainable community structure
+**Tool Development Research**
+- Best platforms for dictionary
+- Gamification strategies
+- Community platform options
+- Audio recording quality
 
 ---
 
-**5. Mass Media Campaign**
+## 📅 Version Release Schedule
 
-- [ ] Conference presentations
-- [ ] Academic journal features
-- [ ] Tech media coverage
-- [ ] Language learning platform partnerships
-- [ ] Viral marketing campaign
+### **v0.6.x Series (Current)**
+- **v0.6.0** (March 2026) — Foundation complete ✅
+- **v0.6.1** (April 2026) — First 3-syllable words
+- **v0.6.2** (May 2026) — Example sentence database
+- **v0.6.3** (June 2026) — Audio pronunciation guide
 
-**Deliverable:** Public awareness at scale
+### **v0.7.x Series (Q3-Q4 2026)**
+- **v0.7.0** (July 2026) — Interactive tools launch
+- **v0.7.1** (August 2026) — Verbal system complete
+- **v0.7.2** (September 2026) — Derivational morphology
+- **v0.7.3** (October 2026) — Syntax documentation
+
+### **v0.8.x Series (2027)**
+- **v0.8.0** (Q1 2027) — Literary corpus
+- **v0.8.1** (Q2 2027) — Idiomatic expressions
+- **v0.8.2** (Q3 2027) — Community platform
+- **v0.8.3** (Q4 2027) — Advanced features
+
+### **v1.0.0 (Future)**
+- Complete language specification
+- Comprehensive corpus
+- Active community
+- Full tooling support
 
 ---
 
-#### Success Criteria for v0.9.0:
+## 🎯 Long-Term Vision (3-5 Years)
 
-- [ ] 1,000+ active learners
-- [ ] 100+ fluent speakers
-- [ ] Complete vector system (96,875 vectors)
-- [ ] Professional documentation published
-- [ ] Governance structure established
-- [ ] Academic recognition achieved
+### **Language Maturity**
+- 10,000+ word vocabulary
+- Complete grammatical specification
+- Extensive literary corpus
+- Established usage patterns
+- Cultural context developed
 
----
+### **Community Growth**
+- 1,000+ learners
+- Active content creation
+- Translation projects
+- Original literature
+- Academic interest
 
-## **Phase 6: PRODUCTION RELEASE**
+### **Tool Ecosystem**
+- Professional dictionary
+- Mobile apps
+- Browser extensions
+- AI integration
+- Translation tools
 
-### v1.0.0 — LAUNCH (July - September 2027)
-
-**Target Date:** September 15, 2027  
-**18 months after breakthrough**
-
-**🎉 First stable, production-ready release**
-
-### What "Production Ready" Means:
-
-✅ **Complete Systems:**
-- Grammar: 250 particles
-- Vocabulary: 625 words  
-- Nominal Lexicon: 125 domains, 15,625+ documented words
-- Vectors: 96,875+ vectors (25 complete matrices)
-- **Total: 113,125+ fully documented systematic resources**
-
-✅ **Learning Materials:**
-- Complete textbook (200+ pages)
-- Interactive mobile apps (iOS/Android)
-- Video course (50+ lessons)
-- Practice tools and games
-- Community learning platform
-
-✅ **Community:**
-- 1,000+ active learners
-- 100+ fluent speakers (Path A complete)
-- 20+ comprehensive users (Path B complete)
-- Active forums, Discord, regular events
-- Content creators producing material
-
-✅ **Documentation:**
-- Professional reference grammar
-- Complete dictionaries (all layers)
+### **Cultural Impact**
+- Used in creative works
 - Academic publications
-- Style guides and standards
-- Open contribution protocols
-
-✅ **Real-World Usage:**
-- Daily conversations happening
-- Written content (stories, articles, blogs)
-- Translations of classic texts
-- Scientific papers using system
-- International recognition
-- AI/NLP integration examples
-
-✅ **Scientific Validation:**
-- Peer-reviewed publications
-- Empirical learning studies
-- Comparative effectiveness data
-- Academic recognition
-- Linguistic community acceptance
+- Conference presentations
+- Educational adoption
+- Media presence
 
 ---
 
-### v1.0.0 Launch Events:
+## 🔄 Continuous Improvement
 
-- [ ] Official announcement ceremony
-- [ ] International conference presentation
-- [ ] Press releases to major media
-- [ ] Academic journal publication
-- [ ] Community celebration event
-- [ ] Launch party (virtual + regional meetups)
+### **Regular Updates**
+- Monthly progress reports
+- Quarterly version releases
+- Annual comprehensive reviews
+- Community feedback integration
 
----
+### **Quality Assurance**
+- Documentation accuracy checks
+- Example verification
+- Tool testing
+- Community feedback loops
 
-## 🔮 Post-v1.0 Vision (2027+)
-
-### v1.x Series — Growth & Refinement
-
-**Focus:** Community growth, refinement based on real usage
-
-- Expand learning materials
-- Refine domain mappings based on feedback
-- Develop specialized vocabularies
-- Foster native speaker community
-- Integration with translation tools
-- Educational institution adoption
+### **Evolution Strategy**
+- Systematic, not arbitrary changes
+- Backward compatibility priority
+- Clear migration paths
+- Comprehensive changelogs
 
 ---
 
-### v2.x Series — Advanced Features
+## 📊 Success Indicators
 
-**Focus:** Extended capabilities, variant systems
+**Short-term (6 months)**
+- ✓ Complete example sentence database
+- ✓ Functional dictionary tool
+- ✓ Audio pronunciation guide
+- ✓ 10+ active learners
 
-- Sign language variant
-- Braille variant  
-- Phonetic variants for different regions
-- AI language models trained natively
-- Advanced computational linguistics tools
-- Cross-platform integration
+**Medium-term (1 year)**
+- ✓ 2,000+ vocabulary
+- ✓ Complete verbal system
+- ✓ Literary works published
+- ✓ 50+ active learners
 
----
-
-## 📈 Success Metrics by Version
-
-| Version | Learners | Fluent | Domains | Vectors | Documentation |
-|---------|----------|--------|---------|---------|---------------|
-| v0.5.0 | 10 | 0 | 3 (2%) | 30% | Basic |
-| v0.6.0 | 50 | 0 | 8 (6%) | 35% | Good |
-| v0.7.0 | 100 | 5 | 15 (12%) | 40% | Professional |
-| v0.8.0 | 500 | 10 | 125 (100%) | 50% | Complete |
-| v0.9.0 | 1,000 | 100 | 125 (100%) | 100% | Comprehensive |
-| v1.0.0 | 1,000+ | 100+ | 125 (100%) | 100% | Production |
+**Long-term (2+ years)**
+- ✓ 5,000+ vocabulary
+- ✓ Established community
+- ✓ Comprehensive corpus
+- ✓ Academic recognition
 
 ---
 
-## 🎯 Critical Path
+## 🎉 Milestones to Celebrate
 
-**Must-do items that block everything else:**
-
-### Q2 2026:
-1. ✅ Complete Domain PU prototype
-2. ✅ Validate with 5-10 learners
-3. ✅ Prove deduction works
-
-**If this fails, stop and fix before continuing.**
-
-### Q3-Q4 2026:
-4. Expand validated approach to 15 domains
-5. Build learning tools
-6. Grow to 100 learners
-
-### Q1-Q2 2027:
-7. Complete all 125 domains
-8. Reach 1,000 learners
-9. Achieve 100 fluent speakers
-
-### Q3 2027:
-10. Launch v1.0 with full validation
+- [x] **v0.6.0 Release** — Complete grammatical foundation
+- [ ] **First 1,000 Words** — Vocabulary milestone
+- [ ] **First Literary Work** — Original creative content
+- [ ] **First External Learner** — Community begins
+- [ ] **First Translation** — Language used for real translation
+- [ ] **v1.0.0 Release** — Language specification complete
+- [ ] **First Academic Paper** — Scholarly recognition
+- [ ] **100 Active Users** — Thriving community
 
 ---
 
-## 🚧 Risk Management
+**Last Updated:** March 19, 2026  
+**Current Version:** 0.6.0  
+**Next Milestone:** v0.6.1 (April 2026) — 3-Syllable Words  
+**Status:** Foundation Complete, Expansion Phase Beginning
 
-### Risk 1: Deduction doesn't work in practice
-
-**Mitigation:**
-- Small-scale testing first (5-10 people)
-- Iterate quickly based on feedback
-- Adjust patterns that fail
-- Have backup: simplified categorization
-
-### Risk 2: Learning curve too steep
-
-**Mitigation:**
-- Excellent learning materials
-- Gamification of deduction practice
-- Community support strong
-- Optional depth (can stop at 2-syllable generic)
-
-### Risk 3: Community doesn't grow
-
-**Mitigation:**
-- Active social media presence
-- Partnerships with language learning platforms
-- Academic validation for credibility
-- Unique value proposition (100% systematic)
-
-### Risk 4: Competing priorities slow development
-
-**Mitigation:**
-- Clear milestones and deadlines
-- Community contributions
-- Modular development (one domain at a time)
-- Regular progress updates maintain momentum
+**The journey continues!** 🚀
 
 ---
-
-## 💪 How You Can Help
-
-### Right Now (v0.5.0):
-- Volunteer to test Domain PU
-- Provide feedback on learning materials
-- Share the project with language enthusiasts
-- Star the GitHub repo ⭐
-
-### Coming Soon (v0.6.0+):
-- Contribute domain mappings
-- Create learning content
-- Translate materials
-- Build tools and apps
-- Join community governance
-
----
-
-## 🌟 Long-Term Vision (5-10 Years)
-
-**By 2032:**
-
-**Adoption:**
-- 10,000+ active learners worldwide
-- 1,000+ fluent speakers
-- Used in international contexts
-- Academic recognition established
-- AI assistants speak it natively
-
-**Usage:**
-- International scientific conferences
-- Technical documentation standard
-- Literary works and creative content
-- Educational institutions teach it
-- ISO 639 language code assigned
-
-**Impact:**
-- Proven model for systematic language design
-- Bridge language for global communication
-- Standard for human-AI interaction
-- Living, evolving community
-- Inspiration for future conlangs
-
----
-
-## 📞 Stay Updated
-
-**GitHub:** Watch repository for updates  
-**Discussions:** Join when available (v0.5.0)  
-**Discord:** Coming June 2026  
-**Newsletter:** Planned for v0.6.0  
-**Blog:** Regular development updates
-
----
-
-## 🎊 The Journey Ahead
-
-**From breakthrough to production in 18 months.**
-
-**March 2026:** Revolutionary idea  
-**June 2026:** Validated prototype  
-**September 2027:** Production release
-
-**We're not just building a language.**  
-**We're solving a 400-year-old problem.**  
-**We're proving systematic vocabulary works.**  
-**We're doing it scientifically, together.**
-
-**Join us. Let's make history.**
-
----
-
-*"From theory to practice. From prototype to production. From 400 years of failure to systematic success."*
-
----
-
-**Version:** 0.5.0-dev  
-**Last Updated:** 2026-03-11  
-**License:** CC0 1.0 Universal (Public Domain)
-
-**[Join the project →](https://github.com/rogerdafonseca-hub/conlang-ontological)**

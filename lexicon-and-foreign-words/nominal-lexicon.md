@@ -1,4 +1,4 @@
-# 📊 DOMAIN B (Communication/Language) — COMPLETE MATRIX
+# 📊 DOMAIN B (Communication/Language) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -72,7 +72,7 @@
 
 ---
 
-# 📊 DOMAIN M (Mind/Cognition) — COMPLETE MATRIX
+# 📊 DOMAIN M (Mind/Cognition) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -146,7 +146,7 @@
 
 ---
 
-# 📊 DOMAIN T (Time/Temporality) — COMPLETE MATRIX
+# 📊 DOMAIN T (Time/Temporality) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -220,7 +220,7 @@
 
 ---
 
-# 📊 DOMAIN K (Social/Cultural) — COMPLETE MATRIX
+# 📊 DOMAIN K (Social/Cultural) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -294,7 +294,7 @@
 
 ---
 
-# 📊 DOMAIN N (Nature/Living) — COMPLETE MATRIX
+# 📊 DOMAIN N (Nature/Living) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -368,7 +368,7 @@
 
 ---
 
-# 📊 DOMAIN D (Structure/Form) — COMPLETE MATRIX
+# 📊 DOMAIN D (Structure/Form) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -442,7 +442,7 @@
 
 ---
 
-# 📊 DOMAIN L (Light/Energy) — COMPLETE MATRIX
+# 📊 DOMAIN L (Light/Energy) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -516,7 +516,7 @@
 
 ---
 
-# 📊 DOMAIN V (Life/Vitality) — COMPLETE MATRIX
+# 📊 DOMAIN V (Life/Vitality) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -590,7 +590,7 @@
 
 ---
 
-# 📊 DOMAIN G (Geography/Space) — COMPLETE MATRIX
+# 📊 DOMAIN G (Geography/Space) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -664,7 +664,7 @@
 
 ---
 
-# 📊 DOMAIN R (Tool/Artifact) — COMPLETE MATRIX
+# 📊 DOMAIN R (Tool/Artifact) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -738,7 +738,7 @@
 
 ---
 
-# 📊 DOMAIN F (Food/Nutrition) — COMPLETE MATRIX
+# 📊 DOMAIN F (Food/Nutrition) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -812,7 +812,7 @@
 
 ---
 
-# 📊 DOMAIN H (Dwelling/Shelter) — COMPLETE MATRIX
+# 📊 DOMAIN H (Dwelling/Shelter) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -886,7 +886,7 @@
 
 ---
 
-# 📊 DOMAIN S (Quantity/Measurement) — COMPLETE MATRIX
+# 📊 DOMAIN S (Quantity/Measurement) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -960,7 +960,7 @@
 
 ---
 
-# 📊 DOMAIN J̌ (Motion/Movement) — COMPLETE MATRIX
+# 📊 DOMAIN J̌ (Motion/Movement) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1034,7 +1034,7 @@
 
 ---
 
-# 📊 DOMAIN Ľ (Knowledge/Information) — COMPLETE MATRIX
+# 📊 DOMAIN Ľ (Knowledge/Information) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1108,7 +1108,7 @@
 
 ---
 
-# 📊 DOMAIN PR (Process/Method) — COMPLETE MATRIX
+# 📊 DOMAIN PR (Process/Method) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1182,7 +1182,7 @@
 
 ---
 
-# 📊 DOMAIN BR (Sense/Perception) — COMPLETE MATRIX
+# 📊 DOMAIN BR (Sense/Perception) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1256,7 +1256,7 @@
 
 ---
 
-# 📊 DOMAIN TR (Transport/Vehicle) — COMPLETE MATRIX
+# 📊 DOMAIN TR (Transport/Vehicle) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1330,7 +1330,7 @@
 
 ---
 
-# 📊 DOMAIN DR (Container/Vessel) — COMPLETE MATRIX
+# 📊 DOMAIN DR (Container/Vessel) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1404,7 +1404,7 @@
 
 ---
 
-# 📊 DOMAIN KR (Creation/Art) — COMPLETE MATRIX
+# 📊 DOMAIN KR (Creation/Art) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1478,7 +1478,7 @@
 
 ---
 
-# 📊 DOMAIN GR (Growth/Development) — COMPLETE MATRIX
+# 📊 DOMAIN GR (Growth/Development) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1552,7 +1552,7 @@
 
 ---
 
-# 📊 DOMAIN PL (Plant/Vegetation) — COMPLETE MATRIX
+# 📊 DOMAIN PL (Plant/Vegetation) — INICIAL MATRIX
 
 **Principle:** Each series gradates by its most productive semantic property
 
@@ -1626,7 +1626,7 @@
 
 ---
 
-## 🎉 **COMPLETE! ALL 27 DOMAINS FINISHED!**
+## 🎉 **COMPLETE! ALL INICIAL 27 DOMAINS FINISHED!**
 
 ---
 
