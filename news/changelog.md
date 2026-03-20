@@ -1,329 +1,417 @@
-**Impact:**
-- Learners can "skim the surface" (like Toki Pona)
-- OR go deep (like Ithkuil)
-- Same system, user's choice
-- No forced complexity
+# 📝 CHANGELOG — Conlang Project
+
+**Complete Version History and Development Log**
+
+_All notable changes to this project will be documented in this file._
 
 ---
 
-#### **Capacity Statistics**
+## [0.6.0] - 2026-03-19 — FOUNDATION COMPLETE 🎉
 
-**Previous (v0.4.0):**
-- Nominal capacity: 15,625 words (CVCV fixed)
-- Total system: 407,125 resources
+### **Major Release: Complete Restructuring**
 
-**New (v0.5.0):**
-- Generic terms (CV+CV): 15,625 words
-- Standard terms (CV+CV+CV): 1,953,125 words
-- Technical terms (CV+CV+CV+CV): 244,140,625 words
-- **Total nominal capacity: 244+ million systematic words**
-- **Total system: 244+ million + 390K vectors**
-
-**This is not just an increase. It's a paradigm shift.**
+This version represents the completion of the foundational phase of the language. The entire grammatical system has been restructured for maximum coherence and the nominal lexicon is now fully documented with 675 base words.
 
 ---
 
-#### **Learning Path Updated**
+### 🎯 **BREAKING CHANGES**
 
-**New Phase 4 added to learning path:**
+#### **Spatial Coordinate System Unification**
+- **X, Y, Z are now EXCLUSIVELY spatial** across all systems (CV, VC, VCV)
+- Previous Y and Z grammatical functions migrated to new ECs
+- Complete 3D Cartesian coordinate system implemented
 
-**Phase 4: Nominal Lexicon (Months 7-12)** — Optional but powerful
-- Learn 125 domain patterns
-- Practice deduction methodology  
-- Master common generic terms (CV+CV)
-- Achieve ability to name 15,625+ objects systematically
+**Migration:**
+- Old Y (Intensity/Degree) → New **GR** /gɾ/ (EC)
+- Old Z (Intention/Volition) → New **PL** /pl/ (EC)
 
-**Emphasis:**
-- Pattern recognition over memorization
-- Progressive depth (can stop at 2 syllables)
-- Most learners stop after Phase 3 (fluency at 875 resources)
-- Phase 4 is for those who want comprehensive naming capability
+**Rationale:** Eliminates dual-function confusion and creates a pure, integrated 3D spatial system
 
 ---
 
-#### **Comparison with Other Languages**
+#### **Inverted Gradation Rule Clarification**
+**Standard gradation:** a (min) → e → i → o → u (max)
 
-**Updated to reflect nominal breakthrough:**
+**Exceptions (inverted):**
+1. **W-family (Emotion):** a=positive → u=negative
+2. **X-family (Spatial X-axis):** a=max(+) → u=min(−)
+3. **Y-family (Spatial Y-axis):** a=max(+) → u=min(−)
+4. **Z-family (Spatial Z-axis):** a=max(+) → u=min(−)
 
-| Language | Systematicity | Nominal Vocabulary | Capacity |
-|----------|---------------|-------------------|----------|
-| Toki Pona | 0% | 120 arbitrary | Fixed |
-| Esperanto | ~40% | Borrowed/invented | ~100K |
-| Lojban | ~60% | Blended from languages | ~100K |
-| Ithkuil | ~70% | Arbitrary roots | ~1M |
-| **This Language** | **100%** ✅ | **All systematic** ✅ | **244M+** ✅ |
-
-**We are the first to achieve 100% systematicity.**
+**Impact:** Spatial coordinates now follow intuitive mapping (a=high/right/front, u=low/left/back)
 
 ---
 
-### ❌ Removed
+### ✨ **NEW FEATURES**
 
-#### **Fixed CVCV Structure**
+#### **Consonant System Expansion**
+- **Added:** Consonant cluster **GR** /gɾ/ — Intensity/Degree
+- **Added:** Consonant cluster **PL** /pl/ — Intention/Volition
+- **Total consonants:** 20 base + 10 clusters (7 defined, 3 reserved)
 
-**Removed:** Rigid C₁V₁C₂V₂ 2-syllable requirement
+#### **3D Spatial Coordinate System**
+```
+Structure: [X-vowel] + [Y-vowel] + [Z-vowel]
 
-**Reason:** Too limiting. Forced all words into same length regardless of need.
+Examples:
+- xiyizi = (0,0,0) absolute center
+- xayaza = (+,+,+) top-right-front corner
+- xuyuzu = (−,−,−) bottom-left-back corner
+```
 
-**Replaced with:** Flexible CV+CV(+CV)(+CV+) progressive structure
+**Features:**
+- Complete 3D positioning
+- VCV movement expressions
+- Coordinate-based navigation
+- Integrated across all grammar layers
 
----
+#### **VCV Movement Patterns**
+```
+[Vowel-Origin][Consonant-Axis][Vowel-Destination]
 
-#### **Domain Limitation**
+Examples:
+- axu = X-axis: from right to left
+- uxa = X-axis: from left to right
+- aza = Z-axis: stays at top
+- uze = Z-axis: rises from bottom to mid-high
+```
 
-**Removed:** Restriction to 25 base domains
+#### **Complete Nominal Lexicon**
+- **675 CVCV base words** systematically created
+- **27 ontological domains** fully populated
+- **All domains:** 25 words each (5 series × 5 gradations)
 
-**Expanded to:** 125 domains (using vowel variations in CV¹)
+**Coverage:**
+- P (Substance/Matter): Physical states
+- B (Communication): Expression types
+- M (Mind/Cognition): Mental processes
+- T (Time/Temporality): Temporal concepts
+- K (Social/Cultural): Human relations
+- N (Nature/Living): Life and ecosystems
+- D (Structure/Form): Shapes and patterns
+- L (Light/Energy): Energy types
+- V (Life/Vitality): Health and vigor
+- G (Geography/Space): Landforms and territories
+- R (Tool/Artifact): Tools and machines
+- F (Food/Nutrition): Food and meals
+- H (Dwelling/Shelter): Buildings and settlements
+- S (Quantity/Measurement): Numbers and values
+- J̌ (Motion/Movement): Speed and paths
+- W (Weather/Climate): Weather phenomena
+- Ľ (Knowledge/Information): Truth and sources
+- [+ 7 EC domains: PR, BR, TR, DR, KR, GR, PL]
 
----
+#### **Modifier System Finalization**
+- **24 functional modifiers** documented (17 base + 7 EC)
+- **5-vowel gradation** for each modifier (a→e→i→o→u)
+- **120 variants** possible per base word
+- **Rule clarified:** Modifier always final syllable, one per word maximum
 
-### 🔧 Fixed
+#### **Pronunciation Rules**
+**VEC (Vowel + EC) Rule:**
+- Isolated V+EC → nasal final vowel: **agr** = /agɾã/
+- V+EC+V → oral vowel: **agra** = /agɾa/
 
-#### **The 400-Year Problem**
-
-**Problem:** How to create systematic object vocabulary without making it:
-- Too complex (John Wilkins' 40 categories)
-- Too arbitrary (Esperanto's borrowed words)
-- Too limiting (Toki Pona's 120 fixed words)
-
-**Solution:** Progressive hierarchical naming
-- Not 40 levels (too complex)
-- Not 1 level (too limiting)  
-- Just 2-4 progressive levels (optimal)
-- User chooses depth (revolutionary)
-
-**This is the core innovation of v0.5.0.**
-
----
-
-#### **Philosophical Coherence**
-
-**Problem (v0.4.0):** Nominal lexicon was systematic but still felt separate from vector system
-
-**Solution (v0.5.0):** Direct alignment
-- Nominal domains = Vector subcategories
-- 125 domains in both systems
-- Perfect ontological correspondence
-- Seamless integration
-
-**Result:** Complete philosophical unity across all four layers
-
----
-
-### 🎯 Impact Analysis
-
-#### **For Learners:**
-
-**Before v0.5.0:**
-- Learn grammar (250)
-- Learn vocabulary (625)
-- Learn nominal words... somehow (undefined)
-- = Confusion about nominal layer
-
-**After v0.5.0:**
-- Learn grammar (250)
-- Learn vocabulary (625)
-- **Learn nominal patterns (300)**
-- **Deduce 244M words**
-- = Clear, systematic path
-
-**ROI improved from ~1:20 to ~1:800,000**
-
----
-
-#### **For the Language:**
-
-**Before v0.5.0:**
-- Impressive but incomplete
-- "Mostly systematic" (not 100%)
-- Nominal layer weakest point
-
-**After v0.5.0:**
-- **First language with 100% systematic vocabulary**
-- Revolutionary solution to historical problem
-- Strongest unique selling point in conlang history
-
-**This is what makes the language historically significant.**
+**Purpose:** Distinguish VEC from VECV in speech
 
 ---
 
-#### **For the Project:**
+### 📚 **DOCUMENTATION**
 
-**Before v0.5.0:**
-- Good constructed language
-- Interesting but not groundbreaking
+#### **New Documents**
+- `README.md` — Complete project overview (English)
+- `WELCOME.md` — Friendly introduction and orientation
+- `INDEX.md` — Comprehensive navigation and reference
+- `LEARNING-PATH.md` — Month-by-month curriculum (18 months)
+- `09-lexicon-nominal-matrix.md` — Vocabulary system with examples
+- `nominal-lexicon.md` — All 675 base words documented
 
-**After v0.5.0:**
-- **Solution to 400-year-old problem**
-- Publishable linguistic innovation
-- Academic significance
-- Media worthy story
-- Potential impact on future conlang design
+#### **Updated Documents**
+- `05-grammar-cv-vc.md` — Fully translated to English, updated with GR/PL
+- `06-basics-vcv.md` — Complete VCV system (675 particles)
 
-**This changes everything.**
-
----
-
-## [0.4.0] - 2026-03-10
-
-### 🎉 MAJOR ARCHITECTURAL CHANGE: Systematic Nominal Lexicon (First Attempt)
-
-**BREAKING CHANGE:** Nominal Lexicon changed from arbitrary words to CVCV matrix
-
-### Added:
-- CVCV Matrix (C₁V₁C₂V₂) system
-- 15,625 systematic words (fixed 2-syllable structure)
-- Framework for nominal systematicity
-- Zero arbitrary vocabulary across entire language
-
-### Changed:
-- Philosophy to emphasize 100% systematicity
-- All core documentation updated
-- Learning path restructured
-
-### Removed:
-- 100 arbitrary invented words (discarded)
-
-**Impact:** First major step toward systematic nominal vocabulary
-
-**Note:** This was superseded by v0.5.0's progressive depth approach
+#### **Translations**
+- All Portuguese documentation converted to English
+- Consistent terminology throughout
+- Professional presentation
 
 ---
 
-## [0.3.0] - 2026-03-09
+### 🔧 **SYSTEM IMPROVEMENTS**
 
-### Added:
-- Complete Dual System Grammar (CV + VC, 250 particles)
-- Complete Core Vocabulary VCV (625 words, 25 domains)
-- Z-marker universal numeral system
-- Phonological disambiguation rules
-- Triple-layer architecture documentation
+#### **Grammar Organization**
+- **CV/VC particles:** 270 total (135 + 135)
+- **VCV particles:** 675 total (27 families × 25)
+- **Clear hierarchy:** CV (basic) → VC (extended) → VCV (nuanced)
 
-### Status:
-- Grammar: Complete ✅
-- Vocabulary: Complete ✅
-- Nominal: Undefined (addressed in v0.4.0)
-- Vectors: Framework established
+#### **Lexicon Architecture**
+```
+[Domain][Subcategory][...Syllables...][Modifier]
+  CV¹       CV²          CVⁿ             CV(final)
 
----
+Position of modifier:
+- 2-syllable base → modifier is 3rd syllable
+- 3-syllable base → modifier is 4th syllable
+- 4-syllable base → modifier is 5th syllable
+```
 
-## [0.2.0] - 2026-03-08
+#### **Gradation Systematization**
+**Each CV² series gradates by most productive semantic property:**
 
-### Added:
-- Ontological vector system framework
-- Matrix P (Substance/Being) initial development
-- Subcategories: a-p, e-p, i-p
-- Vector system documentation
+Examples:
+- P-domain: Physical state (gas, liquid, solid, granular, plasma)
+- K-domain: Age (infant, child, adult, elder, ancestor)
+- T-domain: Duration (instant, brief, medium, long, epoch)
 
----
-
-## [0.1.0] - 2026-03-07
-
-### Added:
-- Initial grammar system (partial)
-- Phonology (30 phonemes)
-- Core philosophy documentation
-- Basic project structure
+**Result:** Highly productive and memorable patterns
 
 ---
 
-## Summary of Major Versions
+### 📊 **STATISTICS**
 
-| Version | Date | Key Achievement |
-|---------|------|-----------------|
-| v0.1.0 | 2026-03-07 | Foundation established |
-| v0.2.0 | 2026-03-08 | Vector framework |
-| v0.3.0 | 2026-03-09 | Grammar + Vocabulary complete → Fluency |
-| v0.4.0 | 2026-03-10 | First systematic nominal attempt (CVCV) |
-| **v0.5.0** | **2026-03-11** | 🏆 **BREAKTHROUGH: Progressive depth solution** |
+**Vocabulary:**
+- Base CVCV words: **675**
+- With modifiers (24×5): **81,000** theoretical words
+- Grammar particles (CV+VC+VCV): **945**
 
----
+**Documentation:**
+- Core files: **8** documents
+- Total pages equivalent: **~2,000**
+- Example sentences: **50+** (foundation set)
 
-## What Makes v0.5.0 Special
-
-**This is not just another update.**
-
-**v0.5.0 represents the moment we solved the problem that stumped linguists for 400 years.**
-
-**Before v0.5.0:**
-- Interesting constructed language
-- "Mostly systematic"
-- Good progress
-
-**After v0.5.0:**
-- **First language with 100% systematic vocabulary**
-- **Solution to historical problem**
-- **Genuine linguistic innovation**
-- **Academic significance**
-- **244 million systematic words**
-
-**This is the version historians will remember.**
+**System Coverage:**
+- Phonemes: **35** (20 consonants + 10 clusters + 5 vowels)
+- Grammatical domains: **27** (20 base + 7 ECs)
+- Functional modifiers: **24** (17 base + 7 ECs)
 
 ---
 
-## Looking Forward
+### 🎓 **PEDAGOGICAL FRAMEWORK**
 
-### v0.6.0 (Target: Sept 2026)
-- 8 domains complete and validated
-- 50+ learners testing
-- Learning tools launched
-- Community infrastructure
+#### **Learning Levels Defined**
+1. **Basic (0-6 months):** 100 words, CV/VC basics, simple conversation
+2. **Intermediate (6-12 months):** 300 words, all modifiers, VCV intro, functional fluency
+3. **Advanced (12-18 months):** 675+ words, complete VCV, full fluency
+4. **Master (18+ months):** 2000+ words, creative expansion, native-like proficiency
 
-### v0.7.0 (Target: Dec 2026)
-- 15 domains (60% coverage)
-- First textbook published
-- 100+ learners
-
-### v0.8.0 (Target: March 2027)
-- All 125 domains complete
-- Mobile app launched
-- 10+ fluent speakers
-
-### v1.0.0 (Target: Sept 2027)
-- Production ready
-- 1,000+ learners
-- 100+ fluent speakers
-- Academic validation complete
-
-**See:** [Roadmap](roadmap.md) for detailed timeline
+#### **Curriculum Structure**
+- Month-by-month breakdown
+- Clear milestones
+- Practice activities
+- Assessment criteria
 
 ---
 
-## Versioning Philosophy
+### 🐛 **BUG FIXES**
 
-**Major version (X.0.0):** Architectural breakthroughs, paradigm shifts  
-**Minor version (0.X.0):** Complete systems, significant additions  
-**Patch version (0.0.X):** Refinements, documentation, bug fixes
+#### **Consistency Issues Resolved**
+- **Fixed:** Y and Z dual-function confusion (grammar vs spatial)
+- **Fixed:** Inconsistent gradation documentation
+- **Fixed:** Missing EC definitions in earlier versions
+- **Fixed:** Ambiguous modifier position rules
 
-**Current:** v0.5.0 = Major breakthrough (progressive hierarchical naming)
-
-**Next major:** v1.0.0 = Production ready (all systems complete and validated)
-
----
-
-## Contributing
-
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for how to participate in language development.
-
-**Current focus (v0.5.0):**
-- Testing Domain PU prototype
-- Validating deduction methodology
-- Providing learner feedback
-- Suggesting category refinements
-
-**Your feedback shapes the language.**
+#### **Documentation Errors**
+- **Fixed:** Portuguese-English terminology mismatches
+- **Fixed:** Inconsistent IPA notation
+- **Fixed:** Missing cross-references between documents
+- **Fixed:** Outdated examples from previous versions
 
 ---
 
-**Project Status:** Active Development  
-**License:** CC0 1.0 Universal (Public Domain)  
-**Repository:** https://github.com/rogerdafonseca-hub/conlang-ontological
+### 🔄 **CHANGES FROM v0.5.x**
+
+#### **Removed/Deprecated**
+- ❌ Y and Z as grammatical functions in CV/VC
+- ❌ Inconsistent gradation patterns
+- ❌ Ambiguous modifier rules
+- ❌ Portuguese-only documentation
+- ❌ Incomplete domain coverage
+
+#### **Modified**
+- ♻️ X, Y, Z redefined as pure spatial coordinates
+- ♻️ Modifier system clarified (one per word, final position)
+- ♻️ VCV families restructured for consistency
+- ♻️ Example words updated for clarity
+
+#### **Added**
+- ✅ GR and PL consonant clusters
+- ✅ Complete 675-word lexicon
+- ✅ 3D spatial coordinate system
+- ✅ Comprehensive English documentation
+- ✅ Learning path curriculum
+- ✅ Navigation index
 
 ---
 
-*"From arbitrary to systematic. From limitation to infinity. From v0.4.0 to breakthrough."*
+### 📖 **EXAMPLES**
+
+#### **Spatial Coordinates**
+```
+xiyizi = (0,0,0) center
+xayaza = (+,+,+) top-right-front
+xoyozo = (−,−,−) bottom-left-back (moderate)
+```
+
+#### **Modified Words**
+```
+pepi (liquid) base word:
+→ pepima = drop (magnitude-min)
+→ pepimi = pond (magnitude-med)
+→ pepimu = ocean (magnitude-max)
+→ pepiva = still water (movement-min)
+→ pepivu = waterfall (movement-max)
+→ pepilu = pure water (quality-max)
+```
+
+#### **Grammatical Particles**
+```
+Old system:
+ya, ye, yi, yo, yu = intensity/degree (REMOVED)
+
+New system:
+gra, gre, gri, gro, gru = intensity/degree (EC GR)
+ya, ye, yi, yo, yu = Y-axis spatial position
+```
 
 ---
 
-**Last Updated:** 2026-03-11  
-**Current Version:** 0.5.0-dev (The Breakthrough)
+### 🙏 **ACKNOWLEDGMENTS**
+
+This version represents a complete foundation for the language. Special recognition for:
+- Systematic restructuring of spatial grammar
+- Complete domain population (675 words)
+- Professional documentation suite
+- Clear learning pathway
+
+---
+
+### 📋 **MIGRATION GUIDE**
+
+#### **For Users of v0.5.x**
+
+**Action Required:**
+1. **Update spatial references:** Y/Z are now purely spatial
+2. **Use GR for intensity:** Where you used Y-particles for intensity, use GR
+3. **Use PL for intention:** Where you used Z-particles for intention, use PL
+4. **Review modifier usage:** Ensure modifier is final syllable only
+
+**Example Migration:**
+```
+Old (v0.5.x):
+- ya = weak intensity
+- yu = strong intensity
+
+New (v0.6.0):
+- gra = weak intensity
+- gru = strong intensity
+- ya = extreme front (spatial Y-axis)
+- yu = extreme back (spatial Y-axis)
+```
+
+---
+
+### 🎯 **WHAT'S NEXT**
+
+See `ROADMAP.md` for detailed future plans.
+
+**Immediate priorities (v0.6.1 - April 2026):**
+- 100 essential 3-syllable words
+- 200 basic example sentences
+- Audio recording planning
+
+---
+
+## [0.5.x] - 2025-2026 — Development Phase
+
+### **[0.5.3] - 2026-02** — VCV Experimentation
+- Initial VCV particle development
+- Experimental domain structures
+- Vector-based approaches tested
+
+### **[0.5.2] - 2025-12** — Grammar Expansion
+- VC system development
+- Modal and aspectual particles
+- Spatial grammar experimentation
+
+### **[0.5.1] - 2025-10** — Initial Documentation
+- First grammar documentation
+- Portuguese-language materials
+- Basic vocabulary lists
+
+### **[0.5.0] - 2025-08** — Early Structure
+- 25-consonant alphabet (later reduced to 20)
+- Initial CV particle system
+- Concept development
+
+---
+
+## [0.4.x] - 2024-2025 — Conceptual Phase
+
+### **[0.4.0] - 2024-12** — Foundation Concepts
+- Ontological domain concept
+- Vowel gradation principles
+- Systematic structure ideas
+
+---
+
+## [0.3.x and earlier] - 2024 — Experimental Phase
+
+### **Various experiments**
+- Different phonological systems tested
+- Multiple grammatical approaches
+- Vocabulary organization strategies
+- Learning from natural and constructed languages
+
+---
+
+## Version Numbering Scheme
+
+**Format:** MAJOR.MINOR.PATCH
+
+- **MAJOR (0):** Pre-1.0 development phase
+- **MINOR (6):** Significant feature additions or structural changes
+- **PATCH (0):** Bug fixes and minor improvements
+
+**1.0.0 will represent:** Complete language specification with comprehensive corpus
+
+---
+
+## Tags and References
+
+- `v0.6.0` - Foundation Complete
+- `v0.5.3` - VCV Development
+- `v0.5.0` - Early Grammar
+- `v0.4.0` - Initial Concepts
+
+---
+
+## Contributing to Changelog
+
+When contributing changes, please:
+1. Add entries to "Unreleased" section at top
+2. Use clear, descriptive language
+3. Categorize changes appropriately
+4. Include examples where relevant
+5. Link to related documentation
+
+**Categories:**
+- **BREAKING CHANGES** — Incompatible changes
+- **NEW FEATURES** — New functionality
+- **IMPROVEMENTS** — Enhanced existing features
+- **BUG FIXES** — Corrections
+- **DOCUMENTATION** — Doc updates
+- **DEPRECATED** — Soon-to-be removed features
+- **REMOVED** — Deleted features
+
+---
+
+**Changelog Format:** Based on [Keep a Changelog](https://keepachangelog.com/)  
+**Versioning:** [Semantic Versioning](https://semver.org/)
+
+---
+
+**Last Updated:** March 19, 2026  
+**Current Version:** 0.6.0  
+**Next Version:** 0.6.1 (Planned April 2026)
+
+---

@@ -1,1903 +1,1908 @@
+# 📘 EXPANDED GRAMMAR VCV
 
-# 📋 LISTA COMPLETA: Títulos e Subtítulos das 25 Famílias VCV
+**Vowel-Consonant-Vowel Particle System with Systematic Gradation**
 
----
-
-## **Family P — Process/Temporal Aspect**
-
-- AP- Series — Incoative Aspect (Beginning)
-- EP- Series — Progressive Aspect (Ongoing)
-- IP- Series — Habitual Aspect (Regular)
-- OP- Series — Perfective Aspect (Completed)
-- UP- Series — Iterative Aspect (Repetitive)
+_Version 0.6.0 — Complete Restructuring_
 
 ---
 
-## **Family M — Magnitude/Scale**
+## 🎯 Overview
 
-- AM- Series — Size Scale
-- EM- Series — Quantity Scale
-- IM- Series — Intensity Scale
-- OM- Series — Spatial Scale
-- UM- Series — Degree Scale
+The VCV (Vowel-Consonant-Vowel) system expands the 20 base consonants + 7 defined ECs into **675 nuanced grammatical particles** through systematic vowel gradation.
 
----
+**Structure:**
 
-## **Family N — Frequency/Recurrence**
-
-- AN- Series — Frequency Level
-- EN- Series — Occurrence Count
-- IN- Series — Pattern Regularity
-- ON- Series — Interval Length
-- UN- Series — Cycle Speed
+- **20 Base Consonants:** 20 × 25 = 500 VCV particles
+- **7 Defined ECs:** 7 × 25 = 175 VCV particles
+- **Current Total:** 675 expanded particles
 
 ---
 
-## **Family V — Manner of Action**
+## 📐 Gradation Principle
 
-- AV- Series — Attention Level
-- EV- Series — Skill Level
-- IV- Series — Speed/Pace
-- OV- Series — Force/Strength
-- UV- Series — Completeness
+**The initial vowel marks intensity/degree/polarity:**
 
----
+|Vowel|Meaning|Scale|
+|---|---|---|
+|**a**|Minimum/Negative/Absent|←|
+|**e**|Weak/Low|←←|
+|**i**|Neutral/Medium|●●|
+|**o**|Strong/High|→→|
+|**u**|Maximum/Positive/Extreme|→|
 
-## **Family W — Emotion/Affect**
+**Exceptions:**
 
-- AW- Series — Basic Emotions
-- EW- Series — Secondary Emotions
-- IW- Series — Complex Emotions
-- OW- Series — Intense Emotions
-- UW- Series — Extreme Emotions
-
----
-
-## **Family T — Duration/Temporal Extension**
-
-- AT- Series — Duration Length
-- ET- Series — Time Span (Short)
-- IT- Series — Temporal Nature
-- OT- Series — Time Span (Long)
-- UT- Series — Temporal Extent
+- **Family W (Emotion)** has inverted gradation (a=positive, u=negative)
+- **Families X, Y, Z (Spatial)** have inverted gradation (a=maximum, u=minimum)
 
 ---
 
-## **Family K — Social/Collective
+## 🌐 The 27 VCV Families
 
-- AK- Series — Greetings & Farewells
-- EK- Series — Politeness Markers
-- IK- Series — Apologies & Regrets
-- OK- Series — Congratulations & Celebrations
-- UK- Series — Social Acknowledgments
-
----
-
-## **Family B — Communication/Discourse**
-
-- AB- Series — Speech Acts
-- EB- Series — Speaking Manner
-- IB- Series — Interpretation Mode
-- OB- Series — Discourse Markers
-- UB- Series — Response Types
-
----
-
-## **Family D — Degree/Intensity**
-
-- AD- Series — Degree Level
-- ED- Series — Sufficiency Level
-- ID- Series — Strength Level
-- OD- Series — Completeness Level
-- UD- Series — Extent Level
-
----
-
-## **Family G — Cycle/Rhythm**
-
-- AG- Series — Cycle Phase
-- EG- Series — Rhythm Regularity
-- IG- Series — Cycle Type
-- OG- Series — Pattern Type
-- UG- Series — Rhythm Change
+|#|Family|Function|
+|---|---|---|
+|1|**B**|Pronouns & Reference Expanded|
+|2|**M**|Modal Expanded|
+|3|**T**|Tense Expanded|
+|4|**K**|Question Expanded|
+|5|**P**|Preposition Expanded|
+|6|**N**|Quantity Expanded|
+|7|**D**|Demonstrative Expanded|
+|8|**L**|Conjunction Expanded|
+|9|**X**|Spatial (X-Axis Coordinate)|
+|10|**V**|Action/Verbal Expanded|
+|11|**G**|Aspect Expanded|
+|12|**R**|State/Condition Expanded|
+|13|**F**|Comparison Expanded|
+|14|**H**|Relation Expanded|
+|15|**S**|Boundary/Limit Expanded|
+|16|**Y**|Spatial (Y-Axis Coordinate)|
+|17|**J̌**|Causality/Agency Expanded|
+|18|**W**|Emotion/Affect Expanded|
+|19|**Z**|Spatial (Z-Axis Coordinate)|
+|20|**Ľ**|Evidentiality Expanded|
+|21|**PR**|Manner/Mode (EC)|
+|22|**BR**|Perception/Sensory (EC)|
+|23|**TR**|Movement/Direction (EC)|
+|24|**DR**|Existence/Reality (EC)|
+|25|**KR**|Possession/Belonging (EC)|
+|26|**GR**|Intensity/Degree (EC)|
+|27|**PL**|Intention/Volition (EC)|
 
 ---
 
-## **Family S — Speed/Velocity**
+## 📋 FAMILY B — Pronouns & Reference
 
-- AS- Series — Speed Level
-- ES- Series — Manner of Speed
-- IS- Series — Speed Change
-- OS- Series — Speed Mode
-- US- Series — Progression Type
+**Function:** Pronominal and referential expansion
 
 ---
 
-## **Family L — Quality/State**
-
-- AL- Series — Quality Level
-- EL- Series — Truth Value
-- IL- Series — Difficulty Level
-- OL- Series — Correctness Level
-- UL- Series — Purity Level
-
----
-
-## **Family R — State/Condition**
-
-- AR- Series — Age State
-- ER- Series — Temperature State
-- IR- Series — Wetness State
-- OR- Series — Fullness State
-- UR- Series — Strength State
-
----
-
-## **Family F — Comparison/Evaluation**
-
-- AF- Series — Equality Comparison
-- EF- Series — Difference Comparison
-- IF- Series — Positive Gradation
-- OF- Series — Negative Gradation
-- UF- Series — Relative Comparison
-
----
-
-## **Family H — Relation/Connection**
-
-- AH- Series — Part-Whole Relations
-- EH- Series — Separation Relations
-- IH- Series — Spatial Relations
-- OH- Series — Exchange Relations
-- UH- Series — Dependency Relations
-
----
-
-## **Family Y — Perception/Sensory**
-
-- AY- Series — Sensory Modes
-- EY- Series — Perception Clarity (Clear)
-- IY- Series — Perception Clarity (Faint)
-- OY- Series — Perceptual Actions
-- UY- Series — Perceptual Manner
-
----
-
-## **Family Š — Boundary/Limit**
-
-- AŠ- Series — Boundary Points
-- EŠ- Series — Edge Locations
-- IŠ- Series — Boundary Positions
-- OŠ- Series — Boundary States
-- UŠ- Series — Permeability Properties
-
----
-
-## **Family Ř — Identity/Possession**
-
-- AŘ- Series — Naming & Identification
-- EŘ- Series — Self & Identity
-- IŘ- Series — Possession & Ownership
-- OŘ- Series — Characteristics & Attributes
-- UŘ- Series — Origin & Source
-
----
-
-## **Family Č — Cognition/Mental**
-
-- AČ- Series — Knowledge & Awareness
-- EČ- Series — Thinking & Processing
-- IČ- Series — Memory & Recall
-- OČ- Series — Understanding & Comprehension
-- UČ- Series — Attention & Focus
-
----
-
-## **Family Ž — Quantity/Amount**
-
-
-- AŽ- Series — Quantity Level
-- EŽ- Series — Amount Level
-- IŽ- Series — Adequacy Level
-- OŽ- Series — Distribution Type
-- UŽ- Series — Proportion Level
-
-
-
----
-
-## **Family J̌ — Causality/Agency**
-
-- Aǰ- Series — Cause & Source
-- Eǰ- Series — Effect & Result
-- Iǰ- Series — Purpose & Goal
-- Oǰ- Series — Means & Method
-- Uǰ- Series — Agent & Actor
-
----
-
-## **Family Ñ — Manner/Mode**
-
-- AÑ- Series — Style & Approach
-- EÑ- Series — Speed & Pace
-- IÑ- Series — Care & Attention
-- OÑ- Series — Skill & Competence
-- UÑ- Series — Effort & Exertion
-
----
-
-## **Family C — Movement/Direction**
-
-- AC- Series — Linear Movement
-- EC- Series — Approach & Departure
-- IC- Series — Rotation & Circular
-- OC- Series — Vertical Movement
-- UC- Series — Flight & Elevation
-
----
-
-## **Family X — Existence/Reality**
-
-- AX- Series — Presence & Absence
-- EX- Series — Reality & Actuality
-- IX- Series — Truth & Factuality
-- OX- Series — Certainty & Actuality
-- UX- Series — Possibility & Potentiality
-
----
-
-## **Family Z — Intention/Volition**
-
-- AZ- Series — Desire & Wanting
-- EZ- Series — Decision & Choice
-- IZ- Series — Will & Determination
-- OZ- Series — Agreement & Consent
-- UZ- Series — Permission & Authorization
-
-
----
-
-## **Family P — Process/Temporal Aspect**
-
-**Function:** Marks aspectual and processual distinctions in actions and states
-
----
-
-### **AP- Series — Incoative Aspect (Beginning)**
+### **AB- Series — Reflexive Emphasis**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**apa**|begin slowly, start gradually|incoative-slow|
-|**ape**|begin normally, start|incoative-normal|
-|**api**|begin steadily, commence|incoative-steady|
-|**apo**|begin quickly, start rapidly|incoative-quick|
-|**apu**|begin immediately, start instantly|incoative-immediate|
+|**aba**|barely self, weakly reflexive|reflexive-weak|
+|**abe**|somewhat self|reflexive-moderate|
+|**abi**|oneself, self|reflexive-normal|
+|**abo**|strongly self, emphasis|reflexive-strong|
+|**abu**|exclusively self, only oneself|reflexive-exclusive|
 
 ---
 
-### **EP- Series — Progressive Aspect (Ongoing)**
+### **EB- Series — Reciprocal Relations**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**epa**|barely in progress, just started|progressive-minimal|
-|**epe**|somewhat in progress|progressive-partial|
-|**epi**|actively in progress, ongoing|progressive-active|
-|**epo**|well in progress, advancing|progressive-advanced|
-|**epu**|fully in progress, deeply engaged|progressive-full|
+|**eba**|barely each other, weak reciprocity|reciprocal-weak|
+|**ebe**|somewhat each other|reciprocal-moderate|
+|**ebi**|each other, one another|reciprocal-normal|
+|**ebo**|strongly each other|reciprocal-strong|
+|**ebu**|mutually, bidirectionally|reciprocal-mutual|
 
 ---
 
-### **IP- Series — Habitual Aspect (Regular)**
+### **IB- Series — Anaphoric Reference**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ipa**|rarely do, infrequent habit|habitual-rare|
-|**ipe**|sometimes do, occasional habit|habitual-occasional|
-|**ipi**|regularly do, normal habit|habitual-regular|
-|**ipo**|often do, frequent habit|habitual-frequent|
-|**ipu**|always do, constant habit|habitual-constant|
+|**iba**|vaguely that, unclear reference|anaphoric-vague|
+|**ibe**|that mentioned, previously stated|anaphoric-previous|
+|**ibi**|the aforementioned, said|anaphoric-standard|
+|**ibo**|the very same, exactly that|anaphoric-specific|
+|**ibu**|the same throughout|anaphoric-consistent|
 
 ---
 
-### **OP- Series — Perfective Aspect (Completed)**
+### **OB- Series — Inclusive/Exclusive**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**opa**|barely finished, incomplete result|perfective-minimal|
-|**ope**|partially finished, some completion|perfective-partial|
-|**opi**|finished, completed|perfective-complete|
-|**opo**|thoroughly finished, well done|perfective-thorough|
-|**opu**|completely finished, perfected|perfective-perfect|
+|**oba**|barely including, minimal inclusion|inclusive-minimal|
+|**obe**|somewhat including|inclusive-partial|
+|**obi**|including, with|inclusive-normal|
+|**obo**|broadly including|inclusive-broad|
+|**obu**|all-inclusive, everyone|inclusive-total|
 
 ---
 
-### **UP- Series — Iterative Aspect (Repetitive)**
+### **UB- Series — Generic Reference**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**upa**|do once more, single repetition|iterative-once|
-|**upe**|do few times, occasional repeat|iterative-few|
-|**upi**|do several times, moderate repeat|iterative-several|
-|**upo**|do many times, frequent repeat|iterative-many|
-|**upu**|do countless times, constant repeat|iterative-countless|
+|**uba**|rarely anyone, hardly anyone|generic-rare|
+|**ube**|someone, anyone|generic-indefinite|
+|**ubi**|one, people in general|generic-normal|
+|**ubo**|most people, many|generic-common|
+|**ubu**|everyone, all people|generic-universal|
 
 ---
 
-## **Family M — Magnitude/Scale**
+## 📋 FAMILY M — Modal
 
-**Function:** Marks magnitude, size, quantity, intensity, and scale
+**Function:** Expanded modality with nuances of possibility, necessity, and permission
 
 ---
 
-### **AM- Series — Size Scale**
+### **AM- Series — Ability/Capability**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ama**|minuscule, extremely small size|size minimal|
-|**ame**|small, little size|size small|
-|**ami**|medium size, average|size medium|
-|**amo**|large, big size|size large|
-|**amu**|enormous, gigantic size|size maximal|
+|**ama**|completely unable, impossible|ability-none|
+|**ame**|barely able, difficult|ability-low|
+|**ami**|able, can|ability-normal|
+|**amo**|easily able, capable|ability-high|
+|**amu**|highly capable, expert|ability-expert|
 
 ---
 
-### **EM- Series — Quantity Scale**
+### **EM- Series — Permission/Allowance**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ema**|none, zero quantity|quantity none|
-|**eme**|few, small quantity|quantity few|
-|**emi**|moderate quantity, some|quantity moderate|
-|**emo**|much, great quantity|quantity much|
-|**emu**|maximum quantity, countless|quantity maximum|
+|**ema**|strictly forbidden|permission-forbidden|
+|**eme**|discouraged, not recommended|permission-discouraged|
+|**emi**|allowed, may|permission-allowed|
+|**emo**|encouraged, welcome to|permission-encouraged|
+|**emu**|strongly encouraged, should|permission-urged|
 
 ---
 
-### **IM- Series — Intensity Scale**
+### **IM- Series — Possibility/Likelihood**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ima**|minimal intensity, negligible|intensity minimal|
-|**ime**|low intensity, weak|intensity low|
-|**imi**|medium intensity, normal|intensity medium|
-|**imo**|high intensity, strong|intensity high|
-|**imu**|extreme intensity, overwhelming|intensity extreme|
+|**ima**|impossible, cannot be|possibility-impossible|
+|**ime**|unlikely, improbable|possibility-unlikely|
+|**imi**|possible, might|possibility-possible|
+|**imo**|likely, probable|possibility-likely|
+|**imu**|certain, must be|possibility-certain|
 
 ---
 
-### **OM- Series — Spatial Scale**
+### **OM- Series — Necessity/Obligation**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oma**|microscopic scale, molecular|scale microscopic|
-|**ome**|local scale, nearby area|scale local|
-|**omi**|regional scale, area-wide|scale regional|
-|**omo**|continental scale, macro|scale continental|
-|**omu**|global scale, worldwide|scale global|
+|**oma**|unnecessary, no need|necessity-none|
+|**ome**|optional, not required|necessity-optional|
+|**omi**|should, advisable|necessity-advisable|
+|**omo**|necessary, must|necessity-necessary|
+|**omu**|absolutely required, imperative|necessity-imperative|
 
 ---
 
-### **UM- Series — Degree Scale**
+### **UM- Series — Willingness/Volition**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uma**|minimal degree, slight|degree minimal|
-|**ume**|low degree, minor|degree low|
-|**umi**|moderate degree, balanced|degree moderate|
-|**umo**|high degree, significant|degree high|
-|**umu**|absolute degree, total|degree absolute|
+|**uma**|unwilling, refuse to|volition-unwilling|
+|**ume**|reluctant, hesitant|volition-reluctant|
+|**umi**|willing, would|volition-willing|
+|**umo**|eager, want to|volition-eager|
+|**umu**|determined, insist on|volition-determined|
 
 ---
 
-## **Family N — Frequency/Recurrence**
+## 📋 FAMILY T — Tense
 
-**Function:** Marks frequency, recurrence, and regularity of events
+**Function:** Expanded time with nuances of temporal distance and durativity
 
 ---
 
-### **AN- Series — Frequency Level**
+### **AT- Series — Past Time Distance**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ana**|never, not ever|frequency never|
-|**ane**|rarely, seldom|frequency rare|
-|**ani**|sometimes, occasionally|frequency occasional|
-|**ano**|often, frequently|frequency frequent|
-|**anu**|always, constantly|frequency constant|
+|**ata**|just now, moments ago|past-immediate|
+|**ate**|recently, short time ago|past-recent|
+|**ati**|earlier, some time ago|past-moderate|
+|**ato**|long ago, distant past|past-distant|
+|**atu**|very long ago, ancient past|past-ancient|
 
 ---
 
-### **EN- Series — Occurrence Count**
+### **ET- Series — Present Time Aspect**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ena**|zero times, never occurred|occurrence zero|
-|**ene**|once, single occurrence|occurrence once|
-|**eni**|few times, several|occurrence few|
-|**eno**|many times, numerous|occurrence many|
-|**enu**|countless times, infinite|occurrence countless|
+|**eta**|barely now, edge of present|present-edge|
+|**ete**|currently, at this moment|present-current|
+|**eti**|now, presently|present-normal|
+|**eto**|right now, exactly now|present-exact|
+|**etu**|always now, eternal present|present-continuous|
 
 ---
 
-### **IN- Series — Pattern Regularity**
+### **IT- Series — Future Time Distance**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ina**|chaotic, no pattern|regularity chaotic|
-|**ine**|irregular, unpredictable|regularity irregular|
-|**ini**|regular, predictable|regularity regular|
-|**ino**|very regular, highly predictable|regularity very-regular|
-|**inu**|perfectly regular, clockwork|regularity perfect|
+|**ita**|very soon, imminent|future-immediate|
+|**ite**|soon, near future|future-near|
+|**iti**|later, will|future-normal|
+|**ito**|much later, distant future|future-distant|
+|**itu**|far future, eventual|future-eventual|
 
 ---
 
-### **ON- Series — Interval Length**
-
-| VCV     | Meaning                           | Category            |
-| ------- | --------------------------------- | ------------------- |
-| **ona** | continuous, no interval           | interval continuous |
-| **one** | short intervals, close together   | interval short      |
-| **oni** | medium intervals, normal spacing  | interval medium     |
-| **ono** | long intervals, far apart         | interval long       |
-| **onu** | very long intervals, rare spacing | interval very-long  |
-
----
-
-### **UN- Series — Cycle Speed**
+### **OT- Series — Perfect/Completed**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**una**|stopped, no cycle|cycle stopped|
-|**une**|slow cycle, infrequent|cycle slow|
-|**uni**|medium cycle, normal speed|cycle medium|
-|**uno**|fast cycle, rapid|cycle fast|
-|**unu**|instantaneous cycle, immediate|cycle instantaneous|
+|**ota**|barely completed, just finished|perfect-minimal|
+|**ote**|recently completed|perfect-recent|
+|**oti**|completed, done|perfect-normal|
+|**oto**|long completed, past perfect|perfect-distant|
+|**otu**|fully accomplished, perfected|perfect-total|
 
 ---
 
-## **Family V — Manner of Action**
-
-**Function:** Marks the manner, method, and quality of action execution
-
----
-
-### **AV- Series — Attention Level**
+### **UT- Series — Duration/Continuity**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ava**|carelessly, without attention|manner careless|
-|**ave**|casually, informally|manner casual|
-|**avi**|normally, standard way|manner normal|
-|**avo**|carefully, with attention|manner careful|
-|**avu**|meticulously, precisely|manner meticulous|
+|**uta**|momentary, instant|duration-instant|
+|**ute**|brief, short duration|duration-brief|
+|**uti**|for a while, moderate duration|duration-moderate|
+|**uto**|long duration, extended|duration-long|
+|**utu**|permanent, eternal|duration-permanent|
 
 ---
 
-### **EV- Series — Skill Level**
+## 📋 FAMILY K — Question
+
+**Function:** Expanded interrogatives with nuances of certainty, rhetoric, and specificity
+
+---
+
+### **AK- Series — What/Thing Questions**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eva**|clumsily, awkwardly|manner clumsy|
-|**eve**|simply, plainly|manner simple|
-|**evi**|competently, adequately|manner competent|
-|**evo**|skillfully, expertly|manner skillful|
-|**evu**|masterfully, with mastery|manner masterful|
+|**aka**|what thing? anything?|what-indefinite|
+|**ake**|what sort of thing?|what-type|
+|**aki**|what? which thing?|what-normal|
+|**ako**|what specifically?|what-specific|
+|**aku**|what exactly? what on earth?|what-emphatic|
 
 ---
 
-### **IV- Series — Speed/Pace**
+### **EK- Series — Who/Person Questions**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iva**|slowly, at slow pace|manner slow|
-|**ive**|moderately, at medium pace|manner moderate|
-|**ivi**|at normal pace|manner normal-pace|
-|**ivo**|quickly, at fast pace|manner fast|
-|**ivu**|rapidly, with haste|manner rapid|
+|**eka**|who? anyone?|who-indefinite|
+|**eke**|who among? which person?|who-selective|
+|**eki**|who?|who-normal|
+|**eko**|who specifically?|who-specific|
+|**eku**|who exactly? who in the world?|who-emphatic|
 
 ---
 
-### **OV- Series — Force/Strength**
+### **IK- Series — Where/Location Questions**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ova**|weakly, with little force|manner weak|
-|**ove**|gently, softly|manner gentle|
-|**ovi**|with normal force|manner normal-force|
-|**ovo**|forcefully, strongly|manner forceful|
-|**ovu**|violently, with maximum force|manner violent|
+|**ika**|where? anywhere?|where-indefinite|
+|**ike**|whereabouts? around where?|where-approximate|
+|**iki**|where? at what place?|where-normal|
+|**iko**|where exactly?|where-specific|
+|**iku**|where precisely?|where-emphatic|
 
 ---
 
-### **UV- Series — Completeness**
+### **OK- Series — When/Time Questions**
+
+| VCV     | Meaning                               | Category         |
+| ------- | ------------------------------------- | ---------------- |
+| **oka** | when? anytime?                        | when-indefinite  |
+| **oke** | around when?                          | when-approximate |
+| **oki** | when? at what time?                   | when-normal      |
+| **oko** | when exactly?                         | when-specific    |
+| **oku** | when precisely? at what exact moment? | when-emphatic    |
+
+---
+
+### **UK- Series — Why/How Questions**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uva**|partially, incompletely|manner partial|
-|**uve**|mostly, largely|manner mostly|
-|**uvi**|completely, fully|manner complete|
-|**uvo**|thoroughly, exhaustively|manner thorough|
-|**uvu**|absolutely, totally|manner absolute|
+|**uka**|why? for any reason?|why-indefinite|
+|**uke**|for what reason?|why-reason|
+|**uki**|why? how come?|why-normal|
+|**uko**|why specifically?|why-specific|
+|**uku**|why on earth? how possibly?|why-emphatic|
 
 ---
 
-## **Family W — Emotion/Affect**
+## 📋 FAMILY P — Preposition
 
-**Function:** Marks emotional states and affective attitudes
+**Function:** Expanded prepositions with spatial and abstract nuances
+
+---
+
+### **AP- Series — Direction/Goal**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**apa**|vaguely toward|direction-vague|
+|**ape**|generally toward|direction-general|
+|**api**|toward, to|direction-normal|
+|**apo**|directly toward|direction-direct|
+|**apu**|straight to, right to|direction-precise|
+
+---
+
+### **EP- Series — Path/Medium**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**epa**|barely through, grazing|path-minimal|
+|**epe**|somewhat through|path-partial|
+|**epi**|through, via|path-normal|
+|**epo**|directly through|path-direct|
+|**epu**|straight through, piercing|path-complete|
+
+---
+
+### **IP- Series — Location/Position**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ipa**|barely at, edge of|location-edge|
+|**ipe**|near, around|location-near|
+|**ipi**|at, in, on|location-normal|
+|**ipo**|right at, exactly at|location-exact|
+|**ipu**|deep in, center of|location-center|
+
+---
+
+### **OP- Series — Source/Origin**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**opa**|vaguely from|source-vague|
+|**ope**|generally from|source-general|
+|**opi**|from, out of|source-normal|
+|**opo**|directly from|source-direct|
+|**opu**|right from, originating from|source-origin|
+
+---
+
+### **UP- Series — Association/Accompaniment**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**upa**|barely with, loosely associated|association-loose|
+|**upe**|somewhat with|association-partial|
+|**upi**|with, together with|association-normal|
+|**upo**|closely with|association-close|
+|**upu**|inseparably with, bound with|association-inseparable|
+
+---
+
+## 📋 FAMILY N — Quantity
+
+**Function:** Expanded quantity and nuanced negation
+
+---
+
+### **AN- Series — Negation Strength**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ana**|barely not, almost|negation-minimal|
+|**ane**|somewhat not, partially|negation-partial|
+|**ani**|not, no|negation-normal|
+|**ano**|definitely not|negation-strong|
+|**anu**|absolutely not, never|negation-absolute|
+
+---
+
+### **EN- Series — Affirmation Strength**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ena**|barely yes, weakly|affirmation-weak|
+|**ene**|somewhat yes|affirmation-moderate|
+|**eni**|yes|affirmation-normal|
+|**eno**|definitely yes|affirmation-strong|
+|**enu**|absolutely yes, certainly|affirmation-absolute|
+
+---
+
+### **IN- Series — Quantity Gradation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ina**|none, zero|quantity-none|
+|**ine**|few, little|quantity-few|
+|**ini**|some, several|quantity-some|
+|**ino**|many, much|quantity-many|
+|**inu**|all, everything|quantity-all|
+
+---
+
+### **ON- Series — Proportion**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ona**|almost none, negligible portion|proportion-minimal|
+|**one**|small portion, minority|proportion-small|
+|**oni**|half, moderate portion|proportion-half|
+|**ono**|large portion, majority|proportion-large|
+|**onu**|almost all, near totality|proportion-maximal|
+
+---
+
+### **UN- Series — Totality/Completeness**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**una**|barely any, fragment|totality-fragment|
+|**une**|partial, incomplete|totality-partial|
+|**uni**|whole, complete|totality-complete|
+|**uno**|entirely, thoroughly|totality-thorough|
+|**unu**|absolutely all, totality|totality-absolute|
+
+---
+
+## 📋 FAMILY D — Demonstrative
+
+**Function:** Expanded demonstratives with distance and specificity
+
+---
+
+### **AD- Series — Identity/Sameness**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ada**|barely the same, similar|identity-similar|
+|**ade**|mostly the same|identity-mostly|
+|**adi**|the same, identical|identity-same|
+|**ado**|exactly the same|identity-exact|
+|**adu**|the very same, absolutely identical|identity-absolute|
+
+---
+
+### **ED- Series — Manner/Quality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eda**|barely such, hardly like this|manner-minimal|
+|**ede**|somewhat such, kind of like this|manner-partial|
+|**edi**|such, like this|manner-normal|
+|**edo**|very such, strongly like this|manner-strong|
+|**edu**|exactly such, precisely like this|manner-exact|
+
+---
+
+### **ID- Series — Proximal (Near Speaker)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ida**|barely this, edge of here|proximal-edge|
+|**ide**|around here, this area|proximal-area|
+|**idi**|this, here|proximal-normal|
+|**ido**|right here, this very one|proximal-exact|
+|**idu**|exactly this, this and only this|proximal-exclusive|
+
+---
+
+### **OD- Series — Medial (Near Listener)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oda**|barely that, edge of there|medial-edge|
+|**ode**|around there, that area|medial-area|
+|**odi**|that, there|medial-normal|
+|**odo**|right there, that very one|medial-exact|
+|**odu**|exactly that, that and only that|medial-exclusive|
+
+---
+
+### **UD- Series — Distal (Far from Both)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uda**|vaguely over there|distal-vague|
+|**ude**|somewhere over there|distal-general|
+|**udi**|that over there, yonder|distal-normal|
+|**udo**|that far one, distant|distal-far|
+|**udu**|that very distant one|distal-extreme|
+
+---
+
+## 📋 FAMILY L — Conjunction
+
+**Function:** Expanded logical connectors with conditional and causal nuances
+
+---
+
+### **AL- Series — Addition/Conjunction**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ala**|barely and, weak connection|conjunction-weak|
+|**ale**|and also, plus|conjunction-additive|
+|**ali**|and|conjunction-normal|
+|**alo**|and furthermore, moreover|conjunction-emphatic|
+|**alu**|and especially, particularly|conjunction-specific|
+
+---
+
+### **EL- Series — Disjunction/Alternative**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ela**|maybe or, weak alternative|disjunction-weak|
+|**ele**|or, alternatively|disjunction-normal|
+|**eli**|or else|disjunction-exclusive|
+|**elo**|or rather, more precisely|disjunction-corrective|
+|**elu**|or specifically|disjunction-specific|
+
+---
+
+### **IL- Series — Contrast/Opposition**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ila**|slightly but, mild contrast|contrast-mild|
+|**ile**|but, however|contrast-normal|
+|**ili**|yet, still|contrast-concessive|
+|**ilo**|but rather, instead|contrast-strong|
+|**ilu**|but in fact, actually|contrast-emphatic|
+
+---
+
+### **OL- Series — Condition/Hypothesis**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ola**|maybe if, weak condition|condition-weak|
+|**ole**|if, in case|condition-normal|
+|**oli**|only if, provided that|condition-restrictive|
+|**olo**|if and only if, iff|condition-biconditional|
+|**olu**|even if, although|condition-concessive|
+
+---
+
+### **UL- Series — Consequence/Result**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ula**|weakly then, mild consequence|consequence-weak|
+|**ule**|then, so|consequence-normal|
+|**uli**|therefore, thus|consequence-logical|
+|**ulo**|consequently, as a result|consequence-causal|
+|**ulu**|inevitably, necessarily|consequence-necessary|
+
+---
+
+## 📋 FAMILY X — Spatial (X-Axis)
+
+**Function:** Lateral positioning and X-axis coordinate system
+
+**⚠️ EXCEPTION: Inverted Gradation** (a=maximum positive, u=minimum negative)
+
+---
+
+### **AX- Series — X-Axis Position (Rightward)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**axa**|extreme right maintained|x-axis-max-static|
+|**axe**|moving rightward moderately|x-axis-right-motion|
+|**axi**|at right position|x-axis-right-static|
+|**axo**|shifting from right|x-axis-right-departure|
+|**axu**|from extreme right to extreme left|x-axis-max-to-min|
+
+---
+
+### **EX- Series — X-Axis Moderate Right**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**exa**|from moderate right to extreme right|x-axis-mid-to-max|
+|**exe**|staying moderately right|x-axis-mid-right-static|
+|**exi**|from moderate right to center|x-axis-mid-to-center|
+|**exo**|from moderate right to moderate left|x-axis-mid-to-mid-left|
+|**exu**|from moderate right to extreme left|x-axis-mid-to-min|
+
+---
+
+### **IX- Series — X-Axis Center**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ixa**|from center to extreme right|x-axis-center-to-max|
+|**ixe**|from center to moderate right|x-axis-center-to-mid-right|
+|**ixi**|staying at lateral center|x-axis-center-static|
+|**ixo**|from center to moderate left|x-axis-center-to-mid-left|
+|**ixu**|from center to extreme left|x-axis-center-to-min|
+
+---
+
+### **OX- Series — X-Axis Moderate Left**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oxa**|from moderate left to extreme right|x-axis-mid-left-to-max|
+|**oxe**|from moderate left to moderate right|x-axis-mid-left-to-mid-right|
+|**oxi**|from moderate left to center|x-axis-mid-left-to-center|
+|**oxo**|staying moderately left|x-axis-mid-left-static|
+|**oxu**|from moderate left to extreme left|x-axis-mid-left-to-min|
+
+---
+
+### **UX- Series — X-Axis Extreme Left**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uxa**|from extreme left to extreme right|x-axis-min-to-max|
+|**uxe**|from extreme left shifting rightward|x-axis-left-departure|
+|**uxi**|from extreme left to center|x-axis-min-to-center|
+|**uxo**|moving leftward moderately|x-axis-left-motion|
+|**uxu**|extreme left maintained|x-axis-min-static|
+
+---
+
+## 📋 FAMILY V — Action/Verbal
+
+**Function:** Expanded actions and verbal processes
+
+---
+
+### **AV- Series — Action Initiation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ava**|fail to start, not begin|initiation-fail|
+|**ave**|hesitate to start|initiation-hesitate|
+|**avi**|start, begin action|initiation-normal|
+|**avo**|readily start|initiation-ready|
+|**avu**|immediately start, launch|initiation-immediate|
+
+---
+
+### **EV- Series — Action Continuation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eva**|stop, cease action|continuation-stop|
+|**eve**|pause, interrupt|continuation-pause|
+|**evi**|continue, keep doing|continuation-normal|
+|**evo**|persist, carry on|continuation-persist|
+|**evu**|never stop, perpetual|continuation-perpetual|
+
+---
+
+### **IV- Series — Action Completion**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iva**|abandon, leave unfinished|completion-abandon|
+|**ive**|partially complete|completion-partial|
+|**ivi**|complete, finish|completion-normal|
+|**ivo**|thoroughly complete|completion-thorough|
+|**ivu**|perfectly complete|completion-perfect|
+
+---
+
+### **OV- Series — Action Intensity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ova**|barely act, minimal effort|intensity-minimal|
+|**ove**|gently act, light effort|intensity-light|
+|**ovi**|normally act|intensity-normal|
+|**ovo**|vigorously act, strong effort|intensity-vigorous|
+|**ovu**|intensely act, maximum effort|intensity-maximum|
+
+---
+
+### **UV- Series — Action Causation**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uva**|prevent, stop from happening|causation-prevent|
+|**uve**|allow, let happen|causation-allow|
+|**uvi**|cause, make happen|causation-normal|
+|**uvo**|force, compel to happen|causation-force|
+|**uvu**|necessitate, make inevitable|causation-necessitate|
+
+---
+
+## 📋 FAMILY G — Aspect
+
+**Function:** Expanded verbal aspect with phases and iterations
+
+---
+
+### **AG- Series — Inceptive/Beginning**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aga**|fail to begin|inceptive-fail|
+|**age**|about to begin, on verge|inceptive-imminent|
+|**agi**|begin, start|inceptive-normal|
+|**ago**|actively beginning, getting started|inceptive-active|
+|**agu**|decisively begin, launch into|inceptive-decisive|
+
+---
+
+### **EG- Series — Continuative/Ongoing**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ega**|stop continuing, cease|continuative-cease|
+|**ege**|intermittently continue|continuative-intermittent|
+|**egi**|continue, go on|continuative-normal|
+|**ego**|steadily continue|continuative-steady|
+|**egu**|continuously, without break|continuative-unbroken|
+
+---
+
+### **IG- Series — Habitual/Regular**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iga**|never habitually, never do|habitual-never|
+|**ige**|rarely habitually|habitual-rare|
+|**igi**|habitually, regularly|habitual-normal|
+|**igo**|frequently habitually|habitual-frequent|
+|**igu**|always habitually, constant|habitual-constant|
+
+---
+
+### **OG- Series — Terminative/Ending**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oga**|not finish, remain unfinished|terminative-unfinished|
+|**oge**|nearly finish, almost done|terminative-nearly|
+|**ogi**|finish, end|terminative-normal|
+|**ogo**|conclusively finish|terminative-conclusive|
+|**ogu**|finally finish, at last complete|terminative-final|
+
+---
+
+### **UG- Series — Iterative/Repetitive**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uga**|do once only, never repeat|iterative-once|
+|**uge**|rarely repeat, seldom again|iterative-rare|
+|**ugi**|repeat, do again|iterative-normal|
+|**ugo**|frequently repeat|iterative-frequent|
+|**ugu**|constantly repeat, over and over|iterative-constant|
+
+---
+
+## 📋 FAMILY R — State/Condition
+
+**Function:** Expanded states and conditions
+
+---
+
+### **AR- Series — State Change**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ara**|resist change, stay same|change-resist|
+|**are**|gradually change|change-gradual|
+|**ari**|change, become|change-normal|
+|**aro**|rapidly change|change-rapid|
+|**aru**|instantly change, transform|change-instant|
+
+---
+
+### **ER- Series — State Persistence**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**era**|unstable, fleeting state|persistence-unstable|
+|**ere**|briefly remain|persistence-brief|
+|**eri**|remain, stay|persistence-normal|
+|**ero**|steadily remain|persistence-steady|
+|**eru**|permanently remain, unchanging|persistence-permanent|
+
+---
+
+### **IR- Series — State Appearance**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ira**|deceptively seem, falsely appear|appearance-deceptive|
+|**ire**|vaguely seem|appearance-vague|
+|**iri**|seem, appear|appearance-normal|
+|**iro**|clearly seem, evidently appear|appearance-clear|
+|**iru**|obviously appear, manifestly|appearance-obvious|
+
+---
+
+### **OR- Series — State Experience**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ora**|not feel, numb to|experience-numb|
+|**ore**|slightly feel|experience-slight|
+|**ori**|feel, experience|experience-normal|
+|**oro**|strongly feel|experience-strong|
+|**oru**|intensely feel, overwhelming|experience-intense|
+
+---
+
+### **UR- Series — State Characterization**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ura**|barely characterized by|characterization-minimal|
+|**ure**|somewhat characterized by|characterization-partial|
+|**uri**|characterized by, marked by|characterization-normal|
+|**uro**|strongly characterized by|characterization-strong|
+|**uru**|essentially characterized by, defined by|characterization-essential|
+
+---
+
+## 📋 FAMILY F — Comparison
+
+**Function:** Expanded comparison and evaluation
+
+---
+
+### **AF- Series — Equality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**afa**|unequal, not as|equality-unequal|
+|**afe**|nearly equal, almost as|equality-nearly|
+|**afi**|equal, as...as|equality-equal|
+|**afo**|exactly equal, precisely as|equality-exact|
+|**afu**|perfectly equal, identically|equality-perfect|
+
+---
+
+### **EF- Series — Similarity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**efa**|completely different, unlike|similarity-different|
+|**efe**|somewhat similar|similarity-somewhat|
+|**efi**|similar, like|similarity-similar|
+|**efo**|very similar, much like|similarity-very|
+|**efu**|almost identical, nearly same|similarity-identical|
+
+---
+
+### **IF- Series — Comparative Degree**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ifa**|much less, far below|comparative-much-less|
+|**ife**|less, below|comparative-less|
+|**ifi**|equally, same degree|comparative-equal|
+|**ifo**|more, above|comparative-more|
+|**ifu**|much more, far above|comparative-much-more|
+
+---
+
+### **OF- Series — Superlative Degree**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ofa**|least, minimum|superlative-least|
+|**ofe**|among the lesser|superlative-lower|
+|**ofi**|average, median|superlative-median|
+|**ofo**|among the greater|superlative-higher|
+|**ofu**|most, maximum|superlative-most|
+
+---
+
+### **UF- Series — Evaluative Comparison**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ufa**|worse, inferior|evaluative-worse|
+|**ufe**|not as good, lesser|evaluative-lesser|
+|**ufi**|equivalent, same value|evaluative-equivalent|
+|**ufo**|better, superior|evaluative-better|
+|**ufu**|best, optimal|evaluative-best|
+
+---
+
+## 📋 FAMILY H — Relation
+
+**Function:** Expanded relations between entities
+
+---
+
+### **AH- Series — Part-Whole**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aha**|separate from, not part|part-whole-separate|
+|**ahe**|loosely part of|part-whole-loose|
+|**ahi**|part of, component|part-whole-normal|
+|**aho**|integral part of|part-whole-integral|
+|**ahu**|essential part of, inseparable|part-whole-essential|
+
+---
+
+### **EH- Series — Membership**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eha**|excluded from, not member|membership-excluded|
+|**ehe**|peripheral member|membership-peripheral|
+|**ehi**|member of, belong to|membership-normal|
+|**eho**|active member of|membership-active|
+|**ehu**|core member of, central|membership-core|
+
+---
+
+### **IH- Series — Connection/Link**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iha**|disconnected, unrelated|connection-none|
+|**ihe**|weakly connected|connection-weak|
+|**ihi**|connected to, related|connection-normal|
+|**iho**|strongly connected|connection-strong|
+|**ihu**|inseparably connected|connection-inseparable|
+
+---
+
+### **OH- Series — Dependency**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oha**|independent, not dependent|dependency-independent|
+|**ohe**|slightly dependent|dependency-slight|
+|**ohi**|dependent on, rely on|dependency-normal|
+|**oho**|heavily dependent|dependency-heavy|
+|**ohu**|completely dependent, cannot exist without|dependency-complete|
+
+---
+
+### **UH- Series — Association**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uha**|unassociated, separate|association-none|
+|**uhe**|loosely associated|association-loose|
+|**uhi**|associated with, linked to|association-normal|
+|**uho**|closely associated|association-close|
+|**uhu**|inherently associated, bound|association-inherent|
+
+---
+
+## 📋 FAMILY S — Boundary/Limit
+
+**Function:** Expanded boundaries, limits, and transitions
+
+---
+
+### **AS- Series — Boundary Points**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**asa**|far from boundary, deep interior|boundary-interior|
+|**ase**|approaching boundary|boundary-approaching|
+|**asi**|at boundary, on edge|boundary-at|
+|**aso**|crossing boundary|boundary-crossing|
+|**asu**|beyond boundary, outside|boundary-beyond|
+
+---
+
+### **ES- Series — Threshold/Transition**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**esa**|before threshold, not yet|threshold-before|
+|**ese**|approaching threshold|threshold-approaching|
+|**esi**|at threshold, on cusp|threshold-at|
+|**eso**|crossing threshold|threshold-crossing|
+|**esu**|past threshold, beyond|threshold-past|
+
+---
+
+### **IS- Series — Limit/Extent**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**isa**|far below limit, minimal|limit-minimal|
+|**ise**|below limit, under|limit-below|
+|**isi**|at limit, reaching|limit-at|
+|**iso**|exceeding limit, over|limit-exceeding|
+|**isu**|far beyond limit, extreme|limit-extreme|
+
+---
+
+### **OS- Series — Barrier/Obstacle**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**osa**|no barrier, open|barrier-none|
+|**ose**|slight barrier, permeable|barrier-slight|
+|**osi**|barrier, obstacle|barrier-normal|
+|**oso**|strong barrier, resistant|barrier-strong|
+|**osu**|impenetrable barrier, absolute|barrier-absolute|
+
+---
+
+### **US- Series — Permeability**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**usa**|fully permeable, completely open|permeability-open|
+|**use**|somewhat permeable, porous|permeability-porous|
+|**usi**|semi-permeable, selective|permeability-selective|
+|**uso**|barely permeable, resistant|permeability-resistant|
+|**usu**|impermeable, sealed|permeability-sealed|
+
+---
+
+## 📋 FAMILY Y — Spatial (Y-Axis)
+
+**Function:** Frontal positioning and Y-axis coordinate system
+
+**⚠️ EXCEPTION: Inverted Gradation** (a=maximum positive, u=minimum negative)
+
+---
+
+### **AY- Series — Y-Axis Position (Forward)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aya**|extreme front maintained|y-axis-max-static|
+|**aye**|moving forward moderately|y-axis-front-motion|
+|**ayi**|at front position|y-axis-front-static|
+|**ayo**|shifting from front|y-axis-front-departure|
+|**ayu**|from extreme front to extreme back|y-axis-max-to-min|
+
+---
+
+### **EY- Series — Y-Axis Moderate Front**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eya**|from moderate front to extreme front|y-axis-mid-to-max|
+|**eye**|staying moderately forward|y-axis-mid-front-static|
+|**eyi**|from moderate front to center|y-axis-mid-to-center|
+|**eyo**|from moderate front to moderate back|y-axis-mid-to-mid-back|
+|**eyu**|from moderate front to extreme back|y-axis-mid-to-min|
+
+---
+
+### **IY- Series — Y-Axis Center**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iya**|from center to extreme front|y-axis-center-to-max|
+|**iye**|from center to moderate front|y-axis-center-to-mid-front|
+|**iyi**|staying at frontal center|y-axis-center-static|
+|**iyo**|from center to moderate back|y-axis-center-to-mid-back|
+|**iyu**|from center to extreme back|y-axis-center-to-min|
+
+---
+
+### **OY- Series — Y-Axis Moderate Back**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oya**|from moderate back to extreme front|y-axis-mid-back-to-max|
+|**oye**|from moderate back to moderate front|y-axis-mid-back-to-mid-front|
+|**oyi**|from moderate back to center|y-axis-mid-back-to-center|
+|**oyo**|staying moderately back|y-axis-mid-back-static|
+|**oyu**|from moderate back to extreme back|y-axis-mid-back-to-min|
+
+---
+
+### **UY- Series — Y-Axis Extreme Back**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uya**|from extreme back to extreme front|y-axis-min-to-max|
+|**uye**|from extreme back shifting forward|y-axis-back-departure|
+|**uyi**|from extreme back to center|y-axis-min-to-center|
+|**uyo**|moving backward moderately|y-axis-back-motion|
+|**uyu**|extreme back maintained|y-axis-min-static|
+
+---
+
+## 📋 FAMILY J̌ — Causality/Agency
+
+**Function:** Expanded causality and agency
+
+---
+
+### **AJ̌- Series — Cause/Reason**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**aǰa**|without cause, spontaneous|cause-none|
+|**aǰe**|weak cause, minor reason|cause-weak|
+|**aǰi**|because of, due to|cause-normal|
+|**aǰo**|strong cause, major reason|cause-strong|
+|**aǰu**|sole cause, only reason|cause-sole|
+
+---
+
+### **EJ̌- Series — Purpose/Goal**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**eǰa**|without purpose, aimless|purpose-none|
+|**eǰe**|vague purpose|purpose-vague|
+|**eǰi**|for, in order to|purpose-normal|
+|**eǰo**|clear purpose, specific goal|purpose-clear|
+|**eǰu**|sole purpose, only goal|purpose-sole|
+
+---
+
+### **IJ̌- Series — Means/Method**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**iǰa**|without means, impossible|means-none|
+|**iǰe**|indirect means|means-indirect|
+|**iǰi**|by means of, through|means-normal|
+|**iǰo**|direct means|means-direct|
+|**iǰu**|sole means, only way|means-sole|
+
+---
+
+### **OJ̌- Series — Agency/Agent**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**oǰa**|without agent, spontaneous|agency-none|
+|**oǰe**|indirect agent|agency-indirect|
+|**oǰi**|by (agent), performed by|agency-normal|
+|**oǰo**|direct agent, active performer|agency-direct|
+|**oǰu**|sole agent, only performer|agency-sole|
+
+---
+
+### **UJ̌- Series — Instrumentality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uǰa**|without instrument, bare|instrument-none|
+|**uǰe**|with simple instrument|instrument-simple|
+|**uǰi**|with, using (instrument)|instrument-normal|
+|**uǰo**|with complex instrument|instrument-complex|
+|**uǰu**|with specialized instrument only|instrument-specialized|
+
+---
+
+## 📋 FAMILY W — Emotion/Affect
+
+**Function:** Expanded emotion and affect
+
+**⚠️ EXCEPTION: Inverted Gradation** (a=positive, u=negative)
 
 ---
 
 ### **AW- Series — Basic Emotions**
 
-| VCV     | Meaning                      | Category          |
-| ------- | ---------------------------- | ----------------- |
-| **awa** | with happiness, happily      | emotion happiness |
-| **awe** | with surprise, surprisingly  | emotion surprise  |
-| **awi** | with indifference, neutrally | emotion neutral   |
-| **awo** | with sadness, sadly          | emotion sadness   |
-| **awu** | with anger, angrily          | emotion anger     |
+|VCV|Meaning|Category|
+|---|---|---|
+|**awa**|with happiness, happily|emotion-happiness|
+|**awe**|with surprise, surprisingly|emotion-surprise|
+|**awi**|with indifference, neutrally|emotion-neutral|
+|**awo**|with sadness, sadly|emotion-sadness|
+|**awu**|with anger, angrily|emotion-anger|
 
 ---
 
 ### **EW- Series — Secondary Emotions**
 
-| VCV     | Meaning                    | Category           |
-| ------- | -------------------------- | ------------------ |
-| **ewa** | with joy, joyfully         | emotion joy        |
-| **ewe** | with curiosity, curiously  | emotion curiosity  |
-| **ewi** | with calmness, peacefully  | emotion calm       |
-| **ewo** | with melancholy, wistfully | emotion melancholy |
-| **ewu** | with irritation, annoyed   | emotion irritation |
+|VCV|Meaning|Category|
+|---|---|---|
+|**ewa**|with joy, joyfully|emotion-joy|
+|**ewe**|with curiosity, curiously|emotion-curiosity|
+|**ewi**|with calmness, peacefully|emotion-calm|
+|**ewo**|with melancholy, wistfully|emotion-melancholy|
+|**ewu**|with irritation, annoyed|emotion-irritation|
 
 ---
 
 ### **IW- Series — Complex Emotions**
 
-| VCV     | Meaning                      | Category            |
-| ------- | ---------------------------- | ------------------- |
-| **iwa** | with delight, delightedly    | emotion delight     |
-| **iwe** | with interest, interestedly  | emotion interest    |
-| **iwi** | with contentment, content    | emotion contentment |
-| **iwo** | with loneliness, lonely      | emotion loneliness  |
-| **iwu** | with frustration, frustrated | emotion frustration |
+|VCV|Meaning|Category|
+|---|---|---|
+|**iwa**|with delight, delightedly|emotion-delight|
+|**iwe**|with interest, interestedly|emotion-interest|
+|**iwi**|with contentment, content|emotion-contentment|
+|**iwo**|with loneliness, lonely|emotion-loneliness|
+|**iwu**|with frustration, frustrated|emotion-frustration|
 
 ---
 
 ### **OW- Series — Intense Emotions**
 
-| VCV     | Meaning                 | Category          |
-| ------- | ----------------------- | ----------------- |
-| **owa** | with elation, elatedly  | emotion elation   |
-| **owe** | with amazement, amazed  | emotion amazement |
-| **owi** | with serenity, serenely | emotion serenity  |
-| **owo** | with grief, grieving    | emotion grief     |
-| **owu** | with rage, furiously    | emotion rage      |
+|VCV|Meaning|Category|
+|---|---|---|
+|**owa**|with elation, elatedly|emotion-elation|
+|**owe**|with amazement, amazed|emotion-amazement|
+|**owi**|with serenity, serenely|emotion-serenity|
+|**owo**|with grief, grieving|emotion-grief|
+|**owu**|with rage, furiously|emotion-rage|
 
 ---
 
 ### **UW- Series — Extreme Emotions**
 
-| VCV     | Meaning                      | Category            |
-| ------- | ---------------------------- | ------------------- |
-| **uwa** | with ecstasy, ecstatically   | emotion ecstasy     |
-| **uwe** | with awe, awestruck          | emotion awe         |
-| **uwi** | with tranquility, tranquilly | emotion tranquility |
-| **uwo** | with despair, despairingly   | emotion despair     |
-| **uwu** | with hatred, hatefully       | emotion hatred      |
-
----
-
-# 📄 FAMÍLIA T — Duration/Temporal Extension
-
----
-
-## **Family T — Duration/Temporal Extension**
-
-**Function:** Marks duration, temporal extent, and length of time
-
----
-
-### **AT- Series — Duration Length**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ata**|instantaneous, momentary|duration instant|
-|**ate**|very brief, fleeting|duration very-brief|
-|**ati**|brief, short|duration brief|
-|**ato**|medium duration|duration medium|
-|**atu**|long, extended|duration long|
-
----
-
-### **ET- Series — Time Span (Short)**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**eta**|for a second, momentarily|time-span second|
-|**ete**|for minutes|time-span minutes|
-|**eti**|for hours|time-span hours|
-|**eto**|for days|time-span days|
-|**etu**|for weeks|time-span weeks|
-
----
-
-### **IT- Series — Temporal Nature**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ita**|ephemeral, transient|nature ephemeral|
-|**ite**|temporary, passing|nature temporary|
-|**iti**|lasting, enduring|nature lasting|
-|**ito**|prolonged, extended|nature prolonged|
-|**itu**|permanent, everlasting|nature permanent|
-
----
-
-### **OT- Series — Time Span (Long)**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ota**|for months|time-span months|
-|**ote**|for years|time-span years|
-|**oti**|for decades|time-span decades|
-|**oto**|for centuries|time-span centuries|
-|**otu**|for millennia|time-span millennia|
-
----
-
-### **UT- Series — Temporal Extent**
-
-| VCV     | Meaning                     | Category          |
-| ------- | --------------------------- | ----------------- |
-| **uta** | until now, so far           | extent until-now  |
-| **ute** | from beginning, since start | extent from-start |
-| **uti** | throughout, all along       | extent throughout |
-| **uto** | indefinitely, without end   | extent indefinite |
-| **utu** | eternally, forever          | extent eternal    |
-
----
-
-## 📊 FAMÍLIA K — Social/Collective
-
----
-
-### **AK- Series — Greetings & Farewells**
-
-| VCV | Meaning                        |
-| --- | ------------------------------ |
-| aka | welcome, bem-vindo             |
-| ake | good morning/afternoon/evening |
-| aki | hello, hi, greeting            |
-| ako | see you later, até logo        |
-| aku | goodbye, farewell              |
-### **EK- Series — Politeness Markers**
-
-| VCV | Meaning                         |
-| --- | ------------------------------- |
-| eka | thank you, obrigado             |
-| eke | you're welcome, de nada         |
-| eki | excuse me, com licença (passar) |
-| eko | please, por favor               |
-| eku | pardon, perdão (não ouvi)       |
-### **IK- Series — Apologies & Regrets**
-
-| VCV | Meaning                                   |
-| --- | ----------------------------------------- |
-| ika | sorry, desculpa (leve)                    |
-| ike | I'm sorry, me desculpa                    |
-| iki | I apologize, peço desculpas (formal)      |
-| iko | I regret, lamento                         |
-| iku | my deepest apologies, desculpas profundas |
-### **OK- Series — Congratulations & Celebrations**
-
-| VCV | Meaning                   |
-| --- | ------------------------- |
-| oka | congratulations, parabéns |
-| oke | well done, muito bem      |
-| oki | cheers, saúde             |
-| oko | happy birthday/holiday    |
-| oku | blessings, bênçãos        |
-
-### **UK- Series — Social Acknowledgments**
-
-| VCV | Meaning                |
-| --- | ---------------------- |
-| uka | certainly, com certeza |
-| uke | of course, claro       |
-| uki | yes (social agreement) |
-| uko | I understand, entendo  |
-| uku | I see, vejo            |
-
----
-
-## **Family B — Communication/Discourse**
-
-**Function:** Marks discourse structure, communication modes, and speech acts
-
----
-
-### **AB- Series — Speech Acts**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**aba**|state, declare|speech-act declarative|
-|**abe**|ask, question|speech-act interrogative|
-|**abi**|command, order|speech-act imperative|
-|**abo**|suggest, propose|speech-act suggestive|
-|**abu**|exclaim|speech-act exclamative|
-
----
-
-### **EB- Series — Speaking Manner**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**eba**|whisper, speak softly|manner whisper|
-|**ebe**|speak normally|manner normal|
-|**ebi**|speak loudly, raise voice|manner loud|
-|**ebo**|shout, yell|manner shout|
-|**ebu**|scream, cry out|manner scream|
-
----
-
-### **IB- Series — Interpretation Mode**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**iba**|literally, word-for-word|interpretation literal|
-|**ibe**|directly, plainly|interpretation direct|
-|**ibi**|figuratively, metaphorically|interpretation figurative|
-|**ibo**|ironically, sarcastically|interpretation ironic|
-|**ibu**|symbolically|interpretation symbolic|
-
----
-
-### **OB- Series — Discourse Markers**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**oba**|begin discourse, introduce topic|discourse-marker beginning|
-|**obe**|continue topic, furthermore|discourse-marker continuation|
-|**obi**|change topic, by the way|discourse-marker shift|
-|**obo**|return to topic, as I was saying|discourse-marker return|
-|**obu**|conclude, in conclusion|discourse-marker conclusion|
-
----
-
-### **UB- Series — Response Types**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**uba**|agree, affirm|response agree|
-|**ube**|acknowledge, I see|response acknowledge|
-|**ubi**|disagree, object|response disagree|
-|**ubo**|doubt, question validity|response doubt|
-|**ubu**|reject, deny|response reject|
-
----
-
-## **Family D — Degree/Intensity**
-
-**Function:** Marks degree, intensity, and level of properties or states
-
----
-
-### **AD- Series — Degree Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ada**|barely, hardly|degree minimal|
-|**ade**|slightly, somewhat|degree slight|
-|**adi**|moderately, fairly|degree moderate|
-|**ado**|quite, considerably|degree considerable|
-|**adu**|extremely, very|degree extreme|
-
----
-
-### **ED- Series — Sufficiency Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**eda**|insufficiently, too little|sufficiency insufficient|
-|**ede**|barely sufficiently|sufficiency barely|
-|**edi**|sufficiently, adequately|sufficiency adequate|
-|**edo**|more than enough|sufficiency more|
-|**edu**|excessively, too much|sufficiency excessive|
-
----
-
-### **ID- Series — Strength Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ida**|weakly, feebly|strength weak|
-|**ide**|mildly, gently|strength mild|
-|**idi**|normally, regularly|strength normal|
-|**ido**|strongly, powerfully|strength strong|
-|**idu**|intensely, forcefully|strength intense|
-
----
-
-### **OD- Series — Completeness Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**oda**|incompletely, partially|completeness partial|
-|**ode**|mostly, largely|completeness mostly|
-|**odi**|completely, fully|completeness complete|
-|**odo**|thoroughly, entirely|completeness thorough|
-|**odu**|absolutely, totally|completeness absolute|
-
----
-
-### **UD- Series — Extent Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**uda**|minimally, at minimum|extent minimal|
-|**ude**|partially, to some extent|extent partial|
-|**udi**|substantially, to large extent|extent substantial|
-|**udo**|largely, to great extent|extent great|
-|**udu**|maximally, to fullest extent|extent maximal|
-
----
-
-## **Family G — Cycle/Rhythm**
-
-**Function:** Marks cyclical patterns, rhythm, and periodic occurrences
-
----
-
-### **AG- Series — Cycle Phase**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**aga**|once only, non-recurring|cycle once|
-|**age**|beginning of cycle|cycle-phase beginning|
-|**agi**|middle of cycle|cycle-phase middle|
-|**ago**|end of cycle|cycle-phase end|
-|**agu**|full cycle, complete revolution|cycle complete|
-
----
-
-### **EG- Series — Rhythm Regularity**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ega**|irregularly, unpredictably|rhythm irregular|
-|**ege**|somewhat regularly|rhythm semi-regular|
-|**egi**|regularly, rhythmically|rhythm regular|
-|**ego**|very regularly, predictably|rhythm very-regular|
-|**egu**|perfectly rhythmic, metronomic|rhythm perfect|
-
----
-
-### **IG- Series — Cycle Type**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**iga**|daily cycle, diurnal|cycle-type daily|
-|**ige**|weekly cycle|cycle-type weekly|
-|**igi**|monthly cycle, lunar|cycle-type monthly|
-|**igo**|seasonal cycle|cycle-type seasonal|
-|**igu**|yearly cycle, annual|cycle-type annual|
-
----
-
-### **OG- Series — Pattern Type**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**oga**|in phases, by stages|pattern phased|
-|**oge**|in waves, wavelike|pattern wave|
-|**ogi**|in pulses, pulsating|pattern pulse|
-|**ogo**|in spirals, spiraling|pattern spiral|
-|**ogu**|in circles, circular|pattern circular|
-
----
-
-### **UG- Series — Rhythm Change**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**uga**|slowing down, decelerating|rhythm-change slowing|
-|**uge**|maintaining rhythm, steady|rhythm-change steady|
-|**ugi**|speeding up, accelerating|rhythm-change speeding|
-|**ugo**|becoming more regular|rhythm-change regularizing|
-|**ugu**|becoming chaotic|rhythm-change chaotic|
-
----
-
-## **Family S — Speed/Velocity**
-
-**Function:** Marks speed, velocity, and rate of action or process
-
----
-
-### **AS- Series — Speed Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**asa**|extremely slowly, at crawl|speed minimal|
-|**ase**|slowly, at slow pace|speed slow|
-|**asi**|at normal speed|speed normal|
-|**aso**|quickly, at fast pace|speed fast|
-|**asu**|extremely quickly, at maximum speed|speed maximal|
-
----
-
-### **ES- Series — Manner of Speed**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**esa**|sluggishly, dragging|manner sluggish|
-|**ese**|leisurely, unhurried|manner leisurely|
-|**esi**|steadily, at steady pace|manner steady|
-|**eso**|briskly, energetically|manner brisk|
-|**esu**|frantically, rushed|manner frantic|
-
----
-
-### **IS- Series — Speed Change**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**isa**|decelerating, slowing down|change decelerate|
-|**ise**|maintaining speed|change maintain|
-|**isi**|at constant velocity|change constant|
-|**iso**|accelerating, speeding up|change accelerate|
-|**isu**|rapidly accelerating|change rapid-accelerate|
-
----
-
-### **OS- Series — Speed Mode**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**osa**|in slow motion|mode slow-motion|
-|**ose**|in real time|mode real-time|
-|**osi**|at normal rate|mode normal-rate|
-|**oso**|in fast-forward|mode fast-forward|
-|**osu**|instantaneously, all at once|mode instantaneous|
-
----
-
-### **US- Series — Progression Type**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**usa**|step by step, incrementally|progression incremental|
-|**use**|gradually, progressively|progression gradual|
-|**usi**|smoothly, continuously|progression smooth|
-|**uso**|rapidly, swiftly|progression rapid|
-|**usu**|explosively, suddenly|progression explosive|
-
----
-
-## **Family L — Quality/State**
-
-**Function:** Marks quality level, state, and condition
-
----
-
-### **AL- Series — Quality Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ala**|of terrible quality, very poor|quality terrible|
-|**ale**|of poor quality, bad|quality poor|
-|**ali**|of average quality, mediocre|quality average|
-|**alo**|of good quality, fine|quality good|
-|**alu**|of excellent quality, superior|quality excellent|
-
----
-
-### **EL- Series — Truth Value**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ela**|false, untrue|truth false|
-|**ele**|doubtful, questionable|truth doubtful|
-|**eli**|true, accurate|truth true|
-|**elo**|certainly true, verified|truth certain|
-|**elu**|absolutely true, indisputable|truth absolute|
-
----
-
-### **IL- Series — Difficulty Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ila**|extremely difficult, nearly impossible|difficulty extreme|
-|**ile**|difficult, hard|difficulty hard|
-|**ili**|moderately difficult|difficulty moderate|
-|**ilo**|easy, simple|difficulty easy|
-|**ilu**|extremely easy, trivial|difficulty trivial|
-
----
-
-### **OL- Series — Correctness Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ola**|incorrect, wrong|correctness incorrect|
-|**ole**|mostly wrong, erroneous|correctness erroneous|
-|**oli**|correct, right|correctness correct|
-|**olo**|perfectly correct, accurate|correctness accurate|
-|**olu**|absolutely correct, flawless|correctness flawless|
-
----
-
-### **UL- Series — Purity Level**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ula**|impure, contaminated|purity impure|
-|**ule**|slightly impure, mixed|purity mixed|
-|**uli**|pure, clean|purity pure|
-|**ulo**|very pure, refined|purity refined|
-|**ulu**|absolutely pure, pristine|purity pristine|
-
----
-
-## **Family R — State/Condition**
-
-**Function:** Marks physical states, conditions, and properties
-
----
-
-### **AR- Series — Age State**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ara**|brand new, just created|age new|
-|**are**|young, recent|age young|
-|**ari**|mature, middle-aged|age mature|
-|**aro**|old, aged|age old|
-|**aru**|ancient, very old|age ancient|
-
----
-
-### **ER- Series — Temperature State**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**era**|freezing, ice cold|temperature freezing|
-|**ere**|cold, cool|temperature cold|
-|**eri**|warm, lukewarm|temperature warm|
-|**ero**|hot|temperature hot|
-|**eru**|burning, extremely hot|temperature burning|
-
----
-
-### **IR- Series — Wetness State**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ira**|bone dry, completely dry|wetness dry|
-|**ire**|dry|wetness dry-state|
-|**iri**|damp, moist|wetness damp|
-|**iro**|wet|wetness wet|
-|**iru**|soaking, drenched|wetness soaked|
-
----
-
-### **OR- Series — Fullness State**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ora**|empty, hollow|fullness empty|
-|**ore**|nearly empty, sparse|fullness sparse|
-|**ori**|half full, partial|fullness partial|
-|**oro**|full, filled|fullness full|
-|**oru**|overflowing, overfull|fullness overflowing|
-
----
-
-### **UR- Series — Strength State**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ura**|fragile, weak|strength fragile|
-|**ure**|delicate, tender|strength delicate|
-|**uri**|sturdy, solid|strength sturdy|
-|**uro**|strong, robust|strength strong|
-|**uru**|unbreakable, indestructible|strength indestructible|
-
----
-
-## **Family F — Comparison/Evaluation**
-
-**Function:** Marks comparative structures and evaluative relations
-
----
-
-### **AF- Series — Equality Comparison**
-
 |VCV|Meaning|Category|
 |---|---|---|
-|**afa**|equally, as...as|comparison equal|
-|**afe**|similarly, alike|comparison similar|
-|**afi**|comparably, in like manner|comparison comparable|
-|**afo**|identically, the same|comparison identical|
-|**afu**|equivalently, of equal value|comparison equivalent|
+|**uwa**|with ecstasy, ecstatically|emotion-ecstasy|
+|**uwe**|with awe, awestruck|emotion-awe|
+|**uwi**|with tranquility, tranquilly|emotion-tranquility|
+|**uwo**|with despair, despairingly|emotion-despair|
+|**uwu**|with hatred, hatefully|emotion-hatred|
 
 ---
 
-### **EF- Series — Difference Comparison**
+## 📋 FAMILY Z — Spatial (Z-Axis)
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**efa**|differently, not as|comparison different|
-|**efe**|unlike, dissimilar|comparison unlike|
-|**efi**|otherwise, in another way|comparison otherwise|
-|**efo**|contrastingly, in contrast|comparison contrast|
-|**efu**|oppositely, contrary|comparison opposite|
-
----
-
-### **IF- Series — Positive Gradation**
+**Function:** Vertical positioning and Z-axis coordinate system
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**ifa**|slightly more, a bit more|comparison slightly-more|
-|**ife**|more, -er|comparison more|
-|**ifi**|much more, considerably more|comparison much-more|
-|**ifo**|far more, way more|comparison far-more|
-|**ifu**|most, -est|comparison superlative-positive|
+**⚠️ EXCEPTION: Inverted Gradation** (a=maximum positive, u=minimum negative)
 
 ---
 
-### **OF- Series — Negative Gradation**
+### **AZ- Series — Z-Axis Position (Upward)**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ofa**|slightly less, a bit less|comparison slightly-less|
-|**ofe**|less|comparison less|
-|**ofi**|much less, considerably less|comparison much-less|
-|**ofo**|far less, way less|comparison far-less|
-|**ofu**|least|comparison superlative-negative|
+|**aza**|extreme top maintained|z-axis-max-static|
+|**aze**|moving upward moderately|z-axis-up-motion|
+|**azi**|at top position|z-axis-top-static|
+|**azo**|shifting from top|z-axis-top-departure|
+|**azu**|from extreme top to extreme bottom|z-axis-max-to-min|
 
 ---
 
-### **UF- Series — Relative Comparison**
+### **EZ- Series — Z-Axis Moderate Above**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ufa**|relatively, in relation to|comparison relative|
-|**ufe**|proportionally, in proportion|comparison proportional|
-|**ufi**|comparatively, by comparison|comparison comparative|
-|**ufo**|respectively, each to each|comparison respective|
-|**ufu**|absolutely, in absolute terms|comparison absolute|
-
----
-
-## **Family H — Relation/Connection**
+|**eza**|from moderate above to extreme top|z-axis-mid-to-max|
+|**eze**|staying moderately above|z-axis-mid-above-static|
+|**ezi**|from moderate above to center|z-axis-mid-to-center|
+|**ezo**|from moderate above to moderate below|z-axis-mid-to-mid-below|
+|**ezu**|from moderate above to extreme bottom|z-axis-mid-to-min|
 
-**Function:** Marks relational structures and connections between entities
-
 ---
 
-### **AH- Series — Part-Whole Relations**
+### **IZ- Series — Z-Axis Center**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aha**|part of, component|relation part-whole|
-|**ahe**|member of, belongs to|relation membership|
-|**ahi**|related to, connected with|relation connection|
-|**aho**|associated with, linked to|relation association|
-|**ahu**|integrated into, merged with|relation integration|
+|**iza**|from center to extreme top|z-axis-center-to-max|
+|**ize**|from center to moderate above|z-axis-center-to-mid-above|
+|**izi**|staying at vertical center|z-axis-center-static|
+|**izo**|from center to moderate below|z-axis-center-to-mid-below|
+|**izu**|from center to extreme bottom|z-axis-center-to-min|
 
 ---
 
-### **EH- Series — Separation Relations**
+### **OZ- Series — Z-Axis Moderate Below**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eha**|separate from, apart|relation separate|
-|**ehe**|independent of, autonomous|relation independent|
-|**ehi**|distinct from, different entity|relation distinct|
-|**eho**|isolated from, cut off|relation isolated|
-|**ehu**|divorced from, completely separate|relation divorced|
+|**oza**|from moderate below to extreme top|z-axis-mid-below-to-max|
+|**oze**|from moderate below to moderate above|z-axis-mid-below-to-mid-above|
+|**ozi**|from moderate below to center|z-axis-mid-below-to-center|
+|**ozo**|staying moderately below|z-axis-mid-below-static|
+|**ozu**|from moderate below to extreme bottom|z-axis-mid-below-to-min|
 
 ---
 
-### **IH- Series — Spatial Relations**
+### **UZ- Series — Z-Axis Extreme Bottom**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iha**|parallel to, alongside|relation parallel|
-|**ihe**|adjacent to, next to|relation adjacent|
-|**ihi**|between, among|relation between|
-|**iho**|surrounding, around|relation surrounding|
-|**ihu**|throughout, permeating|relation permeating|
+|**uza**|from extreme bottom to extreme top|z-axis-min-to-max|
+|**uze**|from extreme bottom shifting upward|z-axis-bottom-departure|
+|**uzi**|from extreme bottom to center|z-axis-min-to-center|
+|**uzo**|moving downward moderately|z-axis-down-motion|
+|**uzu**|extreme bottom maintained|z-axis-min-static|
 
 ---
 
-### **OH- Series — Exchange Relations**
+## 📋 FAMILY Ľ — Evidentiality
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**oha**|in exchange for, trading|relation exchange|
-|**ohe**|in place of, instead of|relation replacement|
-|**ohi**|corresponding to, matching|relation correspondence|
-|**oho**|in addition to, plus|relation addition|
-|**ohu**|together with, along with|relation together|
+**Function:** Expanded source of information and epistemic certainty
 
 ---
 
-### **UH- Series — Dependency Relations**
+### **AĽ- Series — Source of Evidence**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uha**|depending on, contingent|relation dependent|
-|**uhe**|resulting from, due to|relation causal|
-|**uhi**|based on, founded on|relation based|
-|**uho**|derived from, originating|relation derivation|
-|**uhu**|consisting of, composed of|relation composition|
-
----
+|**aľa**|hearsay, rumor|evidence-hearsay|
+|**aľe**|reported, told by someone|evidence-reported|
+|**aľi**|inferred, deduced|evidence-inferred|
+|**aľo**|perceived, sensory evidence|evidence-sensory|
+|**aľu**|direct witness, saw firsthand|evidence-direct|
 
-## **Family Y — Perception/Sensory**
-
-**Function:** Marks sensory perception and perceptual modes
-
 ---
 
-### **AY- Series — Sensory Modes**
+### **EĽ- Series — Epistemic Certainty**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aya**|visually, by sight|perception visual|
-|**aye**|auditorily, by hearing|perception auditory|
-|**ayi**|tactilely, by touch|perception tactile|
-|**ayo**|gustatorily, by taste|perception gustatory|
-|**ayu**|olfactorily, by smell|perception olfactory|
+|**eľa**|impossible, cannot be|certainty-impossible|
+|**eľe**|very unlikely, improbable|certainty-unlikely|
+|**eľi**|possible, maybe|certainty-possible|
+|**eľo**|probable, likely|certainty-probable|
+|**eľu**|certain, sure|certainty-certain|
 
 ---
 
-### **EY- Series — Perception Clarity (Clear)**
+### **IĽ- Series — Confidence Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eya**|clearly visible, obvious to see|clarity-visual clear|
-|**eye**|clearly audible, easy to hear|clarity-auditory clear|
-|**eyi**|clearly felt, tangible|clarity-tactile clear|
-|**eyo**|distinct taste, strong flavor|clarity-gustatory clear|
-|**eyu**|strong smell, noticeable odor|clarity-olfactory clear|
+|**iľa**|no confidence, total doubt|confidence-none|
+|**iľe**|low confidence, uncertain|confidence-low|
+|**iľi**|moderate confidence, neutral|confidence-moderate|
+|**iľo**|high confidence, fairly sure|confidence-high|
+|**iľu**|absolute confidence, no doubt|confidence-absolute|
 
 ---
 
-### **IY- Series — Perception Clarity (Faint)**
+### **OĽ- Series — Belief Strength**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iya**|barely visible, faint|clarity-visual faint|
-|**iye**|barely audible, quiet|clarity-auditory faint|
-|**iyi**|barely felt, subtle|clarity-tactile faint|
-|**iyo**|subtle taste, mild flavor|clarity-gustatory faint|
-|**iyu**|faint smell, weak odor|clarity-olfactory faint|
+|**oľa**|disbelieve, don't believe|belief-disbelieve|
+|**oľe**|skeptical, doubtful|belief-skeptical|
+|**oľi**|believe, accept as true|belief-believe|
+|**oľo**|strongly believe, convinced|belief-strong|
+|**oľu**|know for certain, absolute knowledge|belief-certain|
 
 ---
 
-### **OY- Series — Perceptual Actions**
+### **UĽ- Series — Assumption Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oya**|looking, watching|action-visual watching|
-|**oye**|listening, hearing|action-auditory listening|
-|**oyi**|feeling, touching|action-tactile touching|
-|**oyo**|tasting, sampling|action-gustatory tasting|
-|**oyu**|smelling, sniffing|action-olfactory smelling|
+|**uľa**|wild guess, pure speculation|assumption-guess|
+|**uľe**|speculation, guessing|assumption-speculation|
+|**uľi**|assumption, supposing|assumption-assumption|
+|**uľo**|educated guess, informed|assumption-educated|
+|**uľu**|logical conclusion, deduced|assumption-logical|
 
 ---
 
-### **UY- Series — Perceptual Manner**
+## ➕ EXPANSION: CONSONANT CLUSTERS (ECs)
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**uya**|perceptively, with perception|manner perceptive|
-|**uye**|attentively, paying attention|manner attentive|
-|**uyi**|sensitively, with sensitivity|manner sensitive|
-|**uyo**|keenly, acutely aware|manner keen|
-|**uyu**|intensely aware, hyper-perceptive|manner intense|
+**The 7 defined ECs vertically expand the VCV system with 175 additional particles**
 
 ---
 
-## **Family Š — Boundary/Limit**
+## 📋 EC PR — Manner/Mode
 
-**Function:** Marks boundaries, limits, edges, and thresholds
+**Function:** Expanded manner and mode of action
 
 ---
 
-### **AŠ- Series — Boundary Points**
+### **APR- Series — Style Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aša**|at entrance, entering|boundary entrance|
-|**aše**|at exit, exiting|boundary exit|
-|**aši**|at barrier, blocked|boundary barrier|
-|**ašo**|at opening, through gap|boundary opening|
-|**ašu**|at crossing, traversing|boundary crossing|
+|**apra**|in crude style, roughly|style-crude|
+|**apre**|in simple style, plainly|style-simple|
+|**apri**|in normal style, standardly|style-normal|
+|**apro**|in refined style, elegantly|style-refined|
+|**apru**|in sophisticated style, artfully|style-sophisticated|
 
 ---
 
-### **EŠ- Series — Edge Locations**
+### **EPR- Series — Formality Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eša**|at edge, on border|location edge|
-|**eše**|at margin, peripheral|location margin|
-|**eši**|at boundary line|location boundary|
-|**ešo**|at threshold, on cusp|location threshold|
-|**ešu**|at limit, at extreme|location limit|
+|**epra**|very informally, casually|formality-very-informal|
+|**epre**|informally|formality-informal|
+|**epri**|neutrally, standard register|formality-neutral|
+|**epro**|formally|formality-formal|
+|**epru**|very formally, ceremonially|formality-very-formal|
 
 ---
 
-### **IŠ- Series — Boundary Positions**
+### **IPR- Series — Precision Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iša**|inside bounds, within|position inside|
-|**iše**|outside bounds, beyond|position outside|
-|**iši**|on boundary, at edge|position on-boundary|
-|**išo**|approaching limit|position approaching|
-|**išu**|past limit, exceeded|position exceeded|
+|**ipra**|carelessly, sloppily|precision-careless|
+|**ipre**|loosely, approximately|precision-loose|
+|**ipri**|normally, adequately|precision-normal|
+|**ipro**|carefully, precisely|precision-careful|
+|**ipru**|meticulously, exactly|precision-meticulous|
 
 ---
 
-### **OŠ- Series — Boundary States**
+### **OPR- Series — Effort Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oša**|unlimited, boundless|state unlimited|
-|**oše**|limited, bounded|state limited|
-|**oši**|restricted, confined|state restricted|
-|**ošo**|enclosed, contained|state enclosed|
-|**ošu**|sealed, closed off|state sealed|
+|**opra**|lazily, without effort|effort-lazy|
+|**opre**|casually, light effort|effort-casual|
+|**opri**|normally, moderate effort|effort-normal|
+|**opro**|diligently, with effort|effort-diligent|
+|**opru**|intensely, maximum effort|effort-intense|
 
 ---
 
-### **UŠ- Series** — Permeability Properties
+### **UPR- Series — Skill Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uša**|permeable, passable|property permeable|
-|**uše**|semi-permeable, selective|property semi-permeable|
-|**uši**|impermeable, impassable|property impermeable|
-|**ušo**|porous, having gaps|property porous|
-|**ušu**|solid, no gaps|property solid|
+|**upra**|clumsily, unskillfully|skill-clumsy|
+|**upre**|amateurishly, basic skill|skill-amateur|
+|**upri**|competently, adequate skill|skill-competent|
+|**upro**|skillfully, expert|skill-skillful|
+|**upru**|masterfully, virtuoso|skill-masterful|
 
 ---
 
-## **Family Ř — Identity/Possession**
+## 📋 EC BR — Perception/Sensory
 
-**Function:** Marks identity, naming, possession, and characteristic attribution
+**Function:** Expanded perception and sensory experience
 
 ---
 
-### **AŘ- Series — Naming & Identification**
+### **ABR- Series — Visual Perception**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aŕa**|named, called|naming named|
-|**aŕe**|titled, designated|naming titled|
-|**aŕi**|labeled, tagged|naming labeled|
-|**aŕo**|referred to as, known as|naming referred|
-|**aŕu**|identified as, recognized as|naming identified|
+|**abra**|blindly, without seeing|visual-none|
+|**abre**|dimly seeing, barely visible|visual-dim|
+|**abri**|seeing, visually|visual-normal|
+|**abro**|clearly seeing|visual-clear|
+|**abru**|perfectly seeing, crystal clear|visual-perfect|
 
 ---
 
-### **EŘ- Series — Self & Identity**
+### **EBR- Series — Auditory Perception**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eŕa**|self, oneself|identity self|
-|**eŕe**|own identity, selfhood|identity own|
-|**eŕi**|personal, individual|identity personal|
-|**eŕo**|unique identity, distinctive|identity unique|
-|**eŕu**|essential self, core identity|identity essential|
+|**ebra**|deafly, without hearing|auditory-none|
+|**ebre**|faintly hearing, barely audible|auditory-faint|
+|**ebri**|hearing, auditorily|auditory-normal|
+|**ebro**|clearly hearing|auditory-clear|
+|**ebru**|perfectly hearing, crisp|auditory-perfect|
 
 ---
 
-### **IŘ- Series — Possession & Ownership**
+### **IBR- Series — Tactile Perception**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iŕa**|owned by, belonging to|possession owned|
-|**iŕe**|possessed, having|possession possessed|
-|**iŕi**|property of, owned|possession property|
-|**iŕo**|in possession, holding|possession holding|
-|**iŕu**|exclusively owned, sole possession|possession exclusive|
+|**ibra**|numbly, without feeling|tactile-none|
+|**ibre**|barely feeling, faint touch|tactile-faint|
+|**ibri**|feeling, by touch|tactile-normal|
+|**ibro**|clearly feeling|tactile-clear|
+|**ibru**|acutely feeling, sensitive|tactile-acute|
 
 ---
 
-### **OŘ- Series — Characteristics & Attributes**
+### **OBR- Series — Gustatory Perception**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oŕa**|characteristic of, typical|attribute characteristic|
-|**oŕe**|quality of, attribute|attribute quality|
-|**oŕi**|feature of, aspect|attribute feature|
-|**oŕo**|trait of, property|attribute trait|
-|**oŕu**|essence of, essential nature|attribute essence|
+|**obra**|tastelessly, without taste|gustatory-none|
+|**obre**|barely tasting, faint flavor|gustatory-faint|
+|**obri**|tasting, by taste|gustatory-normal|
+|**obro**|clearly tasting|gustatory-clear|
+|**obru**|intensely tasting, strong flavor|gustatory-intense|
 
 ---
 
-### **UŘ- Series — Origin & Source**
+### **UBR- Series — Olfactory Perception**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uŕa**|originating from, derived|origin from|
-|**uŕe**|sourced from, coming from|origin sourced|
-|**uŕi**|descended from, lineage|origin descended|
-|**uŕo**|inherited from, passed down|origin inherited|
-|**uŕu**|rooted in, fundamentally from|origin rooted|
+|**ubra**|without smell, odorless|olfactory-none|
+|**ubre**|faintly smelling, weak odor|olfactory-faint|
+|**ubri**|smelling, by smell|olfactory-normal|
+|**ubro**|clearly smelling|olfactory-clear|
+|**ubru**|strongly smelling, pungent|olfactory-strong|
 
 ---
 
-## **Family Č — Cognition/Mental**
+## 📋 EC TR — Movement/Direction
 
-**Function:** Marks cognitive processes, mental states, and intellectual operations
+**Function:** Expanded movement and directional dynamics
 
 ---
 
-### **AČ- Series — Knowledge & Awareness**
+### **ATR- Series — Vertical Movement**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ača**|knowing, aware of|cognition knowing|
-|**ače**|understanding, comprehending|cognition understanding|
-|**ači**|recognizing, identifying|cognition recognizing|
-|**ačo**|realizing, becoming aware|cognition realizing|
-|**aču**|fully grasping, complete understanding|cognition grasping|
+|**atra**|descending rapidly, plummeting|vertical-descending-fast|
+|**atre**|descending, going down|vertical-descending|
+|**atri**|level, horizontal|vertical-level|
+|**atro**|ascending, going up|vertical-ascending|
+|**atru**|ascending rapidly, soaring|vertical-ascending-fast|
 
 ---
 
-### **EČ- Series — Thinking & Processing**
+### **ETR- Series — Linear Movement**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eča**|thinking about, considering|mental-process thinking|
-|**eče**|pondering, reflecting|mental-process pondering|
-|**eči**|reasoning, logical thinking|mental-process reasoning|
-|**ečo**|analyzing, examining|mental-process analyzing|
-|**eču**|contemplating deeply, meditating|mental-process contemplating|
+|**etra**|retreating, moving back|linear-backward|
+|**etre**|slowing, decelerating|linear-slowing|
+|**etri**|maintaining, steady|linear-steady|
+|**etro**|advancing, moving forward|linear-forward|
+|**etru**|accelerating, speeding up|linear-accelerating|
 
 ---
 
-### **IČ- Series — Memory & Recall**
+### **ITR- Series — Rotational Movement**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iča**|remembering, recalling|memory remembering|
-|**iče**|memorizing, committing to memory|memory memorizing|
-|**iči**|retaining, keeping in mind|memory retaining|
-|**ičo**|recollecting, bringing to mind|memory recollecting|
-|**iču**|never forgetting, indelible memory|memory indelible|
+|**itra**|counter-rotating, reverse spin|rotation-counter|
+|**itre**|slowly rotating|rotation-slow|
+|**itri**|rotating, spinning|rotation-normal|
+|**itro**|rapidly rotating|rotation-fast|
+|**itru**|whirling, spinning wildly|rotation-whirling|
 
 ---
 
-### **OČ- Series — Understanding & Comprehension**
+### **OTR- Series — Trajectory Type**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oča**|barely understanding, confused|comprehension minimal|
-|**oče**|partially understanding, grasping some|comprehension partial|
-|**oči**|understanding well, clear comprehension|comprehension clear|
-|**očo**|fully understanding, complete grasp|comprehension full|
-|**oču**|deeply understanding, profound insight|comprehension profound|
+|**otra**|erratically, chaotically|trajectory-erratic|
+|**otre**|curved, arcing|trajectory-curved|
+|**otri**|straight, direct|trajectory-straight|
+|**otro**|spiraling, helical|trajectory-spiral|
+|**otru**|oscillating, back-and-forth|trajectory-oscillating|
 
 ---
 
-### **UČ- Series — Attention & Focus**
+### **UTR- Series — Speed of Movement**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uča**|distracted, unfocused|attention distracted|
-|**uče**|somewhat attentive, partially focused|attention partial|
-|**uči**|attentive, paying attention|attention attentive|
-|**učo**|concentrating, focused|attention concentrated|
-|**uču**|intensely focused, total concentration|attention intense|
-
----
-
-## **Family Ž — Quantity/Amount**
-
-**Function:** Marks quantity, amount, and numerical degree (non-numeral)
-
----
-
-### **AŽ- Series — Quantity Level**
-
-| VCV     | Meaning               | Category         |
-| ------- | --------------------- | ---------------- |
-| **aža** | none, zero            | quantity zero    |
-| **aže** | very few, hardly any  | quantity minimal |
-| **aži** | few, small number     | quantity few     |
-| **ažo** | some, moderate amount | quantity some    |
-| **ažu** | many, numerous        | quantity many    |
-
----
-
-### **EŽ- Series — Amount Level**
-
-| VCV     | Meaning            | Category       |
-| ------- | ------------------ | -------------- |
-| **eža** | nothing, empty     | amount none    |
-| **eže** | a bit, a little    | amount little  |
-| **eži** | part of, portion   | amount partial |
-| **ežo** | much, considerable | amount much    |
-| **ežu** | all, everything    | amount all     |
-
----
-
-### **IŽ- Series — Adequacy Level**
-
-| VCV     | Meaning                  | Category              |
-| ------- | ------------------------ | --------------------- |
-| **iža** | insufficient, too little | adequacy insufficient |
-| **iže** | barely enough, scant     | adequacy barely       |
-| **iži** | enough, sufficient       | adequacy sufficient   |
-| **ižo** | more than enough, ample  | adequacy ample        |
-| **ižu** | excessive, too much      | adequacy excessive    |
-
----
-
-### **OŽ- Series — Distribution Type**
-
-| VCV     | Meaning                 | Category                  |
-| ------- | ----------------------- | ------------------------- |
-| **oža** | sparse, scattered       | distribution sparse       |
-| **ože** | scattered, spread out   | distribution scattered    |
-| **oži** | distributed evenly      | distribution even         |
-| **ožo** | concentrated, clustered | distribution concentrated |
-| **ožu** | dense, packed           | distribution dense        |
-
----
-
-### **UŽ- Series — Proportion Level**
-
-| VCV     | Meaning                     | Category               |
-| ------- | --------------------------- | ---------------------- |
-| **uža** | nearly none, almost empty   | proportion nearly-none |
-| **uže** | minority, less than half    | proportion minority    |
-| **uži** | half, equal parts           | proportion half        |
-| **užo** | majority, more than half    | proportion majority    |
-| **užu** | nearly all, almost complete | proportion nearly-all  |
-
----
-# 📄 FAMÍLIA J̌ — Causality/Agency
+|**utra**|motionless, still|speed-none|
+|**utre**|slowly moving, crawling|speed-slow|
+|**utri**|moderately moving|speed-moderate|
+|**utro**|quickly moving, rushing|speed-fast|
+|**utru**|instantaneously, flashing|speed-instant|
 
 ---
 
-## **Family J̌ — Causality/Agency**
+## 📋 EC DR — Existence/Reality
 
-**Function:** Marks causal relationships, agency, and cause-effect connections
+**Function:** Expanded existence and ontological status
 
 ---
 
-### **Aǰ- Series — Cause & Source**
+### **ADR- Series — Ontological Status**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aǰa**|caused by, due to|causality caused|
-|**aǰe**|resulting from, as result of|causality resulting|
-|**aǰi**|because of, on account of|causality because|
-|**aǰo**|stemming from, arising from|causality stemming|
-|**aǰu**|originating in, root cause|causality originating|
+|**adra**|non-existent, absent|existence-none|
+|**adre**|barely existing, trace|existence-trace|
+|**adri**|existing, present|existence-normal|
+|**adro**|substantially existing|existence-substantial|
+|**adru**|undeniably existing, concrete|existence-undeniable|
 
 ---
 
-### **Eǰ- Series — Effect & Result**
+### **EDR- Series — Reality vs Appearance**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eǰa**|leading to, causing|effect leading|
-|**eǰe**|producing, generating|effect producing|
-|**eǰi**|resulting in, yielding|effect resulting|
-|**eǰo**|bringing about, effecting|effect bringing|
-|**eǰu**|culminating in, final result|effect culminating|
+|**edra**|illusory, unreal|reality-illusion|
+|**edre**|seemingly, apparently|reality-apparent|
+|**edri**|actually, really|reality-actual|
+|**edro**|genuinely, authentically|reality-genuine|
+|**edru**|absolutely real, undeniable|reality-absolute|
 
 ---
 
-### **Iǰ- Series — Purpose & Goal**
+### **IDR- Series — Possibility of Existence**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iǰa**|for purpose of, in order to|purpose for|
-|**iǰe**|aiming at, targeting|purpose aiming|
-|**iǰi**|intending, with intention of|purpose intending|
-|**iǰo**|seeking, trying to achieve|purpose seeking|
-|**iǰu**|ultimately for, final purpose|purpose ultimate|
+|**idra**|impossible, cannot exist|possibility-impossible|
+|**idre**|unlikely to exist|possibility-unlikely|
+|**idri**|possibly existing|possibility-possible|
+|**idro**|probably existing|possibility-probable|
+|**idru**|necessarily existing, must be|possibility-necessary|
 
 ---
 
-### **Oǰ- Series — Means & Method**
+### **ODR- Series — Certainty of Reality**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oǰa**|by means of, using|means by|
-|**oǰe**|through, via|means through|
-|**oǰi**|with help of, by aid of|means with-help|
-|**oǰo**|by way of, by method of|means by-way|
-|**oǰu**|utilizing, making use of|means utilizing|
+|**odra**|doubtfully, uncertainly|certainty-doubtful|
+|**odre**|questionably|certainty-questionable|
+|**odri**|probably, likely|certainty-probable|
+|**odro**|certainly, definitely|certainty-certain|
+|**odru**|indisputably, undeniably|certainty-indisputable|
 
 ---
 
-### **Uǰ- Series — Agent & Actor**
+### **UDR- Series — Factuality**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uǰa**|by agent, performed by|agency by-agent|
-|**uǰe**|by actor, done by|agency by-actor|
-|**uǰi**|by doer, executed by|agency by-doer|
-|**uǰo**|by force, through force of|agency by-force|
-|**uǰu**|by power, through power of|agency by-power|
+|**udra**|fictional, made-up|factuality-fiction|
+|**udre**|hypothetical, supposing|factuality-hypothetical|
+|**udri**|factual, true|factuality-factual|
+|**udro**|verified, confirmed|factuality-verified|
+|**udru**|proven, established|factuality-proven|
 
 ---
 
-## **Family Ñ — Manner/Mode**
+## 📋 EC KR — Possession/Belonging
 
-**Function:** Marks manner of execution, mode of action, and stylistic approach
+**Function:** Expanded possession and belonging
 
 ---
 
-### **AÑ- Series — Style & Approach**
+### **AKR- Series — Ownership**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aña**|in crude style, roughly|style crude|
-|**añe**|in simple style, plainly|style simple|
-|**añi**|in normal style, standardly|style normal|
-|**año**|in refined style, elegantly|style refined|
-|**añu**|in sophisticated style, artfully|style sophisticated|
+|**akra**|not owned, ownerless|ownership-none|
+|**akre**|loosely owned, tenuous|ownership-loose|
+|**akri**|owned, possessed|ownership-normal|
+|**akro**|firmly owned|ownership-firm|
+|**akru**|exclusively owned, sole possession|ownership-exclusive|
 
 ---
 
-### **EÑ- Series — Speed & Pace**
+### **EKR- Series — Control**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eña**|hastily, in rushed manner|pace hasty|
-|**eñe**|quickly, at fast pace|pace quick|
-|**eñi**|at normal pace, regularly|pace normal|
-|**eño**|slowly, deliberately|pace slow|
-|**eñu**|painstakingly, very slowly|pace painstaking|
+|**ekra**|uncontrolled, free|control-none|
+|**ekre**|loosely controlled|control-loose|
+|**ekri**|controlled, managed|control-normal|
+|**ekro**|tightly controlled|control-tight|
+|**ekru**|absolutely controlled, dominated|control-absolute|
 
 ---
 
-### **IÑ- Series — Care & Attention**
+### **IKR- Series — Belonging**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iña**|carelessly, negligently|care careless|
-|**iñe**|casually, without much care|care casual|
-|**iñi**|with normal care, adequately|care normal|
-|**iño**|carefully, attentively|care careful|
-|**iñu**|meticulously, with great care|care meticulous|
+|**ikra**|not belonging, foreign|belonging-none|
+|**ikre**|loosely belonging|belonging-loose|
+|**ikri**|belonging to, part of|belonging-normal|
+|**ikro**|firmly belonging|belonging-firm|
+|**ikru**|inherently belonging, intrinsic|belonging-inherent|
 
 ---
 
-### **OÑ- Series — Skill & Competence**
+### **OKR- Series — Rights/Claims**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oña**|clumsily, ineptly|skill clumsy|
-|**oñe**|amateurishly, inexpertly|skill amateur|
-|**oñi**|competently, adequately|skill competent|
-|**oño**|skillfully, expertly|skill skillful|
-|**oñu**|masterfully, with mastery|skill masterful|
+|**okra**|no right, no claim|rights-none|
+|**okre**|weak claim|rights-weak|
+|**okri**|rightful claim, entitled|rights-normal|
+|**okro**|strong claim|rights-strong|
+|**okru**|absolute right, inalienable|rights-absolute|
 
 ---
 
-### **UÑ- Series — Effort & Exertion**
+### **UKR- Series — Acquisition**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uña**|effortlessly, with no effort|effort effortless|
-|**uñe**|with little effort, easily|effort little|
-|**uñi**|with normal effort|effort normal|
-|**uño**|with great effort, strenuously|effort great|
-|**uñu**|with maximum effort, exhaustingly|effort maximum|
+|**ukra**|losing, giving up|acquisition-losing|
+|**ukre**|temporarily having|acquisition-temporary|
+|**ukri**|acquiring, obtaining|acquisition-normal|
+|**ukro**|gaining permanently|acquisition-permanent|
+|**ukru**|inheriting, receiving by right|acquisition-inheriting|
 
 ---
 
-## **Family C — Movement/Direction**
+## 📋 EC GR — Intensity/Degree
 
-**Function:** Marks movement, direction, and dynamics of displacement
+**Function:** Expanded intensity and gradation
 
 ---
 
-### **AC- Series — Linear Movement**
+### **AGR- Series — Intensity Level**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**aca**|in straight line, directly|movement linear-straight|
-|**ace**|in curved path, arcing|movement curved|
-|**aci**|in zigzag, back-and-forth|movement zigzag|
-|**aco**|in spiral, spiraling|movement spiral|
-|**acu**|in meandering path, wandering|movement meandering|
+|**agra**|no intensity, absent|intensity-none|
+|**agre**|low intensity, weak|intensity-low|
+|**agri**|moderate intensity, normal|intensity-moderate|
+|**agro**|high intensity, strong|intensity-high|
+|**agru**|extreme intensity, overwhelming|intensity-extreme|
 
 ---
 
-### **EC- Series — Approach & Departure**
+### **EGR- Series — Degree of Sufficiency**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eca**|approaching, coming toward|direction approach|
-|**ece**|nearing, getting closer|direction nearing|
-|**eci**|passing by, going past|direction passing|
-|**eco**|departing, going away|direction departing|
-|**ecu**|retreating, moving back|direction retreating|
+|**egra**|insufficient, too little|sufficiency-insufficient|
+|**egre**|barely sufficient|sufficiency-barely|
+|**egri**|sufficient, adequate|sufficiency-adequate|
+|**egro**|more than sufficient|sufficiency-more|
+|**egru**|excessive, too much|sufficiency-excessive|
 
 ---
 
-### **IC- Series — Rotation & Circular**
+### **IGR- Series — Force/Strength**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ica**|rotating, spinning|movement rotating|
-|**ice**|revolving, going around|movement revolving|
-|**ici**|circling, moving in circle|movement circling|
-|**ico**|orbiting, in orbital path|movement orbiting|
-|**icu**|spiraling, in spiral motion|movement spiraling|
+|**igra**|no force, powerless|force-none|
+|**igre**|weak force, gentle|force-weak|
+|**igri**|normal force, moderate|force-normal|
+|**igro**|strong force, powerful|force-strong|
+|**igru**|maximum force, overwhelming|force-maximum|
 
 ---
 
-### **OC- Series — Vertical Movement**
+### **OGR- Series — Completeness**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oca**|descending, going down|direction descending|
-|**oce**|lowering, moving downward|direction lowering|
-|**oci**|level, horizontal movement|direction level|
-|**oco**|rising, moving upward|direction rising|
-|**ocu**|ascending, going up|direction ascending|
+|**ogra**|incomplete, fragmentary|completeness-incomplete|
+|**ogre**|partially complete|completeness-partial|
+|**ogri**|complete, whole|completeness-complete|
+|**ogro**|thoroughly complete|completeness-thorough|
+|**ogru**|absolutely complete, total|completeness-absolute|
 
 ---
 
-### **UC- Series — Flight & Elevation**
+### **UGR- Series — Extent/Scope**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uca**|gliding, soaring smoothly|flight gliding|
-|**uce**|flying, in flight|flight flying|
-|**uci**|hovering, suspended|flight hovering|
-|**uco**|floating, drifting|flight floating|
-|**ucu**|soaring, flying high|flight soaring|
+|**ugra**|minimal extent, narrow scope|extent-minimal|
+|**ugre**|limited extent|extent-limited|
+|**ugri**|moderate extent, normal scope|extent-moderate|
+|**ugro**|broad extent, wide scope|extent-broad|
+|**ugru**|maximum extent, universal scope|extent-maximum|
 
 ---
 
-## **Family X — Existence/Reality**
+## 📋 EC PL — Intention/Volition
 
-**Function:** Marks degrees of existence, reality, and ontological status
+**Function:** Expanded intention and volitional states
 
 ---
 
-### **AX- Series — Presence & Absence**
+### **APL- Series — Desire/Want**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**axa**|absent, not present|presence absent|
-|**axe**|barely present, trace|presence barely|
-|**axi**|present, existing|presence present|
-|**axo**|fully present, manifest|presence manifest|
-|**axu**|ubiquitous, present everywhere|presence ubiquitous|
+|**apla**|not wanting, averse|desire-averse|
+|**aple**|indifferent, not caring|desire-indifferent|
+|**apli**|wanting, desiring|desire-wanting|
+|**aplo**|strongly wanting, craving|desire-craving|
+|**aplu**|desperately wanting, needing|desire-desperate|
 
 ---
 
-### **EX- Series — Reality & Actuality**
+### **EPL- Series — Decision/Choice**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**exa**|imaginary, not real|reality imaginary|
-|**exe**|virtual, simulated|reality virtual|
-|**exi**|real, actual|reality real|
-|**exo**|tangible, concrete|reality tangible|
-|**exu**|undeniably real, solid|reality undeniable|
+|**epla**|refusing, rejecting|decision-refuse|
+|**eple**|undecided, hesitant|decision-undecided|
+|**epli**|deciding, choosing|decision-normal|
+|**eplo**|firmly decided|decision-firm|
+|**eplu**|absolutely decided, resolute|decision-resolute|
 
 ---
 
-### **IX- Series — Truth & Factuality**
+### **IPL- Series — Willingness**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**ixa**|fictional, made-up|truth fictional|
-|**ixe**|hypothetical, supposed|truth hypothetical|
-|**ixi**|factual, based on fact|truth factual|
-|**ixo**|verified, confirmed true|truth verified|
-|**ixu**|indisputable, absolutely true|truth indisputable|
+|**ipla**|unwilling, reluctant|willingness-unwilling|
+|**iple**|barely willing|willingness-barely|
+|**ipli**|willing, ready|willingness-willing|
+|**iplo**|eager, enthusiastic|willingness-eager|
+|**iplu**|zealous, fervent|willingness-zealous|
 
 ---
 
-### **OX- Series — Certainty & Actuality**
+### **OPL- Series — Attempt/Effort**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oxa**|uncertain, doubtful|certainty uncertain|
-|**oxe**|probable, likely|certainty probable|
-|**oxi**|certain, sure|certainty certain|
-|**oxo**|definite, confirmed|certainty definite|
-|**oxu**|absolute, without doubt|certainty absolute|
+|**opla**|refusing to try, giving up|attempt-refuse|
+|**ople**|half-heartedly trying|attempt-halfhearted|
+|**opli**|trying, attempting|attempt-normal|
+|**oplo**|striving, making effort|attempt-striving|
+|**oplu**|straining, maximum effort|attempt-maximum|
 
 ---
 
-### **UX- Series — Possibility & Potentiality**
+### **UPL- Series — Commitment/Determination**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uxa**|impossible, cannot be|possibility impossible|
-|**uxe**|unlikely, improbable|possibility unlikely|
-|**uxi**|possible, can be|possibility possible|
-|**uxo**|likely, probable|possibility likely|
-|**uxu**|inevitable, must be|possibility inevitable|
+|**upla**|uncommitted, wavering|commitment-none|
+|**uple**|weakly committed|commitment-weak|
+|**upli**|committed, determined|commitment-normal|
+|**uplo**|strongly committed|commitment-strong|
+|**uplu**|absolutely committed, dedicated|commitment-absolute|
 
 ---
 
-## **Family Z — Intention/Volition**
+## ✅ SYSTEM VCV COMPLETE
 
-**Function:** Marks intentionality, volition, will, and purposefulness
-
----
-
-### **AZ- Series — Desire & Wanting**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**aza**|not wanting, averse|desire averse|
-|**aze**|indifferent, not caring|desire indifferent|
-|**azi**|wanting, desiring|desire wanting|
-|**azo**|strongly desiring, craving|desire strong|
-|**azu**|desperately wanting, needing|desire desperate|
+**Total:** 27 families × 25 particles = **675 VCV particles**
 
 ---
 
-### **EZ- Series — Decision & Choice**
+### **Final Summary:**
 
-|VCV|Meaning|Category|
+|Category|Families|VCV Particles|
 |---|---|---|
-|**eza**|undecided, hesitant|decision undecided|
-|**eze**|considering, deliberating|decision considering|
-|**ezi**|deciding, choosing|decision deciding|
-|**ezo**|determined, resolved|decision determined|
-|**ezu**|firmly decided, resolute|decision resolute|
+|**Base Consonants**|20|500 (20×25)|
+|**Defined ECs**|7|175 (7×25)|
+|**Open ECs**|3|75 slots reserved|
+|**CURRENT TOTAL**|**27**|**675**|
+|**POTENTIAL TOTAL**|**30**|**750**|
 
 ---
 
-### **IZ- Series — Will & Determination**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**iza**|unwilling, reluctant|will unwilling|
-|**ize**|half-hearted, lukewarm|will half-hearted|
-|**izi**|willing, ready|will willing|
-|**izo**|eager, enthusiastic|will eager|
-|**izu**|zealous, fervent|will zealous|
+**File:** `02-grammar-vcv.md`  
+**Version:** 0.6.0  
+**Status:** ✅ Complete (20 base consonants + 7 defined ECs + 3 reserved slots)
 
 ---
 
-### **OZ- Series — Agreement & Consent**
+## 📐 **Special Notes:**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**oza**|refusing, rejecting|agreement refusing|
-|**oze**|reluctantly accepting|agreement reluctant|
-|**ozi**|agreeing, consenting|agreement agreeing|
-|**ozo**|readily agreeing, accepting|agreement readily|
-|**ozu**|enthusiastically agreeing|agreement enthusiastic|
+**3D Spatial Coordinate System:**
 
----
+- **X, Y, Z** form an integrated Cartesian coordinate system
+- Complete spatial words use three syllables: `[X-vowel] + [Y-vowel] + [Z-vowel]`
+- Examples: **xiyizi** (0,0,0), **xayaza** (+,+,+), **xuyuzu** (−,−,−)
 
-### **UZ- Series — Permission & Authorization**
+**Gradation Exceptions:**
 
-|VCV|Meaning|Category|
-|---|---|---|
-|**uza**|forbidden, prohibited|permission forbidden|
-|**uze**|discouraged, not recommended|permission discouraged|
-|**uzi**|allowed, permitted|permission allowed|
-|**uzo**|encouraged, recommended|permission encouraged|
-|**uzu**|mandated, required|permission mandated|
+- **Family W (Emotion):** a=positive → u=negative
+- **Families X, Y, Z (Spatial):** a=maximum → u=minimum
 
 ---
 

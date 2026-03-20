@@ -1,5 +1,7 @@
 # Universal Declaration of Human Rights
 
+(Outdated, redo)
+
 **In the Universal Ontological Language**
 
 ---

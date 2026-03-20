@@ -1,315 +1,374 @@
-# Universal Ontological Language
+# 🌐 Conlang Project — Version 0.6.0
 
-**We solved the 400-year problem**
-
-[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Version](https://img.shields.io/badge/version-0.5.0--dev-blue.svg)](https://github.com/rogerdafonseca-hub/conlang-ontological/releases)
-[![Status](https://img.shields.io/badge/status-breakthrough-green.svg)](https://github.com/rogerdafonseca-hub/conlang-ontological)
+**A Systematic Constructed Language with Ontological Organization**
 
 ---
 
-## 🏆 The Breakthrough
+## 📖 Overview
 
-Since 1668, linguists tried to create systematic vocabulary for objects.
+This is a highly systematic constructed language (conlang) designed with three integrated grammatical layers and an ontologically organized nominal lexicon. The language prioritizes logical structure, semantic productivity, and systematic gradation.
 
-**John Wilkins (1668):** Too complex — 40 categories, nobody could use it  
-**Esperanto (1887):** Gave up — borrowed "hundo" from Germanic  
-**Lojban (1987):** Invented "gerku" — still arbitrary  
-**Toki Pona (2001):** 120 fixed words — can't grow
-
-**Every constructed language until now:** Systematic grammar ✅ | Arbitrary vocabulary ❌
+**Current Status:** v0.6.0 — Complete grammatical foundation with 675 base nominal words
 
 ---
 
-**This language (2026):**
+## 🎯 Core Design Principles
 
-# Zero arbitrary words. All systematic.
+### **1. Three-Layer Grammar System**
 
-Every noun — from "stone" to "spacecraft" — is logically derived.
+- **CV Layer** (100 particles): Basic grammatical functions
+- **VC Layer** (100 particles): Extended grammatical functions  
+- **VCV Layer** (675 particles): Nuanced grammatical expressions
 
----
+### **2. Ontological Lexicon**
 
-## 💡 The Innovation
+- **27 domains**: 20 base consonants + 7 consonant clusters
+- **675 base words**: Systematically derived from domains
+- **81,000+ potential words**: Through 24 functional modifiers
 
-**Progressive depth. You choose when to stop.**
+### **3. Systematic Gradation**
 
-**2 syllables** → Like Toki Pona (simple, works)  
-**3 syllables** → Standard vocabulary (90% of use)  
-**4+ syllables** → Technical precision (when needed)
-
-**Example:**
-```
-pu = object
-puka = stone  
-pukama = large rock
-pukamava = sedimentary formation
-```
-
-Learn patterns once. Generate millions of words.
+- **Vowel-based progression**: a → e → i → o → u
+- **Consistent semantics**: Each vowel position carries systematic meaning
+- **Predictable patterns**: Learnable through understanding the system
 
 ---
 
-## 🎯 Why This Changes Everything
+## 📚 Documentation Structure
 
-### 1. Scalable Simplicity
+### **Grammar Files**
 
-Start simple. Go deep only if you want.
+1. **`05-grammar-cv-vc.md`** — CV & VC Particles (200 particles)
+   - 20 base consonant families
+   - 7 defined consonant cluster families
+   - Complete with examples and usage
 
-**Basic user:** 2-syllable words — communicate like Toki Pona  
-**Standard user:** 3-syllable words — full daily vocabulary  
-**Expert user:** 4+ syllables — scientific precision
+2. **`06-basics-vcv.md`** — VCV Expanded Grammar (675 particles)
+   - 27 families × 25 particles each
+   - Nuanced grammatical expressions
+   - Spatial coordinate system (X, Y, Z)
 
-Most people stop early. The depth is there if you need it.
+### **Lexicon Files**
 
-### 2. Pattern Recognition > Memorization
+3. **`09-lexicon-nominal-matrix.md`** — Nominal Lexicon System
+   - 27 ontological domains
+   - 675 CVCV base words
+   - 24 functional modifiers
+   - Real examples and applications
 
-**Traditional languages:**
+4. **`nominal-lexicon.md`** — Complete Domain Matrix
+   - All 675 words documented
+   - Organized by domain
+   - Semantic gradation patterns
+
+---
+
+## 🔧 System Architecture
+
+### **Phonology**
+
+**20 Base Consonants:**
 ```
-Memorize: dog, cat, horse, cow, pig...
-(infinite arbitrary words)
-```
-
-**This language:**
-```
-Learn pattern:
-pu- = object domain
--li- = sharp/cutting
--ka/-ke/-ki = variants
-
-Deduce:
-pulika = knife
-pulike = scissors  
-puliki = saw
+B /b/  M /m/  T /t/  K /k/  P /p/
+N /n/  D /d/  L /l/  V /v/  G /g/
+R /ɾ/  F /f/  H /h/  S /s/  J̌ /dʒ/
+W /w/  X /ʃ/  Y /ʒ/  Z /z/  Ľ /ʎ/
 ```
 
-300 patterns → 244 million words.
-
-### 3. One System, All Scales
-
-**Casual conversation:**
+**10 Consonant Clusters (ECs):**
 ```
-ba evi puka
-I take stone
+Defined (7): PR /pɾ/, BR /bɾ/, TR /tɾ/, DR /dɾ/, KR /kɾ/, GR /gɾ/, PL /pl/
+Reserved (3): BL /bl/, KL /kl/, GL /gl/
 ```
 
-**Technical description:**
+**5 Vowels:**
 ```
-ba čo upika
-I study [mineral-solid-substance]
-```
-
-Same grammar. Adjustable precision.
-
----
-
-## 📊 The Complete System
-
-**Layer 1: Grammar** — 250 particles | Learn in 1 month  
-**Layer 2: Vocabulary** — 625 words | Learn in 6 months  
-**Layer 3: Nominal Lexicon** — 244M+ systematic words | Progressive depth 🆕  
-**Layer 4: Technical Vectors** — 390K scientific concepts | Optional reference
-
-**For fluency:** 875 resources (comparable to Basic English)  
-**For everything:** Infinite systematic expansion
-
----
-
-## 🌟 What Makes This Possible
-
-### We're Not Inventing from Scratch
-
-The language already has a complete ontological framework (vector system).
-
-Nominal lexicon = reusing proven ontology
-
-**Example:**
-```
-Vector: u-p = taxonomy/objects
-Nominal: pu- = object domain
-
-Perfect alignment.
+a /a/  e /e/  i /i/  o /o/  u /u/
 ```
 
-### Incremental Testing
+### **Grammar Layers**
 
-Build one domain → Test with users → Works? → Next domain
+#### **CV (Consonant-Vowel) — 135 particles**
+Basic grammatical functions:
+- Pronouns (B), Modals (M), Tense (T), Questions (K)
+- Prepositions (P), Quantity (N), Demonstratives (D)
+- Conjunctions (L), Actions (V), Aspect (G)
+- State (R), Comparison (F), Relations (H)
+- Boundaries (S), Causality (J̌), Emotion (W)
+- Evidentiality (Ľ), Spatial coordinates (X, Y, Z)
 
-If something fails, fix one piece. Not the whole system.
+#### **VC (Vowel-Consonant) — 135 particles**
+Extended grammatical functions:
+- Reflexives, reciprocals, emphasis
+- Negation, conditional, resultative
+- Complex spatial relations
+- Nuanced aspects and states
 
-### Historical Precedent
-
-Humans already master hierarchical naming:
-
-**Chemistry:** 2-methyl-butane (millions of compounds)  
-**Biology:** Homo sapiens (1.2M+ species)
-
-**Our system:** Systematic nomenclature for everything.
-
-If IUPAC works, this can work.
-
----
-
-## 🚀 Current Status
-
-**Version:** 0.5.0-dev (Breakthrough Phase)
-
-### Complete:
-✅ Grammar (250 particles)  
-✅ Core vocabulary (625 words)  
-✅ Nominal framework (244M capacity)  
-✅ Philosophical coherence
-
-### In Progress:
-🔄 Domain PU (Objects) — First complete prototype  
-🔄 Community testing with 5-10 learners  
-🔄 Validation: Can people deduce unseen words?
-
-### Next (v0.5.0 - June 2026):
-🎯 3 complete domains (PU, MA, YA)  
-🎯 Deduction exercises  
-🎯 Learning tools
-
-See: [Roadmap](news/roadmap.md)
+#### **VCV (Vowel-Consonant-Vowel) — 675 particles**
+Highly nuanced expressions:
+- 25 gradations per family
+- Systematic semantic progression
+- Context-specific meanings
 
 ---
 
-## 🧪 We're Testing, Not Assuming
+## 🗂️ Nominal Lexicon Organization
 
-This is science, not dogma.
+### **27 Ontological Domains**
 
-**Phase 1 (Now):** Prototype 1 domain. Test deduction. Get feedback.  
-**Phase 2 (2026):** Expand to 15 domains. 50+ testers.  
-**Phase 3 (2027):** Complete 125 domains. 1,000+ learners. Academic validation.
+| Domain | Consonant | Examples |
+|--------|-----------|----------|
+| **Substance/Matter** | P | gases, liquids, solids, granules, plasma |
+| **Communication** | B | speech, writing, gestures, sounds, symbols |
+| **Mind/Cognition** | M | thought, memory, understanding, attention |
+| **Time/Temporality** | T | durations, cycles, moments, phases |
+| **Social/Cultural** | K | people, relationships, groups, roles |
+| **Nature/Living** | N | plants, animals, processes, ecosystems |
+| **Structure/Form** | D | shapes, patterns, integrity, complexity |
+| **Light/Energy** | L | brightness, sources, heat, radiation |
+| **Life/Vitality** | V | health, vigor, growth, healing |
+| **Geography/Space** | G | landforms, water, territory, climate |
+| **Tool/Artifact** | R | tools, machines, weapons, containers |
+| **Food/Nutrition** | F | sources, types, meals, flavors |
+| **Dwelling/Shelter** | H | shelters, rooms, buildings, settlements |
+| **Quantity/Measure** | S | numbers, units, proportions, values |
+| **Motion/Movement** | J̌ | speed, paths, directions, journeys |
+| **Weather/Climate** | W | precipitation, wind, sky, temperature |
+| **Knowledge/Info** | Ľ | truth, depth, sources, methods |
 
-If testing reveals problems, we adjust.
-
----
-
-## 📚 Start Learning
-
-**New here? Start with:**
-
-🏠 [Welcome](community/welcome.md) — Feel at home, understand the vision  
-📖 [Philosophy](docs/01-philosophy.md) — Why this exists  
-🗺️ [Learning Path](community/learning-path.md) — How to learn (levels and timeline)  
-🏗️ [Structure](docs/04-structure.md) — What we discovered
-
-**Ready to dive deeper:**
-
-🔤 [Grammar](docs/05-grammar-cv-vc.md) — 250 particles  
-📝 [Vocabulary](docs/06-basics-vcv.md) — 625 essential words  
-🧬 [Nominal Lexicon](lexicon-and-foreign-words/09-lexicon-nominal-matrix.md) — The breakthrough system
-
-Full navigation: [Documentation Index](docs/00-index.md)
-
----
-
-## 🎯 How You Can Help
-
-**For Learners:**  
-Try learning the system. Test deduction exercises. Report what works.
-
-**For Linguists:**  
-Review nominal framework. Suggest refinements. Validate ontological mappings.
-
-**For Developers:**  
-Build learning tools. Create deduction practice apps. Develop visualizations.
-
-**For Everyone:**  
-⭐ Star this repo | Share with language enthusiasts | Join discussions
-
-This belongs to everyone. Public domain (CC0).
+**+ 7 Specialized Domains (ECs):**
+- Process/Method (PR), Sense/Perception (BR)
+- Transport/Vehicle (TR), Container/Vessel (DR)
+- Creation/Art (KR), Growth/Development (GR)
+- Plant/Vegetation (PL)
 
 ---
 
-## 🗺️ Roadmap
+## 🎨 Word Formation Examples
 
-**v0.5.0** (June 2026) — Domain Prototypes | 3 complete domains | Community testing
+### **Base Word Structure:**
+```
+[Domain][Subcategory][Optional: Extra Syllables][Modifier]
+  CV¹       CV²              CVⁿ                   CV(final)
+```
 
-**v0.6.0** (Sept 2026) — Expansion | 8 domains | Learning tools launched
+### **Example 1: Water**
+```
+pepi = liquid, normal density (base word)
 
-**v0.7.0** (Dec 2026) — Coverage | 15 domains (60%) | First textbook
+With modifiers:
+pepima = drop (magnitude-min)
+pepime = puddle (magnitude-small)
+pepimi = pond (magnitude-medium)
+pepimo = lake (magnitude-large)
+pepimu = ocean (magnitude-max)
 
-**v0.8.0** (March 2027) — Completion | 125 domains mapped | Mobile app
+pepiva = still water (movement-min)
+pepivi = stream (movement-normal)
+pepivu = waterfall (movement-max)
 
-**v1.0.0** (Sept 2027) — Production | 1,000+ learners | 100+ fluent speakers
+pepila = toxic water (quality-min)
+pepili = normal water (quality-normal)
+pepilu = pure water (quality-max)
+```
 
-See: [Complete Roadmap](news/roadmap.md)
+### **Example 2: Person**
+```
+kapi = adult (base word)
 
----
+With modifiers:
+kapima = dwarf (size-min)
+kapimi = normal adult (size-normal)
+kapimu = giant (size-max)
 
-## 🌍 The Vision
+kapila = villain (quality-min)
+kapili = normal person (quality-normal)
+kapilu = hero (quality-max)
+```
 
-By 2027, a fully functional language where:
+### **Example 3: Speech**
+```
+babi = standard speech (base word)
 
-✅ Every word is pattern-derived (no arbitrary vocabulary)  
-✅ Anyone can reach fluency in 6-9 months  
-✅ Precision scales from casual to scientific  
-✅ Humans and AI communicate equally well  
-✅ Thousands use it worldwide
+With modifiers:
+babipa = whisper (intensity-min)
+babipi = normal voice (intensity-normal)
+babipu = shout (intensity-max)
 
-A language that proves:
-
-Systematic design ≠ complexity  
-Logic ≠ coldness  
-Patterns ≠ rigidity  
-Innovation ≠ impracticality
-
-A language for humanity. Built together.
-
----
-
-## 💬 A Note from the Creator
-
-> "For months, I struggled: how do you name objects systematically?
->
-> Borrowing felt like giving up. Inventing broke the philosophy. Complex hierarchies were unusable.
->
-> Then I realized: what if depth is a choice?
->
-> 2 syllables for basic users. 3 for most people. 4+ for specialists.
->
-> Align with the vector system we already built.
->
-> Suddenly, everything clicked.
->
-> This isn't just a feature. It's the solution to a 400-year-old problem.
->
-> We're going to validate it, together, scientifically.
->
-> If it works — and I believe it will — we've created something truly new.
->
-> Join us. Let's make history."
->
-> — Roger da Fonseca, March 2026
+babipra = vulgar speech (manner-crude)
+babipri = standard speech (manner-normal)
+babipru = eloquent speech (manner-refined)
+```
 
 ---
 
-## 📞 Connect
+## 📊 System Statistics
 
-**GitHub:** [rogerdafonseca-hub/conlang-ontological](https://github.com/rogerdafonseca-hub/conlang-ontological)  
-**Issues:** [Report or suggest](https://github.com/rogerdafonseca-hub/conlang-ontological/issues)  
-**Discussions:** Coming in v0.5.0  
-**Discord:** Launching June 2026
+### **Current Vocabulary**
+- **Base words (CVCV):** 675
+- **Grammatical particles (CV+VC):** 270
+- **Expanded particles (VCV):** 675
+- **Total core vocabulary:** 1,620 items
 
----
-
-## ⭐ Join the Revolution
-
-This is the breakthrough moment.
-
-The problem is solved in theory. Now we prove it in practice.
-
-Star this repo. Join the testing. Be part of history.
-
-From 400 years of failure to systematic success.
-
-Welcome to the future of language.
+### **Theoretical Potential**
+- **With 24 modifiers × 5 vowels:** 81,000 words
+- **With 3-syllable expansion:** 500,000+ words
+- **Infinite productivity** through compounding
 
 ---
 
-*Version 0.5.0-dev — The Breakthrough*  
-*Last Updated: 2026-03-11*  
-*License: CC0 1.0 Universal (Public Domain)*
+## 🎯 Key Features
 
-**"244 million words. Zero arbitrary. All systematic."**
+### **✅ What the Language Has**
+
+- **Systematic gradation**: Predictable vowel progressions
+- **Ontological organization**: Logical semantic grouping
+- **Rich case system**: Via preposition particles
+- **Evidentiality**: Source of knowledge markers
+- **Aspectual system**: Complex verbal aspects
+- **Spatial precision**: 3D coordinate system (X, Y, Z)
+- **Modifier productivity**: 24 functional modifiers
+
+### **❌ What the Language Lacks (By Design)**
+
+- **Grammatical gender**: Genderless system
+- **Definite/indefinite articles**: Use demonstratives instead
+- **Animacy marking**: Not grammatically distinguished
+- **Irregular verbs**: All systematic
+- **Grammatical number on nouns**: Via particles or modifiers
+
+---
+
+## 🚀 Learning Path
+
+### **Basic Level (Months 1-6)**
+1. Learn 5 vowels and their systematic meanings
+2. Master 20 base consonants as domains
+3. Understand CV/VC particle system (270 items)
+4. Learn 50 most common CVCV words
+5. Practice basic modifier usage (M, L, V)
+
+### **Intermediate Level (Months 7-12)**
+1. Expand vocabulary to 200+ base words
+2. Master all 24 modifiers
+3. Learn VCV nuanced grammar
+4. Practice 3-syllable word formation
+5. Develop conversational fluency
+
+### **Advanced Level (Year 2+)**
+1. Master all 675 base words
+2. Explore VCV system depth (675 particles)
+3. Create neologisms systematically
+4. Develop literary/formal register
+5. Contribute to language development
+
+---
+
+## 📝 Grammatical Overview
+
+### **Word Order**
+- **Default:** Subject-Verb-Object (SVO)
+- **Flexible** with case marking via particles
+
+### **Cases (via VC particles after noun)**
+```
+pa = allative (to/toward)
+pe = perlative (through)
+pi = locative (in/at/on)
+po = ablative (from)
+pu = comitative (with)
+```
+
+### **Tense (CV particles)**
+```
+ta = past
+ti = present
+tu = future
+te = progressive
+to = perfect
+```
+
+### **Comparison (CV particles)**
+```
+fo = more, -er (comparative)
+fu = most, -est (superlative)
+fa = equal to, as...as
+```
+
+### **Questions (CV particles)**
+```
+ka = what?
+ke = who?
+ki = where?
+ko = when?
+ku = why?
+```
+
+---
+
+## 🔄 Version History
+
+### **v0.6.0 (Current)** — March 2026
+- Complete restructuring of consonant system
+- X, Y, Z now exclusively spatial coordinates
+- Intensity/Degree → GR (EC)
+- Intention/Volition → PL (EC)
+- 675 base CVCV words documented
+- All 27 domains fully developed
+- Modifier system finalized (24 modifiers)
+
+### **v0.5.x** — Previous iterations
+- Initial VCV development
+- Vector-based experimental systems
+- Domain experimentation
+
+---
+
+## 🛠️ Tools & Resources
+
+### **Available Documentation**
+- Grammar reference (CV, VC, VCV)
+- Nominal lexicon matrix
+- Complete domain listings
+- Example sentences (in development)
+
+### **Planned Resources**
+- Dictionary (searchable)
+- Phrasebook
+- Grammar drills
+- Audio pronunciation guide
+- Anki flashcard decks
+
+---
+
+## 🤝 Contributing
+
+This is a personal conlang project currently in active development. 
+
+**Areas for future development:**
+- Verbal conjugation patterns
+- Derivational morphology
+- Compound word rules
+- Idiomatic expressions
+- Literary corpus development
+
+---
+
+## 📜 License
+
+Personal project — Documentation available for educational purposes.
+
+---
+
+## 📧 Contact
+
+Project maintained by Roger (Passo Fundo, RS, Brazil)
+
+---
+
+**Last Updated:** March 19, 2026  
+**Version:** 0.6.0  
+**Status:** Active Development — Grammar Complete, Vocabulary Expanding
+
+---
+
