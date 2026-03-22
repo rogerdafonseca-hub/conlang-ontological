@@ -75,7 +75,7 @@ This is a highly systematic constructed language (conlang) designed with three i
    - 24 functional modifiers
    - Real examples and applications
 
-4. **[`nominal-lexicon.md`](/conlang-ontological/nominal-lexicon.md)** — Complete Domain Matrix
+4. **[`nominal-lexicon.md`](/lexicon-and-foreign-words/nominal-lexicon.md)** — Complete Domain Matrix
    - All base words documented (in restructuring for v0.6.5)
    - Organized by domain
    - Semantic gradation patterns
