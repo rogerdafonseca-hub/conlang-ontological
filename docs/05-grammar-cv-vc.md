@@ -518,10 +518,10 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 | Particle | Function          | Distance               |
 | --------- | --------------- | ----------------------- |
-| **da**    | the same        | The same                 |
-| **de**    | such, like this | Such, thus              |
-| **di**    | this (proximal) | This (near speaker) |
-| **do**    | that (medial)   | That (near listener) |
+| **da**    | this (proximal) | This (near speaker) |
+| **de**    | the same        | The same                 |
+| **di**    | that (medial)   | That (near listener) |
+| **do**    | such, like this | Such, thus              |
 | **du**    | that (distal)   | That (far from both) |
 
 ---
@@ -530,10 +530,10 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 | Particle | Function           | Relation to CV     |
 | --------- | ---------------- | ------------------ |
-| **ad**    | exactly the same | Exactly the same |
-| **ed**    | precisely such   | Precisely such   |
-| **id**    | this one here    | This here (emphasis) |
-| **od**    | that one there   | That there (emphasis)   |
+| **ad**    | this one here    | This here (emphasis) |
+| **ed**    | exactly the same | Exactly the same |
+| **id**    | that one there   | That there (emphasis)   |
+| **od**    | precisely such   | Precisely such   |
 | **ud**    | that one yonder  | That yonder (emphasis) |
 
 ---
