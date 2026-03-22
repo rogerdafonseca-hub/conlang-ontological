@@ -184,8 +184,8 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Question|
 |---|---|---|
-|**ka**|what?|What?|
-|**ke**|who?|Who?|
+|**ka**|who?|Who?|
+|**ke**|what?|What?|
 |**ki**|where?|Where?|
 |**ko**|when?|When?|
 |**ku**|why?|Why?|
@@ -196,8 +196,8 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Relation to CV|
 |---|---|---|
-|**ak**|which? what kind?|What type?|
-|**ek**|whose?|Whose?|
+|**ak**|whose?|Whose?|
+|**ek**|which? what kind?|What type?|
 |**ik**|how?|How?|
 |**ok**|how much? how many?|How much?|
 |**uk**|whether, if|If (interrogative)|
