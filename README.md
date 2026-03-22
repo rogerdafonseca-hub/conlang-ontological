@@ -57,7 +57,7 @@ This is a highly systematic constructed language (conlang) designed with three i
 
 ### **Core Grammar Files**
 
-1. **[`05-grammar-cv-vc.md`](05-grammar-cv-vc.md)** — CV & VC Particles (270 particles)
+1. **[`05-grammar-cv-vc.md`](/docs/05-grammar-cv-vc.md)** — CV & VC Particles (270 particles)
    - 20 base consonant families
    - 7 defined consonant cluster families
    - Complete with examples and usage
