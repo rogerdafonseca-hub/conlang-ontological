@@ -232,9 +232,9 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 |---|---|---|
 |**ab**|self (1st person)|Reflexive of ba|
 |**eb**|self (2nd person)|Reflexive of be|
-|**ib**|self (2nd person)|Reflexive of bi|
+|**ib**|self (3nd person)|Reflexive of bi|
 |**ob**|collective self|Reflexive of bo|
-|**ub**| Reciprocal (applies to plural CV forms)|Reciprocal|
+|**ub**|Reciprocal (applies to plural CV forms)|Reciprocal|
 
 ---
 
