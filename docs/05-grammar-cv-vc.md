@@ -216,9 +216,13 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 |---|---|---|
 |**ba**|I, me|1st person singular|
 |**be**|you|2nd person singular|
-|**bi**|he/she/they|3rd person singular|
-|**bo**|we|1st person plural|
-|**bu**|you all, they|2nd/3rd person plural|
+|**bi**|he/she|3rd person singular|
+|**bo**|group|they|
+|**boa**|group with me|they with me|
+|**boe**|group with you|they with you|
+|**boi**|group with one specific person|they with him|
+|**bou**|undefined group|undefined they there|
+|**bu**|all|everyone|
 
 ---
 
@@ -226,11 +230,11 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Relation to CV|
 |---|---|---|
-|**ab**|myself|Reflexive of ba|
-|**eb**|yourself|Reflexive of be|
-|**ib**|oneself, themselves|Reflexive of bi|
-|**ob**|ourselves|Reflexive of bo|
-|**ub**|each other|Reciprocal|
+|**ab**|self (1st person)|Reflexive of ba|
+|**eb**|self (2nd person)|Reflexive of be|
+|**ib**|self (2nd person)|Reflexive of bi|
+|**ob**|collective self|Reflexive of bo|
+|**ub**| Reciprocal (applies to plural CV forms)|Reciprocal|
 
 ---
 
