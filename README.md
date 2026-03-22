@@ -69,13 +69,13 @@ This is a highly systematic constructed language (conlang) designed with three i
 
 ### **Lexicon Files**
 
-3. **[`09-lexicon-nominal-matrix.md`](09-lexicon-nominal-matrix.md)** — Nominal Lexicon System
+3. **[`09-lexicon-nominal-matrix.md`](/docs/09-lexicon-nominal-matrix.md)** — Nominal Lexicon System
    - 27 ontological domains
    - Word formation rules
    - 24 functional modifiers
    - Real examples and applications
 
-4. **[`nominal-lexicon.md`](nominal-lexicon.md)** — Complete Domain Matrix
+4. **[`nominal-lexicon.md`](/docs/nominal-lexicon.md)** — Complete Domain Matrix
    - All base words documented (in restructuring for v0.6.5)
    - Organized by domain
    - Semantic gradation patterns
