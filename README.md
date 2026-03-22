@@ -62,7 +62,7 @@ This is a highly systematic constructed language (conlang) designed with three i
    - 7 defined consonant cluster families
    - Complete with examples and usage
 
-2. **[`06-basics-vcv.md`](06-basics-vcv.md)** — VCV Expanded Grammar (675 particles)
+2. **[`06-basics-vcv.md`](/docs/06-basics-vcv.md)** — VCV Expanded Grammar (675 particles)
    - 27 families × 25 particles each
    - Nuanced grammatical expressions
    - Spatial movement patterns
