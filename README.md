@@ -90,7 +90,7 @@ This is a highly systematic constructed language (conlang) designed with three i
 ### **Project Development**
 
 9. **[`ROADMAP.md`](/news/ROADMAP.md)** — Development Plan
-10. **[`CHANGELOG.md`](/news/CHANGELOG.md)** — Version History
+10. **[`CHANGELOG.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/news/changelog.mdhttps://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/news/changelog.md)** — Version History
 
 ---
 
