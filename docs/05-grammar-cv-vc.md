@@ -279,10 +279,10 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 |Particle|Function|Aspect|
 |---|---|---|
 |**ga**|begin, start|Inceptive|
-|**ge**|continue|Continuative|
-|**gi**|habitually, regularly|Habitual|
-|**go**|finish, complete|Completive|
-|**gu**|repeat, again|Iterative|
+|**ge**|repeat, again|Iterative|
+|**gi**|continue|Continuative|
+|**go**|habitually, regularly|Habitual|
+|**gu**|finish, complete|Completive|
 
 ---
 
@@ -291,10 +291,10 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 |Particle|Function|Relation to CV|
 |---|---|---|
 |**ag**|be about to start|Prospective|
-|**eg**|keep on|Persistence|
-|**ig**|always, permanently|Permanent|
-|**og**|have finished|Resultative|
-|**ug**|do again and again|Repetitive|
+|**eg**|do again and again|Repetitive|
+|**ig**|keep on|Persistence|
+|**og**|always, permanently|Permanent|
+|**ug**|have finished|Resultative|
 
 ---
 
