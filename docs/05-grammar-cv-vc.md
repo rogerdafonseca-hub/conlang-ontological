@@ -869,11 +869,11 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Sense|
 |---|---|---|
-|**bra**|visually, by sight|Visually|
+|**bra**|tactilely, by touch|Tactilely|
 |**bre**|auditorily, by hearing|Auditorily|
-|**bri**|tactilely, by touch|Tactilely|
-|**bro**|gustatorily, by taste|Gustatorily|
-|**bru**|olfactorily, by smell|Olfactorily|
+|**bri**|visually, by sight|Visually|
+|**bro**|olfactorily, by smell|Olfactorily|
+|**bru**|gustatorily, by taste|Gustatorily|
 
 ---
 
@@ -881,11 +881,11 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 |Particle|Function|Relation to CV|
 |---|---|---|
-|**abr**|seeing|Seeing|
+|**abr**|touching|Touching|
 |**ebr**|hearing|Hearing|
-|**ibr**|touching|Touching|
-|**obr**|tasting|Tasting|
-|**ubr**|smelling|Smelling|
+|**ibr**|seeing|Seeing|
+|**obr**|smelling|Smelling|
+|**ubr**|tasting|Tasting|
 
 ---
 
