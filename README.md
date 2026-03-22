@@ -327,8 +327,8 @@ fa = equal to, as...as
 
 ### **Questions (K-family)**
 ```
-ka = what?
-ke = who?
+ka = who?
+ke = what?
 ki = where?
 ko = when?
 ku = why?
