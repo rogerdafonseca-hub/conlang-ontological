@@ -84,7 +84,7 @@ This is a highly systematic constructed language (conlang) designed with three i
 
 5. **[`INDEX.md`](INDEX.md)** — Complete Navigation Guide
 6. **[`WELCOME.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/community/welcome.md)** — Introduction for Newcomers
-7. **[`LEARNING-PATH.md`](LEARNING-PATH.md)** — Month-by-Month Curriculum
+7. **[`LEARNING-PATH.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/community/learning-path.md)** — Month-by-Month Curriculum
 8. **[`FAQ.md`](community/FAQ.md)** — Frequently Asked Questions
 
 ### **Project Development**
