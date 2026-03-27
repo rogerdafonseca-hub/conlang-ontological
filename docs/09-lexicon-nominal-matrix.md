@@ -1,4 +1,4 @@
-# 📘 NOMINAL LEXICON MATRIX
+ # 📘 NOMINAL LEXICON MATRIX
 
 **Ontological Organization and Functional Modifiers**
 
