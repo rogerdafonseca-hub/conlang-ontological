@@ -1,23 +1,54 @@
-# Matriz P
+# NOMINAL LEXICON — REFINED (ONTOLÓGICO PURO)
 
-||**-PA**|**-PE**|**-PI**|**-PO**|**-PU**|
+## PP — Brute Matter / Substance
+
+|     | -PA                  | -PE                            | -PI                           | -PO                          | -PU                           |
+| --- | -------------------- | ------------------------------ | ----------------------------- | ---------------------------- | ----------------------------- |
+| PA- | papa — matéria       | pape — massa                   | papi — componente             | papo — meio físico           | papu — base material          |
+| PE- | pepa — elemento      | pepe — átomo                   | pepi — molécula               | pepo — composto              | pepu — substância definida    |
+| PI- | pipa — material puro | pipe — material não processado | pipi — material modificado    | pipo — liga técnica          | pipu — material especializado |
+| PO- | popa — mistura       | pope — mistura homogênea       | popi — mistura heterogênea    | popo — solução               | popu — composição específica  |
+| PU- | pupa — estado físico | pupe — fase                    | pupi — propriedade intrínseca | pupo — propriedade intensiva | pupu — unidade fundamental    |
+
+---
+
+## Ľ — Knowledge (REFATORADO — ONTOLOGIA PURA)
+
+| | -PA | -PE | -PI | -PO | -PU |
 |---|---|---|---|---|---|
-|**PA-**|Matéria|Massa|Componente|Meio físico|Substrato|
-|**PE-**|Elemento|Átomo|Molécula|Composto|Substância definida|
-|**PI-**|Material puro|Material bruto|Material modificado|Liga técnica|Material especializado|
-|**PO-**|Mistura|Mistura homogênea|Mistura heterogênea|Solução|Composição específica|
-|**PU-**|Estado físico|Fase|Propriedade intrínseca|Propriedade intensiva|Unidade fundamental|
+| ĽA- | verdade | validade | consistência | coerência | necessidade |
+| ĽE- | certeza | confiança | convicção | evidência | prova |
+| ĽI- | informação | dado | estrutura informacional | sistema | rede |
+| ĽO- | representação | símbolo | linguagem | formalização | codificação |
+| ĽU- | estabilidade | persistência | invariância | universalidade | axioma |
 
-Checagem rápida:
+---
 
-- Ouro → PEPA ✔
-- Aço → PIPO ✔
-- Água salgada → POPO ✔
-- Densidade → PUPI ✔
-- Elétron → PUPU ✔
-- Ar → POPE ✔
-- Plasma → PUPA ✔
+## DR — Container (REFATORADO — SEM FUNÇÃO)
 
-Nada escapa, nada cruza domínio. Esta é a matriz PP definitiva.
+| | -PA | -PE | -PI | -PO | -PU |
+|---|---|---|---|---|---|
+| DRA- | pequeno | médio | grande | extenso | massivo |
+| DRE- | rígido | flexível | poroso | denso | compacto |
+| DRI- | aberto | fechado | selado | lacrado | isolado |
+| DRO- | interno | externo | limite | interface | fronteira |
+| DRU- | acessível | restrito | protegido | oculto | inacessível |
 
-Travamos isso como padrão e seguimos para nomear os campos internos de PAPA — os 100 slots — ou primeiro replicamos essa lógica para todos os outros domínios antes de descer ao nível das palavras?
+---
+
+## PRINCÍPIOS ESTRUTURAIS
+
+1. Cada domínio representa UM tipo ontológico puro.
+2. Nenhum domínio inclui função, uso ou processo.
+3. Cada matriz 5×5 é um gradiente semântico contínuo.
+4. CVCV com mesma consoante (PP, TT, etc.) são núcleos primários.
+5. Campos derivados só existem após fixação dos núcleos.
+
+---
+
+## STATUS
+
+- PP: FINALIZADO ✅
+- Ľ: REFATORADO ✅
+- DR: REFATORADO ✅
+- Outros domínios: PENDENTE ⏳
