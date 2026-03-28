@@ -234,13 +234,13 @@ Rule: V contains process types, not instances in time.
 
 ### PP — Brute Matter / Substance
 
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| PA- | Matéria | Massa | Componente | Meio físico | Base material |
-| PE- | Elemento | Átomo | Molécula | Composto | Substância definida |
-| PI- | Material puro | Material não processado | Material modificado | Liga técnica | Material especializado |
-| PO- | Mistura | Mistura homogênea | Mistura heterogênea | Solução | Composição específica |
-| PU- | Estado físico | Fase | Propriedade intrínseca | Propriedade intensiva | Unidade fundamental |
+|     | -PA           | -PE                     | -PI                    | -PO                   | -PU                    |
+| --- | ------------- | ----------------------- | ---------------------- | --------------------- | ---------------------- |
+| PA- | Matéria       | Massa                   | Componente             | Meio físico           | Base material          |
+| PE- | Elemento      | Átomo                   | Molécula               | Composto              | Substância definida    |
+| PI- | Material puro | Material não processado | Material modificado    | Liga técnica          | Material especializado |
+| PO- | Mistura       | Mistura homogênea       | Mistura heterogênea    | Solução               | Composição específica  |
+| PU- | Estado físico | Fase                    | Propriedade intrínseca | Propriedade intensiva | Unidade fundamental    |
 
 *Fixes applied: "Substrato" → "Base material" (avoids functional connotation); "Material bruto" → "Material não processado" (avoids process implication)*
 
