@@ -164,13 +164,13 @@ Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density�
 
 *M = cognitive structure only. Not action (V+M), not content (Y), not emotion (W).*
 
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| **MA-** | estado mental | estado consciente | estado atencional | estado focal | estado concentrado |
-| **ME-** | crença | suposição | opinião formada | convicção | certeza subjetiva |
-| **MI-** | intenção | desejo | inclinação | vontade formada | intenção definida |
-| **MO-** | percepção | impressão | interpretação | julgamento | conclusão |
-| **MU-** | memória | conteúdo memorizado | lembrança | imagem mental | traço mnêmico |
+|         | -MA           | -ME                 | -MI               | -MO             | -MU                |
+| ------- | ------------- | ------------------- | ----------------- | --------------- | ------------------ |
+| **MA-** | estado mental | estado consciente   | estado atencional | estado focal    | estado concentrado |
+| **ME-** | crença        | suposição           | opinião formada   | convicção       | certeza subjetiva  |
+| **MI-** | intenção      | desejo              | inclinação        | vontade formada | intenção definida  |
+| **MO-** | percepção     | impressão           | interpretação     | julgamento      | conclusão          |
+| **MU-** | memória       | conteúdo memorizado | lembrança         | imagem mental   | traço mnêmico      |
 
 ---
 
@@ -178,13 +178,13 @@ Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density�
 
 *B = signal as structure — independent of channel (sound/writing/gesture).*
 
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| **BA-** | sinal | forma expressiva | unidade simbólica | padrão simbólico | estrutura de sinal |
-| **BE-** | símbolo | signo | marca | caractere | token |
-| **BI-** | elemento sensorial | elemento distinguível | unidade mínima | unidade combinável | unidade formada |
-| **BO-** | combinação simples | sequência estruturada | cadeia simbólica | expressão composta | expressão completa |
-| **BU-** | ocorrência | realização | instância | instanciação | sinal único |
+|         | -BA                | -BE                   | -BI               | -BO                | -BU                |
+| ------- | ------------------ | --------------------- | ----------------- | ------------------ | ------------------ |
+| **BA-** | sinal              | forma expressiva      | unidade simbólica | padrão simbólico   | estrutura de sinal |
+| **BE-** | símbolo            | signo                 | marca             | caractere          | token              |
+| **BI-** | elemento sensorial | elemento distinguível | unidade mínima    | unidade combinável | unidade formada    |
+| **BO-** | combinação simples | sequência estruturada | cadeia simbólica  | expressão composta | expressão completa |
+| **BU-** | ocorrência         | realização            | instância         | instanciação       | sinal único        |
 
 ---
 
@@ -192,13 +192,13 @@ Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density�
 
 *Y = epistemic content only. Not signal vehicle (B), not mental state (M).*
 
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| **YA-** | verdade | validade | consistência | coerência | necessidade |
-| **YE-** | fato | evidência | dado | prova | registro |
-| **YI-** | informação | conteúdo | estrutura informacional | sistema | rede |
-| **YO-** | classificação | modelo | teoria | framework | paradigma |
-| **YU-** | objetividade | precisão | confiabilidade | universalidade | axioma |
+|         | -YA           | -YE       | -YI                     | -YO            | -YU         |
+| ------- | ------------- | --------- | ----------------------- | -------------- | ----------- |
+| **YA-** | verdade       | validade  | consistência            | coerência      | necessidade |
+| **YE-** | fato          | evidência | dado                    | prova          | registro    |
+| **YI-** | informação    | conteúdo  | estrutura informacional | sistema        | rede        |
+| **YO-** | classificação | modelo    | teoria                  | framework      | paradigma   |
+| **YU-** | objetividade  | precisão  | confiabilidade          | universalidade | axioma      |
 
 ---
 
@@ -206,13 +206,13 @@ Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density�
 
 *Ľ = subjective sensory experience only. Pre-cognitive. Not interpretation (M), not knowledge (Y).*
 
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| **ĽA-** | visão | audição | tato | olfato | paladar |
-| **ĽE-** | estímulo | sinal sensorial | traço | padrão | evento sensorial |
-| **ĽI-** | claro | obscuro | nítido | difuso | distorcido |
-| **ĽO-** | campo | foco | fundo | contraste | fluxo |
-| **ĽU-** | intensidade | frequência | duração | resolução | limiar |
+|         | -**ĽA       | -**ĽE           | -**ĽI   | -**ĽO     | -**ĽU            |
+| ------- | ----------- | --------------- | ------- | --------- | ---------------- |
+| **ĽA-** | visão       | audição         | tato    | olfato    | paladar          |
+| **ĽE-** | estímulo    | sinal sensorial | traço   | padrão    | evento sensorial |
+| **ĽI-** | claro       | obscuro         | nítido  | difuso    | distorcido       |
+| **ĽO-** | campo       | foco            | fundo   | contraste | fluxo            |
+| **ĽU-** | intensidade | frequência      | duração | resolução | limiar           |
 
 ---
 
@@ -220,7 +220,7 @@ Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density�
 
 *TR = containment structure only. Not function or use.*
 
-|          | -PA        | -PE      | -PI         | -PO            | -PU            |
+|          | -**TRA     | -**TRE   | -**TRI      | -**TRO         | -**TRU         |
 | -------- | ---------- | -------- | ----------- | -------------- | -------------- |
 | **TRA-** | recipiente | cavidade | volume      | espaço interno | invólucro      |
 | **TRE-** | caixa      | vaso     | tanque      | bolsa          | cápsula        |
@@ -234,7 +234,7 @@ Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density�
 
 *DR = expressive structure only. Not process (V), not emotion (W).*
 
-|          | -PA        | -PE       | -PI       | -PO             | -PU        |
+|          | -DRA       | -DRE      | -DRI      | -DRO            | -DRU       |
 | -------- | ---------- | --------- | --------- | --------------- | ---------- |
 | **DRA-** | criação    | expressão | obra      | forma artística | produção   |
 | **DRE-** | traço      | nota      | gesto     | elemento        | motivo     |

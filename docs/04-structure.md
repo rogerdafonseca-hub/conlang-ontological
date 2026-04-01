@@ -78,28 +78,28 @@ Coverage: Precise spatial movements, nuanced modality, fine-grained aspects, con
 
 ### 🔒 THE 20 BASE DOMAINS (FIXED FOREVER)
 
-| # | Letter | IPA | Domain | Tier | Ontological Type |
-|---|---|---|---|---|---|
-| 1 | **P** | /p/ | Substance / Matter | 1 | Brute matter — what things are made of. Not objects, not structures. |
-| 2 | **T** | /t/ | Time / Temporality | 1 | Temporal events — moments, durations, sequences, cycles as happenings. |
-| 3 | **K** | /k/ | Social / Collective | 1 | Human groupings as entity — community, nation, institution as collective body. |
-| 4 | **B** | /b/ | Communication | 1 | Communicative signal as object — signal, message, symbol, gesture as artifact. |
-| 5 | **M** | /m/ | Cognitive / Mental | 1 | Mental state as cognitive structure — belief, perception, intention as present state. |
-| 6 | **G** | /g/ | Spatial / Positional | 1 | Position as entity — point, location, region, coordinate as spatial datum. |
-| 7 | **V** | /v/ | Action / Verbal | 1 | Process type — running, growing, breaking as abstract process classes. |
-| 8 | **R** | /ɾ/ | State / Condition | 1 | Static condition of an entity — being ill, being intact, being active. |
-| 9 | **J̌** | /dʒ/ | Motion / Movement | 2 | Stable pattern of motion inherent to an entity — orbit, current, migration as concept. |
-| 10 | **S** | /s/ | Quantity / Measurement | 2 | Quantity as magnitude — number, proportion, rate as measurable entity. MODAL OPERATOR. |
-| 11 | **F** | /f/ | Food / Nutrition | 2 | Nutritive substance — protein, vitamin, toxin as matter with biological-nutritive function. |
-| 12 | **H** | /h/ | Dwelling / Shelter | 2 | Habitable space — home, shelter, territory, ecological niche as space. |
-| 13 | **N** | /n/ | Nature / Living | 2 | Living organism as biological entity — animal, plant, fungus, bacterium. |
-| 14 | **D** | /d/ | Tool / Artifact | 2 | Fabricated object as entity — hammer, chip, bridge as artifact. |
-| 15 | **L** | /l/ | Structure / Form | 2 | Abstract form — pattern, geometry, organization, configuration as pure form. |
-| 16 | **Ľ** | /ʎ/ | Perception / Sensory | 2 | Sensory experience — perceived color, felt taste, pain, heard sound as subjective experience. |
-| 17 | **W** ⚠️ | /w/ | Emotion / Affect | 3 | Affective state — joy, fear, sadness as pure internal states. W modulates, never structures. |
-| 18 | **X** ⚠️ | /ʃ/ | Causality / Agency | 3 | Causal relation — force, influence, mechanism as relation between cause and effect. |
-| 19 | **Y** ⚠️ | /ʒ/ | Knowledge / Information | 3 | Epistemic content — datum, fact, law, theory as information entity. |
-| 20 | **Z** ⚠️ | /z/ | Intensity / Degree | 3 | Scalar value — maximum, minimum, threshold, gradient as degree. MODAL OPERATOR. |
+| #   | Letter   | IPA  | Domain                  | Tier | Ontological Type                                                                              |
+| --- | -------- | ---- | ----------------------- | ---- | --------------------------------------------------------------------------------------------- |
+| 1   | **P**    | /p/  | Substance / Matter      | 1    | Brute matter — what things are made of. Not objects, not structures.                          |
+| 2   | **T**    | /t/  | Time / Temporality      | 1    | Temporal events — moments, durations, sequences, cycles as happenings.                        |
+| 3   | **K**    | /k/  | Social / Collective     | 1    | Human groupings as entity — community, nation, institution as collective body.                |
+| 4   | **B**    | /b/  | Communication           | 1    | Communicative signal as object — signal, message, symbol, gesture as artifact.                |
+| 5   | **M**    | /m/  | Cognitive / Mental      | 1    | Mental state as cognitive structure — belief, perception, intention as present state.         |
+| 6   | **G**    | /g/  | Spatial / Positional    | 1    | Position as entity — point, location, region, coordinate as spatial datum.                    |
+| 7   | **V**    | /v/  | Action / Verbal         | 1    | Process type — running, growing, breaking as abstract process classes.                        |
+| 8   | **R**    | /ɾ/  | State / Condition       | 1    | Static condition of an entity — being ill, being intact, being active.                        |
+| 9   | **J̌**   | /dʒ/ | Motion / Movement       | 2    | Stable pattern of motion inherent to an entity — orbit, current, migration as concept.        |
+| 10  | **S**    | /s/  | Quantity / Measurement  | 2    | Quantity as magnitude — number, proportion, rate as measurable entity. MODAL OPERATOR.        |
+| 11  | **F**    | /f/  | Food / Nutrition        | 2    | Nutritive substance — protein, vitamin, toxin as matter with biological-nutritive function.   |
+| 12  | **H**    | /h/  | Dwelling / Shelter      | 2    | Habitable space — home, shelter, territory, ecological niche as space.                        |
+| 13  | **N**    | /n/  | Nature / Living         | 2    | Living organism as biological entity — animal, plant, fungus, bacterium.                      |
+| 14  | **D**    | /d/  | Tool / Artifact         | 2    | Fabricated object as entity — hammer, chip, bridge as artifact.                               |
+| 15  | **L**    | /l/  | Structure / Form        | 2    | Abstract form — pattern, geometry, organization, configuration as pure form.                  |
+| 16  | **Ľ**    | /ʎ/  | Perception / Sensory    | 2    | Sensory experience — perceived color, felt taste, pain, heard sound as subjective experience. |
+| 17  | **W** ⚠️ | /w/  | Emotion / Affect        | 3    | Affective state — joy, fear, sadness as pure internal states. W modulates, never structures.  |
+| 18  | **X** ⚠️ | /ʃ/  | Causality / Agency      | 3    | Causal relation — force, influence, mechanism as relation between cause and effect.           |
+| 19  | **Y** ⚠️ | /ʒ/  | Knowledge / Information | 3    | Epistemic content — datum, fact, law, theory as information entity.                           |
+| 20  | **Z** ⚠️ | /z/  | Intensity / Degree      | 3    | Scalar value — maximum, minimum, threshold, gradient as degree. MODAL OPERATOR.               |
 
 **⚠️ Exception Group (17-20):** Uses inverted gradation. X, Y, Z have dual functions (see below).
 
@@ -154,11 +154,11 @@ X, Y, Z serve different functions in different contexts without ambiguity:
 
 ### In Lexicon (CVCV nominal words) — Ontological Domains
 
-| Position | Consonant | IPA | Domain |
-|---|---|---|---|
-| 18 | X | /ʃ/ | Causality / Agency |
-| 19 | Y | /ʒ/ | Knowledge / Information |
-| 20 | Z | /z/ | Intensity / Degree |
+| Position | Consonant | IPA | Domain                  |     |
+| -------- | --------- | --- | ----------------------- | --- |
+| 18       | X         | /ʃ/ | Causality / Agency      |     |
+| 19       | Y         | /ʒ/ | Knowledge / Information |     |
+| 20       | Z         | /z/ | Intensity / Degree      |     |
 
 **No conflict:** Context always distinguishes (particles vs. nominal words).
 
@@ -235,13 +235,13 @@ Every domain nucleus (same-domain pair, e.g. PP, MM, TT) follows a universal 5×
 
 ### PP — Substance / Matter
 
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| PA- | papa — matéria | pape — massa | papi — componente | papo — meio físico | papu — base material |
-| PE- | pepa — elemento | pepe — átomo | pepi — molécula | pepo — composto | pepu — substância definida |
-| PI- | pipa — material puro | pipe — material não processado | pipi — material modificado | pipo — liga técnica | pipu — material especializado |
-| PO- | popa — mistura | pope — mistura homogênea | popi — mistura heterogênea | popo — solução | popu — composição específica |
-| PU- | pupa — estado físico | pupe — fase | pupi — propriedade intrínseca | pupo — propriedade intensiva | pupu — unidade fundamental |
+|     | -PA                  | -PE                            | -PI                           | -PO                          | -PU                           |
+| --- | -------------------- | ------------------------------ | ----------------------------- | ---------------------------- | ----------------------------- |
+| PA- | papa — matéria       | pape — massa                   | papi — componente             | papo — meio físico           | papu — base material          |
+| PE- | pepa — elemento      | pepe — átomo                   | pepi — molécula               | pepo — composto              | pepu — substância definida    |
+| PI- | pipa — material puro | pipe — material não processado | pipi — material modificado    | pipo — liga técnica          | pipu — material especializado |
+| PO- | popa — mistura       | pope — mistura homogênea       | popi — mistura heterogênea    | popo — solução               | popu — composição específica  |
+| PU- | pupa — estado físico | pupe — fase                    | pupi — propriedade intrínseca | pupo — propriedade intensiva | pupu — unidade fundamental    |
 
 *PA- = structural definition of matter. PU- = measurable properties.*
 *Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density→PUPI ✔ | Electron→PUPU ✔ | Air→POPE ✔ | Plasma→PUPA ✔*

@@ -1,8 +1,8 @@
 # 📘 VCV EXPANDED GRAMMAR SYSTEM
 
-**Advanced Grammatical Nuances — 675 Particles**
+**Advanced Grammatical Nuances — 750 Particles**
 
-_Version 0.6.5 — Ontological Restructuring_
+_Version 0.7.0 — Updated Structure_
 
 ---
 
@@ -18,10 +18,10 @@ The VCV (Vowel-Consonant-Vowel) system represents the **advanced layer** of gram
 
 **System Architecture:**
 
-- **27 grammatical families** (20 base + 7 ECs)
+- **30 grammatical families** (20 base + 10 active ECs)
 - **25 particles per family** (5 initial vowels × 5 final vowels)
 - **Systematic gradation** throughout
-- **Result:** 675 highly specific grammatical resources
+- **Result:** 750 highly specific grammatical resources
 
 **Gradation Pattern:**
 
@@ -40,7 +40,7 @@ This document presents all 27 VCV families in **ontological order**—the same s
 |---|---|---|---|---|
 |1|**P**|/p/|**Preposition**|Nuanced spatial relations, fine-grained locative distinctions|
 |2|**T**|/t/|**Tense**|Temporal distance, relative time, temporal nuances|
-|3|**K**|/k/|**Question**|Interrogative strength, question types, inquiry depth|
+|3|**K**|/k/|**Reference Words**|Reference strength, specificity, declarative and interrogative contexts|
 |4|**B**|/b/|**Pronouns & Reference**|Emphatic pronouns, anaphoric distance, reference precision|
 |5|**M**|/m/|**Modal**|Modal strength, epistemic distance, deontic gradation|
 |6|**G**|/g/|**Aspect**|Aspectual nuances, phase granularity, action contours|
@@ -49,7 +49,7 @@ This document presents all 27 VCV families in **ontological order**—the same s
 |9|**J̌**|/dʒ/|**Causality/Agency**|Causal strength, agency degree, causative distance|
 |10|**S**|/s/|**Boundary/Limit**|Boundary permeability, limit rigidity, threshold precision|
 |11|**F**|/f/|**Comparison**|Comparative degree, equality strength, scalar positions|
-|12|**H**|/h/|**Relation**|Relational closeness, connection strength, bond types|
+|12|**H**|/h/|**Expression / Interjection**|Expressive nuances, discourse marking, emotional register, citation|
 |13|**N**|/n/|**Quantity**|Quantitative precision, amount gradation, numerical nuances|
 |14|**D**|/d/|**Demonstrative**|Demonstrative distance, deixis precision, reference clarity|
 |15|**L**|/l/|**Conjunction**|Logical strength, connective types, coordination nuances|
@@ -61,7 +61,7 @@ This document presents all 27 VCV families in **ontological order**—the same s
 
 ---
 
-## ➕ 7 CONSONANT CLUSTERS (ECs) — VCV Specialized Grammar
+## ➕ CONSONANT CLUSTERS (ECs) — VCV Specialized Grammar
 
 |#|Cluster|IPA|Grammatical Domain|VCV Function|
 |---|---|---|---|---|
@@ -72,16 +72,17 @@ This document presents all 27 VCV families in **ontological order**—the same s
 |25|**KR**|/kɾ/|**Possession/Belonging**|Ownership strength, control degree, belonging intensity|
 |26|**GR**|/gɾ/|**Intensity/Degree**|Degree precision, gradation strength, scalar refinement|
 |27|**PL**|/pl/|**Intention/Volition**|Intentional strength, volitional commitment, deliberateness degree|
+|28|**BL**|/bl/|**Identity/Self**|Self-reference depth, identity strength, persona nuances|
+|29|**KL**|/kl/|**Energy/Force**|Force gradation, energy levels, potency nuances|
+|30|**FL**|/fl/|**Dwelling/Shelter**|Habitat proximity, shelter depth, residence nuances|
 
 ---
 
-## 🔮 3 RESERVED CLUSTERS — Future VCV Expansion
+## 🔮 RESERVED CLUSTER
 
-|#|Cluster|IPA|Status|Potential Resources|
-|---|---|---|---|---|
-|28|**BL**|/bl/|🔓 Open|25 VCV particles (when defined)|
-|29|**KL**|/kl/|🔓 Open|25 VCV particles (when defined)|
-|30|**GL**|/gl/|🔓 Open|25 VCV particles (when defined)|
+|#|Cluster|IPA|Status|
+|---|---|---|---|
+|31|**GL**|/gl/|🔓 Reserved — future systematic expansion|
 
 ---
 
@@ -90,10 +91,9 @@ This document presents all 27 VCV families in **ontological order**—the same s
 |Category|Families|Particles per Family|Total Particles|
 |---|---|---|---|
 |**Base Consonants**|20|25 (5×5)|500|
-|**Defined ECs**|7|25 (5×5)|175|
-|**Open ECs**|3|25 (5×5)|75 (reserved)|
-|**CURRENT TOTAL**|**27**|**25**|**675**|
-|**POTENTIAL TOTAL**|**30**|**25**|**750**|
+|**Active ECs**|10|25 (5×5)|250|
+|**Reserved ECs**|1|25 (5×5)|25 (reserved)|
+|**CURRENT TOTAL**|**30**|**25**|**750**|
 
 ---
 
@@ -258,9 +258,9 @@ ima = normal ability → minimum ability (losing capability)
 
 ---
 
-## 📋 FAMILY K — Question
+## 📋 FAMILY K — Reference Words
 
-**Function:** Expanded interrogatives with nuances of certainty, rhetoric, and specificity
+**Function:** Expanded reference words usable in both interrogative and declarative contexts. VCV particles add nuances of specificity, certainty, and scope to reference expressions.
 
 ---
 
@@ -822,69 +822,69 @@ ima = normal ability → minimum ability (losing capability)
 
 ---
 
-## 📋 FAMILY H — Relation
+## 📋 FAMILY H — Expression / Interjection
 
-**Function:** Expanded relations between entities
-
----
-
-### **AH- Series — Part-Whole**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**aha**|separate from, not part|part-whole-separate|
-|**ahe**|loosely part of|part-whole-loose|
-|**ahi**|part of, component|part-whole-normal|
-|**aho**|integral part of|part-whole-integral|
-|**ahu**|essential part of, inseparable|part-whole-essential|
+**Function:** Expanded expressive particles with nuances of interrogative depth, surprise intensity, confirmation strength, topic focus, and discourse register. VCV particles add fine-grained expressive distinctions.
 
 ---
 
-### **EH- Series — Membership**
+### **AH- Series — Interrogative Mode (nuanced)**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**eha**|excluded from, not member|membership-excluded|
-|**ehe**|peripheral member|membership-peripheral|
-|**ehi**|member of, belong to|membership-normal|
-|**eho**|active member of|membership-active|
-|**ehu**|core member of, central|membership-core|
+|**aha**|rhetorical question (no answer expected)|interrogative-rhetorical|
+|**ahe**|genuine question (answer expected)|interrogative-genuine|
+|**ahi**|open question (multiple answers possible)|interrogative-open|
+|**aho**|echo question (confirming what was heard)|interrogative-echo|
+|**ahu**|urgent question (answer needed now)|interrogative-urgent|
 
 ---
 
-### **IH- Series — Connection/Link**
+### **EH- Series — Doubt / Irony (nuanced)**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**iha**|disconnected, unrelated|connection-none|
-|**ihe**|weakly connected|connection-weak|
-|**ihi**|connected to, related|connection-normal|
-|**iho**|strongly connected|connection-strong|
-|**ihu**|inseparably connected|connection-inseparable|
+|**eha**|mild doubt|doubt-mild|
+|**ehe**|irony / sarcasm|doubt-ironic|
+|**ehi**|moderate skepticism|doubt-skeptical|
+|**eho**|strong disbelief|doubt-disbelief|
+|**ehu**|complete incredulity|doubt-incredulous|
 
 ---
 
-### **OH- Series — Dependency**
+### **IH- Series — Indecision / Conflict (nuanced)**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**oha**|independent, not dependent|dependency-independent|
-|**ohe**|slightly dependent|dependency-slight|
-|**ohi**|dependent on, rely on|dependency-normal|
-|**oho**|heavily dependent|dependency-heavy|
-|**ohu**|completely dependent, cannot exist without|dependency-complete|
+|**iha**|slight hesitation|indecision-slight|
+|**ihe**|moderate hesitation|indecision-moderate|
+|**ihi**|clear indecision|indecision-clear|
+|**iho**|strong conflict (contrast marker)|indecision-contrast|
+|**ihu**|paralysis / complete uncertainty|indecision-paralysis|
 
 ---
 
-### **UH- Series — Association**
+### **OH- Series — Citation / Admiration (nuanced)**
 
 |VCV|Meaning|Category|
 |---|---|---|
-|**uha**|unassociated, separate|association-none|
-|**uhe**|loosely associated|association-loose|
-|**uhi**|associated with, linked to|association-normal|
-|**uho**|closely associated|association-close|
-|**uhu**|inherently associated, bound|association-inherent|
+|**oha**|pleasant surprise (positive exclamation)|exclamation-positive|
+|**ohe**|mild admiration|admiration-mild|
+|**ohi**|citation introduction (introduces quoted speech)|citation-intro|
+|**oho**|deep admiration / wonder|admiration-deep|
+|**ohu**|citation attribution (attributes quoted speech)|citation-attribution|
+
+---
+
+### **UH- Series — Negation / Pain / Lament (nuanced)**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**uha**|mild negation / soft denial|negation-mild|
+|**uhe**|lament / sorrow|negation-lament|
+|**uhi**|firm denial|negation-firm|
+|**uho**|pain / discomfort|negation-pain|
+|**uhu**|strong emphatic negation|negation-emphatic|
 
 ---
 
@@ -1892,42 +1892,239 @@ ima = normal ability → minimum ability (losing capability)
 
 ---
 
-## ✅ SYSTEM VCV COMPLETE
+## 📋 EC BL — Identity / Self
 
-**Total:** 27 families × 25 particles = **675 VCV particles**
+**Function:** Expanded self-reference and identity nuances
 
 ---
 
-### **Final Summary:**
+### **ABL- Series — Self as Origin**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**abla**|originating from deep self|self-origin-deep|
+|**able**|originating from one's nature|self-origin-nature|
+|**abli**|originating from oneself|self-origin-normal|
+|**ablo**|originating from one's role|self-origin-role|
+|**ablu**|originating from one's full identity|self-origin-full|
+
+---
+
+### **EBL- Series — Identity Strength**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ebla**|barely self, almost other|identity-minimal|
+|**eble**|partially self|identity-partial|
+|**ebli**|genuinely self|identity-genuine|
+|**eblo**|strongly self-identified|identity-strong|
+|**eblu**|completely self, core identity|identity-complete|
+
+---
+
+### **IBL- Series — Role Identity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ibla**|against one's role|role-against|
+|**ible**|outside one's role|role-outside|
+|**ibli**|within one's role|role-within|
+|**iblo**|central to one's role|role-central|
+|**iblu**|defining one's role|role-defining|
+
+---
+
+### **OBL- Series — Partial Self**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**obla**|alienated from self|self-alienated|
+|**oble**|loosely part of self|self-loose|
+|**obli**|part of self|self-partial|
+|**oblo**|strongly part of self|self-strong|
+|**oblu**|inseparable from self|self-inseparable|
+
+---
+
+### **UBL- Series — Complete Self**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ubla**|not fully oneself|fullself-lacking|
+|**uble**|approaching full self|fullself-approaching|
+|**ubli**|fully oneself|fullself-complete|
+|**ublo**|beyond ordinary self|fullself-beyond|
+|**ublu**|ultimate self-expression|fullself-ultimate|
+
+---
+
+## 📋 EC KL — Energy / Force
+
+**Function:** Expanded force and energy gradation
+
+---
+
+### **AKL- Series — Minimal Energy**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**akla**|no energy, inert|energy-zero|
+|**akle**|trace energy|energy-trace|
+|**akli**|minimal energy|energy-minimal|
+|**aklo**|low energy|energy-low|
+|**aklu**|building energy|energy-building|
+
+---
+
+### **EKL- Series — Low to Moderate Energy**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ekla**|gentle, soft force|force-gentle|
+|**ekle**|mild force|force-mild|
+|**ekli**|moderate force|force-moderate|
+|**eklo**|firm force|force-firm|
+|**eklu**|strong force|force-strong|
+
+---
+
+### **IKL- Series — Normal Force**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ikla**|below normal force|force-below-normal|
+|**ikle**|slightly below normal|force-slightly-low|
+|**ikli**|normal force|force-normal|
+|**iklo**|slightly above normal|force-slightly-high|
+|**iklu**|above normal force|force-above-normal|
+
+---
+
+### **OKL- Series — High Energy**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**okla**|concentrated force|force-concentrated|
+|**okle**|powerful force|force-powerful|
+|**okli**|high energy|energy-high|
+|**oklo**|very high energy|energy-very-high|
+|**oklu**|intense force|force-intense|
+
+---
+
+### **UKL- Series — Maximum Force**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ukla**|approaching maximum|force-near-max|
+|**ukle**|maximum sustained|force-max-sustained|
+|**ukli**|maximum force|force-maximum|
+|**uklo**|overwhelming force|force-overwhelming|
+|**uklu**|absolute maximum energy|energy-absolute|
+
+---
+
+## 📋 EC FL — Dwelling / Shelter
+
+**Function:** Expanded habitat and dwelling nuances
+
+---
+
+### **AFL- Series — Distance from Dwelling**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**afla**|far from dwelling|dwelling-far|
+|**afle**|distant from dwelling|dwelling-distant|
+|**afli**|away from dwelling|dwelling-away|
+|**aflo**|near dwelling|dwelling-near|
+|**aflu**|at dwelling|dwelling-at|
+
+---
+
+### **EFL- Series — Habitat Proximity**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**efla**|outside habitat|habitat-outside|
+|**efle**|at the edge of habitat|habitat-edge|
+|**efli**|near habitat|habitat-near|
+|**eflo**|within habitat|habitat-within|
+|**eflu**|at center of habitat|habitat-center|
+
+---
+
+### **IFL- Series — Shelter Depth**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ifla**|exposed, unsheltered|shelter-none|
+|**ifle**|partially sheltered|shelter-partial|
+|**ifli**|sheltered|shelter-normal|
+|**iflo**|well sheltered|shelter-well|
+|**iflu**|fully enclosed, protected|shelter-complete|
+
+---
+
+### **OFL- Series — Movement toward Shelter**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ofla**|moving far from shelter|toward-shelter-none|
+|**ofle**|moving away from shelter|toward-shelter-away|
+|**ofli**|approaching shelter|toward-shelter-approaching|
+|**oflo**|moving toward shelter|toward-shelter-toward|
+|**oflu**|arriving at shelter|toward-shelter-arriving|
+
+---
+
+### **UFL- Series — Residence Quality**
+
+|VCV|Meaning|Category|
+|---|---|---|
+|**ufla**|uninhabitable|habitable-none|
+|**ufle**|barely habitable|habitable-barely|
+|**ufli**|habitable|habitable-normal|
+|**uflo**|comfortable dwelling|habitable-comfortable|
+|**uflu**|ideal shelter|habitable-ideal|
+
+---
+
+## ✅ SYSTEM VCV COMPLETE
+
+**Total:** 30 families × 25 particles = **750 VCV particles**
+
+---
+
+### Final Summary
 
 |Category|Families|VCV Particles|
 |---|---|---|
 |**Base Consonants**|20|500 (20×25)|
-|**Defined ECs**|7|175 (7×25)|
-|**Open ECs**|3|75 slots reserved|
-|**CURRENT TOTAL**|**27**|**675**|
-|**POTENTIAL TOTAL**|**30**|**750**|
+|**Active ECs**|10|250 (10×25)|
+|**Reserved ECs**|1|25 slots reserved|
+|**CURRENT TOTAL**|**30**|**750**|
 
 ---
 
-**File:** `02-grammar-vcv.md`  
-**Version:** 0.6.5  
-**Status:** ✅ Complete (20 base consonants + 7 defined ECs + 3 reserved slots)
+**File:** `06-basics-vcv.md`
+**Version:** 0.7.0
+**Status:** ✅ Complete — 20 base consonants + 10 active ECs + 1 reserved slot
+
+**Related Documentation:**
+- `04-structure.md` — System architecture
+- `05-grammar-cv-vc.md` — CV and VC particles
+- `10-grammar-system.md` — Verbal system and syntax
 
 ---
 
-## 📐 **Special Notes:**
+## 📐 Special Notes
 
 **3D Spatial Coordinate System:**
-
-- **X, Y, Z** form an integrated Cartesian coordinate system
+- X, Y, Z form an integrated Cartesian coordinate system
 - Complete spatial words use three syllables: `[X-vowel] + [Y-vowel] + [Z-vowel]`
 - Examples: **xiyizi** (0,0,0), **xayaza** (+,+,+), **xuyuzu** (−,−,−)
 
 **Gradation Exceptions:**
-
 - **Family W (Emotion):** a=positive → u=negative
 - **Families X, Y, Z (Spatial):** a=maximum → u=minimum
-
----
-
