@@ -57,25 +57,25 @@ This is a highly systematic constructed language (conlang) designed with three i
 
 ### **Core Grammar Files**
 
-1. **[`05-grammar-cv-vc.md`](05-grammar-cv-vc.md)** — CV & VC Particles (270 particles)
+1. **[`05-grammar-cv-vc.md`](/docs/05-grammar-cv-vc.md)** — CV & VC Particles (270 particles)
    - 20 base consonant families
    - 7 defined consonant cluster families
    - Complete with examples and usage
 
-2. **[`06-basics-vcv.md`](06-basics-vcv.md)** — VCV Expanded Grammar (675 particles)
+2. **[`06-basics-vcv.md`](/docs/06-basics-vcv.md)** — VCV Expanded Grammar (675 particles)
    - 27 families × 25 particles each
    - Nuanced grammatical expressions
    - Spatial movement patterns
 
 ### **Lexicon Files**
 
-3. **[`09-lexicon-nominal-matrix.md`](09-lexicon-nominal-matrix.md)** — Nominal Lexicon System
+3. **[`09-lexicon-nominal-matrix.md`](/docs/09-lexicon-nominal-matrix.md)** — Nominal Lexicon System
    - 27 ontological domains
    - Word formation rules
    - 24 functional modifiers
    - Real examples and applications
 
-4. **[`nominal-lexicon.md`](nominal-lexicon.md)** — Complete Domain Matrix
+4. **[`nominal-lexicon.md`](/lexicon-and-foreign-words/nominal-lexicon.md)** — Complete Domain Matrix
    - All base words documented (in restructuring for v0.6.5)
    - Organized by domain
    - Semantic gradation patterns
@@ -83,14 +83,14 @@ This is a highly systematic constructed language (conlang) designed with three i
 ### **Navigation & Learning**
 
 5. **[`INDEX.md`](INDEX.md)** — Complete Navigation Guide
-6. **[`WELCOME.md`](WELCOME.md)** — Introduction for Newcomers
-7. **[`LEARNING-PATH.md`](LEARNING-PATH.md)** — Month-by-Month Curriculum
+6. **[`WELCOME.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/community/welcome.md)** — Introduction for Newcomers
+7. **[`LEARNING-PATH.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/community/learning-path.md)** — Month-by-Month Curriculum
 8. **[`FAQ.md`](community/FAQ.md)** — Frequently Asked Questions
 
 ### **Project Development**
 
-9. **[`ROADMAP.md`](news/ROADMAP.md)** — Development Plan
-10. **[`CHANGELOG.md`](news/CHANGELOG.md)** — Version History
+9. **[`ROADMAP.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/news/roadmap.md)** — Development Plan
+10. **[`CHANGELOG.md`](https://github.com/rogerdafonseca-hub/conlang-ontological/blob/main/news/changelog.md)** — Version History
 
 ---
 
@@ -327,8 +327,8 @@ fa = equal to, as...as
 
 ### **Questions (K-family)**
 ```
-ka = what?
-ke = who?
+ka = who?
+ke = what?
 ki = where?
 ko = when?
 ku = why?

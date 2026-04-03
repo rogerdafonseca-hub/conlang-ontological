@@ -37,7 +37,7 @@ This document presents all 27 grammatical families in **ontological order**—al
 | 6   | **G**     | /g/  | Aspect                    | Verbal aspect (perfective, imperfective, habitual)          |
 | 7   | **V**     | /v/  | Action / Verbal           | Action markers, verbal particles                            |
 | 8   | **R**     | /ɾ/  | State / Condition         | States, conditions, phases                                  |
-| 9   | **J̌**    | /dʒ/ | Causality / Agency        | Causation, agency, causative markers                        |
+| 9   | **J̌**     | /dʒ/ | Causality / Agency        | Causation, agency, causative markers                        |
 | 10  | **S**     | /s/  | Boundary / Limit          | Limits, boundaries, endpoints                               |
 | 11  | **F**     | /f/  | Comparison                | Comparative markers (more, most, equal)                     |
 | 12  | **H**     | /h/  | Expression / Interjection | Interrogative mode, surprise, confirmation, topic, citation |
