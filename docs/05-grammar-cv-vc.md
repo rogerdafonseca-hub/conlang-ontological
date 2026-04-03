@@ -2,7 +2,7 @@
 
 **Complete Grammatical Foundation — Particles and Functions**
 
-_Version 0.7.0 — Updated Structure_
+_Version 0.7.4 — Updated Structure_
 
 ---
 
@@ -355,25 +355,25 @@ The vowel sequence follows a cognitive gradient:
 
 ### CV System — Functional Activators
 
-| Particle | Function | Description |
-|---|---|---|
-| **va** | action | activates as verb / action |
-| **ve** | attribute | activates as quality / adjective |
-| **vi** | instrument | activates as means / tool |
-| **vo** | collective | activates as group / set |
-| **vu** | negation | logical negation of the word |
+|Particle|Function|Equivalent|Example|
+|---|---|---|---|
+|**va**|activates as verb/action|to [verb]|_va wa be_ = to love you|
+|**ve**|activates as adjective/quality|[adj]-like, -ish|_ve para_ = watery|
+|**vi**|activates as instrument|used as, via|_vi pata_ = using stone|
+|**vo**|activates as collective/set|group of, -ery|_vo pata_ = quarry|
+|**vu**|negation of following word|un-, not, -less|_vu wa_ = loveless|
 
 ---
 
 ### VC System — Derivational Operators
 
-| Particle | Function | Description |
-|---|---|---|
-| **av** | agent | doer / performer |
-| **ev** | attributive | having a quality |
-| **iv** | result | outcome / product |
-| **ov** | iterative | repeated action |
-| **uv** | reciprocal | mutual relation |
+|Particle|Function|Equivalent|Example|
+|---|---|---|---|
+|**av**|agent / doer|-er, -or|_av vapa_ = runner|
+|**ev**|having/causing the quality|-ous, -ful, -ish|_ev wa_ = loving|
+|**iv**|result / product|-ed, past participle|_iv vata_ = the broken|
+|**ov**|iterative / does repeatedly|habitual agent|_ov vapa_ = chronic runner|
+|**uv**|reciprocal / one another|mutual, inter-|_uv wa_ = mutual love|
 
 ---
 
@@ -390,6 +390,7 @@ The vowel sequence follows a cognitive gradient:
 - **iv vata** → broken (result)  
 - **ov vapa** → one who runs repeatedly  
 - **uv wa** → mutual love  
+
 ---
 ## 📋 FAMILY R — State / Condition
 
@@ -431,6 +432,7 @@ The vowel sequence follows a cognitive gradient:
 
 - **CV expresses state dynamics**
 - **VC expresses relational state context**
+
 ---
 ## 📋 FAMILY J̌ — Causality / Agency
 
@@ -520,28 +522,31 @@ The vowel sequence follows a cognitive gradient:
 **Function:** Comparative and equative relations
 
 ---
-
-### CV System — Comparison Scale
-
-| Particle | Function | Type |
-|---|---|---|
-| **fa** | least | Minimum |
-| **fe** | less than | Inferior comparison |
-| **fi** | equal to | Equative |
-| **fo** | more than | Superior comparison |
-| **fu** | most | Maximum |
+## 📋 FAMILY F — Comparison System
 
 ---
 
-### VC System — Comparative Position
+### 🔹 CV — Magnitude (Quantity / Degree)
 
-| Particle | Function | Relation to CV |
+|Particle|Meaning|Sense|
 |---|---|---|
-| **af** | the least | Absolute minimum |
-| **ef** | relatively less | Inferior position |
-| **if** | equally / comparably | Comparable |
-| **of** | relatively more | Superior position |
-| **uf** | the most | Absolute maximum |
+|**fa**|least|minimum|
+|**fe**|less|below|
+|**fi**|equal|same level|
+|**fo**|more|above|
+|**fu**|most|maximum|
+
+---
+
+### 🔹 VC — Similarity (Resemblance)
+
+|Particle|Meaning|Sense|
+|---|---|---|
+|**af**|completely different|no similarity|
+|**ef**|different|low similarity|
+|**if**|similar|partial match|
+|**of**|very similar|strong match|
+|**uf**|identical|indistinguishable|
 
 ---
 
@@ -561,28 +566,29 @@ The vowel sequence follows a cognitive gradient:
 **Function:** Expressive and discourse markers — how something is said
 
 ---
+## 🔹 CV — Discourse Flow (pontuação + interjeição leve)
 
-### CV System — Discourse Flow
 
-| Particle | Function | Usage |
-|---|---|---|
-| **ha** | interrogative | Opens an utterance (question) |
-| **he** | hesitation | Cognitive pause / formulation |
-| **hi** | topic marker | Organizes discourse |
-| **ho** | exclamation | Reaction / surprise |
-| **hu** | confirmation | Validation / closure |
+| VC     | Meaning | Sense                  |
+| ------ | ------- | ---------------------- |
+| ha     | ask     | question stance        |
+| **he** | doubt   | uncertainty / irony    |
+| **hi** | unsure  | hesitation / conflict  |
+| **ho** | react   | surprise / realization |
+| **hu** | reject  | denial / refusal       |
 
 ---
 
-### VC System — Speaker Stance
+## 🔹 VC — Speaker Stance (atitude)
 
-| Particle | Function | Usage |
-|---|---|---|
-| **ah** | focus | Directs attention |
-| **eh** | uncertainty | Doubt / hedging |
-| **ih** | framing | Internal structuring |
-| **oh** | citation | Introduces or attributes speech |
-| **uh** | assertion / rejection | Strong stance / closure |
+
+| CV     | Meaning | Use                       |
+| ------ | ------- | ------------------------- |
+| **ah** | open    | start / call attention    |
+| eh     | pause   | hesitation / continuation |
+| ih     | focus   | highlight / emphasis      |
+| **oh** | react   | exclamation               |
+| uh     | close   | end / final tone          |
 
 ---
 
@@ -1148,6 +1154,7 @@ Having → Possession → Belonging → Control → Domination
 ### Semantic Axis
 
 Resistance → Hesitation → Willingness → Engagement → Determination
+
 ---
 
 ## 📋 EC BL — Identity / Self
@@ -1228,6 +1235,38 @@ Resistance → Hesitation → Willingness → Engagement → Determination
 ### Semantic Axis
 
 Origin → Proximity → Interior → Direction → Exterior
+
+---
+
+## 📋 FAMILY FR — Force/Interaction (CORE)
+
+**Function:** fundamental physical interactions (force exchange)
+
+---
+
+### 🔹 CV — Active Force (outgoing interaction)
+
+| CV      | Meaning                   | Example sense                     |
+| ------- | ------------------------- | --------------------------------- |
+| **fra** | push, apply force outward | “exerting force away from source” |
+| **fre** | pull, draw inward         | “exerting force toward source”    |
+| **fri** | hold, maintain force      | “sustaining force in place”       |
+| **fro** | strike, impact            | “applying sudden force”           |
+| **fru** | release, let go           | “ceasing applied force”           |
+
+---
+
+### 🔹 VC — Passive Interaction (incoming effect)
+
+| VC      | Meaning        | Example sense                  |
+| ------- | -------------- | ------------------------------ |
+| **afr** | being pushed   | “receiving outward force”      |
+| **efr** | being pulled   | “being drawn inward”           |
+| **ifr** | being held     | “being kept in place by force” |
+| **ofr** | being struck   | “receiving sudden impact”      |
+| **ufr** | being released | “no longer under force”        |
+
+
 
 ---
 
