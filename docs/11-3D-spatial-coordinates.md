@@ -661,9 +661,9 @@ ixi = X-axis: (0, 0) = Δ = 0 (stationary center)
 **Status:** ✅ Complete — 3D spatial coordinate system documented
 
 **Related Documentation:**
-- **[04-structure.md](04-structure.md)** — Dual function of X, Y, Z
-- **[05-grammar-cv-vc.md](05-grammar-cv-vc.md)** — X, Y, Z families in grammar
-- **[06-basics-vcv.md](06-basics-vcv.md)** — VCV movement patterns
+- **[04-structure.md](05-structure.md)** — Dual function of X, Y, Z
+- **[05-grammar-cv-vc.md](07-grammar-cv-vc.md)** — X, Y, Z families in grammar
+- **[06-basics-vcv.md](08-expanded-grammar-vcv.md)** — VCV movement patterns
 - **[02-phonology.md](02-phonology.md)** — Pronunciation of X, Y, Z
 
 ---

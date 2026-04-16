@@ -688,7 +688,7 @@ Potential for diphthong-like emotional expressions:
 
 **Related Documentation:**
 - **[02-phonology.md](02-phonology.md)** — How to pronounce vowels
-- **[05-grammar-cv-vc.md](05-grammar-cv-vc.md)** — Basic particles referenced
+- **[05-grammar-cv-vc.md](07-grammar-cv-vc.md)** — Basic particles referenced
 - **[LEARNING-PATH.md](LEARNING-PATH.md)** — Teaching sequence integration
 
 ---

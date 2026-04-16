@@ -111,47 +111,26 @@ When **V + EC** appears without a following vowel, it is pronounced with a **nas
 
 ### CV System — Primary Relations
 
-| Particle | Function | Relation |
-|---|---|---|
-| **pa** | direction | to / toward |
-| **pe** | passage | by / through |
-| **pi** | location | in / at |
-| **po** | origin | from |
-| **pu** | association | with |
+| Particle | Function | Description     | Example sense                |
+| -------- | -------- | --------------- | ---------------------------- |
+| **pa**   | source   | from            | "it came from there"         |
+| **pe**   | path     | by / through    | "it went through the tunnel" |
+| **pi**   | location | in / inside     | "it is in the room"          |
+| **po**   | reversal | opposite / back | "it turned back"             |
+| **pu**   | goal     | to / toward     | "it goes toward the city"    |
 
 ---
 
 ### VC System — Spatial Modifiers
 
-| Particle | Function | Description |
-|---|---|---|
-| **ap** | reverse | opposite direction |
-| **ep** | proximity | near / around |
-| **ip** | interior | deep inside |
-| **op** | exterior | outside / surface |
-| **up** | separation | detached / apart |
+| Particle | Function   | Description                | Example sense          |
+| -------- | ---------- | -------------------------- | ---------------------- |
+| **ap**   | contact    | together / with            | "he is with me"        |
+| **ep**   | proximity  | near / close               | "it is near the house" |
+| **ip**   | exterior   | outside                    | "it is outside"        |
+| **op**   | distance   | far                        | "it is far away"       |
+| **up**   | separation | apart / without / detached | "they are separated"   |
 
----
-
-### Logical Rule
-
-Negation is handled by V:
-
-- **pu** → with  
-- **vu pu** → without  
-
----
-
-### Examples
-
-- **pa dom** → to the house  
-- **pi dom** → in the house  
-- **po dom** → from the house  
-- **pu dom** → with the house  
-
-- **ip pi dom** → deep inside the house  
-- **up pu dom** → detached from the house  
-- **vu pu dom** → without the house  
 ---
 ## 📋 FAMILY T — Tense
 
@@ -169,13 +148,13 @@ Negation is handled by V:
 
 ### VC System
 
-| Particle | Function | Temporal Modulation |
-|---|---|---|
-| **at** | very distant | Extreme temporal distance |
-| **et** | distant | Far in time |
-| **it** | neutral | Default temporal position |
-| **ot** | near | Close in time |
-| **ut** | immediate | Immediate / imminent |
+| Particle | Function     | Temporal Modulation       |
+| -------- | ------------ | ------------------------- |
+| **at**   | very distant | Extreme temporal distance |
+| **et**   | distant      | Far in time               |
+| **it**   | neutral      | Default temporal position |
+| **ot**   | near         | Close in time             |
+| **ut**   | immediate    | Immediate / imminent      |
 
 **Rule:** VC precedes CV to refine temporal distance (e.g., **ut tu** = immediate future, **et ta** = distant past).
 
@@ -400,31 +379,31 @@ The vowel sequence follows a cognitive gradient:
 
 ### CV System — State Dynamics
 
-| Particle | Function | Type |
-|---|---|---|
-| **ra** | be | Static state |
-| **re** | become | Inchoative |
-| **ri** | remain, continue being | Continuative |
-| **ro** | seem | Perceived state |
-| **ru** | cease to be | Terminative |
+| Particle | Function               | Type            |
+| -------- | ---------------------- | --------------- |
+| ra       | seem                   | Perceived state |
+| **re**   | become                 | Inchoative      |
+| ri       | be                     | Static state    |
+| **ro**   | remain, continue being | Continuative    |
+| **ru**   | cease to be            | Terminative     |
 
 ---
 
 ### VC System — State Relations
 
-| Particle | Function | Relation to CV |
-|---|---|---|
-| **ar** | in a state of | State locator |
-| **er** | changing into | Transformation |
-| **ir** | remaining as | State persistence |
-| **or** | perceived as | Apparent state |
-| **ur** | no longer being | State cessation |
+| Particle | Function        | Relation to CV    |
+| -------- | --------------- | ----------------- |
+| **ar**   | perceived as    | Apparent state    |
+| **er**   | changing into   | Transformation    |
+| **ir**   | in a state of   | State locator     |
+| **or**   | remaining as    | State persistence |
+| **ur**   | no longer being | State cessation   |
 
 ---
 
 ### Conceptual Gradient
 
-> being → becoming → continuing → seeming → ceasing
+> seeming → becoming → being → continuing → ceasing
 
 ---
 
@@ -659,6 +638,7 @@ The vowel sequence follows a cognitive gradient:
 
 - **CV defines quantity level**
 - **VC refines how that quantity is expressed**
+
 ---
 ## 📋 FAMILY D — Demonstrative
 
@@ -700,25 +680,6 @@ The vowel sequence follows a cognitive gradient:
 
 - **CV defines referential distance**
 - **VC defines locational relation**
----
-Perfeito — essa nova ordem está **muito mais alinhada com um fluxo cognitivo/processual real**:
-
-> **escolher → juntar → condicionar → contrastar → concluir**
-
-Isso cria uma progressão de pensamento extremamente natural:
-
-- primeiro você define alternativas
-    
-- depois combina
-    
-- estabelece condições
-    
-- lida com conflitos
-    
-- e finalmente conclui
-    
-
-Agora vamos formalizar no padrão do seu sistema.
 
 ---
 
@@ -726,7 +687,7 @@ Agora vamos formalizar no padrão do seu sistema.
 
 **Function:** Logical and discourse connectors
 
-## 🔤 CV System
+### CV System
 
 |Particle|Function|Type|
 |---|---|---|
@@ -738,7 +699,7 @@ Agora vamos formalizar no padrão do seu sistema.
 
 ---
 
-## 🔁 VC System
+### VC System
 
 |Particle|Function|Relation to CV|
 |---|---|---|
@@ -990,27 +951,20 @@ Dubitative → Inferential → Direct → Reported → Assumed
 
 # 📋 FAMILY TR — Determination / Reference Status
 
-**Function:** Marks referential status — whether a referent is unknown, generic, arbitrary, specific, or fully identified.  
-This family is **independent from deixis (D)** and **quantity (N)** and operates using **consonant clusters (EC)**.
+---
+### EC System
 
-**Principle:**  
-No fusion is allowed. TR particles must always appear as **independent units** within valid structural sequences.
+| Particle | Function  | Type                    |
+| -------- | --------- | ----------------------- |
+| **tra**  | a / an    | Indefinite              |
+| **tre**  | generic   | Class / general truth   |
+| **tri**  | arbitrary | Any / unspecified       |
+| **tro**  | specific  | Contextual / identified |
+| **tru**  | the       | Definite                |
 
 ---
 
-## 🔤 EC System
-
-|Particle|Function|Type|
-|---|---|---|
-|**tra**|a / an|Indefinite|
-|**tre**|generic|Class / general truth|
-|**tri**|arbitrary|Any / unspecified|
-|**tro**|specific|Contextual / identified|
-|**tru**|the|Definite|
-
----
-
-## 🔁 V + EC System
+### VC System
 
 |Particle|Function|Relation to EC|
 |---|---|---|
@@ -1126,147 +1080,167 @@ Having → Possession → Belonging → Control → Domination
 | **ugr** | maximally | At maximum |
 
 ---
-
-## 📋 EC PL — Intention / Volition
+## 📋 FAMILY PL — Intention / Volition
 
 **Function:** Willingness, commitment, and deliberateness
 
-### CV System
+---
 
-|Particle|Function|Intentional state|
-|---|---|---|
-|**pla**|unwillingly, against will|No intention|
-|**ple**|reluctantly|Weak intention|
-|**pli**|willingly|Neutral intention|
-|**plo**|eagerly, gladly|Strong intention|
-|**plu**|determinedly, resolutely|Absolute intention|
+### **CV System — Intentional States**
 
-### VC System
+|Particle|Function|Intentional state|Example sense|
+|---|---|---|---|
+|**pla**|unwilling|no intention|"he did it against his will"|
+|**ple**|reluctant|weak intention|"he did it reluctantly"|
+|**pli**|willing|neutral intention|"he did it willingly"|
+|**plo**|eager|strong intention|"he did it gladly"|
+|**plu**|determined|absolute intention|"he did it no matter what"|
 
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**apl**|with resistance|Reverse unwilling|
-|**epl**|with hesitation|Reverse weak|
-|**ipl**|by will|Reverse neutral|
-|**opl**|with engagement|Reverse strong|
-|**upl**|with determination|Reverse absolute|
+---
 
-### Semantic Axis
+### **VC System — Execution Mode (Volitional Expression)**
+
+|Particle|Function|Description|Example sense|
+|---|---|---|---|
+|**apl**|resistance|acting with inner resistance|"he resisted doing it"|
+|**epl**|hesitation|acting with doubt or delay|"he hesitated before doing it"|
+|**ipl**|volition|acting by choice|"he chose to do it"|
+|**opl**|engagement|acting with active involvement|"he got into it"|
+|**upl**|resolve|acting with firm commitment|"he committed fully"|
+
+---
+
+### **Semantic Axis**
 
 Resistance → Hesitation → Willingness → Engagement → Determination
 
 ---
+## 📋 FAMILY BL — Identity / Self
 
-## 📋 EC BL — Identity / Self
-
-**Function:** Self-reference and identity markers
-
-### CV System
-
-| Particle | Function | Type |
-|---|---|---|
-| **bla** | as oneself | Self as agent |
-| **ble** | one's own (nature) | Intrinsic identity |
-| **bli** | in one's own role | Role identity |
-| **blo** | as part of one's identity | Partial identity |
-| **blu** | fully as oneself | Complete self |
-
-### VC System
-
-| Particle | Function | Relation to CV |
-|---|---|---|
-| **abl** | from oneself | Self as origin |
-| **ebl** | of one's nature | Nature marker |
-| **ibl** | in one's role | Role marker |
-| **obl** | as part of self | Partial self |
-| **ubl** | as complete self | Full identity |
+**Function:** Self-reference and identity alignment
 
 ---
 
-## 📋 EC KL — Energy / Force
+### **CV System — Identity Alignment (Internal State)**
 
-**Function:** Force, energy, and potency markers
-
-### CV System
-
-| Particle | Function | Type |
-|---|---|---|
-| **kla** | weakly, with little force | Minimal force |
-| **kle** | gently, softly | Low force |
-| **kli** | moderately, with normal force | Normal force |
-| **klo** | strongly, with force | High force |
-| **klu** | powerfully, with full force | Maximum force |
-
-### VC System
-
-| Particle | Function | Relation to CV |
-|---|---|---|
-| **akl** | with minimal energy | Minimal energy |
-| **ekl** | with low energy | Low energy |
-| **ikl** | with moderate energy | Moderate energy |
-| **okl** | with high energy | High energy |
-| **ukl** | with full energy | Maximum energy |
-
----
-## 📋 EC FL — Dwelling / Shelter
-
-**Function:** Habitat, residence, and location-of-dwelling markers
-
-### CV System
-
-|Particle|Function|Type|
-|---|---|---|
-|**fla**|from home|Origin dwelling|
-|**fle**|near home|Proximity dwelling|
-|**fli**|in home|Interior dwelling|
-|**flo**|toward home|Direction to dwelling|
-|**flu**|outside home|Exterior dwelling|
-
-### VC System
-
-|Particle|Function|Relation to CV|
-|---|---|---|
-|**afl**|from one's dwelling|Origin dwelling|
-|**efl**|near one's habitat|Proximity habitat|
-|**ifl**|within shelter|Interior shelter|
-|**ofl**|toward shelter|Direction shelter|
-|**ufl**|outside shelter|Exterior shelter|
-
-### Semantic Axis
-
-Origin → Proximity → Interior → Direction → Exterior
+|Particle|Function|Type|Example sense|
+|---|---|---|---|
+|**bla**|not as oneself|detached identity|"he acted out of character"|
+|**ble**|partly as oneself|aspect of identity|"this is part of who he is"|
+|**bli**|in one's role|functional identity|"he acts as a teacher"|
+|**blo**|by one's nature|intrinsic identity|"he does it by nature"|
+|**blu**|fully as oneself|complete identity|"this is truly him"|
 
 ---
 
-## 📋 FAMILY FR — Force/Interaction (CORE)
+### **VC System — Identity Framing (External Expression)**
 
-**Function:** fundamental physical interactions (force exchange)
+|Particle|Function|Description|Example sense|
+|---|---|---|---|
+|**abl**|from self|self as source|"it comes from him"|
+|**ebl**|of self|belonging to identity|"this is his nature"|
+|**ibl**|as role|identity in function|"he speaks as a leader"|
+|**obl**|as part|partial identity|"this is part of him"|
+|**ubl**|as whole|full identity|"this represents him completely"|
+
+---
+## 📋 FAMILY KL — Energy / Force
+
+**Function:** Force application and energy source
+
+---
+
+### **CV System — Force Application (How force is applied)**
+
+|Particle|Function|Type|Example sense|
+|---|---|---|---|
+|**kla**|barely applying force|minimal effort|"he pushed lightly"|
+|**kle**|gently applying force|soft effort|"she handled it gently"|
+|**kli**|normally applying force|regular effort|"he moved it normally"|
+|**klo**|strongly applying force|strong effort|"he pushed hard"|
+|**klu**|fully applying force|maximum effort|"he used all his strength"|
+
+---
+
+### **VC System — Energy Source (Where the energy comes from)**
+
+|Particle|Function|Description|Example sense|
+|---|---|---|---|
+|**akl**|no energy behind|empty / drained|"he did it without energy"|
+|**ekl**|low energy|tired / weak|"she did it tired"|
+|**ikl**|normal energy|balanced|"he did it normally"|
+|**okl**|high energy|energized|"she did it with energy"|
+|**ukl**|overflowing energy|intense / explosive|"he did it full of energy"|
+
+---
+## 📋 FAMILY FL — Dwelling / Shelter
+
+**Function:** Relationship to dwelling, shelter, and sense of place
+
+---
+
+### **CV System — Dwelling Relation (How one relates to a place)**
+
+|Particle|Function|Type|Example sense|
+|---|---|---|---|
+|**fla**|without a place|no shelter|"living without a home"|
+|**fle**|loosely settled|temporary stay|"staying somewhere for a while"|
+|**fli**|living in|normal residence|"living in a house"|
+|**flo**|settled well|comfortable dwelling|"well settled and at home"|
+|**flu**|fully rooted|deeply established|"this is truly home"|
+
+---
+
+### **VC System — Shelter Function (What the place provides)**
+
+|Particle|Function|Description|Example sense|
+|---|---|---|---|
+|**afl**|no shelter|exposed|"no protection at all"|
+|**efl**|basic shelter|minimal protection|"just enough to stay"|
+|**ifl**|proper shelter|safe / normal|"a proper place to stay"|
+|**ofl**|strong shelter|protected / secure|"well protected place"|
+|**ufl**|full refuge|complete safety|"a true refuge"|
+
+---
+
+### **Semantic Axis**
+
+Homeless → Temporary → Living → Settled → Rooted
+
+---
+## 📋 FAMILY FR — Force / Interaction (CORE)
+
+**Function:** Fundamental physical interactions (force exchange)
 
 ---
 
 ### 🔹 CV — Active Force (outgoing interaction)
 
-| CV      | Meaning                   | Example sense                     |
-| ------- | ------------------------- | --------------------------------- |
-| **fra** | push, apply force outward | “exerting force away from source” |
-| **fre** | pull, draw inward         | “exerting force toward source”    |
-| **fri** | hold, maintain force      | “sustaining force in place”       |
-| **fro** | strike, impact            | “applying sudden force”           |
-| **fru** | release, let go           | “ceasing applied force”           |
+|CV|Meaning|Example sense|
+|---|---|---|
+|**fra**|push|“pushing something away”|
+|**fre**|pull|“pulling something closer”|
+|**fri**|hold|“holding something in place”|
+|**fro**|hit|“striking or impacting something”|
+|**fru**|let go|“releasing or letting go”|
 
 ---
 
 ### 🔹 VC — Passive Interaction (incoming effect)
 
-| VC      | Meaning        | Example sense                  |
-| ------- | -------------- | ------------------------------ |
-| **afr** | being pushed   | “receiving outward force”      |
-| **efr** | being pulled   | “being drawn inward”           |
-| **ifr** | being held     | “being kept in place by force” |
-| **ofr** | being struck   | “receiving sudden impact”      |
-| **ufr** | being released | “no longer under force”        |
+|VC|Meaning|Example sense|
+|---|---|---|
+|**afr**|be pushed|“being pushed away”|
+|**efr**|be pulled|“being pulled closer”|
+|**ifr**|be held|“being held in place”|
+|**ofr**|be hit|“being struck”|
+|**ufr**|be released|“being let go”|
 
+---
 
+### 🔹 Semantic Axis
+
+Push → Pull → Hold → Impact → Release
 
 ---
 

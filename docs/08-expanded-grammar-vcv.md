@@ -1824,334 +1824,329 @@ ima = normal ability → minimum ability (losing capability)
 |**ugru**|maximal extent|“covering all possible range”|
 
 ---
+## 📋 FAMILY PL — Intention / Volition
 
-## 📋 EC PL — Intention/Volition
-
-**Function:** Expanded intention and volitional states
-
----
-
-### **APL- Series — Desire/Want**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**apla**|not wanting, averse|desire-averse|
-|**aple**|indifferent, not caring|desire-indifferent|
-|**apli**|wanting, desiring|desire-wanting|
-|**aplo**|strongly wanting, craving|desire-craving|
-|**aplu**|desperately wanting, needing|desire-desperate|
+**Function:** Internal drive → decision → action → commitment
 
 ---
 
-### **EPL- Series — Decision/Choice**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**epla**|refusing, rejecting|decision-refuse|
-|**eple**|undecided, hesitant|decision-undecided|
-|**epli**|deciding, choosing|decision-normal|
-|**eplo**|firmly decided|decision-firm|
-|**eplu**|absolutely decided, resolute|decision-resolute|
-
----
-
-### **IPL- Series — Willingness**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ipla**|unwilling, reluctant|willingness-unwilling|
-|**iple**|barely willing|willingness-barely|
-|**ipli**|willing, ready|willingness-willing|
-|**iplo**|eager, enthusiastic|willingness-eager|
-|**iplu**|zealous, fervent|willingness-zealous|
-
----
-
-### **OPL- Series — Attempt/Effort**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**opla**|refusing to try, giving up|attempt-refuse|
-|**ople**|half-heartedly trying|attempt-halfhearted|
-|**opli**|trying, attempting|attempt-normal|
-|**oplo**|striving, making effort|attempt-striving|
-|**oplu**|straining, maximum effort|attempt-maximum|
-
----
-
-### **UPL- Series — Commitment/Determination**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**upla**|uncommitted, wavering|commitment-none|
-|**uple**|weakly committed|commitment-weak|
-|**upli**|committed, determined|commitment-normal|
-|**uplo**|strongly committed|commitment-strong|
-|**uplu**|absolutely committed, dedicated|commitment-absolute|
-
----
-
-## 📋 EC BL — Identity / Self
-
-**Function:** Expanded self-reference and identity nuances
-
----
-
-### **ABL- Series — Self as Origin**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**abla**|originating from deep self|self-origin-deep|
-|**able**|originating from one's nature|self-origin-nature|
-|**abli**|originating from oneself|self-origin-normal|
-|**ablo**|originating from one's role|self-origin-role|
-|**ablu**|originating from one's full identity|self-origin-full|
-
----
-
-### **EBL- Series — Identity Strength**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ebla**|barely self, almost other|identity-minimal|
-|**eble**|partially self|identity-partial|
-|**ebli**|genuinely self|identity-genuine|
-|**eblo**|strongly self-identified|identity-strong|
-|**eblu**|completely self, core identity|identity-complete|
-
----
-
-### **IBL- Series — Role Identity**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ibla**|against one's role|role-against|
-|**ible**|outside one's role|role-outside|
-|**ibli**|within one's role|role-within|
-|**iblo**|central to one's role|role-central|
-|**iblu**|defining one's role|role-defining|
-
----
-
-### **OBL- Series — Partial Self**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**obla**|alienated from self|self-alienated|
-|**oble**|loosely part of self|self-loose|
-|**obli**|part of self|self-partial|
-|**oblo**|strongly part of self|self-strong|
-|**oblu**|inseparable from self|self-inseparable|
-
----
-
-### **UBL- Series — Complete Self**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ubla**|not fully oneself|fullself-lacking|
-|**uble**|approaching full self|fullself-approaching|
-|**ubli**|fully oneself|fullself-complete|
-|**ublo**|beyond ordinary self|fullself-beyond|
-|**ublu**|ultimate self-expression|fullself-ultimate|
-
----
-
-## 📋 EC KL — Energy / Force
-
-**Function:** Expanded force and energy gradation
-
----
-
-### **AKL- Series — Minimal Energy**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**akla**|no energy, inert|energy-zero|
-|**akle**|trace energy|energy-trace|
-|**akli**|minimal energy|energy-minimal|
-|**aklo**|low energy|energy-low|
-|**aklu**|building energy|energy-building|
-
----
-
-### **EKL- Series — Low to Moderate Energy**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ekla**|gentle, soft force|force-gentle|
-|**ekle**|mild force|force-mild|
-|**ekli**|moderate force|force-moderate|
-|**eklo**|firm force|force-firm|
-|**eklu**|strong force|force-strong|
-
----
-
-### **IKL- Series — Normal Force**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ikla**|below normal force|force-below-normal|
-|**ikle**|slightly below normal|force-slightly-low|
-|**ikli**|normal force|force-normal|
-|**iklo**|slightly above normal|force-slightly-high|
-|**iklu**|above normal force|force-above-normal|
-
----
-
-### **OKL- Series — High Energy**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**okla**|concentrated force|force-concentrated|
-|**okle**|powerful force|force-powerful|
-|**okli**|high energy|energy-high|
-|**oklo**|very high energy|energy-very-high|
-|**oklu**|intense force|force-intense|
-
----
-
-### **UKL- Series — Maximum Force**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ukla**|approaching maximum|force-near-max|
-|**ukle**|maximum sustained|force-max-sustained|
-|**ukli**|maximum force|force-maximum|
-|**uklo**|overwhelming force|force-overwhelming|
-|**uklu**|absolute maximum energy|energy-absolute|
-
----
-
-## 📋 EC FL — Dwelling / Shelter
-
-**Function:** Expanded habitat and dwelling nuances
-
----
-
-### **AFL- Series — Distance from Dwelling**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**afla**|far from dwelling|dwelling-far|
-|**afle**|distant from dwelling|dwelling-distant|
-|**afli**|away from dwelling|dwelling-away|
-|**aflo**|near dwelling|dwelling-near|
-|**aflu**|at dwelling|dwelling-at|
-
----
-
-### **EFL- Series — Habitat Proximity**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**efla**|outside habitat|habitat-outside|
-|**efle**|at the edge of habitat|habitat-edge|
-|**efli**|near habitat|habitat-near|
-|**eflo**|within habitat|habitat-within|
-|**eflu**|at center of habitat|habitat-center|
-
----
-
-### **IFL- Series — Shelter Depth**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ifla**|exposed, unsheltered|shelter-none|
-|**ifle**|partially sheltered|shelter-partial|
-|**ifli**|sheltered|shelter-normal|
-|**iflo**|well sheltered|shelter-well|
-|**iflu**|fully enclosed, protected|shelter-complete|
-
----
-
-### **OFL- Series — Movement toward Shelter**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ofla**|moving far from shelter|toward-shelter-none|
-|**ofle**|moving away from shelter|toward-shelter-away|
-|**ofli**|approaching shelter|toward-shelter-approaching|
-|**oflo**|moving toward shelter|toward-shelter-toward|
-|**oflu**|arriving at shelter|toward-shelter-arriving|
-
----
-
-### **UFL- Series — Residence Quality**
-
-|VCV|Meaning|Category|
-|---|---|---|
-|**ufla**|uninhabitable|habitable-none|
-|**ufle**|barely habitable|habitable-barely|
-|**ufli**|habitable|habitable-normal|
-|**uflo**|comfortable dwelling|habitable-comfortable|
-|**uflu**|ideal shelter|habitable-ideal|
-
----
-
-## 📋 FAMILY FR — Force/Interaction
-
-**Function:** expanded physical interaction dynamics and force behavior
-
----
-
-### 🔹 AFR — Force Intensity
+### **APL — Desire (want / drive)**
 
 |VCV|Meaning|Example sense|
 |---|---|---|
-|**afra**|extremely weak force|“barely exerting force”|
-|**afre**|weak force|“light interaction”|
-|**afri**|normal force|“standard level of force”|
-|**afro**|strong force|“high force applied”|
-|**afru**|extreme force|“maximum force exerted”|
+|**apla**|not wanting|“no desire at all”|
+|**aple**|not really wanting|“couldn’t care much”|
+|**apli**|wanting|“wants to do it”|
+|**aplo**|really wanting|“strong urge to do it”|
+|**aplu**|needing / craving|“feels like they must”|
 
 ---
 
-### 🔹 EFR — Force Directionality (interaction symmetry)
+### **EPL — Decision (choice / resolve)**
 
 |VCV|Meaning|Example sense|
 |---|---|---|
-|**efra**|opposing forces|“forces acting against each other”|
-|**efre**|resisting interaction|“partially opposing force”|
-|**efri**|neutral interaction|“balanced force exchange”|
-|**efro**|aligned forces|“forces acting in same direction”|
-|**efru**|fully synchronized|“forces perfectly aligned”|
+|**epla**|refusing|“decides not to”|
+|**eple**|unsure|“can’t decide”|
+|**epli**|choosing|“makes a choice”|
+|**eplo**|firmly choosing|“decides clearly”|
+|**eplu**|fully resolved|“no doubt about it”|
 
 ---
 
-### 🔹 IFR — Contact Type
+### **IPL — Readiness (mental readiness / openness)**
 
 |VCV|Meaning|Example sense|
 |---|---|---|
-|**ifra**|no contact|“interaction at a distance”|
-|**ifre**|indirect contact|“through medium or surface”|
-|**ifri**|direct contact|“touch-based interaction”|
-|**ifro**|firm contact|“solid physical engagement”|
-|**ifru**|rigid contact|“locked or immovable connection”|
+|**ipla**|closed off|“not open to it”|
+|**iple**|hesitant|“not quite ready”|
+|**ipli**|open / ready|“okay to do it”|
+|**iplo**|very ready|“fully on board”|
+|**iplu**|fully open|“nothing holding back”|
 
 ---
 
-### 🔹 OFR — Interaction Outcome
+### **OPL — Effort (trying / acting)**
 
 |VCV|Meaning|Example sense|
 |---|---|---|
-|**ofra**|destructive interaction|“causing breakdown or damage”|
-|**ofre**|disruptive interaction|“altering existing state”|
-|**ofri**|neutral interaction|“no major change produced”|
-|**ofro**|constructive interaction|“building or reinforcing state”|
-|**ofru**|transformative interaction|“creating major structural change”|
+|**opla**|not trying|“doesn’t even try”|
+|**ople**|barely trying|“minimal effort”|
+|**opli**|trying|“makes an attempt”|
+|**oplo**|pushing effort|“really trying”|
+|**oplu**|giving full effort|“puts everything in”|
 
 ---
 
-### 🔹 UFR — Energy Transfer
+### **UPL — Commitment (persistence / dedication)**
 
-| VCV      | Meaning          | Example sense                |
-| -------- | ---------------- | ---------------------------- |
-| **ufra** | no transfer      | “no energy exchanged”        |
-| **ufre** | minimal transfer | “very small energy exchange” |
-| **ufri** | normal transfer  | “standard energy exchange”   |
-| **ufro** | high transfer    | “large energy exchange”      |
-| **ufru** | total transfer   | “complete energy transfer”   |
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**upla**|not committed|“can drop it anytime”|
+|**uple**|loosely committed|“not very serious”|
+|**upli**|committed|“sticks with it”|
+|**uplo**|strongly committed|“won’t give up”|
+|**uplu**|fully dedicated|“all in, no turning back”|
+
+---
+## 📋 FAMILY BL — Identity / Self
+
+**Function:** Source, alignment, and degree of self-identity
+
+---
+
+### **ABL — Source of Self (where it comes from)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**abla**|not from self|“doesn’t come from me”|
+|**able**|partly from self|“not fully my own”|
+|**abli**|from self|“comes from me”|
+|**ablo**|strongly from self|“very much me”|
+|**ablu**|deeply from self|“core part of me”|
+
+---
+
+### **EBL — Identity Strength (how much it is ‘you’)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ebla**|hardly self|“barely me”|
+|**eble**|somewhat self|“kind of me”|
+|**ebli**|truly self|“this is me”|
+|**eblo**|strongly self|“very much who I am”|
+|**eblu**|completely self|“this defines me”|
+
+---
+
+### **IBL — Role Fit (fit to role or situation)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ibla**|against role|“not my role at all”|
+|**ible**|outside role|“not really my place”|
+|**ibli**|in role|“this is my role”|
+|**iblo**|strong role fit|“fits me well”|
+|**iblu**|defining role|“this is what I am”|
+
+---
+
+### **OBL — Inner Alignment (feels like self or not)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**obla**|disconnected|“doesn’t feel like me”|
+|**oble**|loosely connected|“a bit like me”|
+|**obli**|connected|“feels like me”|
+|**oblo**|strongly connected|“really feels right”|
+|**oblu**|fully aligned|“completely me inside”|
+
+---
+
+### **UBL — Wholeness of Self (degree of completeness)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ubla**|not whole|“not myself”|
+|**uble**|partly whole|“not fully there”|
+|**ubli**|whole|“I am myself”|
+|**ublo**|fully whole|“completely myself”|
+|**ublu**|beyond full|“more than myself / peak self”|
+
+---
+## 📋 FAMILY KL — Energy / Force
+
+**Function:** Quality and behavior of energy (not intensity)
+
+---
+
+### **AKL — Energy Presence (exists or not)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**akla**|no energy|“completely still”|
+|**akle**|faint energy|“barely active”|
+|**akli**|present energy|“has some force”|
+|**aklo**|strong presence|“clearly active”|
+|**aklu**|overflowing energy|“full of energy”|
+
+---
+
+### **EKL — Force Feel (soft ↔ harsh)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ekla**|very soft|“barely felt”|
+|**ekle**|gentle|“light touch”|
+|**ekli**|neutral|“normal force”|
+|**eklo**|firm|“strong push”|
+|**eklu**|harsh|“rough / heavy force”|
+
+---
+
+### **IKL — Stability (steady ↔ unstable)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ikla**|unstable|“shaky force”|
+|**ikle**|slightly unstable|“not steady”|
+|**ikli**|stable|“consistent force”|
+|**iklo**|very steady|“firm and controlled”|
+|**iklu**|perfectly stable|“locked in place”|
+
+---
+
+### **OKL — Focus (spread ↔ concentrated)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**okla**|fully spread|“diffused force”|
+|**okle**|wide|“spread out”|
+|**okli**|focused|“directed force”|
+|**oklo**|tightly focused|“precise impact”|
+|**oklu**|pinpoint|“all force in one spot”|
+
+---
+
+### **UKL — Control (free ↔ explosive)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ukla**|uncontrolled|“out of control”|
+|**ukle**|loose control|“hard to manage”|
+|**ukli**|controlled|“under control”|
+|**uklo**|tightly controlled|“precise control”|
+|**uklu**|explosive release|“sudden burst”|
+
+---
+## 📋 FAMILY FL — Dwelling / Shelter
+
+**Function:** Relationship to shelter, protection, and habitability (not spatial position)
+
+---
+
+### **AFL — Belonging to Shelter (is it “home”?)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**afla**|not a home|“not my place at all”|
+|**afle**|temporary place|“just staying here”|
+|**afli**|a place to stay|“this is my place”|
+|**aflo**|familiar home|“feels like home”|
+|**aflu**|true home|“this is where I belong”|
+
+---
+
+### **EFL — Type of Shelter (kind of place)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**efla**|no shelter|“completely exposed”|
+|**efle**|basic shelter|“simple cover”|
+|**efli**|normal shelter|“a regular place”|
+|**eflo**|solid shelter|“well built place”|
+|**eflu**|strong shelter|“very secure place”|
+
+---
+
+### **IFL — Protection Level (how protected it is)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ifla**|unprotected|“open to everything”|
+|**ifle**|lightly protected|“not very safe”|
+|**ifli**|protected|“safe enough”|
+|**iflo**|well protected|“feels safe”|
+|**iflu**|fully protected|“completely secure”|
+
+---
+
+### **OFL — Use of Shelter (how it is used)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ofla**|not used as shelter|“just a place, not for living”|
+|**ofle**|rarely used|“used sometimes”|
+|**ofli**|used normally|“lived in”|
+|**oflo**|actively used|“regularly used”|
+|**oflu**|constantly used|“main place of living”|
+
+---
+
+### **UFL — Comfort / Quality (how good it is)**
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ufla**|unlivable|“can’t stay here”|
+|**ufle**|poor|“barely okay”|
+|**ufli**|livable|“fine to stay”|
+|**uflo**|comfortable|“nice place”|
+|**uflu**|ideal|“perfect place to live”|
+
+---
+## 📋 FAMILY FR — Force / Interaction
+
+**Function:** How forces interact, connect, and affect each other
+
+---
+
+### 🔹 AFR — Interaction State (whether interaction happens)
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**afra**|no interaction|“no force exchange at all”|
+|**afre**|potential interaction|“interaction could happen”|
+|**afri**|active interaction|“forces are interacting”|
+|**afro**|strong interaction|“clearly interacting”|
+|**afru**|full interaction|“fully engaged forces”|
+
+---
+
+### 🔹 EFR — Alignment (how forces relate directionally)
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**efra**|opposing|“pushing against each other”|
+|**efre**|resisting|“partially opposing”|
+|**efri**|balanced|“neutral interaction”|
+|**efro**|aligned|“same direction”|
+|**efru**|fully aligned|“perfectly synchronized”|
+
+---
+
+### 🔹 IFR — Contact Type (how they meet)
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ifra**|no contact|“acting at a distance”|
+|**ifre**|indirect|“through something else”|
+|**ifri**|direct|“touching interaction”|
+|**ifro**|firm contact|“solid connection”|
+|**ifru**|locked contact|“fixed together”|
+
+---
+
+### 🔹 OFR — Effect (what the interaction does)
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ofra**|breaking|“causes damage”|
+|**ofre**|disturbing|“changes the state”|
+|**ofri**|neutral|“no major effect”|
+|**ofro**|building|“strengthens or supports”|
+|**ofru**|transforming|“creates major change”|
+
+---
+
+### 🔹 UFR — Transfer (how energy moves)
+
+|VCV|Meaning|Example sense|
+|---|---|---|
+|**ufra**|no transfer|“nothing passes through”|
+|**ufre**|slight transfer|“very little exchange”|
+|**ufri**|normal transfer|“regular exchange”|
+|**ufro**|strong transfer|“large exchange”|
+|**ufru**|total transfer|“everything transfers”|
 
 ---
 

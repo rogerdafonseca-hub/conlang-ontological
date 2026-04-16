@@ -327,8 +327,8 @@ refactor: Reorganize domain tables in INDEX.md
 
 1. Read [`WELCOME.md`](WELCOME.md)
 2. Understand [`README.md`](README.md)
-3. Review [`05-grammar-cv-vc.md`](05-grammar-cv-vc.md)
-4. Study domain structure in [`04-structure.md`](04-structure.md)
+3. Review [`05-grammar-cv-vc.md`](07-grammar-cv-vc.md)
+4. Study domain structure in [`04-structure.md`](05-structure.md)
 
 ### **Step 2: Choose Your Contribution**
 
