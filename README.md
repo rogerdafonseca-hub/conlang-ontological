@@ -1,4 +1,4 @@
-# 🌐 Conlang Project — Version 0.6.5
+# 🌐 Conlang Project — Version 0.7.4
 
 **A Systematic Constructed Language with Ontological Organization**
 
