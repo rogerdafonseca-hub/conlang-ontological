@@ -315,9 +315,9 @@ This translation is a community effort.
 - [Translations in 500+ languages](https://www.ohchr.org/en/human-rights/universal-declaration/translations)
 
 ### **Language Documentation**
-- [Grammar CV-VC](../docs/05-grammar-cv-vc.md)
-- [Core Vocabulary VCV](../docs/06-basics-vcv.md)
-- [Combining Rules](08-3D-spatial-coordinates.md)
+- [Grammar CV-VC](07-grammar-cv-vc.md)
+- [Core Vocabulary VCV](08-expanded-grammar-vcv.md)
+- [Combining Rules](11-3D-spatial-coordinates.md)
 
 ---
 

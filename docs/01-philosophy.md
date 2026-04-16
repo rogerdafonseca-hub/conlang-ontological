@@ -458,7 +458,7 @@ This philosophy guides **all design decisions** in the language:
 
 **Related Documentation:**
 - **[README.md](README.md)** — System overview
-- **[04-structure.md](04-structure.md)** — Domain definitions
+- **[04-structure.md](05-structure.md)** — Domain definitions
 - **[LEARNING-PATH.md](LEARNING-PATH.md)** — Pedagogical application
 - **[WELCOME.md](WELCOME.md)** — Practical introduction
 

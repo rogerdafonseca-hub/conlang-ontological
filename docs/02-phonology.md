@@ -478,7 +478,7 @@ Test your distinctions:
 
 **Related Documentation:**
 - **[01-philosophy.md](01-philosophy.md)** — Why these sounds?
-- **[05-grammar-cv-vc.md](05-grammar-cv-vc.md)** — How sounds create grammar
-- **[09-lexicon-nominal-matrix.md](09-lexicon-nominal-matrix.md)** — How sounds create words
+- **[05-grammar-cv-vc.md](07-grammar-cv-vc.md)** — How sounds create grammar
+- **[09-lexicon-nominal-matrix.md](10-lexicon-nominal-matrix.md)** — How sounds create words
 
 ---

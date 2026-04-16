@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)](CHANGELOG.md)
 [![Status](https://img.shields.io/badge/status-active%20development-green.svg)](ROADMAP.md)
-[![Grammar](https://img.shields.io/badge/grammar-complete-success.svg)](05-grammar-cv-vc.md)
+[![Grammar](07-grammar-cv-vc.md)
 [![Lexicon](https://img.shields.io/badge/lexicon-in%20progress-yellow.svg)](nominal-lexicon.md)
 [![Documentation](https://img.shields.io/badge/docs-comprehensive-informational.svg)](INDEX.md)
 [![License](https://img.shields.io/badge/license-open%20educational-lightgrey.svg)](#)
@@ -57,19 +57,19 @@ This is a highly systematic constructed language (conlang) designed with three i
 
 ### **Core Grammar Files**
 
-1. **[`05-grammar-cv-vc.md`](05-grammar-cv-vc.md)** — CV & VC Particles (270 particles)
+1. **[`05-grammar-cv-vc.md`](07-grammar-cv-vc.md)** — CV & VC Particles (270 particles)
    - 20 base consonant families
    - 7 defined consonant cluster families
    - Complete with examples and usage
 
-2. **[`06-basics-vcv.md`](06-basics-vcv.md)** — VCV Expanded Grammar (675 particles)
+2. **[`06-basics-vcv.md`](08-expanded-grammar-vcv.md)** — VCV Expanded Grammar (675 particles)
    - 27 families × 25 particles each
    - Nuanced grammatical expressions
    - Spatial movement patterns
 
 ### **Lexicon Files**
 
-3. **[`09-lexicon-nominal-matrix.md`](09-lexicon-nominal-matrix.md)** — Nominal Lexicon System
+3. **[`09-lexicon-nominal-matrix.md`](10-lexicon-nominal-matrix.md)** — Nominal Lexicon System
    - 27 ontological domains
    - Word formation rules
    - 24 functional modifiers
@@ -418,8 +418,8 @@ Project maintained by Roger (Passo Fundo, RS, Brazil)
 - 📖 [**START HERE:** Welcome Guide](WELCOME.md)
 - 🗺️ [**Navigation:** Complete Index](INDEX.md)
 - 📚 [**Learn:** Learning Path](LEARNING-PATH.md)
-- 📝 [**Grammar:** CV/VC System](05-grammar-cv-vc.md)
-- 🔤 [**Vocabulary:** Lexicon Matrix](09-lexicon-nominal-matrix.md)
+- 📝 [**Grammar:** CV/VC System](07-grammar-cv-vc.md)
+- 🔤 [**Vocabulary:** Lexicon Matrix](10-lexicon-nominal-matrix.md)
 - ❓ [**Help:** FAQ](community/FAQ.md)
 - 🚀 [**Future:** Roadmap](news/ROADMAP.md)
 - 📋 [**History:** Changelog](news/CHANGELOG.md)

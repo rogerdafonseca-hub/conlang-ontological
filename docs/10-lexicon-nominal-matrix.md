@@ -42,12 +42,12 @@ The nominal lexicon operates on two synchronized layers. The deep layer — the 
 
 ### Projection Rules
 
-| Element | Rule |
-|---|---|
-| C₁ | MANDATORY — mirrors primary domain (P-words = matter, N-words = living, etc.) |
-| C₂ | PREFERENTIAL — soft semantic clustering. Overridable for phonetics or collision avoidance. |
-| Vowels | FREE — purely distinctive. No semantic hierarchy in léxico. |
-| Word length | FREQUENCY — shorter = more common/important. |
+| Element     | Rule                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| C₁          | MANDATORY — mirrors primary domain (P-words = matter, N-words = living, etc.)              |
+| C₂          | PREFERENTIAL — soft semantic clustering. Overridable for phonetics or collision avoidance. |
+| Vowels      | FREE — purely distinctive. No semantic hierarchy in lexicon.                               |
+| Word length | FREQUENCY — shorter = more common/important.                                               |
 
 ---
 

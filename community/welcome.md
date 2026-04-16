@@ -49,12 +49,12 @@ A consistent a→e→i→o→u scale creates systematic meaning progressions acr
    - Key features
    - Documentation guide
 
-3. **Learn the grammar:** [`05-grammar-cv-vc.md`](05-grammar-cv-vc.md)
+3. **Learn the grammar:** [`05-grammar-cv-vc.md`](07-grammar-cv-vc.md)
    - 200 essential particles
    - Clear examples
    - Usage patterns
 
-4. **Build vocabulary:** [`09-lexicon-nominal-matrix.md`](09-lexicon-nominal-matrix.md)
+4. **Build vocabulary:** [`09-lexicon-nominal-matrix.md`](10-lexicon-nominal-matrix.md)
    - 675 base words
    - Systematic organization
    - Real examples
