@@ -2,7 +2,7 @@
 
 **A Systematic Constructed Language with Ontological Organization**
 
-[![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-0.7.4-blue.svg)](CHANGELOG.md)
 [![Status](https://img.shields.io/badge/status-active%20development-green.svg)](ROADMAP.md)
 [![Grammar](https://img.shields.io/badge/grammar-complete-success.svg)](05-grammar-cv-vc.md)
 [![Lexicon](https://img.shields.io/badge/lexicon-in%20progress-yellow.svg)](nominal-lexicon.md)
