@@ -2,7 +2,7 @@
 
 **Advanced Grammatical Nuances — 750 Particles**
 
-_Version 0.7.4 — Updated Structure_
+_Version 0.8.0 — Updated Structure_
 
 ---
 
@@ -833,9 +833,13 @@ ima = normal ability → minimum ability (losing capability)
 
 ---
 
-## 📋 FAMILY H — Expression / Interjection
+## 📋 FAMILY H — Epistemic / Interaction Operator (VCV System)
 
-**Function:** Expanded expressive particles with nuances of interrogative depth, surprise intensity, confirmation strength, topic focus, and discourse register. VCV particles add fine-grained expressive distinctions.
+**Function:** Fine-grained epistemic nuances — interrogative depth, certainty gradation, interactional register, and citation modes.
+
+**Position rule (inherited from CV/VC):**
+- Initial position = speaker's epistemic stance
+- Final position = alignment demand from listener
 
 ---
 
@@ -907,11 +911,11 @@ ima = normal ability → minimum ability (losing capability)
 
 |VCV|Meaning|Uso|
 |---|---|---|
-|**ana**|not enough at all|totalmente insuficiente|
-|**ane**|not enough|insuficiente|
-|**ani**|barely enough|no limite|
-|**ano**|enough|suficiente|
-|**anu**|more than enough|mais que suficiente|
+|**ana**|not enough at all|completely insufficient|
+|**ane**|not enough|insufficient|
+|**ani**|barely enough|at the limit|
+|**ano**|enough|sufficient|
+|**anu**|more than enough|more than needed|
 
 ---
 
@@ -919,11 +923,11 @@ ima = normal ability → minimum ability (losing capability)
 
 |VCV|Meaning|Uso|
 |---|---|---|
-|**ena**|slight amount|um pouco|
-|**ene**|some|algum|
-|**eni**|moderate|quantidade média|
-|**eno**|much|bastante|
-|**enu**|a lot|muito|
+|**ena**|slight amount|a little|
+|**ene**|some|some|
+|**eni**|moderate|average amount|
+|**eno**|much|quite a lot|
+|**enu**|a lot|very much|
 
 ---
 
@@ -931,11 +935,11 @@ ima = normal ability → minimum ability (losing capability)
 
 |VCV|Meaning|Uso|
 |---|---|---|
-|**ina**|none|nenhum|
-|**ine**|few|poucos|
-|**ini**|several|vários|
-|**ino**|many|muitos|
-|**inu**|all|todos|
+|**ina**|none|none|
+|**ine**|few|few|
+|**ini**|several|several|
+|**ino**|many|many|
+|**inu**|all|all|
 
 ---
 
@@ -943,11 +947,11 @@ ima = normal ability → minimum ability (losing capability)
 
 |VCV|Meaning|Uso|
 |---|---|---|
-|**ona**|tiny part|fração mínima|
-|**one**|small part|minoria|
-|**oni**|half|metade|
-|**ono**|most|maioria|
-|**onu**|almost all|quase tudo|
+|**ona**|tiny part|minimal fraction|
+|**one**|small part|minority|
+|**oni**|half|half|
+|**ono**|most|majority|
+|**onu**|almost all|nearly everything|
 
 ---
 
@@ -955,11 +959,11 @@ ima = normal ability → minimum ability (losing capability)
 
 | VCV     | Meaning  | Uso                |
 | ------- | -------- | ------------------ |
-| **una** | fragment | pedaço             |
-| **une** | partial  | parcial            |
-| **uni** | complete | completo           |
-| **uno** | thorough | completo + intenso |
-| **unu** | total    | totalidade         |
+| **una** | fragment | piece / fragment        |
+| **une** | partial  | partial                 |
+| **uni** | complete | complete                |
+| **uno** | thorough | complete + intensive    |
+| **unu** | total    | totality                |
 
 ---
 
