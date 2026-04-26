@@ -2,7 +2,7 @@
 
 **Complete Grammatical Foundation — Particles and Functions**
 
-_Version 0.7.4 — Updated Structure_
+_Version 0.8.0 — Updated Structure_
 
 ---
 
@@ -17,7 +17,8 @@ The CV (Consonant-Vowel) and VC (Vowel-Consonant) systems form the **grammatical
 **System Architecture:**
 
 - **20 base consonants** = 20 grammatical domains
-- **7 defined consonant clusters (ECs)** = specialized grammatical functions
+- **10 active consonant clusters (ECs)** = specialized grammatical functions
+- **1 reserved EC (GL)** = future expansion
 - **5 vowels** = systematic gradation within each domain
 - **Result:** Highly productive grammatical system with predictable patterns
 
@@ -281,22 +282,23 @@ The vowel sequence follows a cognitive gradient:
 ### Key Distinction
 
 - **VC ≠ negation**
-- Negation is handled by **V (vu)**
+- Negation is handled by **H (hu)**
+- *vu* (V-family) = emphasis, not negation
 
 ---
 
 ### Examples
 
-- **ma va** → can happen  
-- **am va** → cannot happen (impossible)  
+- **ma va** → can happen
+- **am va** → cannot happen (impossible)
 
-- **mo va** → must happen  
-- **om va** → does not need to happen  
+- **mo va** → must happen
+- **om va** → does not need to happen
 
-- **mu va** → will certainly happen  
-- **um va** → uncertain if it happens  
+- **mu va** → will certainly happen
+- **um va** → uncertain if it happens
 
-- **vu mo va** → must not happen  
+- **hu mo va** → must not happen (negation via hu)
 
 ---
 ## 📋 FAMILY G — Aspect
@@ -340,7 +342,7 @@ The vowel sequence follows a cognitive gradient:
 |**ve**|activates as adjective/quality|[adj]-like, -ish|_ve para_ = watery|
 |**vi**|activates as instrument|used as, via|_vi pata_ = using stone|
 |**vo**|activates as collective/set|group of, -ery|_vo pata_ = quarry|
-|**vu**|negation of following word|un-, not, -less|_vu wa_ = loveless|
+|**vu**|emphasis / intensity|really, truly, very|_ba vu va wa be_ = I REALLY love you|
 
 ---
 
@@ -358,17 +360,23 @@ The vowel sequence follows a cognitive gradient:
 
 ### Examples
 
-- **va wa be** → to love you  
-- **ve para** → watery  
-- **vi pata** → using stone  
-- **vo pata** → stone group / quarry  
-- **vu wa** → absence of love  
+- **va wa be** → to love you
+- **ve para** → watery
+- **vi pata** → using stone
+- **vo pata** → stone group / quarry
+- **vu va wa be** → to REALLY love you (emphasis)
 
-- **av vapa** → runner  
-- **ev wa** → loving / affectionate  
-- **iv vata** → broken (result)  
-- **ov vapa** → one who runs repeatedly  
-- **uv wa** → mutual love  
+- **av vapa** → runner
+- **ev wa** → loving / affectionate
+- **iv vata** → broken (result)
+- **ov vapa** → one who runs repeatedly
+- **uv wa** → mutual love
+
+### Key Rules
+
+- *va* never appears alone — it always takes a following word as its nucleus
+- *vu* intensifies only the immediately following element (local scope)
+- Negation is handled by **hu** (H-family), not by V-family
 
 ---
 ## 📋 FAMILY R — State / Condition
@@ -540,62 +548,66 @@ The vowel sequence follows a cognitive gradient:
 - **CV defines the comparison operation**
 - **VC defines the position within the scale**
 ---
-## 📋 FAMILY H — Expression / Interjection
+## 📋 FAMILY H — Epistemic / Interaction Operator
 
-**Function:** Expressive and discourse markers — how something is said
+**Function:** Two-dimensional interaction operator — controls the relationship between speaker and listener
 
----
-## 🔹 CV — Discourse Flow (pontuação + interjeição leve)
-
-
-| VC     | Meaning | Sense                  |
-| ------ | ------- | ---------------------- |
-| ha     | ask     | question stance        |
-| **he** | doubt   | uncertainty / irony    |
-| **hi** | unsure  | hesitation / conflict  |
-| **ho** | react   | surprise / realization |
-| **hu** | reject  | denial / refusal       |
+**Position rule:**
+- **Sentence-initial** = speaker's epistemic position (affirmation, negation, doubt)
+- **Sentence-final** = alignment demand (confirmation, questioning)
 
 ---
 
-## 🔹 VC — Speaker Stance (atitude)
+## 🔹 CV — Speaker Stance (vowel = degree of certainty)
 
+| Particle | Meaning | Initial use | Final use |
+|---|---|---|---|
+| **ha** | yes / affirmation | "I affirm" | "right?" / "isn't it?" |
+| **he** | probably yes | "I think so" | "you think so?" |
+| **hi** | uncertain / doubt | "maybe" | "could it be?" |
+| **ho** | probably not | "I doubt it" | "don't you think?" |
+| **hu** | no / negation | "I deny" | "isn't it not?" |
 
-| CV     | Meaning | Use                       |
-| ------ | ------- | ------------------------- |
-| **ah** | open    | start / call attention    |
-| eh     | pause   | hesitation / continuation |
-| ih     | focus   | highlight / emphasis      |
-| **oh** | react   | exclamation               |
-| uh     | close   | end / final tone          |
+**Intonation layer (independent of vowel):**
+- *ha.* = yes (statement) / *ha?* = yes? (question) / *ha!* = yes! (exclamation)
+- The vowel encodes certainty; intonation encodes the speech act.
+
+---
+
+## 🔹 VC — Discourse Markers
+
+| Particle | Meaning | Use |
+|---|---|---|
+| **ah** | open / call attention | start, summon |
+| **eh** | pause / hesitation | continuation marker |
+| **ih** | focus / highlight | emphasis marker |
+| **oh** | citation marker | before = introduces speech; after = attributes speech |
+| **uh** | close / final tone | end marker |
 
 ---
 
 ### Interrogative Rule
 
-- **K + ha** → interrogative form  
-  - *ke ha* → "who?"  
-  - *ke* → "who" (declarative)
+- **K + ha** → interrogative form
+  - *ke ha* → "who?" (question)
+  - *ke* → "who" (declarative — no interrogative mode)
 
----
+### Negation via hu
+
+- **hu** at sentence start = global negation: *hu ba va wa be* = I don't love you
+- **hu** before an element = local negation: *ba hu va wa be* = I don't do the act of loving
+- **hu + vu** = emphatic negation: *hu vu ba va wa be* = I absolutely do not love you
 
 ### Citation Rule
 
-- **oh + [speech]** → introduces speech  
-- **[speech] + oh** → attributes speech  
+- **oh + [speech]** → introduces speech (content is primary)
+- **[speech] + oh** → attributes speech (speaker is secondary)
 
 ---
 
 ### Conceptual Gradient
 
-> opening → hesitation → structuring → reaction → closure
-
----
-
-### Structural Rule
-
-- **CV controls discourse flow**
-- **VC expresses speaker stance**
+> certainty → probability → uncertainty → improbability → negation
 
 ---
 ## 📋 FAMILY N — Quantity
@@ -1244,11 +1256,17 @@ Push → Pull → Hold → Impact → Release
 
 ---
 
-**File:** `05-grammar-cv-vc.md`
-**Version:** 0.7.4
-**Status:** ✅ Complete — 20 base consonants + 11 active ECs
+**File:** `07-grammar-cv-vc.md`
+**Version:** 0.8.0
+**Status:** ✅ Complete — 20 base consonants + 10 active ECs + 1 reserved (GL)
+
+**Key changes in 0.8.0:**
+- Family V: *vu* = emphasis (not negation)
+- Family H: reformulated as epistemic/interaction operator with positional rules
+- Negation: *hu* (H-family) handles all negation — global (initial) or local (before target)
+- EC count updated: 10 active + 1 reserved
 
 **Related Documentation:**
 - `04-structure.md` — System architecture
-- `06-basics-vcv.md` — VCV advanced particles
-- `10-grammar-system.md` — Verbal system and syntax
+- `06-grammar-system.md` — Grammar system overview
+- `08-basics-vcv.md` — VCV advanced particles
