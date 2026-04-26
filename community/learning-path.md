@@ -1,645 +1,461 @@
-# 📚 LEARNING PATH — Conlang v0.6.0
+# 📚 LEARNING PATH — Universal Ontological Language
 
 **A Systematic Approach to Mastering the Language**
 
-_Version 0.6.0 — March 2026_
+_Version 0.8.0 — April 2026_
 
 ---
 
 ## 🎯 Overview
 
-This learning path is designed to take you from zero knowledge to fluency in the conlang. The system is highly logical and deducible, making it faster to learn than natural languages once you understand the underlying patterns.
+This learning path takes you from zero to fluency. The language is highly systematic and deducible — once you understand the underlying architecture, learning accelerates significantly because you infer rather than memorize.
 
-**Total estimated time to fluency:** 12-18 months with consistent study
+**Important:** The language is still in active development. The grammar is complete. The nominal lexicon is being derived from the ontological matrix system. Vocabulary will grow as matrices are completed.
+
+**Total estimated time to functional fluency:** 12–18 months with consistent study.
 
 ---
 
 ## 📊 Learning Levels
 
-| Level | Duration | Vocabulary | Grammar | Communicative Ability |
-|-------|----------|------------|---------|---------------------|
-| **Basic** | 0-6 months | 100 words | CV/VC basics | Simple conversations |
-| **Intermediate** | 6-12 months | 300 words | Full CV/VC, VCV intro | Functional fluency |
-| **Advanced** | 12-18 months | 675+ words | Complete VCV mastery | Full fluency |
-| **Master** | 18+ months | 2000+ words | Creative expansion | Native-like proficiency |
+| Level | Duration | Focus | Communicative Ability |
+|---|---|---|---|
+| **Basic** | 0–6 months | Grammar system + first words | Simple expressions |
+| **Intermediate** | 6–12 months | Full grammar + growing lexicon | Functional fluency |
+| **Advanced** | 12–18 months | Complete VCV + creative use | Full fluency |
+| **Master** | 18+ months | Contribution + creation | Native-like proficiency |
 
 ---
 
-## 🟢 BASIC LEVEL (Months 1-6)
+## 🟢 BASIC LEVEL (Months 1–6)
 
-**Goal:** Achieve basic communicative competence with deducible system understanding
-
----
-
-### **Month 1: Foundations**
-
-#### **Week 1-2: Phonology & Vowel System**
-
-**Learn:**
-- 5 vowels: /a/, /e/, /i/, /o/, /u/
-- Standard gradation scale (a=min → u=max)
-- Exceptions: W (emotion), X/Y/Z (spatial)
-
-**Practice:**
-- Pronounce vowel sequences
-- Recognize gradation patterns
-- Identify exceptions
-
-**Milestone:** Can explain the vowel gradation system to someone else
+**Goal:** Understand the system architecture and achieve basic grammatical competence.
 
 ---
 
-#### **Week 3-4: Core Consonants (First 10)**
+### Month 1 — System Architecture
 
-**Learn these consonants and their domains:**
-1. **B** /b/ — Communication
-2. **M** /m/ — Mind/Cognition
-3. **T** /t/ — Time
-4. **K** /k/ — Social
-5. **P** /p/ — Substance/Matter
-6. **N** /n/ — Nature/Living
-7. **V** /v/ — Life/Vitality
-8. **L** /l/ — Light/Energy
-9. **F** /f/ — Food
-10. **H** /h/ — Dwelling
+Before learning words, understand how the language is structured.
 
-**Practice:**
-- Associate each consonant with its domain
-- Learn 2-3 example words per domain
-- Practice pronunciation
+**Week 1–2: The Three Systems**
 
-**Milestone:** Can name all 10 domains and give examples
+Learn to distinguish:
+- **Grammatical system** — controls how things are said (CV/VC/VCV particles)
+- **Ontological system** — defines what things ARE (structural addresses)
+- **Nominal lexicon** — usable words derived from the ontological system
+
+This distinction is foundational. A word like *para* (water) is a nominal lexicon entry that points to an ontological address in the P-domain (matter). Its first consonant *P* signals the domain; this is not arbitrary.
+
+**Week 3–4: The Vowel System**
+
+Learn the standard gradation:
+- **a → e → i → o → u** = minimum → maximum (standard)
+- **W-family exception:** a = positive, u = negative
+- **X, Y, Z exception:** a = maximum(+), u = minimum(−)
+
+Practice recognizing gradation in particle families.
+
+**Milestone:** Can explain the three systems and the vowel gradation rule.
 
 ---
 
-### **Month 2: Basic Grammar (CV System)**
+### Month 2 — The 20 Domains
 
-#### **Week 1: Pronouns & Tense**
+Learn all 20 base domains and what each one IS (not just its name).
 
-**Learn:**
-- **B-family (Pronouns):** ba (I), be (you), bi (he/she/they), bo (we), bu (you all/they)
-- **T-family (Tense):** ta (past), ti (present), tu (future)
+| # | C | Domain | What it IS |
+|---|---|---|---|
+| 1 | P | Matter | Physical substance |
+| 2 | B | Entity | Discrete identifiable thing |
+| 3 | T | Time | Temporal flow, sequence |
+| 4 | G | Space | Position, location |
+| 5 | R | State | Condition, static being |
+| 6 | L | Structure | Form, arrangement |
+| 7 | S | Quantity | Amount, scale |
+| 8 | D | Artifact | Constructed object |
+| 9 | K | Social | Collective human system |
+| 10 | N | Life | Living organism |
+| 11 | V | Action | Process, doing |
+| 12 | J̌ | Motion | Movement pattern |
+| 13 | X | Causality | Cause-effect relation |
+| 14 | M | Mind | Thought, cognition |
+| 15 | Ľ | Perception | Sensory experience |
+| 16 | Y | Information | Knowledge, content |
+| 17 | W | Emotion | Affective state |
+| 18 | Z | Intensity | Degree, magnitude |
+| 19 | H | Environment | Surrounding context, habitat |
+| 20 | F | Interaction | Contact, exchange, interface |
 
-**Practice sentences:**
+**Key insight:** The Semantic Axis Law means any word's domain is always signaled by its first consonant. A word starting with *N* is always in the Life domain. A word starting with *M* is always in the Mind domain. This makes vocabulary deducible.
+
+**Milestone:** Can name all 20 domains and describe what each one IS.
+
+---
+
+### Month 3 — Core Grammar (CV System)
+
+**Week 1: Pronouns and Tense**
+
+Family B (Pronouns):
+- ba = I / be = you / bi = he, she, they / bo = we / bu = all, everyone
+
+Family T (Tense — optional, sentence is grammatical without it):
+- ta = distant past / te = near past / ti = present / to = near future / tu = distant future
+
+**Week 2: The V-Family — Functional Operators**
+
+This family is the grammatical engine. All V-particles precede the target word.
+
+CV activators:
+- **va** = activates as verb/action (*ba va wa be* = I love you)
+- **ve** = activates as adjective (*ve para* = watery)
+- **vi** = activates as instrument (*vi pata* = using stone)
+- **vo** = activates as collective (*vo pata* = quarry)
+- **vu** = emphasis (*ba vu va wa be* = I REALLY love you)
+
+VC derivational operators:
+- **av** = agent / doer (*av vapa* = runner)
+- **ev** = having the quality (*ev wa* = loving)
+- **iv** = result / product (*iv vata* = the broken)
+- **ov** = iterative (*ov vapa* = one who always runs)
+- **uv** = reciprocal (*uv wa* = mutual love)
+
+**Key rule:** *va* never appears alone — it always takes a following word as its nucleus.
+
+**Week 3: The H-Family — Interaction Operator**
+
+H is a two-dimensional operator, not simply a question marker.
+
+| Form | Initial position | Final position |
+|---|---|---|
+| ha | yes / affirmation | "right?" / "isn't it?" |
+| he | probably | "you think so?" |
+| hi | uncertain | "could it be?" |
+| ho | probably not | "don't you think?" |
+| hu | no / negation | "isn't it not?" |
+
+The vowel encodes certainty. Intonation (↓ ↑ ↓!) encodes the speech act.
+
+**Negation:**
+- *hu* initial = global negation: *hu ba va wa be* = I don't love you
+- *hu* before element = local negation: *ba hu va wa be* = I don't do the loving
+- *hu + vu* = emphatic negation: *hu vu ba va wa be* = I absolutely do not love you
+
+**Week 4: Prepositions and Modals**
+
+Family P (Prepositions):
+- pa = from (source) / pe = through (path) / pi = in, at (location) / po = reverse, back / pu = to, toward (goal)
+
+VC spatial modifiers:
+- ap = together, with / ep = near / ip = outside / op = far / up = separated
+
+Family M (Modals):
+- ma = can / me = may / mi = factual / mo = must / mu = certainly
+
+**Milestone:** Can form basic sentences using B, T, V, H, P, M families.
+
+---
+
+### Month 4 — The W-Family and Emotional Predicates
+
+Family W is the primary emotional scale. W-words function directly as predicates without *va*:
+
+- wa = love / we = like / wi = neutral / wo = dislike / wu = hate
+
+Practice:
 ```
-ba va = I do
-be va ta = you did (past)
-bi va tu = they will do (future)
-```
-
-**Milestone:** Can conjugate basic verbs in 3 tenses
-
----
-
-#### **Week 2: Questions & Modals**
-
-**Learn:**
-- **K-family (Questions):** ka (what), ke (who), ki (where), ko (when), ku (why)
-- **M-family (Modals):** ma (can), mo (must), mu (will)
-
-**Practice sentences:**
-```
-ka bi va? = what does he/she do?
-ke va? = who does?
-ba ma va = I can do
-```
-
-**Milestone:** Can ask and answer basic questions
-
----
-
-#### **Week 3-4: Prepositions & Cases**
-
-**Learn:**
-- **P-family (Prepositions):** 
-  - pa (to), pi (in/at), po (from), pu (with), pe (through)
-
-**Practice sentences:**
-```
-ba va pi hapi = I work in house
-bi va po kipi = they come from community
-```
-
-**Milestone:** Can express spatial relationships
-
----
-
-### **Month 3: Essential Vocabulary (50 Words)**
-
-**Learn 50 most common CVCV words across domains:**
-
-#### **People & Social (10 words)**
-- kapa (infant), kape (child), kapi (adult), kapo (elder)
-- kepi (friend), kepu (family), kopi (citizen)
-- baba (whisper), babi (speech), babu (decree)
-
-#### **Substance & Nature (10 words)**
-- pepi (liquid/water), papi (air), pipi (solid/stone)
-- napa (moss), nape (grass), napi (bush), napo (tree)
-- nepi (animal), fepi (leaf/vegetable)
-
-#### **Daily Life (10 words)**
-- hapi (house), hepi (room), fapi (cooked food)
-- fopa (snack), fopi (meal), tapi (day/hour)
-- lapi (light), vapi (health)
-
-#### **Actions & States (10 words)**
-- va (do), ve (become), vi (be/exist)
-- ma (can), mo (must), mi (neutral)
-- ra (change), re (stay), ri (seem)
-
-#### **Common Modifiers (10 words)**
-- ma/mi/mu (small/medium/large)
-- la/li/lu (bad/normal/good)
-- ka/ki/ku (few/some/many)
-- pa/pi/pu (weak/medium/strong)
-
-**Practice:** Create simple sentences using these 50 words
-
-**Milestone:** Can hold basic conversations about daily life
-
----
-
-### **Month 4: Basic Modifiers**
-
-**Learn the 5 most productive modifiers:**
-
-1. **M (Magnitude/Size):** ma/me/mi/mo/mu
-2. **L (Quality/State):** la/le/li/lo/lu
-3. **K (Quantity):** ka/ke/ki/ko/ku
-4. **V (Movement):** va/ve/vi/vo/vu
-5. **P (Intensity):** pa/pe/pi/po/pu
-
-**Practice creating variants:**
-```
-kapi = adult
-kapima = small adult (dwarf)
-kapimu = large adult (giant)
-kapila = bad adult (villain)
-kapilu = good adult (hero)
-
-pepi = liquid
-pepima = small liquid (drop)
-pepimu = large liquid (ocean)
-pepiva = still liquid (pond)
-pepivu = moving liquid (waterfall)
+ba wa be       → I love you
+ba we para     → I like water
+bi wu nana     → he hates soil
+wa be          → love you (colloquial, va omitted)
 ```
 
-**Milestone:** Can modify any noun with 5 basic modifiers
+Also learn:
+- Family G (Aspect): ga=punctual, ge=cyclic, gi=ongoing, go=continuous, gu=complete
+- Family L (Conjunction): la=or, le=and, li=if, lo=but, lu=therefore
+
+**Milestone:** Can express emotional states and combine clauses.
 
 ---
 
-### **Month 5: VC System Introduction**
+### Month 5 — First Vocabulary
 
-**Learn VC particles as extensions of CV:**
+By now the grammatical system is understood. Begin learning the first derived words.
 
-#### **Week 1-2: Reflexives & Reciprocals**
-- **ab** (myself), **eb** (yourself), **ib** (oneself)
-- **ub** (each other)
+**Current core vocabulary (from P-domain matrices):**
 
-#### **Week 3-4: Negation & Advanced Prepositions**
-- **an** (none), **in** (some), **un** (all)
-- **ap** (away from), **ip** (inside), **op** (outside)
+Physical matter:
+- para = water / pata = stone / pana = soil / pasa = air / pala = wood
+- paka = sand / pori = oil / piru = blood / pali = fiber / poti = bone
 
-**Practice:**
+**Strategy for new words:** Every word you learn, note its first consonant (domain) and second consonant (operational direction). This anchors it in the system rather than isolating it in memory.
+
+**Milestone:** Active use of 30–50 words in sentences.
+
+---
+
+### Month 6 — Operator Stacking and Basic Fluency
+
+Learn the full operator order:
+
 ```
-ba ab va = I do myself (reflexive)
-bo ub va = we do each other (reciprocal)
-ba va ip hapi = I work inside house
-```
-
-**Milestone:** Can use reflexives and complex spatial expressions
-
----
-
-### **Month 6: Basic Fluency Practice**
-
-#### **Activities:**
-- Write 50-word diary entries daily
-- Describe your day using learned vocabulary
-- Practice question-answer dialogues
-- Translate simple English sentences
-
-#### **Vocabulary expansion:**
-- Reach 100 total words
-- Focus on personally relevant domains
-- Learn words you need for daily expression
-
-**Milestone:** Basic conversational fluency achieved
-
----
-
-## 🟡 INTERMEDIATE LEVEL (Months 7-12)
-
-**Goal:** Achieve functional fluency with expanded vocabulary and nuanced grammar
-
----
-
-### **Month 7: Remaining Consonants & Domains**
-
-**Learn the remaining 10 base consonants:**
-
-11. **D** /d/ — Structure/Form
-12. **G** /g/ — Geography
-13. **R** /ɾ/ — Tool/Artifact
-14. **S** /s/ — Quantity/Measurement
-15. **J̌** /dʒ/ — Motion/Movement
-16. **W** /w/ — Weather/Climate
-17. **X** /ʃ/ — Spatial (X-axis)
-18. **Y** /ʒ/ — Spatial (Y-axis)
-19. **Z** /z/ — Spatial (Z-axis)
-20. **Ľ** /ʎ/ — Knowledge/Information
-
-**Practice:**
-- Learn 5 words per domain (50 new words)
-- Understand domain semantics
-- Practice domain-specific conversations
-
-**Milestone:** Know all 20 base domains
-
----
-
-### **Month 8: Consonant Clusters (ECs)**
-
-**Learn the 7 defined ECs:**
-
-21. **PR** /pɾ/ — Process/Method
-22. **BR** /bɾ/ — Sense/Perception
-23. **TR** /tɾ/ — Transport/Vehicle
-24. **DR** /dɾ/ — Container/Vessel
-25. **KR** /kɾ/ — Creation/Art
-26. **GR** /gɾ/ — Growth/Development
-27. **PL** /pl/ — Plant/Vegetation
-
-**Learn EC pronunciation rule:**
-- V+EC without vowel = nasal final: **agr** → /agɾã/
-- V+EC+V = normal oral: **agra** → /agɾa/
-
-**Practice:**
-- 3-5 words per EC domain
-- EC-based conversations
-- Proper pronunciation
-
-**Milestone:** Comfortable with all 27 domains
-
----
-
-### **Month 9: All 24 Modifiers**
-
-**Master all functional modifiers:**
-
-#### **Base Modifiers (17):**
-P, M, N, V, W, T, K, B, D, G, S, L, R, F, H, J̌, Ľ
-
-#### **EC Modifiers (7):**
-PR, BR, TR, DR, KR, GR, PL
-
-**Practice creating full modifier sets:**
-```
-kapi (adult) with all modifiers:
-kapima = small adult
-kapina = rare adult
-kapiva = slow adult
-kapiwa = happy adult
-kapita = brief adult (short-lived)
-kapika = few adults
-... (continue for all 24)
+[H-initial]  [vu]  [M]  [T]  [G]  [Subject]  [va]  [Nucleus]  [Object]  [L]  [H-final]
 ```
 
-**Milestone:** Can apply any modifier to any noun
+Practice complex sentences:
+```
+ha ba ma te gi va wa be ha
+→ was I really able to be loving you?
+  (affirmation + ability + near past + ongoing + I + love + you + confirmation)
+```
+
+**Milestone:** Can stack operators naturally and hold basic conversation.
 
 ---
 
-### **Month 10: VCV System Introduction**
+## 🟡 INTERMEDIATE LEVEL (Months 7–12)
 
-**Understand VCV structure:**
-- Initial vowel = degree/intensity
-- Consonant = family
-- Final vowel = specific nuance
-
-**Learn 5 VCV families thoroughly:**
-1. **AB-series** (Reflexive emphasis)
-2. **IB-series** (Anaphoric reference)
-3. **AM-series** (Ability/capability)
-4. **EM-series** (Permission/allowance)
-5. **AT-series** (Past time distance)
-
-**Practice:**
-```
-aba = barely self
-abi = oneself
-abu = exclusively self
-
-ama = completely unable
-ami = able, can
-amu = highly capable
-```
-
-**Milestone:** Understand VCV gradation logic
+**Goal:** Master all grammar families and expand vocabulary as the lexicon grows.
 
 ---
 
-### **Month 11: 3D Spatial System**
+### Month 7 — Remaining Grammar Families
 
-**Master X-Y-Z coordinate system:**
+Learn all remaining CV/VC families:
+
+- **K** (Reference words): ka=who, ke=what, ki=where, ko=when, ku=why, ik=how
+- **R** (State/Condition): ra=seem, re=become, ri=be, ro=remain, ru=cease
+- **J̌** (Causality): ǰa=because, ǰe=by means of, ǰi=despite, ǰo=in order to, ǰu=therefore
+- **S** (Boundary): sa=since, se=within, si=exactly, so=beyond, su=until
+- **F** (Comparison): fa=least, fe=less, fi=equal, fo=more, fu=most
+- **N** (Quantity): na=none, ne=few, ni=some, no=many, nu=all
+- **D** (Demonstrative): da=this, de=that (near you), di=the known, do=that far, du=yonder
+- **Ľ** (Evidentiality): ľa=I doubt, ľe=I infer, ľi=I saw directly, ľo=I heard, ľu=assumed
+
+**Milestone:** Know all 20 CV families and their primary particles.
+
+---
+
+### Month 8 — Consonant Clusters (ECs)
+
+Learn the EC system. Key insight: EC meanings are compositionally derived.
+
+**×R series** (state of X):
+- PR = physical state / BR = identity / TR = existence / GR = positioning state
+- KR = possession / LR = configuration state / MR = intention / XR = applied force / FR = interaction state
+
+**×L series** (structure of X):
+- PL = material structure / BL = identity structure / TL = temporal structure
+- GL = spatial structure / KL = social structure / NL = biological structure
+- VL = method / ML = conceptual structure / XL = mechanism / FL = interface
+
+You do not need to memorize these — derive them from the component domains.
+
+Also learn **FR** (Force/Interaction) CV particles:
+- fra=push / fre=pull / fri=hold / fro=hit / fru=release
+
+**Milestone:** Can derive EC meanings from component domains.
+
+---
+
+### Month 9 — VCV System Introduction
+
+VCV structure: **[Initial Vowel] + [Consonant] + [Final Vowel]**
+
+- Initial vowel = degree, intensity, or origin
+- Consonant = grammatical family
+- Final vowel = specific nuance or destination
+
+Begin with 5 families:
+
+**AM-series** (Ability):
+ama=unable / ame=barely able / ami=able / amo=easily able / amu=highly capable
+
+**AT-series** (Past distance):
+ata=very long ago / ate=long ago / ati=earlier / ato=recently / atu=just now
+
+**AK-series** (Thing reference):
+aka=anything / ake=what kind / aki=which thing / ako=what specifically / aku=what exactly
+
+**IM-series** (Possibility):
+ima=impossible / ime=unlikely / imi=possible / imo=likely / imu=certain
+
+**AW-series** (Emotional valence):
+awa=strongly positive / awe=positive / awi=neutral / awo=negative / awu=strongly negative
+
+**Milestone:** Understand VCV gradation logic and can use 5 families.
+
+---
+
+### Month 10 — 3D Spatial System
+
+Master the X-Y-Z coordinate system.
 
 **Structure:** `[X-vowel] + [Y-vowel] + [Z-vowel]`
+- X = lateral (right ↔ left): a=extreme right, u=extreme left
+- Y = frontal (front ↔ back): a=extreme front, u=extreme back
+- Z = vertical (up ↔ down): a=extreme top, u=extreme bottom
 
-**Learn coordinates:**
-- **xiyizi** = (0,0,0) center
-- **xayaza** = (+,+,+) top-right-front
-- **xuyuzu** = (−,−,−) bottom-left-back
+Examples:
+- xiyizi = (0,0,0) absolute center
+- xayaza = (+,+,+) top-right-front
+- xuyuzu = (−,−,−) bottom-left-back
 
-**Practice spatial descriptions:**
-- Describe object positions in 3D space
-- Express movement through coordinates
-- Navigate using spatial language
+VCV movement patterns express trajectories:
+- *axu* = from right to left (X-axis)
+- *aza* = stays at top (Z-axis)
 
-**Milestone:** Can describe 3D positions and movements
+**Milestone:** Can describe 3D positions and movements.
 
 ---
 
-### **Month 12: Intermediate Consolidation**
+### Month 11 — Complete VCV System
+
+Study all 30 VCV families systematically (750 particles total).
+
+**Method:** Group by domain family, find gradation patterns, practice in context. 5 particles per day = complete system in ~5 months at this pace; at intermediate level, focus on the most productive families first.
+
+Priority families:
+- M-series (modality nuances)
+- G-series (aspect nuances)
+- R-series (state nuances)
+- H-series (epistemic nuances)
+- B-series (pronoun nuances)
+
+**Milestone:** Comfortable with 15+ VCV families.
+
+---
+
+### Month 12 — Intermediate Consolidation
 
 **Activities:**
-- Write 200-word essays
-- Hold extended conversations (10+ minutes)
-- Translate complex English paragraphs
-- Create original content (stories, descriptions)
+- Write 200-word texts in the language
+- Hold conversations on familiar topics
+- Translate simple English paragraphs
+- Begin creating original content
 
-**Vocabulary goal:** 300+ words
+**Vocabulary goal:** 150–200 words (dependent on lexicon development progress)
 
-**Milestone:** Functional fluency in most contexts
-
----
-
-## 🔴 ADVANCED LEVEL (Months 13-18)
-
-**Goal:** Master the complete VCV system and achieve full fluency
+**Milestone:** Functional fluency with available vocabulary.
 
 ---
 
-### **Month 13-14: Complete VCV Mastery**
+## 🔴 ADVANCED LEVEL (Months 13–18)
 
-**Learn all 27 VCV families (675 particles):**
-- 5 particles per day = 135 days
-- Focus on semantic patterns, not memorization
-- Understand gradation within each series
-
-**Study method:**
-- Group by domain (all B-family VCVs together)
-- Find patterns across series
-- Practice in context
-
-**Milestone:** Can use VCV particles naturally
+**Goal:** Full VCV mastery, complete vocabulary, creative use.
 
 ---
 
-### **Month 15: Advanced Vocabulary (675 Words)**
+### Month 13–14 — Complete VCV Mastery
 
-**Master all base CVCV words:**
-- Systematic study by domain
-- 25 words per day
-- Active usage in sentences
+Learn all 750 VCV particles across 30 families. At this stage, focus on the less common families and their semantic interactions.
 
-**Study domains in order:**
-1. P (Substance) — 25 words
-2. B (Communication) — 25 words
-3. M (Mind) — 25 words
-... (continue through all 27)
-
-**Milestone:** Know all 675 base words
+Study method:
+- Learn within domain groups
+- Find cross-family gradation patterns
+- Practice in increasingly complex sentences
 
 ---
 
-### **Month 16: Creative Word Formation**
+### Month 15 — Vocabulary Depth
 
-**Practice creating new words:**
+By this phase, the nominal lexicon should be substantially developed. Work to master:
+- All derived core CVCV words
+- Productive 3-syllable extensions (CVCVCV)
+- Word creation using the projection rules
 
-#### **3-syllable words (CVCVCV):**
-- Add third syllable for specificity
-- Maintain semantic coherence
-- Follow productive patterns
-
-#### **Modified words:**
-- Apply modifiers systematically
-- Create precise meanings
-- Develop personal vocabulary
-
-**Practice:**
-```
-pepi = liquid
-pepika = collected liquid (3rd syllable)
-pepikava = pond (collected liquid, still)
-pepikavu = waterfall (collected liquid, rushing)
-```
-
-**Milestone:** Can create neologisms systematically
+**Projection rules review:**
+- C₁ = mandatory (mirrors primary domain)
+- C₂ = preferential (soft semantic clustering)
+- Vowels = free (purely distinctive)
+- Length = frequency (shorter = more common)
 
 ---
 
-### **Month 17: Literary & Formal Register**
+### Month 16 — Creative Word Formation
 
-**Develop advanced expression:**
+Practice systematic word creation:
 
-#### **Learn:**
-- Formal speech patterns (babu domain)
-- Literary VCV usage
-- Complex sentence structures
-- Idiomatic expressions
+1. Identify the ontological domain of the concept
+2. Identify the operational direction (C₂)
+3. Choose vowels for distinction
+4. Verify against existing words for collisions
+5. Use it in sentences to test
 
-#### **Practice:**
-- Write poetry
-- Formal letters
-- Academic-style texts
-- Speeches
-
-**Milestone:** Can write in multiple registers
+**Milestone:** Can create new words systematically and confidently.
 
 ---
 
-### **Month 18: Full Fluency**
+### Month 17–18 — Full Fluency
 
-**Final consolidation:**
+**Activities:**
+- Extended writing (500+ words)
+- Complex translations
+- Teaching the language to others (best test of mastery)
+- Contributing to lexicon development
 
-#### **Activities:**
-- Daily conversation practice
-- Creative writing (1000+ words)
-- Translation in both directions
-- Teaching others (best test of mastery)
-
-#### **Goals:**
-- 2000+ active vocabulary
-- Spontaneous speech
-- Natural thought in the language
-- Cultural competence
-
-**Milestone:** Full fluency achieved
+**Milestone:** Full fluency achieved.
 
 ---
 
 ## 🏆 MASTER LEVEL (18+ Months)
 
-**Goal:** Native-like proficiency and language development contribution
+**Goal:** Native-like proficiency and active contribution to language development.
 
----
-
-### **Advanced Skills**
-
-1. **Spontaneous creation**
-   - Coin new words effortlessly
-   - Develop specialized vocabularies
-   - Create domain-specific jargon
-
-2. **Stylistic variation**
-   - Poetry and literature
-   - Technical writing
-   - Casual and formal registers
-   - Humor and wordplay
-
-3. **Meta-linguistic awareness**
-   - Analyze language structure
-   - Identify productive patterns
-   - Propose systematic extensions
-
-4. **Language development**
-   - Contribute to lexicon expansion
-   - Develop new domains (3 open ECs)
-   - Create corpus of texts
-   - Teach and mentor new learners
+**Skills:**
+- Spontaneous word creation following all rules
+- Multiple registers (formal, casual, technical, poetic)
+- Meta-linguistic awareness (can analyze and extend the system)
+- Contributing to the corpus, lexicon, and community
 
 ---
 
 ## 📚 Study Resources by Level
 
-### **Basic Level**
-- Grammar reference: `05-grammar-cv-vc.md`
-- First 100 words list (from nominal matrix)
-- Basic modifier guide
-- Simple sentence patterns
+### Basic
+- `06-grammar-system.md` — Grammar overview and syntax
+- `07-grammar-cv-vc.md` — CV/VC particles (all families)
+- `09-ontological-system.md` — Domain architecture
 
-### **Intermediate Level**
-- Complete grammar: `05-grammar-cv-vc.md` + `06-basics-vcv.md`
-- Nominal lexicon: `09-lexicon-nominal-matrix.md`
-- All 27 domains: `nominal-lexicon.md`
-- Modifier application examples
+### Intermediate
+- `08-expanded-grammar-vcv.md` — Complete VCV system
+- `10-lexicon-nominal.md` — Growing nominal lexicon
+- `11-3D-spatial-coordinates.md` — Coordinate system
 
-### **Advanced Level**
-- Complete VCV system: `06-basics-vcv.md`
-- All 675 base words
-- Creative formation rules
-- Literary examples (in development)
+### Advanced
+- All grammar documents
+- Complete domain matrices
+- Nominal_Lexicon_Checkpoint files
 
 ---
 
 ## 🎯 Study Tips
 
-### **Daily Practice (30-60 minutes)**
-1. **Review:** 10 min — Previous material
-2. **New content:** 20 min — Today's lesson
-3. **Production:** 20 min — Writing/speaking
-4. **Immersion:** 10 min — Think in the language
+**Daily practice (30–60 minutes):**
+1. Review — 10 min — previous material
+2. New content — 20 min — today's lesson
+3. Production — 20 min — writing or speaking
+4. Reflection — 10 min — what did you deduce vs memorize?
 
-### **Weekly Goals**
-- Learn 20-30 new words
-- Master 1-2 grammatical concepts
-- Write 3-5 short texts
-- Practice conversations (even with yourself)
+**Key habit:** Always ask *why* a word means what it means. The system rewards understanding over memorization.
 
-### **Monthly Assessment**
-- Can you explain this month's concepts?
-- Can you use new words spontaneously?
-- Are you thinking in the language more?
-- What's your next challenge?
+**Weekly goal:** Master 1–2 grammatical concepts + whatever new vocabulary is available.
 
----
-
-## 🧠 Learning Strategies
-
-### **Leverage the System**
-- Don't memorize — understand patterns
-- Learn domains, not isolated words
-- Use gradation logic
-- Build on what you know
-
-### **Active Usage**
-- Write daily (even 50 words)
-- Speak aloud (describe your day)
-- Think in the language
-- Create, don't just consume
-
-### **Spaced Repetition**
-- Review at increasing intervals
-- Focus on active recall
-- Use flashcards for vocabulary
-- Test yourself regularly
-
-### **Immersion**
-- Label objects around you
-- Translate signs and menus
-- Keep a journal
-- Create content you enjoy
+**Track deduction, not just memorization:** A word you can derive is worth more than a word you memorize in isolation.
 
 ---
 
 ## 📈 Progress Milestones
 
-### **Month 3:**
-✓ Know 50 words  
-✓ Can form basic sentences  
-✓ Understand CV system  
-✓ Can ask simple questions
-
-### **Month 6:**
-✓ Know 100 words  
-✓ Basic conversational fluency  
-✓ Understand VC system  
-✓ Can use 5 main modifiers
-
-### **Month 12:**
-✓ Know 300 words  
-✓ Functional fluency  
-✓ VCV introduction complete  
-✓ Can use all 24 modifiers
-
-### **Month 18:**
-✓ Know 675+ words  
-✓ Full fluency  
-✓ Master VCV system  
-✓ Can create new words
+| Month | Grammar | Vocabulary | Ability |
+|---|---|---|---|
+| 3 | CV families | 30–50 words | Basic sentences |
+| 6 | CV + VC complete | 50–80 words | Simple conversation |
+| 12 | VCV intro | 150–200 words | Functional fluency |
+| 18 | VCV complete | 500+ words | Full fluency |
 
 ---
 
-## 🎓 Assessment Criteria
-
-### **Basic Proficiency**
-- Vocabulary: 100+ words
-- Can introduce yourself
-- Can describe daily activities
-- Can ask and answer simple questions
-
-### **Intermediate Proficiency**
-- Vocabulary: 300+ words
-- Can hold 10-minute conversations
-- Can write short essays (200 words)
-- Can understand systematic word formation
-
-### **Advanced Proficiency**
-- Vocabulary: 675+ words
-- Can discuss complex topics
-- Can write formally and creatively
-- Can teach the language to others
-
-### **Master Proficiency**
-- Vocabulary: 2000+ words
-- Native-like fluency
-- Can contribute to language development
-- Can create literature
-
----
-
-**Last Updated:** March 19, 2026  
-**Version:** 0.6.0  
-**Status:** Complete Learning Framework
-
----
+**Last Updated:** April 2026
+**Version:** 0.8.0
+**Status:** Active — vocabulary targets will update as lexicon develops

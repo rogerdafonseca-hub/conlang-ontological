@@ -1,4 +1,4 @@
-# 📝 CHANGELOG — Conlang Project
+# 📝 CHANGELOG — Universal Ontological Language
 
 **Complete Version History and Development Log**
 
@@ -6,348 +6,280 @@ _All notable changes to this project will be documented in this file._
 
 ---
 
+## [0.8.0] - 2026-04 — COMPOSITIONAL EC SYSTEM 🏗️
+
+### **Major Release: Domain Remodeling and Transparent EC Derivation**
+
+This version introduces a fundamental redesign of the domain ordering and the consonant cluster (EC) system. ECs are now **compositionally derived** from base domain combinations, making the system fully transparent — a speaker who knows the 20 base domains can infer EC meanings without memorization.
+
+---
+
+### 🎯 **BREAKING CHANGES**
+
+#### **Domain Reordering**
+All 20 base domains have been reordered by **ontological proximity** (concrete → abstract) for better systematic derivation of ECs:
+
+| # | C | Domain |
+|---|---|---|
+| 1 | P | Matter |
+| 2 | B | Entity |
+| 3 | T | Time |
+| 4 | G | Space |
+| 5 | R | State |
+| 6 | L | Structure |
+| 7 | S | Quantity |
+| 8 | D | Artifact |
+| 9 | K | Social |
+| 10 | N | Life |
+| 11 | V | Action |
+| 12 | J̌ | Motion |
+| 13 | X | Causality |
+| 14 | M | Mind |
+| 15 | Ľ | Perception |
+| 16 | Y | Information |
+| 17 | W | Emotion |
+| 18 | Z | Intensity |
+| 19 | H | Environment |
+| 20 | F | Interaction |
+
+#### **EC Compositional Architecture**
+
+R and L elevated to **ontological operators**:
+- **R as second element** = "state of X" (condition, phase, applied being)
+- **L as second element** = "structure of X" (form, organization, pattern)
+
+**×R series (9 active):** PR, BR, TR, GR, KR, LR, MR, XR, FR
+
+**×L series (10 active):** PL, BL, TL, GL, KL, NL, VL, ML, XL, FL
+
+---
+
+### ✨ **NEW FEATURES**
+
+#### **Compositional EC Meanings**
+All ECs now have transparent meanings derivable from their component domains:
+- **PR** (P+R) = Physical state / material condition
+- **BR** (B+R) = Identity (entity as state)
+- **FL** (F+L) = Interface / boundary / structured interaction
+- etc.
+
+#### **Domain Definitions Sharpened**
+- **H** reassigned from Dwelling/Shelter to **Environment** (surrounding context, habitat)
+- **F** reassigned from Food/Nutrition to **Interaction** (contact, exchange, interface)
+- **FL** now covers Dwelling/Shelter as a derived EC (F+L = structured interaction)
+
+#### **Grammar — Family V Reformulated**
+V-family is now a system of **activation and derivation operators** (all pre-word):
+
+**CV — Function Activators:**
+| Particle | Function |
+|---|---|
+| va | activates as verb/action |
+| ve | activates as adjective/quality |
+| vi | activates as instrument |
+| vo | activates as collective/set |
+| vu | emphasis / intensity |
+
+**VC — Derivational Operators:**
+| Particle | Function |
+|---|---|
+| av | agent / doer |
+| ev | having/causing the quality |
+| iv | result / product |
+| ov | iterative / does repeatedly |
+| uv | reciprocal / one another |
+
+#### **Grammar — Family H Reformulated**
+H is now a **two-dimensional epistemic/interaction operator**:
+- **Initial position** = speaker's epistemic stance (ha=yes, he=probable, hi=uncertain, ho=probably not, hu=no)
+- **Final position** = alignment demand from listener ("right?", "isn't it?")
+- **Intonation** = speech act type (statement, question, exclamation)
+
+#### **Grammar — Negation System Clarified**
+- **hu** (H-family) = negation operator (global when initial, local when before target)
+- **vu** (V-family) = emphasis/intensity (not negation)
+- **hu + vu** = emphatic negation
+
+#### **Grammar — Family W Updated**
+W-family reformulated as primary emotional scale:
+- wa = love / we = like / wi = neutral / wo = dislike / wu = hate
+
+---
+
+### 📁 **DOCUMENTATION STRUCTURE**
+
+Docs folder finalized:
+```
+01-philosophy.md
+02-phonology.md
+03-core-uva.md
+04-primary-and-informal-concepts.md
+05-structure.md
+06-grammar-system.md
+07-grammar-cv-vc.md
+08-expanded-grammar-vcv.md
+09-ontological-system.md
+10-lexicon-nominal.md
+11-3D-spatial-coordinates.md
+Nominal_Lexicon_Checkpoint_v5.md
+```
+
+---
+
+### 🔧 **IMPROVEMENTS**
+
+- Grammar system overview consolidated in `06-grammar-system.md`
+- CV/VC system expanded to 30 families (20 base + 10 active ECs + 1 reserved GL)
+- VCV system: 750 particles (30 families × 25)
+- Operator stacking formalized: `[H] [vu] [M] [T] [G] [Subject] [va] [Nucleus] [Object] [L] [H]`
+
+---
+
+## [0.7.4] - 2026-04 — GRAMMAR FINALIZATION
+
+### **Minor Release: Grammar Completion and EC Expansion**
+
+---
+
+### ✨ **NEW FEATURES**
+
+#### **New Active ECs**
+- **BL** /bl/ — Identity / Self
+- **KL** /kl/ — Energy / Force
+- **FL** /fl/ — Dwelling / Shelter (freed H for Expression/Interjection)
+- **FR** /fɾ/ — Force / Interaction (push, pull, hold, hit, release)
+
+#### **Family H — Expression / Interjection**
+H freed from Relation domain and reassigned to discourse/expression:
+- CV: ha=interrogative, he=confirmation, hi=topic marker, ho=surprise, hu=hesitation
+- VC: ah=emphasis, eh=doubt, ih=indecision, oh=citation, uh=emphatic denial
+- VCV: full set of nuanced expressions documented
+
+#### **Family K — Reference Words**
+K formalized as reference words usable in both interrogative and declarative contexts. H-family marks interrogative mode separately.
+
+#### **VCV System Complete**
+- 750 particles total (30 families × 25)
+- All EC families documented (BL, KL, FL, FR + previous 7)
+
+---
+
+### 🔧 **IMPROVEMENTS**
+
+- Family M: VC removed (negation handled by V-family)
+- Family S: *us* removed (redundant with *su*)
+- EC TR: deactivated (covered by X/Y/Z + G + P)
+- GL reserved for future expansion
+
+---
+
+## [0.7.0] - 2026-03/04 — DUAL-LAYER ARCHITECTURE
+
+### **Major Release: Ontological and Lexical System Separation**
+
+---
+
+### 🎯 **BREAKING CHANGES**
+
+#### **Dual-Layer Architecture Formalized**
+- **Sistema Ontológico** (VCV+CV+CV...): semantic infrastructure, defines what something IS
+- **Léxico Nominal** (CVCV+CV): human interface, usable spoken words
+
+#### **Semantic Axis Law Established**
+> C₂ defines OPERATIONS, not concepts.
+> Meaning = Ontology (C₁) × Operation (C₂)
+
+---
+
+### ✨ **NEW FEATURES**
+
+#### **17 C₂ Axes Finalized**
+T, K, V, R, M, B, G, J̌, S, F, H, N, D, L, Ľ, W, X axes fully defined with 5-step progressions.
+
+#### **Domain Matrix System**
+- 7 nucleus matrices finalized: PP, MM, BB, YY, ĽĽ, TRTR, DRDR
+- 17 directional matrices P× completed: PT, PK, PB, PM, PG, PV, PR, PJ̌, PS, PF, PH, PN, PD, PL, PĽ, PW, PX
+- PAPA field lexicon: 36 words (water=para, stone=pata, soil=pana...)
+
+#### **Nominal Lexicon Projection Rules**
+- C₁ = MANDATORY (primary domain)
+- C₂ = PREFERENTIAL (soft clustering, overridable)
+- Vowels = FREE (purely distinctive)
+- Length = FREQUENCY (shorter = more common)
+
+#### **Exception Group Formalized**
+W, X, Y, Z confirmed as exception group with inverted gradation rules.
+
+---
+
+### 📚 **DOCUMENTATION**
+
+- README v0.7.0 created
+- Nominal_Lexicon_Checkpoint_v1 through v5 created
+- Complete documentation suite in English
+
+---
+
 ## [0.6.0] - 2026-03-19 — FOUNDATION COMPLETE 🎉
 
 ### **Major Release: Complete Restructuring**
-
-This version represents the completion of the foundational phase of the language. The entire grammatical system has been restructured for maximum coherence and the nominal lexicon is now fully documented with 675 base words.
 
 ---
 
 ### 🎯 **BREAKING CHANGES**
 
 #### **Spatial Coordinate System Unification**
-- **X, Y, Z are now EXCLUSIVELY spatial** across all systems (CV, VC, VCV)
-- Previous Y and Z grammatical functions migrated to new ECs
-- Complete 3D Cartesian coordinate system implemented
+- X, Y, Z now exclusively spatial across all systems
+- Old Y (Intensity/Degree) → GR /gɾ/ (EC)
+- Old Z (Intention/Volition) → PL /pl/ (EC)
 
-**Migration:**
-- Old Y (Intensity/Degree) → New **GR** /gɾ/ (EC)
-- Old Z (Intention/Volition) → New **PL** /pl/ (EC)
-
-**Rationale:** Eliminates dual-function confusion and creates a pure, integrated 3D spatial system
-
----
-
-#### **Inverted Gradation Rule Clarification**
-**Standard gradation:** a (min) → e → i → o → u (max)
-
-**Exceptions (inverted):**
-1. **W-family (Emotion):** a=positive → u=negative
-2. **X-family (Spatial X-axis):** a=max(+) → u=min(−)
-3. **Y-family (Spatial Y-axis):** a=max(+) → u=min(−)
-4. **Z-family (Spatial Z-axis):** a=max(+) → u=min(−)
-
-**Impact:** Spatial coordinates now follow intuitive mapping (a=high/right/front, u=low/left/back)
+#### **Inverted Gradation Rule**
+- W-family: a=positive → u=negative
+- X, Y, Z: a=max(+) → u=min(−)
 
 ---
 
 ### ✨ **NEW FEATURES**
 
-#### **Consonant System Expansion**
-- **Added:** Consonant cluster **GR** /gɾ/ — Intensity/Degree
-- **Added:** Consonant cluster **PL** /pl/ — Intention/Volition
-- **Total consonants:** 20 base + 10 clusters (7 defined, 3 reserved)
-
-#### **3D Spatial Coordinate System**
-```
-Structure: [X-vowel] + [Y-vowel] + [Z-vowel]
-
-Examples:
-- xiyizi = (0,0,0) absolute center
-- xayaza = (+,+,+) top-right-front corner
-- xuyuzu = (−,−,−) bottom-left-back corner
-```
-
-**Features:**
-- Complete 3D positioning
-- VCV movement expressions
-- Coordinate-based navigation
-- Integrated across all grammar layers
-
-#### **VCV Movement Patterns**
-```
-[Vowel-Origin][Consonant-Axis][Vowel-Destination]
-
-Examples:
-- axu = X-axis: from right to left
-- uxa = X-axis: from left to right
-- aza = Z-axis: stays at top
-- uze = Z-axis: rises from bottom to mid-high
-```
-
-#### **Complete Nominal Lexicon**
-- **675 CVCV base words** systematically created
-- **27 ontological domains** fully populated
-- **All domains:** 25 words each (5 series × 5 gradations)
-
-**Coverage:**
-- P (Substance/Matter): Physical states
-- B (Communication): Expression types
-- M (Mind/Cognition): Mental processes
-- T (Time/Temporality): Temporal concepts
-- K (Social/Cultural): Human relations
-- N (Nature/Living): Life and ecosystems
-- D (Structure/Form): Shapes and patterns
-- L (Light/Energy): Energy types
-- V (Life/Vitality): Health and vigor
-- G (Geography/Space): Landforms and territories
-- R (Tool/Artifact): Tools and machines
-- F (Food/Nutrition): Food and meals
-- H (Dwelling/Shelter): Buildings and settlements
-- S (Quantity/Measurement): Numbers and values
-- J̌ (Motion/Movement): Speed and paths
-- W (Weather/Climate): Weather phenomena
-- Ľ (Knowledge/Information): Truth and sources
-- [+ 7 EC domains: PR, BR, TR, DR, KR, GR, PL]
-
-#### **Modifier System Finalization**
-- **24 functional modifiers** documented (17 base + 7 EC)
-- **5-vowel gradation** for each modifier (a→e→i→o→u)
-- **120 variants** possible per base word
-- **Rule clarified:** Modifier always final syllable, one per word maximum
-
-#### **Pronunciation Rules**
-**VEC (Vowel + EC) Rule:**
-- Isolated V+EC → nasal final vowel: **agr** = /agɾã/
-- V+EC+V → oral vowel: **agra** = /agɾa/
-
-**Purpose:** Distinguish VEC from VECV in speech
+- EC GR /gɾ/ — Intensity/Degree added
+- EC PL /pl/ — Intention/Volition added
+- Complete 3D Cartesian coordinate system: `[X-vowel]+[Y-vowel]+[Z-vowel]`
+- 675 CVCV base words created across 27 domains
+- VEC pronunciation rule: isolated V+EC → nasal final vowel
 
 ---
 
 ### 📚 **DOCUMENTATION**
 
-#### **New Documents**
-- `README.md` — Complete project overview (English)
-- `WELCOME.md` — Friendly introduction and orientation
-- `INDEX.md` — Comprehensive navigation and reference
-- `LEARNING-PATH.md` — Month-by-month curriculum (18 months)
-- `09-lexicon-nominal-matrix.md` — Vocabulary system with examples
-- `nominal-lexicon.md` — All 675 base words documented
-
-#### **Updated Documents**
-- `05-grammar-cv-vc.md` — Fully translated to English, updated with GR/PL
-- `06-basics-vcv.md` — Complete VCV system (675 particles)
-
-#### **Translations**
-- All Portuguese documentation converted to English
-- Consistent terminology throughout
-- Professional presentation
-
----
-
-### 🔧 **SYSTEM IMPROVEMENTS**
-
-#### **Grammar Organization**
-- **CV/VC particles:** 270 total (135 + 135)
-- **VCV particles:** 675 total (27 families × 25)
-- **Clear hierarchy:** CV (basic) → VC (extended) → VCV (nuanced)
-
-#### **Lexicon Architecture**
-```
-[Domain][Subcategory][...Syllables...][Modifier]
-  CV¹       CV²          CVⁿ             CV(final)
-
-Position of modifier:
-- 2-syllable base → modifier is 3rd syllable
-- 3-syllable base → modifier is 4th syllable
-- 4-syllable base → modifier is 5th syllable
-```
-
-#### **Gradation Systematization**
-**Each CV² series gradates by most productive semantic property:**
-
-Examples:
-- P-domain: Physical state (gas, liquid, solid, granular, plasma)
-- K-domain: Age (infant, child, adult, elder, ancestor)
-- T-domain: Duration (instant, brief, medium, long, epoch)
-
-**Result:** Highly productive and memorable patterns
-
----
-
-### 📊 **STATISTICS**
-
-**Vocabulary:**
-- Base CVCV words: **675**
-- With modifiers (24×5): **81,000** theoretical words
-- Grammar particles (CV+VC+VCV): **945**
-
-**Documentation:**
-- Core files: **8** documents
-- Total pages equivalent: **~2,000**
-- Example sentences: **50+** (foundation set)
-
-**System Coverage:**
-- Phonemes: **35** (20 consonants + 10 clusters + 5 vowels)
-- Grammatical domains: **27** (20 base + 7 ECs)
-- Functional modifiers: **24** (17 base + 7 ECs)
-
----
-
-### 🎓 **PEDAGOGICAL FRAMEWORK**
-
-#### **Learning Levels Defined**
-1. **Basic (0-6 months):** 100 words, CV/VC basics, simple conversation
-2. **Intermediate (6-12 months):** 300 words, all modifiers, VCV intro, functional fluency
-3. **Advanced (12-18 months):** 675+ words, complete VCV, full fluency
-4. **Master (18+ months):** 2000+ words, creative expansion, native-like proficiency
-
-#### **Curriculum Structure**
-- Month-by-month breakdown
-- Clear milestones
-- Practice activities
-- Assessment criteria
-
----
-
-### 🐛 **BUG FIXES**
-
-#### **Consistency Issues Resolved**
-- **Fixed:** Y and Z dual-function confusion (grammar vs spatial)
-- **Fixed:** Inconsistent gradation documentation
-- **Fixed:** Missing EC definitions in earlier versions
-- **Fixed:** Ambiguous modifier position rules
-
-#### **Documentation Errors**
-- **Fixed:** Portuguese-English terminology mismatches
-- **Fixed:** Inconsistent IPA notation
-- **Fixed:** Missing cross-references between documents
-- **Fixed:** Outdated examples from previous versions
-
----
-
-### 🔄 **CHANGES FROM v0.5.x**
-
-#### **Removed/Deprecated**
-- ❌ Y and Z as grammatical functions in CV/VC
-- ❌ Inconsistent gradation patterns
-- ❌ Ambiguous modifier rules
-- ❌ Portuguese-only documentation
-- ❌ Incomplete domain coverage
-
-#### **Modified**
-- ♻️ X, Y, Z redefined as pure spatial coordinates
-- ♻️ Modifier system clarified (one per word, final position)
-- ♻️ VCV families restructured for consistency
-- ♻️ Example words updated for clarity
-
-#### **Added**
-- ✅ GR and PL consonant clusters
-- ✅ Complete 675-word lexicon
-- ✅ 3D spatial coordinate system
-- ✅ Comprehensive English documentation
-- ✅ Learning path curriculum
-- ✅ Navigation index
-
----
-
-### 📖 **EXAMPLES**
-
-#### **Spatial Coordinates**
-```
-xiyizi = (0,0,0) center
-xayaza = (+,+,+) top-right-front
-xoyozo = (−,−,−) bottom-left-back (moderate)
-```
-
-#### **Modified Words**
-```
-pepi (liquid) base word:
-→ pepima = drop (magnitude-min)
-→ pepimi = pond (magnitude-med)
-→ pepimu = ocean (magnitude-max)
-→ pepiva = still water (movement-min)
-→ pepivu = waterfall (movement-max)
-→ pepilu = pure water (quality-max)
-```
-
-#### **Grammatical Particles**
-```
-Old system:
-ya, ye, yi, yo, yu = intensity/degree (REMOVED)
-
-New system:
-gra, gre, gri, gro, gru = intensity/degree (EC GR)
-ya, ye, yi, yo, yu = Y-axis spatial position
-```
-
----
-
-### 🙏 **ACKNOWLEDGMENTS**
-
-This version represents a complete foundation for the language. Special recognition for:
-- Systematic restructuring of spatial grammar
-- Complete domain population (675 words)
-- Professional documentation suite
-- Clear learning pathway
-
----
-
-### 📋 **MIGRATION GUIDE**
-
-#### **For Users of v0.5.x**
-
-**Action Required:**
-1. **Update spatial references:** Y/Z are now purely spatial
-2. **Use GR for intensity:** Where you used Y-particles for intensity, use GR
-3. **Use PL for intention:** Where you used Z-particles for intention, use PL
-4. **Review modifier usage:** Ensure modifier is final syllable only
-
-**Example Migration:**
-```
-Old (v0.5.x):
-- ya = weak intensity
-- yu = strong intensity
-
-New (v0.6.0):
-- gra = weak intensity
-- gru = strong intensity
-- ya = extreme front (spatial Y-axis)
-- yu = extreme back (spatial Y-axis)
-```
-
----
-
-### 🎯 **WHAT'S NEXT**
-
-See `ROADMAP.md` for detailed future plans.
-
-**Immediate priorities (v0.6.1 - April 2026):**
-- 100 essential 3-syllable words
-- 200 basic example sentences
-- Audio recording planning
+- README.md, WELCOME.md, INDEX.md, LEARNING-PATH.md created
+- All documentation translated to English
+- 05-grammar-cv-vc.md and 06-basics-vcv.md updated
 
 ---
 
 ## [0.5.x] - 2025-2026 — Development Phase
 
-### **[0.5.3] - 2026-02** — VCV Experimentation
+### [0.5.3] - 2026-02 — VCV Experimentation
 - Initial VCV particle development
 - Experimental domain structures
-- Vector-based approaches tested
 
-### **[0.5.2] - 2025-12** — Grammar Expansion
+### [0.5.2] - 2025-12 — Grammar Expansion
 - VC system development
 - Modal and aspectual particles
-- Spatial grammar experimentation
 
-### **[0.5.1] - 2025-10** — Initial Documentation
-- First grammar documentation
-- Portuguese-language materials
+### [0.5.1] - 2025-10 — Initial Documentation
+- First grammar documentation (Portuguese)
 - Basic vocabulary lists
 
-### **[0.5.0] - 2025-08** — Early Structure
+### [0.5.0] - 2025-08 — Early Structure
 - 25-consonant alphabet (later reduced to 20)
 - Initial CV particle system
-- Concept development
 
 ---
 
 ## [0.4.x] - 2024-2025 — Conceptual Phase
 
-### **[0.4.0] - 2024-12** — Foundation Concepts
+### [0.4.0] - 2024-12 — Foundation Concepts
 - Ontological domain concept
 - Vowel gradation principles
 - Systematic structure ideas
@@ -356,9 +288,8 @@ See `ROADMAP.md` for detailed future plans.
 
 ## [0.3.x and earlier] - 2024 — Experimental Phase
 
-### **Various experiments**
 - Different phonological systems tested
-- Multiple grammatical approaches
+- Multiple grammatical approaches explored
 - Vocabulary organization strategies
 - Learning from natural and constructed languages
 
@@ -369,49 +300,13 @@ See `ROADMAP.md` for detailed future plans.
 **Format:** MAJOR.MINOR.PATCH
 
 - **MAJOR (0):** Pre-1.0 development phase
-- **MINOR (6):** Significant feature additions or structural changes
-- **PATCH (0):** Bug fixes and minor improvements
+- **MINOR:** Significant structural changes
+- **PATCH:** Bug fixes and minor improvements
 
 **1.0.0 will represent:** Complete language specification with comprehensive corpus
 
 ---
 
-## Tags and References
-
-- `v0.6.0` - Foundation Complete
-- `v0.5.3` - VCV Development
-- `v0.5.0` - Early Grammar
-- `v0.4.0` - Initial Concepts
-
----
-
-## Contributing to Changelog
-
-When contributing changes, please:
-1. Add entries to "Unreleased" section at top
-2. Use clear, descriptive language
-3. Categorize changes appropriately
-4. Include examples where relevant
-5. Link to related documentation
-
-**Categories:**
-- **BREAKING CHANGES** — Incompatible changes
-- **NEW FEATURES** — New functionality
-- **IMPROVEMENTS** — Enhanced existing features
-- **BUG FIXES** — Corrections
-- **DOCUMENTATION** — Doc updates
-- **DEPRECATED** — Soon-to-be removed features
-- **REMOVED** — Deleted features
-
----
-
-**Changelog Format:** Based on [Keep a Changelog](https://keepachangelog.com/)  
-**Versioning:** [Semantic Versioning](https://semver.org/)
-
----
-
-**Last Updated:** March 19, 2026  
-**Current Version:** 0.6.0  
-**Next Version:** 0.6.1 (Planned April 2026)
-
----
+**Last Updated:** April 2026
+**Current Version:** 0.8.0
+**Next planned:** 0.9.0 — Lexicon expansion and translation corpus

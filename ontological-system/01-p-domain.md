@@ -1,201 +1,367 @@
-# Tier 1
 
+## PP — Matter / Matter (Pure Ontological Structure of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+|         | -PA (essence)           | -PE (unit)               | -PI (configuration)          | -PO (combination)          | -PU (property)              |
+| ------- | ----------------------- | ------------------------ | ---------------------------- | -------------------------- | --------------------------- |
+| **PA-** | papa — matter           | pape — material unit<br> | papi — structured matter<br> | papo — material system     | papu — material basis       |
+| **PE-** | pepa — fundamental unit | pepe — minimal unit      | pepi — bonded unit           | pepo — combined unit       | pepu — defined substance    |
+| **PI-** | pipa — pure state       | pipe — raw form          | pipi — configured matter     | pipo — engineered matter   | pipu — specialized form     |
+| **PO-** | popa — mixture          | pope — uniform mix       | popi — non-uniform mix       | popo — integrated system   | popu — composite matter     |
+| **PU-** | pupa — physical state   | pupe — phase             | pupi — intrinsic property    | pupo — measurable property | pupu — fundamental property |
 
 ---
 
-### PP — Substance / Matter
+## PT — Matter / Time (Temporal Behavior of Matter)
 
-*PA- = structural definition of matter. PU- = measurable properties.*
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
 
-|         | -PA                  | -PE                            | -PI                           | -PO                          | -PU                           |
-| ------- | -------------------- | ------------------------------ | ----------------------------- | ---------------------------- | ----------------------------- |
-| **PA-** | papa — matéria       | pape — massa                   | papi — componente             | papo — meio físico           | papu — base material          |
-| **PE-** | pepa — elemento      | pepe — átomo                   | pepi — molécula               | pepo — composto              | pepu — substância definida    |
-| **PI-** | pipa — material puro | pipe — material não processado | pipi — material modificado    | pipo — liga técnica          | pipu — material especializado |
-| **PO-** | popa — mistura       | pope — mistura homogênea       | popi — mistura heterogênea    | popo — solução               | popu — composição específica  |
-| **PU-** | pupa — estado físico | pupe — fase                    | pupi — propriedade intrínseca | pupo — propriedade intensiva | pupu — unidade fundamental    |
+**Column Axis (T — Time):**  
+TA = origin · TE = beginning · TI = duration · TO = transition · TU = termination
 
----
-
-||**+TA**|**+TE**|**+TI**|**+TO**|**+TU**|
+||-TA (origin)|-TE (beginning)|-TI (duration)|-TO (transition)|-TU (termination)|
 |---|---|---|---|---|---|
-|**PA+**|pata — estado material|pate — extensão temporal|pati — ponto material|pato — intervalo material|patu — base temporal material|
-|**PE+**|peta — estado atual|pete — estado emergente|peti — estado persistente|peto — estado residual|petu — estado extinto|
-|**PI+**|pita — matéria ativa|pite — matéria em estabilização|piti — matéria estável|pito — matéria degradada|pitu — matéria fossilizada|
-|**PO+**|pota — ocorrência material|pote — continuidade material|poti — ruptura material|poto — padrão material|potu — evidência material consolidada|
-|**PU+**|puta — durabilidade|pute — persistência|puti — estabilidade temporal|puto — taxa de degradação|putu — limite temporal|
+|**PA-**|pata — material origin|pate — material emergence|pati — material continuity|pato — material transformation|patu — material cessation|
+|**PE-**|peta — unit origin|pete — unit formation|peti — unit persistence|peto — unit modification|petu — unit dissolution|
+|**PI-**|pita — structural origin|pite — structure formation|piti — structural stability|pito — structural reconfiguration|pitu — structural collapse|
+|**PO-**|pota — combinational origin|pote — combination onset|poti — sustained combination|poto — recombination|potu — decomposition|
+|**PU-**|puta — property origin|pute — property emergence|puti — property persistence|puto — property variation|putu — property loss|
+
 
 ---
 
-||**+KA**|**+KE**|**+KI**|**+KO**|**+KU**|
+## PK — Matter / Social (Social Aspects of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (K — Social):**  
+KA = origin (social source) · KE = formation (structuring) · KI = participation (use/interaction) · KO = relation (interaction/network) · KU = system (collective organization)
+
+||-KA (origin)|-KE (formation)|-KI (participation)|-KO (relation)|-KU (system)|
 |---|---|---|---|---|---|
-|**PA+**|paka — matéria como entidade social|pake — matéria em interação social|paki — matéria integrada|pako — matéria organizada|paku — matéria institucionalizada|
-|**PE+**|peka — unidade material instanciada|peke — unidade em relação|peki — unidade integrada|peko — unidade organizada|peku — unidade institucional|
-|**PI+**|pika — matéria socialmente ativada|pike — matéria em interação|piki — matéria incorporada|piko — matéria regulada|piku — matéria estabilizada|
-|**PO+**|poka — configuração material social|poke — configuração em relação|poki — configuração integrada|poko — configuração organizada|poku — configuração institucional|
-|**PU+**|puka — propriedade instanciada|puke — propriedade em relação|puki — propriedade integrada|puko — propriedade regulada|puku — propriedade institucional|
+|**PA-**|paka — social source of matter|pake — socially structured matter|paki — matter in social use|pako — matter in relation|paku — matter in social system|
+|**PE-**|peka — origin of material unit|peke — socially formed unit|peki — unit in use|peko — unit in relation|peku — unit in social system|
+|**PI-**|pika — social origin of structure|pike — socially structured form|piki — structure in use|piko — relational structure|piku — structured social system|
+|**PO-**|poka — origin of combination|poke — socially formed mix|poki — combination in use|poko — relational composition|poku — organized composition|
+|**PU-**|puka — origin of property|puke — socially defined property|puki — property in use|puko — relational property|puku — standardized property|
 
 ---
 
-||**+BA**|**+BE**|**+BI**|**+BO**|**+BU**|
+## PB — Matter / Entity (Material Individuation of Objects)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (B — Entity / Object):**  
+BA = emergence (appearance of object) · BE = formation (object structuring) · BI = individuation (recognized entity) · BO = relation (entity interaction) · BU = system (collection of entities)
+
+||-BA (emergence)|-BE (formation)|-BI (individuation)|-BO (relation)|-BU (system)|
 |---|---|---|---|---|---|
-|**PA+**|paba — matéria como entidade sinal|pabe — matéria codificada|pabi — matéria em trânsito como sinal|pabo — matéria recebida como sinal|pabu — matéria reconstruída do sinal|
-|**PE+**|peba — unidade material sinalizável|pebe — unidade codificada|pebi — unidade em trânsito|pebo — unidade recebida|pebu — unidade reconstruída|
-|**PI+**|piba — matéria em operação como sinal|pibe — matéria em condição de codificação|pibi — matéria em condição de trânsito|pibo — matéria em condição de recepção|pibu — matéria em condição de reconstrução|
-|**PO+**|poba — configuração sinalizável|pobe — configuração codificada|pobi — configuração em trânsito|pobo — configuração recebida|pobu — configuração reconstruída|
-|**PU+**|puba — capacidade sinalizável|pube — capacidade de codificação|pubi — capacidade de transmissão|pubo — capacidade de recepção|pubu — capacidade de reconstrução do sinal|
+|**PA-**|paba — emergence of matter as object|pabe — formation of material essence into object|pabi — matter as identifiable entity essence|pabo — matter in relation as entity|pabu — systemic matter-entity field|
+|**PE-**|peba — emergence of material unit-object|pebe — formation of unit as object|pebi — unit as distinct entity|pebo — unit in relation to other entities|pebu — system of material units|
+|**PI-**|piba — emergence of structured object|pibe — formation of structural entity|pibi — structure as individuated entity|pibo — structural relations between entities|pibu — system of structured entities|
+|**PO-**|poba — emergence of composite object|pobe — formation of composite entity|pobi — composite as identifiable object|pobo — relational composition of entities|pobu — system of composite entities|
+|**PU-**|puba — emergence of property-object|pube — formation of property as entity trait|pubi — property as individuated attribute|pubo — relational property between entities|pubu — systemic properties of entities|
 
 ---
 
-||**+MA**|**+ME**|**+MI**|**+MO**|**+MU**|
+## PM — Matter / Mind (Cognitive Structuring of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (M — Mind / Cognition):**  
+MA = perception (input awareness) · ME = concept formation (structuring meaning) · MI = recognition (identification) · MO = reasoning (relation of ideas) · MU = cognition system (integrated mind state)
+
+||-MA (perception)|-ME (concept formation)|-MI (recognition)|-MO (reasoning)|-MU (cognition system)|
 |---|---|---|---|---|---|
-|**PA+**|pama — matéria em ativação cognitiva|pame — matéria em formação mental|pami — matéria em operação cognitiva|pamo — matéria em seleção cognitiva|pamu — matéria em estabilização cognitiva|
-|**PE+**|pema — unidade em ativação cognitiva|peme — unidade em formação mental|pemi — unidade em operação cognitiva|pemo — unidade em seleção|pemu — unidade em estabilização|
-|**PI+**|pima — matéria em condição de ativação|pime — matéria em condição de formação|pimi — matéria em condição de operação|pimo — matéria em condição de seleção|pimu — matéria em condição de estabilização|
-|**PO+**|poma — configuração em ativação cognitiva|pome — configuração em formação mental|pomi — configuração em operação cognitiva|pomo — configuração em seleção|pomu — configuração em estabilização|
-|**PU+**|puma — capacidade de ativação cognitiva|pume — capacidade de formação cognitiva|pumi — capacidade de operação cognitiva|pumo — capacidade de seleção cognitiva|pumu — capacidade de estabilização cognitiva|
+|**PA-**|pama — perception of matter essence|pame — conceptual matter essence|pami — recognition of matter essence|pamo — reasoning about matter essence|pamu — cognitive system of matter essence|
+|**PE-**|pema — perception of material unit|peme — conceptual unit of matter|pemi — recognition of unit matter|pemo — reasoning about material unit|pemu — cognitive system of units|
+|**PI-**|pima — perception of structure|pime — structural concept formation|pimi — recognition of structure|pimo — reasoning about structure|pimu — structural cognition system|
+|**PO-**|poma — perception of combination|pome — conceptual combination|pomi — recognition of composition|pomo — reasoning about combinations|pomu — cognitive system of compositions|
+|**PU-**|puma — perception of property|pume — conceptual property formation|pumi — recognition of property|pumo — reasoning about properties|pumu — cognitive system of properties|
 
 ---
 
-||**+GA**|**+GE**|**+GI**|**+GO**|**+GU**|
+## PG — Matter / Space (Spatial Aspects of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (G — Space):**  
+GA = position · GE = extension · GI = distribution · GO = relation · GU = boundary
+
+||-GA (position)|-GE (extension)|-GI (distribution)|-GO (relation)|-GU (boundary)|
 |---|---|---|---|---|---|
-|**PA+**|paga — matéria localizada|page — matéria delimitada espacialmente|pagi — matéria orientada espacialmente|pago — matéria distribuída no espaço|pagu — matéria estabilizada espacialmente|
-|**PE+**|pega — unidade localizada|pege — unidade delimitada espacialmente|pegi — unidade orientada|pego — unidade distribuída|pegu — unidade estabilizada espacialmente|
-|**PI+**|piga — matéria em condição de localização|pige — matéria em condição de delimitação|pigi — matéria em condição de orientação|pigo — matéria em condição de distribuição|pigu — matéria em condição de estabilização espacial|
-|**PO+**|poga — configuração localizada|poge — configuração delimitada espacialmente|pogi — configuração orientada|pogo — configuração distribuída|pogu — configuração estabilizada espacialmente|
-|**PU+**|puga — capacidade de localização|puge — capacidade de delimitação|pugi — capacidade de orientação|pugo — capacidade de distribuição|pugu — capacidade de estabilização espacial|
+|**PA-**|paga — material position|page — material extension|pagi — material distribution|pago — spatial relation of matter|pagu — material boundary|
+|**PE-**|pega — unit position|pege — unit extension|pegi — unit distribution|pego — unit spatial relation|pegu — unit boundary|
+|**PI-**|piga — structural position|pige — structural extension|pigi — structural distribution|pigo — structural spatial relation|pigu — structural boundary|
+|**PO-**|poga — combination position|poge — combination extension|pogi — combination distribution|pogo — relational composition|pogu — compositional boundary|
+|**PU-**|puga — property location|puge — property extension|pugi — property distribution|pugo — relational property|pugu — property boundary|
 
 ---
 
-||**+VA**|**+VE**|**+VI**|**+VO**|**+VU**|
+## PV — Matter / Action (Dynamic Behavior of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (V — Action):**  
+VA = initiation (trigger) · VE = execution (process) · VI = continuation (sustained action) · VO = effect (result) · VU = completion (finalization)
+
+||-VA (initiation)|-VE (execution)|-VI (continuation)|-VO (effect)|-VU (completion)|
 |---|---|---|---|---|---|
-|**PA+**|pava — matéria em iniciação de ação|pave — matéria em sustentação de ação|pavi — matéria em modulação de ação|pavo — matéria em orientação de ação|pavu — matéria em conclusão de ação|
-|**PE+**|peva — unidade em iniciação|peve — unidade em sustentação|pevi — unidade em modulação|pevo — unidade em orientação|pevu — unidade em conclusão|
-|**PI+**|piva — matéria em condição de iniciação|pive — matéria em condição de sustentação|pivi — matéria em condição de modulação|pivo — matéria em condição de orientação|pivu — matéria em condição de conclusão|
-|**PO+**|pova — configuração em iniciação|pove — configuração em sustentação|povi — configuração em modulação|povo — configuração em orientação|povu — configuração em conclusão|
-|**PU+**|puva — capacidade de iniciação|puve — capacidade de sustentação|puvi — capacidade de modulação|puvo — capacidade de orientação|puvu — capacidade de conclusão|
+|**PA-**|pava — material activation|pave — material processing|pavi — ongoing material process|pavo — resulting material state|pavu — completed material change|
+|**PE-**|peva — unit activation|peve — unit processing|pevi — sustained unit action|pevo — resulting unit change|pevu — completed unit action|
+|**PI-**|piva — structural activation|pive — structural processing|pivi — structural dynamics|pivo — resulting structure|pivu — completed restructuring|
+|**PO-**|pova — combinational trigger|pove — combinational process|povi — sustained combination|povo — resulting composition|povu — completed composition|
+|**PU-**|puva — property activation|puve — property change|puvi — evolving property|puvo — resulting property state|puvu — stabilized property|
 
 ---
 
-Versão final PR com os ajustes:
+## PR — Matter / State (State Conditions of Matter)
 
-||**+RA**|**+RE**|**+RI**|**+RO**|**+RU**|
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (R — State):**  
+RA = absolute state · RE = stable state · RI = neutral state · RO = variable state · RU = null state
+
+||-RA (absolute)|-RE (stable)|-RI (neutral)|-RO (variable)|-RU (null)|
 |---|---|---|---|---|---|
-|**PA+**|para — matéria em referenciação|pare — matéria em diferenciação|pari — matéria em determinação relacional|paro — matéria em articulação relacional|paru — matéria em ancoragem relacional|
-|**PE+**|pera — unidade em referenciação|pere — unidade em diferenciação|peri — unidade em determinação relacional|pero — unidade em articulação relacional|peru — unidade em ancoragem relacional|
-|**PI+**|pira — matéria em condição de referenciação|pire — matéria em condição de diferenciação|piri — matéria em condição de determinação|piro — matéria em condição de articulação|piru — matéria em condição de ancoragem|
-|**PO+**|pora — configuração em referenciação|pore — configuração em diferenciação|pori — configuração em determinação relacional|poro — configuração em articulação|poru — configuração em ancoragem relacional|
-|**PU+**|pura — capacidade de referenciar|pure — capacidade de diferenciar|puri — capacidade de determinar relacionalmente|puro — capacidade de articular relações|puru — capacidade de ancorar relacionalmente|
+|**PA-**|para — absolute material state|pare — stable material state|pari — neutral material state|paro — variable material state|paru — absence of material state|
+|**PE-**|pera — absolute unit state|pere — stable unit state|peri — neutral unit state|pero — variable unit state|peru — null unit state|
+|**PI-**|pira — absolute structure|pire — stable structure|piri — neutral structure|piro — dynamic structure|piru — collapsed structure|
+|**PO-**|pora — absolute composition|pore — stable composition|pori — neutral composition|poro — changing composition|poru — dissolved composition|
+|**PU-**|pura — absolute property|pure — stable property|puri — neutral property|puro — varying property|puru — absent property|
 
 ---
 
-||**+J̌A**|**+J̌E**|**+J̌I**|**+J̌O**|**+J̌U**|
+## PJ̌ — Matter / Motion (Kinetics of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (J̌ — Motion / Movement):**  
+J̌A = initiation (onset of movement) · J̌E = path/transition (trajectory formation) · J̌I = continuity (ongoing motion) · J̌O = displacement (spatial change/result) · J̌U = arrival (completion of movement)
+
+||-J̌A (initiation)|-J̌E (transition)|-J̌I (continuity)|-J̌O (displacement)|-J̌U (arrival)|
 |---|---|---|---|---|---|
-|**PA+**|paǰa — matéria com presença de padrão cinético|paǰe — matéria com regularidade cinética|paǰi — matéria com integração cinética|paǰo — matéria com organização cinética|paǰu — matéria com persistência cinética|
-|**PE+**|peǰa — unidade com presença de padrão cinético|peǰe — unidade com regularidade|peǰi — unidade com integração cinética|peǰo — unidade com organização cinética|peǰu — unidade com persistência|
-|**PI+**|piǰa — matéria em condição de padrão cinético presente|piǰe — matéria em condição de regularidade|piǰi — matéria em condição de integração|piǰo — matéria em condição de organização|piǰu — matéria em condição de persistência cinética|
-|**PO+**|poǰa — configuração com padrão cinético|poǰe — configuração com regularidade|poǰi — configuração com integração cinética|poǰo — configuração organizada dinamicamente|poǰu — configuração com persistência|
-|**PU+**|puǰa — capacidade de possuir padrão cinético|puǰe — capacidade de regularidade cinética|puǰi — capacidade de integração dinâmica|puǰo — capacidade de organização dinâmica|puǰu — capacidade de manter persistência cinética|
+|**PA-**|paja — activation of matter movement|paje — transitional matter motion|paji — continuous matter motion|pajo — displaced matter state|paju — completed matter movement|
+|**PE-**|peja — activation of unit movement|peje — unit in transition|peji — unit in continuous motion|pejo — displaced unit state|peju — completed unit movement|
+|**PI-**|pija — activation of structural movement|pije — structural transition|piji — continuous structural motion|pijo — displaced structure|piju — completed structural movement|
+|**PO-**|poja — activation of combinational movement|poje — transitional composition motion|poji — continuous combinational motion|pojo — displaced composition|poju — completed composition movement|
+|**PU-**|puja — activation of property movement|puje — transitional property change|puji — continuous property motion|pujo — displaced property state|puju — completed property movement|
 
 ---
 
-||**+SA**|**+SE**|**+SI**|**+SO**|**+SU**|
+## PS — Matter / Quantity (Quantitative Aspects of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (S — Quantity):**  
+SA = totality · SE = large amount · SI = medium amount · SO = small amount · SU = minimal amount
+
+||-SA (totality)|-SE (large)|-SI (medium)|-SO (small)|-SU (minimal)|
 |---|---|---|---|---|---|
-|**PA+**|pasa — matéria quantificada|pase — matéria mensurada|pasi — matéria proporcionalizada|paso — matéria escalonada|pasu — matéria em limite quantitativo|
-|**PE+**|pesa — unidade quantificada|pese — unidade mensurada|pesi — unidade proporcional|peso — unidade escalonada|pesu — unidade em limite|
-|**PI+**|pisa — matéria em condição de quantificação|pise — matéria em condição de mensuração|pisi — matéria em condição de proporção|piso — matéria em condição de escalonamento|pisu — matéria em condição de limite|
-|**PO+**|posa — configuração quantificada|pose — configuração mensurada|posi — configuração proporcional|poso — configuração escalonada|posu — configuração em limite|
-|**PU+**|pusa — capacidade de quantificação|puse — capacidade de mensuração|pusi — capacidade proporcional|puso — capacidade de escalonamento|pusu — capacidade de limite quantitativo|
+|**PA-**|pasa — total matter|pase — large amount of matter|pasi — moderate matter|paso — small amount of matter|pasu — trace matter|
+|**PE-**|pesa — total units|pese — many units|pesi — several units|peso — few units|pesu — single/near-zero unit|
+|**PI-**|pisa — full configuration|pise — complex structure|pisi — moderate structure|piso — simple structure|pisu — minimal structure|
+|**PO-**|posa — total composition|pose — dense composition|posi — balanced composition|poso — sparse composition|posu — minimal composition|
+|**PU-**|pusa — full property range|puse — strong property|pusi — moderate property|puso — weak property|pusu — negligible property|
 
 ---
 
-||**+FA**|**+FE**|**+FI**|**+FO**|**+FU**|
+## PF — Matter / Interaction (Interface Exchange of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (F — Interaction / Exchange):**  
+FA = contact (initial touch/interface) · FE = transfer (exchange process) · FI = coupling (mutual linkage) · FO = effect (interaction outcome) · FU = network (stable interaction system)
+
+||-FA (contact)|-FE (transfer)|-FI (coupling)|-FO (effect)|-FU (network)|
 |---|---|---|---|---|---|
-|**PA+**|pafa — matéria com existência nutritiva|pafe — matéria com constituição nutritiva|pafi — matéria com acessibilidade nutritiva|pafo — matéria com densidade nutritiva|pafu — matéria em saturação nutritiva|
-|**PE+**|pefa — unidade com existência nutritiva|pefe — unidade com constituição nutritiva|pefi — unidade com acessibilidade nutritiva|pefo — unidade com densidade nutritiva|pefu — unidade em saturação nutritiva|
-|**PI+**|pifa — matéria em condição de existência nutritiva|pife — matéria em condição de constituição nutritiva|pifi — matéria em condição de acessibilidade|pifo — matéria em condição de densidade nutritiva|pifu — matéria em condição de saturação nutritiva|
-|**PO+**|pofa — configuração com existência nutritiva|pofe — configuração com constituição nutritiva|pofi — configuração com acessibilidade nutritiva|pofo — configuração com densidade nutritiva|pofu — configuração em saturação nutritiva|
-|**PU+**|pufa — capacidade de existência nutritiva|pufe — capacidade de constituição nutritiva|pufi — capacidade de acessibilidade nutritiva|pufo — capacidade de densidade nutritiva|pufu — capacidade de saturação nutritiva|
+|**PA-**|pafa — contact of matter essence|pafe — transfer of matter essence|pafi — coupling of matter essence|pafo — interaction effect on essence|pafu — systemic interaction of essence|
+|**PE-**|pefa — contact of material unit|pefe — transfer of unit matter|pefi — coupling of material unit|pefo — interaction effect on unit|pefu — network of material units|
+|**PI-**|pifa — contact of structure|pife — structural transfer|pifi — structural coupling|pifo — interaction effect on structure|pifu — network of structures|
+|**PO-**|pofa — contact of combination|pofe — transfer of composition|pofi — coupling of composition|pofo — interaction effect on combination|pofu — network of compositions|
+|**PU-**|pufa — contact of property|pufe — transfer of property|pufi — coupling of properties|pufo — interaction effect on property|pufu — network of properties|
 
 ---
 
-||**+HA**|**+HE**|**+HI**|**+HO**|**+HU**|
+## PH — Matter / Environment (Matter in Contextual Habitat)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (H — Environment / Habitat):**  
+HA = origin context (source environment) · HE = formation context (shaping environment) · HI = adaptation (fit within environment) · HO = exposure (environmental interaction) · HU = ecosystem (stable environmental system)
+
+||-HA (origin context)|-HE (formation context)|-HI (adaptation)|-HO (exposure)|-HU (ecosystem)|
 |---|---|---|---|---|---|
-|**PA+**|paha — matéria com existência habitacional|pahe — matéria delimitada habitacionalmente|pahi — matéria com viabilidade habitacional|paho — matéria organizada habitacionalmente|pahu — matéria estabilizada habitacionalmente|
-|**PE+**|peha — unidade com existência habitacional|pehe — unidade delimitada habitacionalmente|pehi — unidade com viabilidade habitacional|peho — unidade organizada habitacionalmente|pehu — unidade estabilizada habitacionalmente|
-|**PI+**|piha — matéria em condição de existência habitacional|pihe — matéria em condição de delimitação habitacional|pihi — matéria em condição de viabilidade habitacional|piho — matéria em condição de organização habitacional|pihu — matéria em condição de estabilização habitacional|
-|**PO+**|poha — configuração com existência habitacional|pohe — configuração delimitada habitacionalmente|pohi — configuração com viabilidade habitacional|poho — configuração organizada habitacionalmente|pohu — configuração estabilizada habitacionalmente|
-|**PU+**|puha — capacidade de existência habitacional|puhe — capacidade de delimitação habitacional|puhi — capacidade de viabilidade habitacional|puho — capacidade de organização habitacional|puhu — capacidade de estabilização habitacional|
+|**PA-**|paha — environmental origin of matter essence|pahe — environmental formation of essence|pahi — matter essence adapting to environment|paho — matter essence under environmental exposure|pahu — ecosystemic essence state|
+|**PE-**|peha — environmental origin of unit|pehe — environmental formation of unit|pehi — unit adaptation to environment|peho — unit under environmental exposure|pehu — ecosystem of units|
+|**PI-**|piha — environmental origin of structure|pihe — structural formation in environment|pihi — structural adaptation|piho — structure under environmental exposure|pihu — ecosystem of structures|
+|**PO-**|poha — environmental origin of combination|pohe — environmental formation of composition|pohi — compositional adaptation|poho — composition under environmental exposure|pohu — ecosystem of compositions|
+|**PU-**|puha — environmental origin of property|puhe — environmental formation of property|puhi — property adaptation|puho — property under environmental exposure|puhu — ecosystem of properties|
+
 
 ---
 
-||**+NA**|**+NE**|**+NI**|**+NO**|**+NU**|
+## PN — Matter / Life (Biological Aspects of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (N — Life):**  
+NA = origin (biological source) · NE = growth (development) · NI = function (vital activity) · NO = interaction (biological relation) · NU = system (organism/ecosystem)
+
+||-NA (origin)|-NE (growth)|-NI (function)|-NO (interaction)|-NU (system)|
 |---|---|---|---|---|---|
-|**PA+**|pana — matéria com existência biológica|pane — matéria com constituição biológica|pani — matéria com viabilidade biológica|pano — matéria com organização biológica|panu — matéria com estabilidade biológica|
-|**PE+**|pena — unidade com existência biológica|pene — unidade com constituição biológica|peni — unidade com viabilidade biológica|peno — unidade com organização biológica|penu — unidade com estabilidade biológica|
-|**PI+**|pina — matéria em condição de existência biológica|pine — matéria em condição de constituição biológica|pini — matéria em condição de viabilidade biológica|pino — matéria em condição de organização biológica|pinu — matéria em condição de estabilidade biológica|
-|**PO+**|pona — configuração com existência biológica|pone — configuração com constituição biológica|poni — configuração com viabilidade biológica|pono — configuração com organização biológica|ponu — configuração com estabilidade biológica|
-|**PU+**|puna — capacidade de existência biológica|pune — capacidade de constituição biológica|puni — capacidade de viabilidade biológica|puno — capacidade de organização biológica|punu — capacidade de estabilidade biológica|
+|**PA-**|pana — origin of living matter|pane — growing matter|pani — functional living matter|pano — interacting life matter|panu — biological system of matter|
+|**PE-**|pena — origin of life unit|pene — developing unit|peni — functional unit|peno — interacting organism unit|penu — organism/system unit|
+|**PI-**|pina — biological structure origin|pine — growing structure|pini — functional structure|pino — interacting structure|pinu — biological structure system|
+|**PO-**|pona — origin of biological mix|pone — developing composition|poni — functional composition|pono — interacting composition|ponu — biological composition system|
+|**PU-**|puna — origin of life property|pune — developing property|puni — functional property|puno — interacting property|punu — systemic biological property|
+
 
 ---
 
-||**+DA**|**+DE**|**+DI**|**+DO**|**+DU**|
+## PD — Matter / Artifact (Constructed Aspects of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (D — Artifact):**  
+DA = raw (unprocessed) · DE = processed · DI = assembled · DO = functional · DU = optimized
+
+||-DA (raw)|-DE (processed)|-DI (assembled)|-DO (functional)|-DU (optimized)|
 |---|---|---|---|---|---|
-|**PA+**|pada — matéria com existência instrumental|pade — matéria com constituição instrumental|padi — matéria com capacidade instrumental|pado — matéria com organização instrumental|padu — matéria com estabilidade instrumental|
-|**PE+**|peda — unidade com existência instrumental|pede — unidade com constituição instrumental|pedi — unidade com capacidade instrumental|pedo — unidade com organização instrumental|pedu — unidade com estabilidade instrumental|
-|**PI+**|pida — matéria em condição de existência instrumental|pide — matéria em condição de constituição instrumental|pidi — matéria em condição de capacidade instrumental|pido — matéria em condição de organização instrumental|pidu — matéria em condição de estabilidade instrumental|
-|**PO+**|poda — configuração com existência instrumental|pode — configuração com constituição instrumental|podi — configuração com capacidade instrumental|podo — configuração com organização instrumental|podu — configuração com estabilidade instrumental|
-|**PU+**|puda — capacidade de existência instrumental|pude — capacidade de constituição instrumental|pudi — capacidade instrumental plena|pudo — capacidade de organização instrumental|pudu — capacidade de estabilidade instrumental|
+|**PA-**|pada — raw matter|pade — processed matter|padi — assembled material|pado — functional material|padu — optimized material|
+|**PE-**|peda — raw unit|pede — processed unit|pedi — assembled unit|pedo — functional unit|pedu — optimized unit|
+|**PI-**|pida — raw structure|pide — refined structure|pidi — constructed structure|pido — functional structure|pidu — optimized structure|
+|**PO-**|poda — raw combination|pode — processed combination|podi — assembled composition|podo — functional composition|podu — optimized composition|
+|**PU-**|puda — raw property|pude — refined property|pudi — constructed property|pudo — functional property|pudu — optimized property|
 
 ---
 
-||**+LA**|**+LE**|**+LI**|**+LO**|**+LU**|
+## PL — Matter / Structure (Structural Aspects of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property
+
+**Column Axis (L — Structure):**  
+LA = form (shape) · LE = organization · LI = arrangement · LO = system · LU = architecture
+
+||-LA (form)|-LE (organization)|-LI (arrangement)|-LO (system)|-LU (architecture)|
 |---|---|---|---|---|---|
-|**PA+**|pala — matéria com existência formal|pale — matéria com constituição formal|pali — matéria com coerência formal|palo — matéria com organização formal|palu — matéria com estabilidade formal|
-|**PE+**|pela — unidade com existência formal|pele — unidade com constituição formal|peli — unidade com coerência formal|pelo — unidade com organização formal|pelu — unidade com estabilidade formal|
-|**PI+**|pila — matéria em condição de existência formal|pile — matéria em condição de constituição formal|pili — matéria em condição de coerência formal|pilo — matéria em condição de organização formal|pilu — matéria em condição de estabilidade formal|
-|**PO+**|pola — configuração com existência formal|pole — configuração com constituição formal|poli — configuração com coerência formal|polo — configuração com organização formal|polu — configuração com estabilidade formal|
-|**PU+**|pula — capacidade de existência formal|pule — capacidade de constituição formal|puli — capacidade de coerência formal|pulo — capacidade de organização formal|pulu — capacidade de estabilidade formal|
+|**PA-**|pala — material form|pale — material organization|pali — material arrangement|palo — material system|palu — material architecture|
+|**PE-**|pela — unit form|pele — unit organization|peli — unit arrangement|pelo — unit system|pelu — unit architecture|
+|**PI-**|pila — structural form|pile — structural organization|pili — internal arrangement|pilo — structured system|pilu — structural architecture|
+|**PO-**|pola — composite form|pole — composite organization|poli — compositional arrangement|polo — composite system|polu — composite architecture|
+|**PU-**|pula — formal property|pule — organizational property|puli — relational arrangement|pulo — systemic property|pulu — architectural property|
 
 ---
 
-||**+LA**|**+LE**|**+LI**|**+LO**|**+LU**|
+## PĽ — Matter / Perception (Sensory Structuring of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (Ľ — Perception / Sensory Experience):**  
+ĽA = detection (raw sensory capture) · ĽE = differentiation (sensory structuring) · ĽI = identification (recognition via senses) · ĽO = interpretation (meaningful perception) · ĽU = integration (unified sensory field)
+
+||-ĽA (detection)|-ĽE (differentiation)|-ĽI (identification)|-ĽO (interpretation)|-ĽU (integration)|
 |---|---|---|---|---|---|
-|**PA+**|pala — matéria com existência formal|pale — matéria com constituição formal|pali — matéria com consistência formal|palo — matéria com estruturação formal|palu — matéria com estabilidade formal|
-|**PE+**|pela — unidade com existência formal|pele — unidade com constituição formal|peli — unidade com consistência formal|pelo — unidade com estruturação formal|pelu — unidade com estabilidade formal|
-|**PI+**|pila — matéria em condição de existência formal|pile — matéria em condição de constituição formal|pili — matéria em condição de consistência formal|pilo — matéria em condição de estruturação formal|pilu — matéria em condição de estabilidade formal|
-|**PO+**|pola — configuração com existência formal|pole — configuração com constituição formal|poli — configuração com consistência formal|polo — configuração com estruturação formal|polu — configuração com estabilidade formal|
-|**PU+**|pula — capacidade de existência formal|pule — capacidade de constituição formal|puli — capacidade de consistência formal|pulo — capacidade de estruturação formal|pulu — capacidade de estabilidade formal|
+|**PA-**|paľa — detection of matter essence|paľe — sensory structuring of essence|paľi — identification of matter essence|paľo — interpretation of essence|paľu — integrated perception of essence|
+|**PE-**|peľa — detection of material unit|peľe — differentiation of unit|peľi — identification of unit|peľo — interpretation of unit|peľu — integrated perception of unit|
+|**PI-**|piľa — detection of structure|piľe — structural differentiation|piľi — identification of structure|piľo — interpretation of structure|piľu — integrated structural perception|
+|**PO-**|poľa — detection of combination|poľe — differentiation of composition|poľi — identification of composition|poľo — interpretation of composition|poľu — integrated perception of combination|
+|**PU-**|puľa — detection of property|puľe — differentiation of property|puľi — identification of property|puľo — interpretation of property|puľu — integrated perception of property|
 
 ---
 
-||**+ĽA**|**+ĽE**|**+ĽI**|**+ĽO**|**+ĽU**|
+## PW — Matter / Emotion (Affective Structuring of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (W — Emotion / Affect):**  
+WA = emergence (affective onset) · WE = modulation (emotional shaping) · WI = experience (felt state) · WO = expression (externalized affect) · WU = integration (stable emotional system)
+
+||-WA (emergence)|-WE (modulation)|-WI (experience)|-WO (expression)|-WU (integration)|
 |---|---|---|---|---|---|
-|**PA+**|paľa — matéria com presença perceptiva|paľe — matéria com caráter sensorial|paľi — matéria com intensidade perceptiva|paľo — matéria com estruturação perceptiva|paľu — matéria com estabilidade perceptiva|
-|**PE+**|peľa — unidade com presença perceptiva|peľe — unidade com caráter sensorial|peľi — unidade com intensidade perceptiva|peľo — unidade com estruturação perceptiva|peľu — unidade com estabilidade perceptiva|
-|**PI+**|piľa — matéria em condição de presença perceptiva|piľe — matéria em condição de caráter sensorial|piľi — matéria em condição de intensidade perceptiva|piľo — matéria em condição de estruturação perceptiva|piľu — matéria em condição de estabilidade perceptiva|
-|**PO+**|poľa — configuração com presença perceptiva|poľe — configuração com caráter sensorial|poľi — configuração com intensidade perceptiva|poľo — configuração com estruturação perceptiva|poľu — configuração com estabilidade perceptiva|
-|**PU+**|puľa — capacidade de presença perceptiva|puľe — capacidade de caráter sensorial|puľi — capacidade de intensidade perceptiva|puľo — capacidade de estruturação perceptiva|puľu — capacidade de estabilidade perceptiva|
+|**PA-**|pawa — affective emergence of matter essence|pawe — emotional shaping of essence|pawi — felt essence state|pawo — expression of matter essence affect|pawu — integrated affect of essence|
+|**PE-**|pewa — affective emergence of unit|pewe — emotional shaping of unit|pewi — felt unit state|pewo — expression of unit affect|pewu — integrated affect of unit|
+|**PI-**|piwa — affective emergence of structure|piwe — emotional shaping of structure|piwi — felt structural state|piwo — expression of structure affect|piwu — integrated structural affect|
+|**PO-**|powa — affective emergence of combination|powe — emotional shaping of composition|powi — felt compositional state|powo — expression of combination affect|powu — integrated affect of composition|
+|**PU-**|puwa — affective emergence of property|puwe — emotional shaping of property|puwi — felt property state|puwo — expression of property affect|puwu — integrated affect of property|
 
 ---
 
-||**+WA**|**+WE**|**+WI**|**+WO**|**+WU**|
+## PX — Matter / Causality (Agency Structure of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (X — Causality / Agency):**  
+XA = initiation (cause/source) · XE = structuring (causal formation) · XI = application (agency in action) · XO = effect (result/impact) · XU = stabilization (causal closure)
+
+||-XA (initiation)|-XE (structuring)|-XI (application)|-XO (effect)|-XU (stabilization)|
 |---|---|---|---|---|---|
-|**PA+**|pawa — matéria com presença afetiva|pawe — matéria com tonalidade afetiva|pawi — matéria com intensidade afetiva|pawo — matéria com modulação afetiva|pawu — matéria com persistência afetiva|
-|**PE+**|pewa — unidade com presença afetiva|pewe — unidade com tonalidade afetiva|pewi — unidade com intensidade afetiva|pewo — unidade com modulação afetiva|pewu — unidade com persistência afetiva|
-|**PI+**|piwa — matéria em condição de presença afetiva|piwe — matéria em condição de tonalidade afetiva|piwi — matéria em condição de intensidade afetiva|piwo — matéria em condição de modulação afetiva|piwu — matéria em condição de persistência afetiva|
-|**PO+**|powa — configuração com presença afetiva|powe — configuração com tonalidade afetiva|powi — configuração com intensidade afetiva|powo — configuração com modulação afetiva|powu — configuração com persistência afetiva|
-|**PU+**|puwa — capacidade de presença afetiva|puwe — capacidade de tonalidade afetiva|puwi — capacidade de intensidade afetiva|puwo — capacidade de modulação afetiva|puwu — capacidade de persistência afetiva|
+|**PA-**|paxa — causal origin of matter|paxe — structured causal essence|paxi — matter under causal agency|paxo — causal effect on matter essence|paxu — stabilized causal matter state|
+|**PE-**|pexa — causal origin of unit|pexe — structured unit causality|pexi — unit under causal action|pexo — causal effect on unit|pexu — stabilized unit causality|
+|**PI-**|pixa — causal origin of structure|pixe — structured causal form|pixi — structure under causal agency|pixo — causal effect on structure|pixu — stabilized structural causality|
+|**PO-**|poxa — causal origin of combination|poxe — structured combination causality|poxi — combination under causal action|poxo — causal effect on composition|poxu — stabilized combinational causality|
+|**PU-**|puxa — causal origin of property|puxe — structured property causality|puxi — property under causal agency|puxo — causal effect on property|puxu — stabilized property causality|
 
 ---
 
-||**+XA**|**+XE**|**+XI**|**+XO**|**+XU**|
+## PY — Matter / Information (Informational Structuring of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (Y — Information / Knowledge):**  
+YA = source (origin of information) · YE = encoding (structuring of information) · YI = acquisition (learning/absorption) · YO = transmission (communication/distribution) · YU = system (integrated knowledge field)
+
+||-YA (source)|-YE (encoding)|-YI (acquisition)|-YO (transmission)|-YU (system)|
 |---|---|---|---|---|---|
-|**PA+**|paxa — matéria com presença causal|paxe — matéria com direcionamento causal|paxi — matéria com transmissão causal|paxo — matéria com encadeamento causal|paxu — matéria com consolidação causal|
-|**PE+**|pexa — unidade com presença causal|pexe — unidade com direcionamento causal|pexi — unidade com transmissão causal|pexo — unidade com encadeamento causal|pexu — unidade com consolidação causal|
-|**PI+**|pixa — matéria em condição de presença causal|pixe — matéria em condição de direcionamento causal|pixi — matéria em condição de transmissão causal|pixo — matéria em condição de encadeamento causal|pixu — matéria em condição de consolidação causal|
-|**PO+**|poxa — configuração com presença causal|poxe — configuração com direcionamento causal|poxi — configuração com transmissão causal|poxo — configuração com encadeamento causal|poxu — configuração com consolidação causal|
-|**PU+**|puxa — capacidade de presença causal|puxe — capacidade de direcionamento causal|puxi — capacidade de transmissão causal|puxo — capacidade de encadeamento causal|puxu — capacidade de consolidação causal|
+|**PA-**|paya — informational source of matter essence|paye — encoded essence information|payi — acquired knowledge of essence|payo — transmitted essence information|payu — integrated informational essence system|
+|**PE-**|peya — informational source of unit|peye — encoded unit information|peyi — acquired knowledge of unit|peyo — transmitted unit information|peyu — integrated informational unit system|
+|**PI-**|piya — informational source of structure|piye — encoded structural information|piyi — acquired knowledge of structure|piyo — transmitted structural information|piyu — integrated structural knowledge system|
+|**PO-**|poya — informational source of combination|poye — encoded combinational information|poyi — acquired knowledge of combination|poyo — transmitted compositional information|poyu — integrated combinational knowledge system|
+|**PU-**|puya — informational source of property|puye — encoded property information|puyi — acquired knowledge of property|puyo — transmitted property information|puyu — integrated property knowledge system|
 
 ---
+
+## PZ — Matter / Intensity (Degree of Manifestation of Matter)
+
+**Row Axis (P — Matter):**  
+PA = essence · PE = unit · PI = configuration · PO = combination · PU = property  
+
+**Column Axis (Z — Intensity / Degree):**  
+ZA = emergence (minimal presence) · ZE = scaling (growth of magnitude) · ZI = peak (maximum intensity) · ZO = variation (fluctuation of degree) · ZU = stabilization (fixed intensity state)
+
+||-ZA (emergence)|-ZE (scaling)|-ZI (peak)|-ZO (variation)|-ZU (stabilization)|
+|---|---|---|---|---|---|
+|**PA-**|paza — minimal emergence of matter essence|paze — scaling of matter essence|pazi — peak intensity of essence|pazo — fluctuating essence intensity|pazu — stabilized intensity of essence|
+|**PE-**|peza — minimal emergence of unit matter|peze — scaling of unit|pezi — peak unit intensity|pezo — fluctuating unit intensity|pezu — stabilized unit intensity|
+|**PI-**|piza — minimal structural emergence|pize — scaling of structure|pizi — peak structural intensity|pizo — fluctuating structure intensity|pizu — stabilized structural intensity|
+|**PO-**|poza — minimal combination emergence|poze — scaling of composition|pozi — peak combinational intensity|pozo — fluctuating composition intensity|pozu — stabilized composition intensity|
+|**PU-**|puza — minimal property emergence|puze — scaling of property|puzi — peak property intensity|puzo — fluctuating property intensity|puzu — stabilized property intensity|
+
+---
+
+
+
 
