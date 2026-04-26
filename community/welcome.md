@@ -54,7 +54,7 @@ A consistent a→e→i→o→u scale creates systematic meaning progressions acr
    - Clear examples
    - Usage patterns
 
-4. **Build vocabulary:** [`09-lexicon-nominal-matrix.md`](10-lexicon-nominal-matrix.md)
+4. **Build vocabulary:** [`09-lexicon-nominal-matrix.md`](11-lexicon-nominal.md)
    - 675 base words
    - Systematic organization
    - Real examples

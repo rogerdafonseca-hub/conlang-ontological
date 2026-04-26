@@ -317,7 +317,7 @@ This translation is a community effort.
 ### **Language Documentation**
 - [Grammar CV-VC](07-grammar-cv-vc.md)
 - [Core Vocabulary VCV](08-expanded-grammar-vcv.md)
-- [Combining Rules](11-3D-spatial-coordinates.md)
+- [Combining Rules](14-3D-spatial-coordinates.md)
 
 ---
 

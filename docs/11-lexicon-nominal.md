@@ -98,28 +98,28 @@ Every domain nucleus (same-domain pair, e.g. PP, MM, KK) follows a universal 5×
 
 ## 📊 THE 20 BASE DOMAINS
 
-| # | Letter | IPA | Domain | Tier | Ontological Type |
-|---|---|---|---|---|---|
-| 1 | **P** | /p/ | Substance / Matter | 1 | Brute matter — what things are made of |
-| 2 | **T** | /t/ | Time / Temporality | 1 | Temporal events — moments, durations, cycles |
-| 3 | **K** | /k/ | Social / Collective | 1 | Human groupings as entity |
-| 4 | **B** | /b/ | Communication | 1 | Communicative signal as object |
-| 5 | **M** | /m/ | Cognitive / Mental | 1 | Mental state as cognitive structure |
-| 6 | **G** | /g/ | Spatial / Positional | 1 | Position as spatial datum |
-| 7 | **V** | /v/ | Action / Verbal | 1 | Process type — abstract process classes |
-| 8 | **R** | /ɾ/ | State / Condition | 1 | Static condition of an entity |
-| 9 | **J̌** | /dʒ/ | Motion / Movement | 2 | Stable pattern of motion (atemporal) |
-| 10 | **S** | /s/ | Quantity / Measurement | 2 | Quantity as magnitude. **Modal operator.** |
-| 11 | **F** | /f/ | Food / Nutrition | 2 | Nutritive substance |
-| 12 | **H** | /h/ | Dwelling / Shelter | 2 | Habitable space |
-| 13 | **N** | /n/ | Nature / Living | 2 | Living organism as biological entity |
-| 14 | **D** | /d/ | Tool / Artifact | 2 | Fabricated object as entity |
-| 15 | **L** | /l/ | Structure / Form | 2 | Abstract form — pattern, geometry, organization |
-| 16 | **Ľ** | /ʎ/ | Perception / Sensory | 2 | Sensory experience as subjective experience |
-| 17 | **W** ⚠️ | /w/ | Emotion / Affect | 3 | Affective state. W modulates, never structures. |
-| 18 | **X** ⚠️ | /ʃ/ | Causality / Agency | 3 | Causal relation between cause and effect |
-| 19 | **Y** ⚠️ | /ʒ/ | Knowledge / Information | 3 | Epistemic content — datum, fact, law, theory |
-| 20 | **Z** ⚠️ | /z/ | Intensity / Degree | 3 | Scalar value. **Modal operator.** |
+| #   | Letter   | IPA  | Domain                  | Tier | Ontological Type                                |
+| --- | -------- | ---- | ----------------------- | ---- | ----------------------------------------------- |
+| 1   | **P**    | /p/  | Substance / Matter      | 1    | Brute matter — what things are made of          |
+| 2   | **T**    | /t/  | Time / Temporality      | 1    | Temporal events — moments, durations, cycles    |
+| 3   | **K**    | /k/  | Social / Collective     | 1    | Human groupings as entity                       |
+| 4   | **B**    | /b/  | Communication           | 1    | Communicative signal as object                  |
+| 5   | **M**    | /m/  | Cognitive / Mental      | 1    | Mental state as cognitive structure             |
+| 6   | **G**    | /g/  | Spatial / Positional    | 1    | Position as spatial datum                       |
+| 7   | **V**    | /v/  | Action / Verbal         | 1    | Process type — abstract process classes         |
+| 8   | **R**    | /ɾ/  | State / Condition       | 1    | Static condition of an entity                   |
+| 9   | **J̌**   | /dʒ/ | Motion / Movement       | 2    | Stable pattern of motion (atemporal)            |
+| 10  | **S**    | /s/  | Quantity / Measurement  | 2    | Quantity as magnitude. **Modal operator.**      |
+| 11  | **F**    | /f/  | Food / Nutrition        | 2    | Nutritive substance                             |
+| 12  | **H**    | /h/  | Dwelling / Shelter      | 2    | Habitable space                                 |
+| 13  | **N**    | /n/  | Nature / Living         | 2    | Living organism as biological entity            |
+| 14  | **D**    | /d/  | Tool / Artifact         | 2    | Fabricated object as entity                     |
+| 15  | **L**    | /l/  | Structure / Form        | 2    | Abstract form — pattern, geometry, organization |
+| 16  | **Ľ**    | /ʎ/  | Perception / Sensory    | 2    | Sensory experience as subjective experience     |
+| 17  | **W** ⚠️ | /w/  | Emotion / Affect        | 3    | Affective state. W modulates, never structures. |
+| 18  | **X** ⚠️ | /ʃ/  | Causality / Agency      | 3    | Causal relation between cause and effect        |
+| 19  | **Y** ⚠️ | /ʒ/  | Knowledge / Information | 3    | Epistemic content — datum, fact, law, theory    |
+| 20  | **Z** ⚠️ | /z/  | Intensity / Degree      | 3    | Scalar value. **Modal operator.**               |
 
 **⚠️ Exception Group (17-20):** Inverted or specialized gradation. X, Y, Z have dual functions in grammar (spatial axes) and lexicon (ontological domains).
 

@@ -115,7 +115,7 @@ The UVA operates consistently across all structural systems:
     
 - VCV
     
-- extended systems (VCVC, CVCVC, etc.)
+- extended systems (CVC+CV... CVCV... , etc.)
     
 
 ---

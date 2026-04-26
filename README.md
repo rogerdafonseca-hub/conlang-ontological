@@ -15,7 +15,7 @@
 
 This is a highly systematic constructed language (conlang) designed with three integrated grammatical layers and an ontologically organized nominal lexicon. The language prioritizes logical structure, semantic productivity, and systematic gradation.
 
-**Current Status:** v0.6.5 — Complete grammatical foundation with ontologically restructured domains
+**Current Status:** v0.7.5 — Complete grammatical foundation with ontologically restructured domains
 
 ---
 

@@ -420,24 +420,6 @@ Tier 4 (PR,BR,TR,DR,KR,GR,PL) → specialization
 
 ---
 
-## 📊 STRUCTURAL SUMMARY
-
-| Component | Count | Status |
-|---|---|---|
-| Base Domains | 20 | 🔒 Immutable |
-| Active ECs | 9 (7 original + BL + KL) | ✅ Defined |
-| Reserved ECs | 1 (GL) | 🔓 Open |
-| Grammar Layers | 3 (CV, VC, VCV) | 🔒 Immutable |
-| CV Particles | 135 | ✅ Documented |
-| VC Particles | 135 | ✅ Documented |
-| VCV Particles | 675 | ✅ Documented |
-| Base CVCV Words | 675 target | 🔄 In progress |
-| Modifiers | 24 | ✅ Documented |
-| Finalized matrices | PP, MM, BB, YY, ĽĽ, TRTR, DRDR | ✅ Complete |
-| Pending matrices | T, K, G, V, R, J̌, F, H, N, D, L, W, X, Z + ECs | ⏳ Pending |
-
----
-
 **File:** `04-structure.md`
 **Version:** 0.7.0
 **Status:** ✅ Updated — reflects all decisions through March 2026
