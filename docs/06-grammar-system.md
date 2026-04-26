@@ -1,205 +1,363 @@
-# 10. Grammar System
+# 06. Grammar System
+
+_Version 0.8.0_
+
+---
 
 ## Overview
 
-The grammar of the Universal Ontological Language emerges from the interaction between the lexicon and a small set of structural rules. It does not rely on heavy morphology — instead, **position, structure, and operators** do most of the work.
+The grammar operates through **operator chaining** — particles that modify the element immediately following them. There is no heavy morphology. Position carries meaning, and the most important element comes first.
 
-The key principle is that the lexicon is **neutral**: words are roots, not pre-classified as nouns or verbs. Grammatical function is determined by how a word is used in a sentence, not by its form.
+**Core principles:**
+- Modifier always precedes what it modifies
+- The most important element comes first
+- Grammar controls the relationship between speaker and listener — it does not describe the world
 
 ---
 
 ## The Two Layers
 
-Before understanding grammar, it is essential to understand the two layers of the language:
-
 | Layer | Name | Format | Function |
 |---|---|---|---|
-| Deep | Sistema Ontológico | VCV + CV + CV + CV... | Semantic infrastructure. Defines what something IS structurally. |
-| Surface | Léxico Nominal | CVCV + CV | Human interface. Names real things. Short and usable. |
+| Deep | Sistema Ontológico | VCV + CV + CV... | Semantic infrastructure. Defines what something IS. |
+| Surface | Léxico Nominal | CVCV + CV | Human interface. Names real things. Spoken language. |
 
-Grammar operates on the **surface layer** — the léxico nominal. The sistema ontológico is the underlying map, not the spoken language.
+Grammar acts on the surface layer. The ontological system is the underlying map.
 
 ---
 
 ## Word Classes
 
-The language has one foundational class: **roots**. Every root belongs to a domain (signaled by its first consonant C₁) and carries an ontological type. Grammatical class emerges from usage, not from form.
-
-### Domain V — Process Roots
-
-Domain V covers **process types** — running, breaking, growing as abstract reified concepts. V-roots are the source of all verbal use in the language.
-
-A V-root by itself is a **nominalized process**:
-
-- *vapa* = the act/process of running (as a concept)
-- *vata* = the act/process of breaking
-- *vama* = the act/process of growing
-
-These are not yet verbs. They become verbs when placed in **predicative position**.
+The language has one foundational class: **roots**. Every root belongs to a domain (first consonant C₁). Grammatical class emerges from operators and position — not from the word's form. Any word can function as noun, verb, or adjective.
 
 ---
 
-## From Root to Verb
+## The V-Family — Functional Operators
 
-A V-root becomes a verb when it:
+The V-family is the grammatical engine. Its particles **precede the target word** and transform it into a specific grammatical function.
 
-1. **Has arguments** — someone doing, something receiving
-2. **Occupies predicative position** — immediately after the subject
-3. **Can receive operators** — time (T), negation, aspect
+> **Rule:** *va* never appears alone. It always takes a following word as its nucleus.
+> ❌ *ba va* (invalid — no nucleus)
+> ✔ *ba va wa be* (valid — *wa* is the nucleus)
 
-| Level | Structure | Nature |
-|---|---|---|
-| Root (V-) | CVCV | Process type — reified, nominal |
-| Predicative use | S + V | Process attributed to a subject |
-| Full verb | S + V + operators | Process instantiated in time |
+### CV — Function Activators
 
-> **Rule:** Verb = V in predicative function.
-> Temporal anchoring (T) is an additional operator — important, but not the sole definer of verbal status.
+| Particle | Function | Equivalent | Example |
+|---|---|---|---|
+| **va** | activates as verb / action | to [verb] | *ba va wa be* = I love you |
+| **ve** | activates as adjective / quality | -like, -ish | *ve para* = watery |
+| **vi** | activates as instrument | used as, via | *vi pata* = using stone |
+| **vo** | activates as collective / set | group of | *vo pata* = quarry |
+| **vu** | emphasis / intensity | really, truly, very | *ba vu va wa be* = I REALLY love you |
 
-### Nominal vs Verbal Reading
+### VC — Derivational Operators
 
-The same V-root can be read nominally or verbally depending on position:
-
-| Form | Reading | Example meaning |
-|---|---|---|
-| V in post-subject position | Verbal | "the machine runs" |
-| V with article / genitive marker | Nominal | "the running", "the machine's running" |
-
-This mirrors how many natural languages treat verbal nouns and infinitives — the root is the same, the function differs.
+| Particle | Function | Equivalent | Example |
+|---|---|---|---|
+| **av** | agent / doer | -er, -or | *av vapa* = runner |
+| **ev** | having / causing the quality | -ous, -ful | *ev wa* = loving |
+| **iv** | result / product | -ed, past participle | *iv vata* = the broken |
+| **ov** | iterative / does repeatedly | habitual agent | *ov vapa* = chronic runner |
+| **uv** | reciprocal / one another | mutual, inter- | *uv wa* = mutual love |
 
 ---
 
-## Basic Sentence Order — SVO
+## Omission of *va*
 
-The language follows **Subject–Verb–Object** order.
+*va* is omissible when predicative context is obvious:
+
+| Form | Register | Meaning |
+|---|---|---|
+| *ba va wa be* | formal / explicit | I love you |
+| *ba wa be* | subject present, *va* omitted | I love you |
+| *wa be* | colloquial / obvious | love you |
+
+---
+
+## Emphasis — *vu*
+
+*vu* intensifies the element immediately following it. Scope is strictly local — it modifies only the next block.
 
 ```
-S   V   O
-│   │   │
-who does what → to what
+ba vu va wa be     → I REALLY love you (emphasis on action)
+ba vu ve wa        → I am VERY loving (emphasis on attribute)
+ba va wa vu be     → I love YOU specifically (emphasis on object)
+vu ba va wa be     → TRULY, I love you (emphasis on whole utterance)
 ```
 
-### Why SVO
+*vu* combines freely with other operators:
+```
+ha vu ba va wa be  → I REALLY do love you (certainty + emphasis)
+hu vu ba va wa be  → I absolutely do NOT love you (negation + emphasis)
+ba vu va wa be ha  → I REALLY love you, right? (emphasis + confirmation)
+```
 
-- The predicate immediately follows the subject, making verbal attribution unambiguous
-- Avoids the nominal compound confusion that SOV creates
-- Works naturally with a neutral lexicon (no verbal morphology required)
-- Scales cleanly as operators and subordination are added
+---
+
+## The H-Family — Interaction Operator
+
+H is a **two-dimensional interaction operator**. It controls the relationship between speaker and listener — not logical truth.
+
+| Position | Function |
+|---|---|
+| **Sentence-initial** | Speaker's position (affirmation, negation, doubt) |
+| **Sentence-final** | Alignment demand (confirmation, questioning) |
+
+### H Values — Vowel = Degree of Certainty
+
+| Form | Initial meaning | Final meaning |
+|---|---|---|
+| **ha** | yes / affirmation | "right?" / "isn't it?" |
+| **he** | probably yes | "you think so?" |
+| **hi** | maybe / uncertain | "could it be?" |
+| **ho** | probably not | "don't you think?" |
+| **hu** | no / negation | "isn't it not?" |
+
+> **Key rule:** The vowel encodes certainty degree. Intonation encodes the speech act.
+> *ha.* = yes (statement) / *ha?* = yes? (question) / *ha!* = yes! (exclamation)
+
+### H in Initial Position — Speaker's Position
+
+```
+ha ba va wa be     → I love you (affirmation)
+hi ba va wa be     → maybe I love you (doubt)
+hu ba va wa be     → I don't love you (negation)
+```
+
+### H in Final Position — Alignment Demand
+
+```
+ba va wa be ha     → I love you, right?
+ba va wa be hi     → I love you… could that be?
+ba va wa be hu     → I don't love you, is that right?
+```
+
+### H in Both Positions — Full Framing
+
+```
+ha ba va wa be ha  → I love you, don't I?
+hi ba va wa be ha  → maybe I love you… right?
+hu ba va wa be hi  → I don't love you… or do I?
+```
+
+---
+
+## Negation — *hu*
+
+*hu* (H-family) is the negation operator. Its scope depends on position:
+
+| Form | Scope | Meaning |
+|---|---|---|
+| *hu ba va wa be* | global (initial) | I don't love you |
+| *ba hu va wa be* | local (before verbal block) | I don't do the loving |
+| *ba va hu wa be* | local (before nucleus) | I do the not-loving |
+
+*hu* + *vu* = emphatic negation:
+```
+hu vu ba va wa be   → I absolutely do NOT love you
+ba hu vu va wa be   → I truly don't do this
+```
+
+---
+
+## Sentence Structure
+
+General template (everything optional except the nucleus):
+
+```
+[H-initial]  [vu]  [MODIFIERS]  [SUBJECT]  [va]  [NUCLEUS]  [OBJECT]  [L-contrast]  [H-final]
+```
+
+**The most important element comes first.** Any element can be fronted. The structure remains interpretable because:
+1. The first B-particle before *va* = default subject anchor
+2. Modifiers always precede what they modify
+3. H marks the interactional frame
+
+### Basic Examples
+
+```
+ba va wa be             → I love you
+wa be                   → love you (colloquial)
+ba va pata nana         → I work stone on the soil
+ha ba va wa be ha       → I really love you, don't I?
+```
+
+---
+
+## Tense — The T Operator
+
+T-family particles anchor a process to a time. **Optional.**
+
+| Particle | Function |
+|---|---|
+| **ta** | distant past |
+| **te** | near past |
+| **ti** | present |
+| **to** | near future |
+| **tu** | distant future |
+
+```
+ba te va wa be     → I liked you (recently)
+ba ta va wa be     → I loved you (long ago)
+ba tu va wa be     → I will love you
+```
+
+Absence of T = general / atemporal / habitual reading.
+
+---
+
+## Aspect — The G Operator
+
+| Particle | Function |
+|---|---|
+| **ga** | punctual (single moment) |
+| **ge** | cyclic / habitual |
+| **gi** | ongoing / in progress |
+| **go** | continuous / sustained |
+| **gu** | complete / finished |
+
+```
+ba gi va wa be     → I am loving you (ongoing)
+ba gu va wa be     → I finished loving you
+ba ge va wa be     → I habitually love you
+```
+
+---
+
+## Modality — The M Operator
+
+| Particle | Function |
+|---|---|
+| **ma** | can, be able to |
+| **me** | may, be allowed to |
+| **mi** | factual / indicative |
+| **mo** | must, should |
+| **mu** | certainly, inevitably |
+
+```
+ba ma va wa be     → I can love you
+ba mo va wa be     → I must love you
+ba mu va wa be     → I will certainly love you
+```
+
+---
+
+## Operator Stacking
+
+Operators stack left-to-right, each modifying the next:
+
+```
+[H]  [vu]  [M]  [T]  [G]  [Subject]  [va]  [Nucleus]  [Object]
+```
 
 ### Examples
 
 ```
-[machine] [vapa] [system]
- subject   verb   object
- "the machine operates the system"
-
-[she] [vata] [stone]
- "she breaks the stone"
+ba vu ma va wa be           → I can REALLY love you
+ba ma te gi va wa be        → I could have been loving you
+ha vu ma ta ba va wa be ha  → could I REALLY have loved you? right?
 ```
 
 ---
 
-## Predicative Position
+## Questions
 
-**Second position (post-subject) is the predicative zone.**
-
-A V-root placed here is automatically read as a verb unless explicitly marked as nominal.
-
+**Yes/no questions** — use H-final or H-initial with rising intonation:
 ```
-S → V = verbal reading (default)
+ba va wa be ha?    → do I love you?
+ha ba va wa be?    → do I really love you?
 ```
 
-To force a nominal reading, the root is moved out of predicative position:
-
+**Content questions** — K-family reference words + H:
 ```
-"the vapa of the machine"   → nominal (genitive structure)
-"the vapa"                  → nominal (article marks it as entity)
-"machine vapa system"       → verbal (post-subject, has object)
+ba va wa ke ha     → who do I love?
+ki ba va wa be ha  → where do I love you?
 ```
 
-No additional morphology is required for the basic distinction.
+K-family (*ka* = who, *ke* = what, *ki* = where, *ko* = when, *ku* = why, *ik* = how) works in both declarative and interrogative contexts. H marks the interrogative mode via intonation.
 
 ---
 
-## Negation
+## Contrast — The L Operator
 
-Negation precedes the predicate:
-
-```
-S  NEG  V  O
-```
-
-Examples:
-
-```
-[machine] [NEG] [vapa] [system]
-"the machine does not operate the system"
-
-[she] [NEG] [vata] [stone]
-"she does not break the stone"
-```
-
-The negation marker keeps the predicate block intact and does not disrupt parsing.
+| Particle | Function | Example |
+|---|---|---|
+| **la** | and, also | *ba va wa be la bi va wa bi* |
+| **le** | or | *wa le ma* = love or thought |
+| **li** | but, however | *ba va wa be li ba hu va wa bi* |
+| **lo** | therefore | *ba va wa be lo ba vu va patu be* |
+| **lu** | if, provided that | *lu ba va wa be lo ba gu* |
 
 ---
 
-## Time — The T Operator
+## Emotional Predicates — W-Family
 
-Domain T covers **temporal events** — moments, durations, sequences, cycles. In grammar, T functions as an optional operator that anchors a process to a point or period in time.
+W-family words function directly as predicates without *va*:
 
-| T presence | Effect |
+| Particle | Meaning |
 |---|---|
-| Absent | Process is general / habitual / atemporal |
-| Present | Process is instantiated at a specific time |
+| **wa** | love |
+| **we** | like |
+| **wi** | neutral / indifferent |
+| **wo** | dislike |
+| **wu** | hate |
 
 ```
-[she] [vata] [stone]         → general / habitual reading
-[she] [T:past] [vata] [stone] → specific past instance
+ba wa be           → I love you
+ba we para         → I like water
+bi wu nana         → he hates soil
 ```
 
-T markers are placed before or after the predicate depending on emphasis — this will be formalized as the tense system develops.
-
-> **Key rule:** A sentence does not require T to be grammatical. Temporal reference is pragmatically inferred when T is absent.
+W follows **inverted gradation**: a = most positive, u = most negative.
 
 ---
 
-## Other Operators
+## Three Independent Axes
 
-Additional operators will be defined as the grammar develops. The minimum viable set includes:
+The grammar has three distinct expressivity dimensions:
 
-| Operator | Domain | Function | Status |
-|---|---|---|---|
-| Negation | — | Negates predicate | Defined |
-| Time anchor | T | Instantiates process in time | Partial |
-| Aspect | — | Ongoing / completed / habitual | Pending |
-| Modality | PL | Possibility, necessity, probability | Pending |
-| Intensity | Z | Scalar modification | Pending |
+| Axis | Operator | Function |
+|---|---|---|
+| **Interaction** | H (initial/final) | speaker's position + listener alignment |
+| **Intensity** | vu | emphasis and force |
+| **Focus** | word order / fronting | what matters most |
+
+These three axes are independent and combinable:
+```
+ha vu ba va wa za be ha
+→ I REALLY love YOU specifically, right?
+  (affirmation + emphasis + fronting + focus on object + confirmation)
+```
 
 ---
 
-## Summary — Grammatical Rules
+## Summary of Rules
 
 | Rule | Description |
 |---|---|
-| Basic order | SVO |
-| Predicate | V-root in post-subject position |
-| Nominal reading | V-root outside predicative position |
-| Negation | NEG before predicate (S NEG V O) |
-| Time | T operator — optional, does not define verbal status |
-| Verb definition | V in predicative function, with or without T |
-| Lexicon neutrality | Roots are not pre-classified as noun or verb |
+| Most important first | Front any element to prioritize it |
+| Modifier before modified | All operators precede their target |
+| *va* = verbal activator | Transforms any following word into verb |
+| *va* never alone | Must always be followed by a nucleus |
+| *va* omissible | When predicative context is obvious |
+| *vu* = emphasis | Intensifies the immediately following element |
+| H-initial = speaker position | Affirmation / negation / doubt |
+| H-final = alignment demand | Confirmation / questioning |
+| H vowel = certainty degree | ha=yes, he=probable, hi=uncertain, ho=probably not, hu=no |
+| H intonation = speech act | ↓ statement / ↑ question / ↓! exclamation |
+| *hu* = negation | Global (initial) or local (before target element) |
+| *hu* + *vu* = emphatic negation | Absolute denial |
+| T = tense (optional) | Temporal anchoring |
+| G = aspect (optional) | How action unfolds |
+| M = modality (optional) | Possibility, necessity |
+| First B before *va* = subject | Default subject anchor in flexible word order |
+| L = contrast / conjunction | Connects clauses logically |
 
 ---
 
 ## Relationship to the Ontological System
 
-In the ontological system, V represents process types as abstract entities — the concept of running, the concept of breaking. This is always nominal and structural.
-
-In **spoken grammar**, those same V-roots enter predicative position and become verbs. The ontology does not change — only the grammatical function.
-
-This means the language has a clean separation:
-
 - **Ontology** defines what things ARE
-- **Grammar** defines what things DO in a sentence
+- **Grammar** defines how things are communicated between people
 
-And V-roots live in both layers simultaneously — as structural entities in the ontological system, and as the source of all predication in spoken language.
+The same root lives in both layers simultaneously — as a structural entity in the ontological system, and as a functional unit in spoken interaction. Grammar does not describe the world — it controls speech about the world.
