@@ -172,7 +172,7 @@ The UVA encodes a universal gradient of:
 
 ### Intuitive Scale
 
-- **a** → almost undefined
+- **a** → undefined
     
 - **i** → standard definition
     

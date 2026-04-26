@@ -1,704 +1,365 @@
 # ❓ FAQ — Frequently Asked Questions
 
-**Common Questions About the Conlang Project**
+**Common Questions About the Universal Ontological Language**
 
-_Version 0.6.0 — March 2026_
+_Version 0.8.0 — April 2026_
 
 ---
 
 ## 📚 Table of Contents
 
 - [General Questions](#general-questions)
-- [Learning & Usage](#learning--usage)
+- [The Three Systems](#the-three-systems)
 - [Grammar & Structure](#grammar--structure)
 - [Vocabulary & Words](#vocabulary--words)
 - [Pronunciation](#pronunciation)
 - [Comparison with Other Languages](#comparison-with-other-languages)
-- [Community & Contribution](#community--contribution)
 - [Technical Questions](#technical-questions)
 
 ---
 
 ## 🌍 General Questions
 
-### **What is this language?**
+### What is this language?
 
-This is a systematically constructed language (conlang) built on ontological organization and vowel gradation principles. It features a three-layer grammar system (CV/VC/VCV) and 675 base words organized into 27 semantic domains.
+A systematically constructed language built on ontological organization, compositional structure, and vowel gradation. It operates through three independent but synchronized systems: a grammatical layer, an ontological layer, and a nominal lexicon.
 
 Unlike most conlangs that aim for either maximum simplicity (like Toki Pona) or maximum logic (like Lojban), this language balances systematic structure with practical expressiveness.
 
 ---
 
-### **Why create another constructed language?**
+### Why create another constructed language?
 
 This language explores a unique combination of features:
-- **Ontological organization:** Vocabulary grouped by meaning domains
-- **Vowel gradation:** Systematic a→e→i→o→u progressions
+- **Ontological organization:** Vocabulary derived from a structured address space of concepts
+- **Compositional ECs:** Consonant clusters with meanings transparent from their component domains
 - **Three-layer grammar:** Progressive complexity (CV → VC → VCV)
-- **Spatial integration:** Built-in 3D coordinate system
-
-It's both a linguistic experiment and a practical communication tool.
-
----
-
-### **What's the ultimate goal of this project?**
-
-**Short-term:** Create a complete, systematic language with comprehensive documentation
-
-**Medium-term:** Build an active learning community and create literary works
-
-**Long-term:** Demonstrate how ontological organization and systematic structure can work in a real, usable language
+- **Semantic Axis Law:** C₂ defines operations, making the entire lexicon predictable
+- **Integrated 3D spatial system**
 
 ---
 
-### **Is this language complete?**
+### Is this language complete?
 
-**Grammar:** ✅ Yes (100% complete as of v0.6.0)
-- All 270 CV/VC particles defined
-- All 675 VCV particles documented
-- Complete modifier system
+**Grammar:** ✅ Complete (v0.8.0)
+- 300 CV/VC particles (30 families × 10)
+- 750 VCV particles (30 families × 25)
+- Operator system fully documented
 
-**Vocabulary:** 🔄 Foundation complete, expanding
-- 675 CVCV base words ✅
-- 3-syllable words in development
-- Specialized vocabularies coming
+**Ontological system:** 🔄 In progress
+- Architecture and rules: complete
+- Domain matrices: partially complete (P× series done, others in progress)
 
-**Resources:** 🔄 In progress
-- Core documentation ✅
-- Example sentences (growing)
-- Audio guide (planned)
+**Nominal Lexicon:** 🔄 Early stage
+- ~50 words derived so far
+- Full derivation depends on completing the matrices
 
 ---
 
-### **How long has this been in development?**
+### How long has this been in development?
 
-**Conceptual phase:** ~2 years (2024-2026)
-**Active development:** ~1 year (2025-2026)
-**Foundation completion:** March 2026 (v0.6.0)
-
-The project went through multiple iterations before arriving at the current systematic structure.
-
----
-
-## 📖 Learning & Usage
-
-### **Is this language hard to learn?**
-
-**Compared to natural languages:** Easier
-- No irregular verbs
-- No grammatical gender
-- Systematic and deducible
-- Compact phonology (35 phonemes)
-
-**Compared to other conlangs:** Moderate
-- More complex than Toki Pona (simpler)
-- Less complex than Lojban (more logical)
-- About same as Esperanto (balance)
-
-**Learning curve:**
-- **Initial foundation:** Steeper (understanding the system)
-- **After foundation:** Smoother (deduction over memorization)
-
-**Timeline:** Most learners achieve basic fluency in 6 months, full fluency in 12-18 months.
+- **Conceptual phase:** ~2 years (2024–2026)
+- **Active development:** ~1 year (2025–2026)
+- **Grammar foundation complete:** v0.6.0, March 2026
+- **Architecture and EC system complete:** v0.8.0, April 2026
 
 ---
 
-### **How much time do I need to invest?**
+## 🏗️ The Three Systems
 
-**Minimum:** 30 minutes per day
-**Recommended:** 60 minutes per day
-**Optimal:** 90+ minutes per day
+### What's the difference between the grammatical system, the ontological system, and the nominal lexicon?
 
-**What matters most:** Consistency over intensity. Daily practice beats weekend cramming.
+These are three independent but coordinated systems:
 
----
+| System | Purpose | Format |
+|---|---|---|
+| **Grammatical** | Controls how things are said | CV / VC / VCV particles |
+| **Ontological** | Defines what things ARE | VCV + CV + CV... (addresses) |
+| **Nominal Lexicon** | Names real things for speech | CVCV + CV (usable words) |
 
-### **Can I actually communicate in this language?**
-
-**Yes!** The language has:
-- Complete grammar (all tenses, moods, aspects)
-- Growing vocabulary (675+ words, expanding)
-- Systematic word formation (create what you need)
-- Real example sentences
-
-**Current limitations:**
-- Small user base (you might be the first learner!)
-- Limited corpus (no novels yet)
-- Developing idioms
+The same consonants appear in all three with different roles. *P* in grammar marks prepositions; *P* in the ontological system marks matter/substance; *P* in the lexicon begins any word whose domain is matter.
 
 ---
 
-### **Where do I start learning?**
+### What is the ontological system exactly?
 
-**Step 1:** Read [`WELCOME.md`](WELCOME.md) (15 min)
-**Step 2:** Skim [`README.md`](README.md) (20 min)
-**Step 3:** Follow [`LEARNING-PATH.md`](LEARNING-PATH.md) Month 1
+A structured address space for concepts. Every concept has an ontological address — a position defined by domain, field, and area. It answers: *where does this concept live in the structure of reality?*
 
-**First week focus:**
-- Learn the 5 vowels and gradation system
-- Understand the systematic structure
-- Learn your first 10 consonants
+The address format is VCV+CV+CV... where each CV pair narrows from domain to field to area. The vowel scale A→U consistently encodes generality → specificity.
+
+The ontological system does **not** produce spoken words. It produces addresses. The nominal lexicon maps usable words onto those addresses.
 
 ---
 
-### **Do I need linguistic background?**
+### What is the Semantic Axis Law?
 
-**No!** The language is designed to be learnable by anyone.
+> **C₂ defines operations, not concepts. Meaning = Ontology(C₁) × Operation(C₂)**
 
-**Helpful but not required:**
-- Basic understanding of grammar terms (noun, verb, etc.)
-- Experience learning any foreign language
-- Interest in how languages work
-
-**The system teaches you linguistic concepts as you learn.**
+This means any word's semantic family is predictable from its first consonant, and its operational direction from its second. A speaker who knows the 20 base domains can deduce the meaning family of any unfamiliar word.
 
 ---
 
-### **Can children learn this?**
+### What are the consonant clusters (ECs) and why are they special?
 
-**Yes!** The systematic nature may actually help:
-- Pattern recognition over memorization
-- Visual vowel progressions (a=small → u=large)
-- Logical connections
+ECs are derived compositionally from base domain combinations. The second element acts as an ontological operator:
 
-**Recommended age:** 10+ for self-study, younger with adult guidance
+- **R as second element** = "state of X" (e.g., BR = entity+state = identity)
+- **L as second element** = "structure of X" (e.g., KL = social+structure = institution)
+
+This makes all ECs transparent — no memorization needed if you know the base domains.
 
 ---
 
 ## 🔤 Grammar & Structure
 
-### **Why three grammar layers (CV/VC/VCV)?**
+### Why three grammar layers (CV/VC/VCV)?
 
-**Progressive complexity:**
-- **CV (100 particles):** Essential basics — learn first
-- **VC (100 particles):** Extensions — adds depth
-- **VCV (675 particles):** Nuances — advanced expression
+Progressive expressiveness:
+- **CV** — essential operations, learned first
+- **VC** — inverse and extended functions
+- **VCV** — fine-grained nuances, advanced expression
 
-**Analogy:** 
-- CV = Basic sentences
-- VC = Complex sentences  
-- VCV = Poetic/precise expression
-
-You can communicate with just CV, but VCV lets you say exactly what you mean.
+You can communicate with just CV. VCV lets you say exactly what you mean.
 
 ---
 
-### **What's this vowel gradation system?**
+### How does the verb system work?
 
-**Standard pattern:** a → e → i → o → u means minimum → maximum
+There are no verb classes. Any word becomes a verb when preceded by the activator *va* from the V-family, or when placed in predicative position after the subject.
 
-**Examples:**
-```
-M-modifier (size):
-ma = tiny
-me = small
-mi = medium
-mo = large
-mu = huge
-
-N-modifier (frequency):
-na = never
-ne = rarely
-ni = sometimes
-no = often
-nu = always
-```
-
-**Exceptions (inverted):**
-- **W (Emotion):** a=positive, u=negative
-- **X,Y,Z (Spatial):** a=maximum, u=minimum
+*va* is omissible when context makes the verbal reading obvious:
+- *ba va wa be* = I love you (explicit)
+- *ba wa be* = I love you (subject present, *va* omitted)
+- *wa be* = love you (colloquial)
 
 ---
 
-### **How do you say "the" or "a"?**
+### How does the H-family work? Is it for questions?
 
-**No articles!** Like Chinese, Japanese, Latin, Russian.
+H is a two-dimensional **epistemic/interaction operator**, not simply a question marker.
 
-**Instead use:**
-- **Context:** Usually clear from context
-- **Demonstratives:** di (this) ≈ "the", generic noun ≈ "a"
-- **Specificity modifiers:** Ľ-family (certainty)
+- **Initial position** = speaker's epistemic stance (certainty level)
+- **Final position** = alignment demand from listener
 
-**Examples:**
-```
-kapi va = adult does / an adult does / the adult does
-di kapi va = this adult does ≈ the adult does
-```
+| Form | Initial | Final |
+|---|---|---|
+| ha | yes / affirmation | "right?" |
+| he | probably yes | "you think so?" |
+| hi | uncertain | "could it be?" |
+| ho | probably not | "don't you think?" |
+| hu | no / negation | "isn't it not?" |
 
----
-
-### **How does word order work?**
-
-**Default:** Subject-Verb-Object (SVO) like English
-
-```
-ba va fopi = I do meal = I eat
-```
-
-**Flexible with case marking:**
-```
-fopi pi ba va = meal in I do = (as for) meal, I do it
-```
-
-Case particles (pa, pi, po, pu, pe) make order flexible.
+The vowel encodes certainty degree. Intonation (↓ ↑ ↓!) encodes the speech act. A single syllable carries both.
 
 ---
 
-### **Is there gender?**
+### How does negation work?
 
-**No grammatical gender.** Completely genderless system.
+*hu* (H-family) is the negation operator:
+- **Global** (sentence-initial): *hu ba va wa be* = I don't love you
+- **Local** (before target element): *ba hu va wa be* = I don't do the loving
 
-**If needed, specify with modifiers or separate words:**
-```
-kapi = adult (any gender)
-kapi + [descriptor] = gendered if needed
-```
+*vu* (V-family) is **emphasis**, not negation:
+- *ba vu va wa be* = I REALLY love you
 
-**Philosophy:** Gender is semantic, not grammatical.
-
----
-
-### **How do tenses work?**
-
-**Simple tenses (T-family):**
-```
-ta = past
-ti = present  
-tu = future
-```
-
-**Usage:**
-```
-ba va ta = I did
-ba va ti = I do
-ba va tu = I will do
-```
-
-**Complex tenses:** Combine with aspect (G-family) for nuance
+*hu + vu* = emphatic negation: *hu vu ba va wa be* = I absolutely do not love you
 
 ---
 
-### **What about questions?**
+### What's the word order?
 
-**Question words (K-family):**
-```
-ka = what?
-ke = who?
-ki = where?
-ko = when?
-ku = why?
-```
+Default SVO (Subject–Verb–Object). Flexible — any element can be fronted for focus since modifiers always precede what they modify and the first B-particle before *va* anchors the subject.
 
-**Usage:**
-```
-ka be va? = what you do? = what do you do?
-ke va di? = who does this?
-ki bi va? = where they do?
-```
+---
+
+### Is there gender?
+
+No grammatical gender. The system is entirely genderless.
+
+---
+
+### How do tenses work?
+
+T-family particles, optional — a sentence is grammatical without them:
+
+| Particle | Tense |
+|---|---|
+| ta | distant past |
+| te | near past |
+| ti | present |
+| to | near future |
+| tu | distant future |
+
+Combine with G-family (aspect) for full temporal precision.
+
+---
+
+### How do questions work?
+
+K-family provides reference words usable in both declarative and interrogative contexts. H-family marks the interrogative mode:
+- *ke* = "who" (declarative)
+- *ke ha* = "who?" (question)
+
+---
+
+### What is the W-family?
+
+The primary emotional scale — direct predicates that need no *va*:
+- wa = love / we = like / wi = neutral / wo = dislike / wu = hate
+
+W uses inverted gradation: a = positive, u = negative.
 
 ---
 
 ## 📝 Vocabulary & Words
 
-### **How many words do I need to know?**
+### How many words exist so far?
 
-**Basic conversation:** 100-200 words
-**Functional fluency:** 300-500 words
-**Full fluency:** 675+ base words
-
-**With modifiers:** 100 base words × 24 modifiers = 2,400 expressible concepts
+~50 derived words from completed matrices (primarily the P-domain field lexicon). The full lexicon derivation depends on completing the remaining domain matrices, which is the current active phase of development.
 
 ---
 
-### **How do I create new words?**
+### How will new words be created?
 
-**Method 1: Use modifiers**
-```
-pepi (liquid) + ma (small) = pepima (drop)
-kapi (adult) + mu (large) = kapimu (giant)
-```
-
-**Method 2: Add syllables**
-```
-pepi (liquid) + ka (collected) = pepika (collected water)
-pepika + va (still) = pepikava (pond)
-```
-
-**Method 3: Compound (future development)**
-
-**The system is productive:** If you follow the rules, native speakers will understand.
+Words are **derived** from the ontological system, not invented. The process:
+1. Locate the concept's address in the matrix system
+2. Apply projection rules (C₁ mandatory, C₂ preferential, vowels free)
+3. Assign a CVCV word to that address
+4. Word length reflects frequency (shorter = more common)
 
 ---
 
-### **What if a word doesn't exist?**
+### What does "wa" mean — love or just a grammatical particle?
 
-**You can create it!** The systematic nature means:
-
-1. **Choose appropriate domain** (which CV¹?)
-2. **Choose subcategory** (which CV²?)
-3. **Add modifiers if needed** (which CV-final?)
-
-**Example:** Need "smartphone"?
-- Domain R (tool/artifact) → repi (electric machine)
-- Add modifier: repimu (large electric machine) or
-- Create compound: communication-tool-electric
-
-**Community will standardize over time.**
+Both, in different layers. In the **grammatical system**, *wa* is the W-family CV particle meaning love/strong positive affect. In the **nominal lexicon**, words beginning with W will be words in the Emotion domain. The consonant W signals the domain in both systems, but the specific forms and meanings differ.
 
 ---
 
-### **Why organize by ontological domains?**
+### Why organize by ontological domains?
 
-**Cognitive efficiency:**
-- Related concepts cluster together
-- Easier to learn (semantic fields)
-- Easier to remember (meaningful groups)
+**Cognitive efficiency:** Related concepts cluster together. Knowing a word's domain tells you immediately what kind of thing it is. Knowing the Semantic Axis Law tells you what operational direction it takes.
 
-**Example:** All B-words relate to communication
-- baba = whisper
-- babi = speech  
-- babu = decree
-(Progression from intimate to ceremonial)
-
----
-
-### **Can I just memorize words without understanding domains?**
-
-**You can, but you'll miss the power of the system.**
-
-**Knowing domains lets you:**
-- Deduce meanings of unfamiliar words
-- Create new words systematically
-- Remember vocabulary in clusters
-- Understand semantic relationships
-
-**Recommendation:** Learn domains early, memorize less later.
+**Deducibility:** You can infer the meaning family of any unfamiliar word from its consonants alone.
 
 ---
 
 ## 🗣️ Pronunciation
 
-### **Is pronunciation difficult?**
+### Is pronunciation difficult?
 
-**No!** Very simple phonology:
+No. Very simple phonology — 20 consonants, 10 clusters, 5 pure vowels. No tones, no clicks, no unusual sounds.
 
-**Consonants:** 20 sounds, most common in world languages
-**Clusters:** 10 combinations, all pronounceable
-**Vowels:** 5 pure vowels (a, e, i, o, u)
-
-**No difficult sounds like:**
-- Tones (Chinese)
-- Clicks (Zulu)
-- Uvular R (French)
-- Th sounds (English)
+Special characters:
+- Ľ /ʎ/ = like "lli" in million
+- J̌ /dʒ/ = like "j" in judge
+- X /ʃ/ = like "sh" in ship
+- Y /ʒ/ = like "s" in measure
+- R /ɾ/ = Spanish/Italian tap R
 
 ---
 
-### **How do I pronounce the consonants?**
+### What about the VEC pronunciation rule?
 
-Most are standard. Special ones:
-
-```
-Ľ /ʎ/ = like "lli" in million
-J̌ /dʒ/ = like "j" in judge
-X /ʃ/ = like "sh" in ship
-Y /ʒ/ = like "s" in measure
-R /ɾ/ = like Spanish or Italian R (tap, not trill)
-```
-
-**Full IPA chart available in grammar docs.**
+When a vowel + consonant cluster appears without a following vowel, it takes a nasal final vowel to distinguish it from VECV forms:
+- *agr* (isolated) → /agɾã/
+- *agra* (with vowel) → /agɾa/
 
 ---
 
-### **What about stress/accent?**
+### What about stress?
 
-**Default:** Stress on first syllable
-
-```
-KApi = KA-pi (adult)
-PEpi = PE-pi (liquid)
-```
-
-**May develop:** Regional variations, but not phonemic (doesn't change meaning)
-
----
-
-### **Do I need to use IPA?**
-
-**No!** Romanization is sufficient for most learners.
-
-**IPA is helpful for:**
-- Precise pronunciation
-- Learning from scratch
-- Teaching others
-- Linguistic analysis
+Default stress on the first syllable. Not phonemic (doesn't change meaning).
 
 ---
 
 ## 🔄 Comparison with Other Languages
 
-### **How is this different from Esperanto?**
+### How is this different from Esperanto?
 
-**Similarities:**
-- Practical communication goal
-- Systematic structure
-- No grammatical gender
-
-**Differences:**
-- **Vocabulary:** Ontological domains vs European roots
-- **Grammar:** Three-layer system vs affixes
-- **Philosophy:** Systematic deduction vs international vocabulary
-
-**This language is more systematic, Esperanto is more familiar.**
+Both aim for practical communication and systematic structure. Differences: this language derives vocabulary from an ontological address system rather than European roots, and uses a three-layer grammar rather than affixes. More systematic, less familiar.
 
 ---
 
-### **How is this different from Toki Pona?**
+### How is this different from Toki Pona?
 
-**Similarities:**
-- Compact phonology
-- Systematic approach
-- Philosophical underpinnings
-
-**Differences:**
-- **Vocabulary:** 675+ words vs 120 words
-- **Complexity:** Progressive layers vs extreme minimalism
-- **Goal:** Full expression vs simplicity
-
-**This language has more expressive power, Toki Pona is simpler.**
+Both have compact phonology and systematic philosophy. Differences: this language targets full expressive power (675+ words planned, extensible) vs Toki Pona's extreme minimalism (~120 words). More expressive power, more complex.
 
 ---
 
-### **How is this different from Lojban?**
+### How is this different from Lojban?
 
-**Similarities:**
-- Logical structure
-- Systematic rules
-- Deducible patterns
-
-**Differences:**
-- **Complexity:** Moderate vs very complex
-- **Phonology:** Simpler (35 phonemes vs complex)
-- **Philosophy:** Practical + logical vs purely logical
-
-**This language is more practical, Lojban is more rigorous.**
+Both are logical and systematic. Differences: this language prioritizes practical communication alongside systematicity, with simpler phonology and a more learnable architecture. More practical, less rigorous than Lojban.
 
 ---
 
-### **Which natural language is it most like?**
+### Which natural language is it most like?
 
-**No single match, but elements from:**
+No single match. Elements from:
+- **Japanese/Korean:** Agglutinative-like particle system
+- **Chinese:** No articles, context-dependent reading
+- **Turkish:** Systematic vowel patterning
+- **Finnish:** Case-like particle system
 
-- **Turkish:** Vowel harmony-like gradation
-- **Japanese:** SOV flexibility, no gender
-- **Finnish:** Case system via particles
-- **Chinese:** No articles, context-dependent
-- **Swahili:** Systematic word formation
-
-**Really it's unique:** The ontological organization and vowel gradation don't exist in this form in natural languages.
-
----
-
-## 🤝 Community & Contribution
-
-### **Can I contribute?**
-
-**Absolutely!** Contributions welcome in:
-
-**Content:**
-- Example sentences
-- Dialogues and stories
-- Translations
-- Learning exercises
-
-**Technical:**
-- Dictionary tool development
-- Website creation
-- Audio recording
-- Mobile apps
-
-**Community:**
-- Teaching others
-- Creating content
-- Providing feedback
-- Spreading the word
-
----
-
-### **How do I suggest changes?**
-
-**For minor suggestions:**
-- Document feedback
-- Discuss rationale
-- Propose alternatives
-
-**For major changes:**
-- Must maintain systematic consistency
-- Should improve learnability
-- Needs community discussion
-
-**Golden rule:** Changes should be systematic, not arbitrary.
-
----
-
-### **Is there a community?**
-
-**Currently:** Small, growing
-
-**Planned:**
-- Discussion forum
-- Practice partners
-- Content sharing
-- Collaborative projects
-
-**You could be among the first community members!**
-
----
-
-### **Can I use this language for my project?**
-
-**Yes!** Use it for:
-- Fiction and world-building
-- Games and apps
-- Art projects
-- Educational purposes
-- Creative experiments
-
-**Attribution appreciated but not required.**
+The ontological organization and compositional EC system are genuinely novel.
 
 ---
 
 ## 🔧 Technical Questions
 
-### **What's the character encoding?**
+### What special characters are needed?
 
-**Standard Latin alphabet** with a few special characters:
-
-**Special characters:**
-- Ľ /ʎ/ — available in Unicode
-- J̌ /dʒ/ — J with caron (ˇ)
-
-**Alternatives if unavailable:**
-- Ľ → Lj or LY
-- J̌ → J or DJ
+- **Ľ** /ʎ/ — Unicode available; alternative: Lj
+- **J̌** /dʒ/ — J with caron; alternative: J or DJ
 
 ---
 
-### **Is there a native script?**
+### Is there a native script?
 
-**Not yet.** Currently uses romanization.
-
-**Future possibility:** Native script design (Phase 5 of roadmap)
-
-**For now:** Roman alphabet works perfectly.
+Not yet. Currently uses romanization. Native script design is a long-term future possibility.
 
 ---
 
-### **Can I make tools for this language?**
+### Can I use this language for my project?
 
-**Yes!** Encouraged!
-
-**Needed tools:**
-- Dictionary apps
-- Flashcard decks
-- Grammar checkers
-- Translation tools
-- Learning games
-
-**See ROADMAP.md for priorities.**
+Yes — fiction, world-building, games, educational projects, creative experiments. Attribution appreciated but not required.
 
 ---
 
-### **Is there an API or database?**
+### Is there a database or API?
 
-**Not yet, but planned:**
-- Vocabulary database (JSON/SQLite)
-- Grammar rules API
-- Word formation algorithm
-- Example sentence corpus
-
-**Timeline:** Q2-Q3 2026
-
----
-
-### **What license is this under?**
-
-**Documentation:** Open for educational use
-**Language itself:** Cannot be licensed (languages are public)
-**Tools/software:** Will be specified per tool
-
-**Use freely for learning, teaching, creating.**
+Not yet. Planned for later phases once the lexicon derivation is further along.
 
 ---
 
 ## 🎯 Quick Answers
 
-### **Can I learn this in a week?**
-No, but you can understand the system and start basic sentences.
+**Can I learn this in a week?** — No, but you can understand the system and grasp its logic.
 
-### **Is this easier than Spanish/French/etc?**
-Yes, due to systematic structure and no irregularity.
+**Is this easier than Spanish/French?** — Yes, no irregular forms, no gender, fully systematic.
 
-### **Will anyone understand me?**
-Currently few speakers, but growing. You might be among the first!
+**How do I say "hello"?** — Not yet standardized. Social vocabulary is a near-term priority.
 
-### **Can I teach this to others?**
-Absolutely! That's one of the best ways to learn.
+**What's the word for "love"?** — *wa* as a grammatical particle. Nominal lexicon word pending derivation from W-domain matrices.
 
-### **Is this a "real" language?**
-Yes. It has complete grammar, growing vocabulary, and can express any thought.
+**Will this replace English?** — No. It's a constructed language for enthusiasts and linguistic exploration.
 
-### **How do I say "hello"?**
-Currently use babi (speech) or create a greeting word. Idioms developing!
+**Is there poetry yet?** — Not yet, but the vowel gradation system has strong poetic potential.
 
-### **What's the word for "love"?**
-Part of W-domain (emotion). walo (high quality positive emotion) or create specific term.
-
-### **Can I swear in this language?**
-Grammar allows it, vocabulary up to community. Currently no established profanity.
-
-### **Is there poetry in this language?**
-Not yet, but the structure supports it! Vowel gradation offers poetic potential.
-
-### **Will this replace English?**
-No. It's a constructed language for enthusiasts, not a world auxiliary language.
+**Can I swear in this language?** — Grammar supports it; vocabulary up to community development.
 
 ---
 
 ## 📞 Still Have Questions?
 
-**Not answered here?**
-
-1. Check the main documentation:
-   - [`README.md`](README.md) — Overview
-   - [`INDEX.md`](INDEX.md) — Navigation
-   - Grammar files — Technical details
-
-2. Look at examples in the lexicon files
-
-3. Review the learning path for pedagogical questions
-
-4. Check the roadmap for future features
-
-**The documentation is comprehensive — your answer is likely there!**
+Check the main documentation:
+- `README.md` — Project overview
+- `06-grammar-system.md` — Grammar overview
+- `07-grammar-cv-vc.md` — CV/VC particles
+- `09-ontological-system.md` — Ontological architecture
+- `ROADMAP.md` — Development plan
 
 ---
 
-## 🔄 FAQ Updates
-
-**This FAQ is updated regularly.**
-
-**Last updated:** March 19, 2026 (v0.6.0)
-**Next update:** When new questions arise
-
-**Your questions improve this document!**
-
----
-
-**Version:** 0.6.0  
-**Questions Answered:** 75+  
-**Status:** Living Document
-
-**Happy learning!** 🌐
-
----
+**Version:** 0.8.0
+**Last Updated:** April 2026
+**Status:** Living document — updated as the language evolves

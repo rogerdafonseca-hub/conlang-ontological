@@ -2,7 +2,7 @@
 
 **Vowel Responses and Everyday Usage**
 
-_Version 0.6.5 — Practical Communication Foundations_
+_Version 0.8.0 — Updated for Current Grammar_
 
 ---
 
@@ -254,23 +254,32 @@ Speaker 2: ba (me)
 
 ---
 
-### **Basic Actions (V-family)**
+### **V-Family — Functional Operators**
 
-Core verbs for everyday life:
+The V-family activates words grammatically. All V-particles precede the target word:
 
-| Particle | Meaning | Example |
+| Particle | Function | Example |
 |----------|---------|---------|
-| **va** | do / make / act | ba va (I do) |
-| **ve** | become / change | di ve la (this becomes good) |
-| **vi** | be / exist | bi vi (they are/exist) |
-| **vo** | have / possess | ba vo di (I have this) |
-| **vu** | give / provide | be vu di (you give this) |
+| **va** | activates as verb/action | *ba va wa be* (I love you) |
+| **ve** | activates as adjective | *ve para* (watery) |
+| **vi** | activates as instrument | *vi pata* (using stone) |
+| **vo** | activates as collective | *vo pata* (quarry) |
+| **vu** | emphasis / intensity | *ba vu va wa be* (I REALLY love you) |
 
-**Simple sentences:**
+**Key rule:** *va* never appears alone — always needs a following word.
+
+**The W-family** handles emotional predicates directly without *va*:
 ```
-ba va = I do
-be vi = you are
-bi vo = they have
+ba wa be = I love you
+ba we para = I like water
+wa be = love you (colloquial)
+```
+
+**Simple expressions:**
+```
+ba va wa be = I love you
+be va wa ab = you love yourself
+wa be = love you
 ```
 
 ---
@@ -294,25 +303,38 @@ tu = later / future
 
 ---
 
-### **Questions (K-family)**
+### **Questions (K-family and H-family)**
 
-The essential interrogatives:
+K-family provides reference words usable in both declarative and interrogative contexts. H-family marks the interrogative mode:
 
 | Particle | Meaning | Example |
 |----------|---------|---------|
-| **ka** | what? | ka di? (what is this?) |
-| **ke** | who? | ke va? (who does?) |
-| **ki** | where? | ki bi? (where is it?) |
-| **ko** | when? | ko be va? (when do you?) |
-| **ku** | why? | ku di? (why this?) |
+| **ka** | who | *ka va?* (who does?) |
+| **ke** | what | *ke di?* (what is this?) |
+| **ki** | where | *ki bi?* (where is it?) |
+| **ko** | when | *ko be va?* (when do you?) |
+| **ku** | why | *ku di?* (why this?) |
+
+**H-family for interrogative mode:**
+
+| Particle | Initial position | Final position |
+|----------|---------|---------|
+| **ha** | affirmation ("yes") | "right?" / "isn't it?" |
+| **he** | probably | "you think so?" |
+| **hi** | uncertain | "could it be?" |
+| **ho** | probably not | "don't you think?" |
+| **hu** | no / negation | "isn't it not?" |
 
 **Quick questions + vowel answers:**
 ```
-Speaker 1: ka? (what?)
-Speaker 2: i (dunno/nothing much)
+Speaker 1: ke ha? (who? — interrogative mode)
+Speaker 2: ba (me)
 
-Speaker 1: ko? (when?)
+Speaker 1: ko? (when? — declarative, softer)
 Speaker 2: ti (now)
+
+Speaker 1: ba va wa be ha? (I love you, right?)
+Speaker 2: a! (yes!)
 ```
 
 ---
@@ -338,7 +360,7 @@ ba va tu = I do future (I'll do / I'm going)
 
 ---
 
-### **Requests & Commands**
+### **Requests and Commands**
 
 **Polite request (with modal):**
 ```
@@ -354,8 +376,15 @@ be va di! = you do this! (do this!)
 
 **Offering:**
 ```
-ba vu di? = I give this? (should I give this? / want this?)
+ba va di pu be? = I do this to you? (should I give/bring you this?)
 → Response: a (yes please) / o (no thanks)
+```
+
+**Negation:**
+```
+hu ba va di = I don't do this (global negation)
+ba hu va di = I don't do it (local negation)
+hu vu ba va di = I absolutely do not do this (emphatic)
 ```
 
 ---
@@ -682,14 +711,15 @@ Potential for diphthong-like emotional expressions:
 
 ---
 
-**File:** `03-primary-and-informal-concepts.md`  
-**Version:** 0.6.5  
+**File:** `04-primary-and-informal-concepts.md`
+**Version:** 0.8.0
 **Status:** ✅ Complete — Vowel responses and informal usage documented
 
 **Related Documentation:**
-- **[02-phonology.md](02-phonology.md)** — How to pronounce vowels
-- **[05-grammar-cv-vc.md](07-grammar-cv-vc.md)** — Basic particles referenced
-- **[LEARNING-PATH.md](LEARNING-PATH.md)** — Teaching sequence integration
+- `02-phonology.md` — How to pronounce vowels
+- `06-grammar-system.md` — Grammar system overview
+- `07-grammar-cv-vc.md` — Basic particles referenced
+- `LEARNING-PATH.md` — Teaching sequence integration
 
 ---
 

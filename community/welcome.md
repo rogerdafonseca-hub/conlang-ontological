@@ -1,364 +1,208 @@
-# 🌐 Welcome to the Conlang Project
+# 🌐 Welcome to the Universal Ontological Language
 
-**A Systematic Constructed Language Built on Logical Principles**
+**A Constructed Language Built on Compositional Structure and Logical Principles**
 
-_Version 0.6.0 — March 2026_
-
----
-
-## 👋 Hello!
-
-Welcome to this constructed language (conlang) project! Whether you're a language enthusiast, a linguist, a world-builder, or simply curious about how languages work, you've come to the right place.
-
-This isn't just another conlang—it's a **highly systematic, ontologically organized language** designed to be both elegant and practical, combining the best aspects of logical constructed languages with the expressiveness of natural languages.
+_Version 0.8.0 — April 2026_
 
 ---
 
-## 🎯 What Makes This Language Special?
+## 👋 Hello
 
-### **1. Systematic Architecture**
-Every element follows predictable patterns. Once you understand the system, you can deduce meanings rather than memorize them.
+Welcome. Whether you're a language enthusiast, a linguist, a world-builder, or simply curious about how language and meaning work — you've come to an interesting place.
 
-### **2. Ontological Organization**
-The vocabulary is organized by meaning domains (substance, communication, mind, time, society, etc.), making it intuitive to learn and expand.
+This is a systematically constructed language where the structure is not decorative: it's functional. Every word points to a position in a semantic architecture. Every grammatical particle follows a predictable pattern. Once you understand the system, you deduce rather than memorize.
 
-### **3. Three-Layer Grammar**
-- **CV Layer:** Basic functions (100 particles)
-- **VC Layer:** Extended functions (100 particles)
-- **VCV Layer:** Nuanced expressions (675 particles)
+---
 
-### **4. Vowel-Based Gradation**
-A consistent a→e→i→o→u scale creates systematic meaning progressions across the entire language.
+## 🎯 What Makes This Language Different?
 
-### **5. Productive Modification**
-24 functional modifiers can transform any base word into 120 variants, creating enormous expressive power from a compact core.
+### 1. Three Independent Systems Working Together
+
+Most languages blur the line between grammar and vocabulary. This language separates them cleanly into three systems:
+
+| System | Purpose | Format |
+|---|---|---|
+| **Grammatical** | Controls how things are said | CV / VC / VCV particles |
+| **Ontological** | Defines what things ARE | Structural address (VCV+CV+CV...) |
+| **Nominal Lexicon** | Names real things for speech | Usable words (CVCV+CV) |
+
+The same consonants appear in all three systems with different roles. This is intentional — the consonant signals the domain regardless of which layer you're in.
+
+### 2. Compositional Architecture
+
+The language's consonant clusters (ECs) are not arbitrary — they are compositionally derived from base domain combinations:
+
+- **R as second element** = "state of X" → BR = entity+state = identity
+- **L as second element** = "structure of X" → KL = social+structure = institution
+
+A speaker who knows the 20 base domains can derive EC meanings without memorization.
+
+### 3. The Semantic Axis Law
+
+Every word follows: **Meaning = Ontology(C₁) × Operation(C₂)**
+
+The first consonant signals the domain. The second signals the operational direction. This makes the entire lexicon predictable and deducible.
+
+### 4. Systematic Gradation
+
+A consistent **a → e → i → o → u** scale creates meaning progressions across the entire language. Exceptions are few and motivated: W (emotion) and X/Y/Z (spatial coordinates) use inverted gradation for principled reasons.
+
+### 5. Integrated 3D Spatial Grammar
+
+The spatial system uses three consonant families (X, Y, Z) forming a true Cartesian coordinate system. Positions and movements are expressed with mathematical precision through vowel combinations.
+
+---
+
+## 🗺️ The Language at a Glance
+
+**20 base domains** — every concept lives in exactly one:
+
+Matter · Entity · Time · Space · State · Structure · Quantity · Artifact · Social · Life · Action · Motion · Causality · Mind · Perception · Information · Emotion · Intensity · Environment · Interaction
+
+**Grammar** — 1,050 particles total:
+- 150 CV particles (30 families × 5)
+- 150 VC particles (30 families × 5)
+- 750 VCV particles (30 families × 25)
+
+**Vocabulary** — derived systematically from ontological matrices. Currently in active derivation; the grammatical system is complete.
 
 ---
 
 ## 🚀 Quick Start
 
-### **Want to jump right in?**
+**1. Read this document** — understand what you're getting into (15 min)
 
-1. **Start here:** [`LEARNING-PATH.md`](LEARNING-PATH.md)
-   - Month-by-month curriculum
-   - Clear milestones
-   - Practice activities
+**2. Read README.md** — system overview and architecture (20 min)
 
-2. **Understand the basics:** [`README.md`](README.md)
-   - System overview
-   - Key features
-   - Documentation guide
+**3. Read 09-ontological-system.md** — understand the three systems and why they're separate (15 min)
 
-3. **Learn the grammar:** [`05-grammar-cv-vc.md`](07-grammar-cv-vc.md)
-   - 200 essential particles
-   - Clear examples
-   - Usage patterns
+**4. Follow LEARNING-PATH.md** — month-by-month curriculum starting from the architecture, not the vocabulary
 
-4. **Build vocabulary:** [`09-lexicon-nominal-matrix.md`](10-lexicon-nominal-matrix.md)
-   - 675 base words
-   - Systematic organization
-   - Real examples
+**5. Study 06-grammar-system.md** — operator system, sentence structure, how H and V work
+
+**6. Study 07-grammar-cv-vc.md** — all CV/VC particle families
 
 ---
 
-## 📚 What Can You Do With This Language?
+## ✍️ What Does It Look Like?
 
-### **Practical Uses**
-- 💬 **Communication:** Hold real conversations
-- ✍️ **Writing:** Create stories, poems, essays
-- 🌍 **World-building:** Develop fictional cultures
-- 🧠 **Cognitive:** Think in new linguistic patterns
+A basic sentence:
 
-### **Learning Benefits**
-- 📖 **Pattern Recognition:** Strengthen systematic thinking
-- 🎯 **Memory:** Exercise through deduction, not memorization
-- 🔤 **Linguistics:** Understand language structure deeply
-- 🎨 **Creativity:** Express ideas in novel ways
+```
+ba va wa be
+I  [verb] love you
+→ I love you
+```
 
-### **Development Opportunities**
-- 🛠️ **Contribute:** Help expand the language
-- 📝 **Document:** Create learning materials
-- 🎓 **Teach:** Guide new learners
-- 🔬 **Research:** Explore linguistic concepts
+With epistemic framing:
+
+```
+ha ba va wa be ha
+[affirmation] I [verb] love you [confirmation-demand]
+→ I really love you, don't I?
+```
+
+With operators stacked:
+
+```
+hi ba ma te gi va wa be
+[doubt] I can near-past ongoing [verb] love you
+→ maybe I could have been loving you
+```
+
+The spatial system:
+
+```
+xiyizi = (0, 0, 0) absolute center
+xayaza = (+, +, +) top-right-front corner
+xuyuzu = (−, −, −) bottom-left-back corner
+```
+
+Word structure — the first consonant always signals the domain:
+- *para* → P-domain (Matter) → water
+- *pata* → P-domain (Matter) → stone
+- *pana* → P-domain (Matter) → soil
 
 ---
 
-## 🎨 Sample: What Does It Look Like?
+## ⏱️ Timeline
 
-### **Simple Sentence:**
-```
-ba va pi hapi
-I  do in house
-"I work at home"
-```
+| Milestone | Time |
+|---|---|
+| Understand the system architecture | 1 week |
+| Grasp all 20 domains | 2–3 weeks |
+| Functional grammar | 1–2 months |
+| Basic conversation with available vocabulary | 3–6 months |
+| Full fluency | 12–18 months |
 
-### **With Modifiers:**
-```
-ba va pi hapima
-I  do in house-small
-"I work in a small house"
-```
-
-### **More Complex:**
-```
-ba ti va pepilu po hapi pa kipi
-I  present do water-pure from house to community
-"I am bringing pure water from the house to the community"
-```
-
-### **Vocabulary Examples:**
-
-**Water domain (from substance):**
-- **pepi** = liquid (normal)
-- **pepima** = drop (liquid-small)
-- **pepimu** = ocean (liquid-large)
-- **pepiva** = pond (liquid-still)
-- **pepivu** = waterfall (liquid-rushing)
-- **pepilu** = pure water (liquid-quality-max)
-
-**Person domain (from social):**
-- **kapi** = adult
-- **kapa** = infant
-- **kapo** = elder
-- **kapu** = ancestor
-- **kapima** = dwarf (adult-small)
-- **kapimu** = giant (adult-large)
+**The key advantage:** After the initial foundation, learning accelerates because you deduce rather than memorize. Understanding the system is the main investment.
 
 ---
 
-## 🗺️ Navigation Guide
+## 📊 Current Development Status
 
-### **📖 Core Documentation**
+**Complete:**
+- Phonological system (20 consonants, 10 clusters, 5 vowels)
+- CV/VC grammar — 300 particles across 30 families
+- VCV grammar — 750 particles across 30 families
+- Grammatical operator system (V, H, W, M, T, G, L, K, Ľ, S, F, D, R, J̌, P, B, N families)
+- EC compositional system (×R and ×L series)
+- Ontological architecture and Semantic Axis Law
+- Full documentation suite (01–11 + Checkpoint)
 
-| File | Purpose | When to Read |
-|------|---------|--------------|
-| **README.md** | Project overview | Start here for big picture |
-| **LEARNING-PATH.md** | Step-by-step curriculum | Planning your learning journey |
-| **05-grammar-cv-vc.md** | Basic grammar (CV+VC) | Week 1-2 of learning |
-| **06-basics-vcv.md** | Advanced grammar (VCV) | Month 10+ |
-| **09-lexicon-nominal-matrix.md** | Vocabulary system | Month 3+ |
-| **nominal-lexicon.md** | All 675 base words | Reference throughout |
+**In Progress:**
+- Domain matrices (P× series complete, remaining domains in derivation)
+- Nominal lexicon (~50 words derived, full derivation ongoing)
 
-### **🎯 Learning Sequence**
-
-```
-1. WELCOME.md (you are here!)
-   ↓
-2. README.md (understand the system)
-   ↓
-3. LEARNING-PATH.md (get your roadmap)
-   ↓
-4. Start Month 1 (phonology + basics)
-   ↓
-5. 05-grammar-cv-vc.md (learn particles)
-   ↓
-6. 09-lexicon-nominal-matrix.md (build vocabulary)
-   ↓
-7. Continue through curriculum...
-```
-
----
-
-## ⏱️ How Long Does It Take?
-
-### **Realistic Timeline:**
-
-| Milestone | Time | What You'll Achieve |
-|-----------|------|---------------------|
-| **Basic Understanding** | 1 week | Grasp the system logic |
-| **First Sentences** | 2 weeks | Form simple expressions |
-| **Basic Fluency** | 6 months | Simple conversations |
-| **Functional Fluency** | 12 months | Discuss most topics |
-| **Full Fluency** | 18 months | Native-like proficiency |
-
-**Daily commitment:** 30-60 minutes of focused study
-
-**Key advantage:** The systematic nature means you deduce rather than memorize, accelerating learning significantly after the initial foundation.
-
----
-
-## 🌟 Why Learn This Language?
-
-### **For Language Enthusiasts:**
-- Experience a truly systematic language
-- See how ontological organization works
-- Explore vowel-based gradation systems
-- Study a working three-layer grammar
-
-### **For Linguists:**
-- Analyze a fully documented conlang
-- Study systematic semantic organization
-- Explore phonological minimalism
-- Research productivity patterns
-
-### **For Creative Writers:**
-- Build authentic fictional cultures
-- Create consistent naming systems
-- Develop realistic dialogue
-- Enhance world-building depth
-
-### **For Cognitive Scientists:**
-- Explore linguistic relativity
-- Test learning theories
-- Study pattern recognition
-- Research memory systems
-
-### **For Fun:**
-- Join a creative community
-- Challenge yourself intellectually
-- Think in new ways
-- Create something unique
+**Planned:**
+- Full lexicon (675+ base words)
+- Example sentence corpus
+- Audio pronunciation guide
+- Translation projects
+- Interactive tools
 
 ---
 
 ## 🎓 Learning Philosophy
 
-### **Deduction Over Memorization**
-This language is designed to be **deducible**. Instead of memorizing thousands of unrelated words, you learn systematic patterns that generate meaning.
+**Deduction over memorization.** This language is designed so that understanding the system is more valuable than rote learning. A word you can derive is stronger than a word you memorized.
 
-**Example:**
-```
-Once you know:
-- pepi = liquid
-- M-modifier = size (a=small → u=large)
+**Architecture first.** Unlike natural languages where you start with "hello" and "thank you," this language rewards starting with the structure. Spend your first weeks understanding the three systems, the 20 domains, and how the Semantic Axis Law works. Vocabulary follows naturally.
 
-You can deduce:
-- pepima = small liquid = drop
-- pepimi = medium liquid = pond
-- pepimu = large liquid = ocean
-```
-
-### **Progressive Complexity**
-Start simple, build systematically:
-1. **Foundation:** Phonology + basic patterns
-2. **Core:** Essential grammar + 100 words
-3. **Expansion:** Full grammar + 300 words
-4. **Mastery:** Advanced features + 675+ words
-
-### **Active Practice**
-The best way to learn is through **active use:**
-- Write daily (even just 50 words)
-- Speak aloud (describe your surroundings)
-- Think in the language (internal monologue)
-- Create content (stories, descriptions, dialogues)
+**Active production.** The best way to learn: write daily, even 50 words. Describe your day. Translate sentences you care about. Think in the language.
 
 ---
 
-## 🛠️ Current Development Status
+## 🤝 How to Engage
 
-### **✅ Complete (v0.6.0)**
-- Phonological system (20 consonants, 5 vowels, 10 clusters)
-- CV/VC grammar (270 particles)
-- VCV system (675 particles)
-- Ontological domains (27 domains)
-- Base vocabulary (675 CVCV words)
-- Modifier system (24 modifiers)
-- Spatial coordinates (3D X-Y-Z system)
+**As a learner:** Follow the learning path systematically. The grammar is the stable foundation — start there.
 
-### **🚧 In Progress**
-- Example sentences corpus
-- Phrasebook development
-- Audio pronunciation guide
-- Anki flashcard decks
-- Dictionary database
+**As a contributor:** The most valuable contributions right now are domain matrix completion and lexicon derivation. See ROADMAP.md.
 
-### **📋 Planned**
-- Verbal conjugation patterns
-- Derivational morphology
-- Idiomatic expressions
-- Literary corpus
-- Learning exercises
-- Interactive tools
+**As a developer:** Tools are planned for later phases. The grammar is documented well enough to begin building dictionary infrastructure.
+
+**As a world-builder or writer:** The grammatical system is fully usable now. Vocabulary can be coined systematically for any concept needed.
 
 ---
 
-## 🤝 How to Get Involved
+## 💬 Final Note
 
-### **As a Learner:**
-1. Follow the learning path
-2. Practice regularly
-3. Create example content
-4. Share your progress
+Language is humanity's most powerful tool for structuring thought. This project explores what happens when you build a language from the structure of meaning outward — starting with what things are, not what they're called.
 
-### **As a Contributor:**
-1. Suggest improvements
-2. Create learning materials
-3. Develop example sentences
-4. Build tools and resources
-
-### **As a Developer:**
-1. Expand specialized domains
-2. Create technical vocabularies
-3. Propose systematic extensions
-4. Document new patterns
-
----
-
-## ❓ Frequently Asked Questions
-
-### **"Is this hard to learn?"**
-The initial foundation requires focus, but the systematic nature makes it easier than natural languages once you understand the patterns. Most learners achieve basic fluency in 6 months.
-
-### **"Can I actually use this to communicate?"**
-Yes! The language has a complete grammar and growing vocabulary. It's designed for real communication, not just as a theoretical exercise.
-
-### **"How is this different from Esperanto/Toki Pona/Lojban?"**
-This language combines features from multiple approaches:
-- **Systematic like Lojban** (logical, deducible)
-- **Minimalist like Toki Pona** (compact phonology)
-- **Practical like Esperanto** (designed for actual use)
-- **Unique ontological organization** (meaning-based domains)
-
-### **"What's the end goal?"**
-To create a working language that demonstrates how systematic organization, ontological structure, and vowel gradation can combine into a practical communication system.
-
-### **"Can I modify or extend the language?"**
-Absolutely! The systematic nature makes extensions predictable. There are even 3 reserved consonant clusters (BL, KL, GL) waiting for future definitions.
-
----
-
-## 🎯 Your First Steps
-
-Ready to begin? Here's what to do **right now:**
-
-### **Step 1: Read the README (10 minutes)**
-Get the big picture of how the system works.
-
-### **Step 2: Review the Learning Path (15 minutes)**
-Understand the journey ahead and set your goals.
-
-### **Step 3: Start Month 1 (this week)**
-Learn the 5 vowels and their gradation system.
-
-### **Step 4: Practice Daily (30 minutes)**
-Consistency beats intensity. A little every day is better than cramming.
-
----
-
-## 💬 Final Words
-
-Language is humanity's most powerful tool for thought and communication. By learning this constructed language, you're not just learning a new way to speak—you're exploring the fundamental structures that make meaning possible.
-
-This language is a **living system**, growing and evolving with each learner and contributor. Whether you spend a week exploring or years mastering it, you're part of something unique.
+The system is consistent, the architecture is transparent, and the logic is derivable. Everything has a reason.
 
 **Welcome to the journey.**
 
 ---
 
-## 📞 Next Steps
-
-- 📖 **Read:** [`README.md`](README.md) for system overview
-- 🗺️ **Plan:** [`LEARNING-PATH.md`](LEARNING-PATH.md) for curriculum
-- 📚 **Learn:** Start with phonology and basic grammar
-- ✍️ **Practice:** Begin using the language immediately
-- 🌱 **Grow:** Progress through the levels systematically
+**Next steps:**
+- 📖 `README.md` — system overview
+- 🗺️ `LEARNING-PATH.md` — curriculum
+- 🏗️ `09-ontological-system.md` — architecture
+- 📝 `06-grammar-system.md` — grammar overview
 
 ---
 
-**Version:** 0.6.0  
-**Last Updated:** March 19, 2026  
-**Status:** Active Development — Complete Foundation, Growing Corpus
-
-**Let's begin!** 🚀
-
----
+**Version:** 0.8.0
+**Last Updated:** April 2026
+**Status:** Grammar complete — Lexicon in active derivation

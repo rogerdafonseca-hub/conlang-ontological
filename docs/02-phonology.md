@@ -2,7 +2,7 @@
 
 **Complete Phonological Inventory and Rules**
 
-_Version 0.6.5 — Definitive Structure_
+_Version 0.8.0 — Updated EC System_
 
 ---
 
@@ -50,25 +50,28 @@ The phonological system is designed for **maximum cross-linguistic accessibility
 
 ### **CONSONANT CLUSTERS — 10 Total**
 
-#### **7 Defined Clusters:**
+#### **10 Active Clusters:**
 
-| Cluster | IPA | Components | Type | Examples |
-|---------|-----|------------|------|----------|
-| **PR** | /pɾ/ | p + r | Stop + Tap | *pr*ay, a*pr*il |
-| **BR** | /bɾ/ | b + r | Stop + Tap | *br*and, ze*br*a |
-| **TR** | /tɾ/ | t + r | Stop + Tap | *tr*ee, en*tr*y |
-| **DR** | /dɾ/ | d + r | Stop + Tap | *dr*y, qua*dr*a |
-| **KR** | /kɾ/ | k + r | Stop + Tap | *cr*ow, ma*cr*o |
-| **GR** | /gɾ/ | g + r | Stop + Tap | *gr*ay, a*gr*ee |
-| **PL** | /pl/ | p + l | Stop + Lateral | *pl*ay, a*ppl*e |
+| Cluster | IPA | Components | Type | Notes |
+|---------|-----|------------|------|-------|
+| **PR** | /pɾ/ | p + r | Stop + Tap | Physical state / material condition |
+| **BR** | /bɾ/ | b + r | Stop + Tap | Identity (entity as state) |
+| **TR** | /tɾ/ | t + r | Stop + Tap | Existence / temporality |
+| **DR** | /dɾ/ | d + r | Stop + Tap | Creation / Art |
+| **KR** | /kɾ/ | k + r | Stop + Tap | Possession (social relation as state) |
+| **GR** | /gɾ/ | g + r | Stop + Tap | Positioning state |
+| **PL** | /pl/ | p + l | Stop + Lateral | Material structure |
+| **BL** | /bl/ | b + l | Stop + Lateral | Identity structure |
+| **KL** | /kl/ | k + l | Stop + Lateral | Social structure / institution |
+| **FL** | /fl/ | f + l | Fricative + Lateral | Interface / boundary |
 
-#### **3 Reserved Clusters:**
+**Note on EC meanings:** All EC meanings are compositionally derived from their component base domains. The second element acts as an ontological operator — R = "state of X", L = "structure of X". See `09-ontological-system.md` for the complete derivation system.
+
+#### **1 Reserved Cluster:**
 
 | Cluster | IPA | Components | Status |
 |---------|-----|------------|--------|
-| **BL** | /bl/ | b + l | 🔓 Available for future use |
-| **KL** | /kl/ | k + l | 🔓 Available for future use |
-| **GL** | /gl/ | g + l | 🔓 Available for future use |
+| **GL** | /gl/ | g + l | 🔓 Reserved — future systematic expansion |
 
 ---
 
@@ -382,17 +385,23 @@ You do present? (Do you do it?)
 
 **No diphthongs:** Keeps system simple, allows pure gradation
 
-### **Why These Clusters?**
+### Why These Clusters?
 
-**Natural:** Stop + liquid clusters exist in many languages  
-**Productive:** 7 defined + 3 reserved = systematic expansion  
-**Pronounceable:** All clusters easy for most speakers
+**Compositional:** All EC meanings derive from their component base domains — not arbitrary labels but transparent combinations. R as second element = "state of X"; L as second element = "structure of X".
+
+**Natural:** Stop + liquid and fricative + liquid clusters exist in many world languages.
+
+**Productive:** 10 active + 1 reserved = systematic, principled expansion.
+
+**Pronounceable:** All clusters easy for most speakers.
 
 ---
 
 ## 📊 Phonological Statistics
 
-**Total phonemes:** 35 (20 + 10 + 5)  
+**Total phonemes:** 35 (20 consonants + 5 vowels) + 10 active clusters + 1 reserved
+**Active consonant clusters:** 10 (×R series: 6 active + ×L series: 4 active including FL)
+**Reserved cluster:** 1 (GL)  
 **Possible CV syllables:** 100  
 **Possible VC syllables:** 100  
 **Possible CVC syllables:** 2,000  
@@ -472,13 +481,14 @@ Test your distinctions:
 
 ---
 
-**File:** `02-phonology.md`  
-**Version:** 0.6.5  
-**Status:** ✅ Complete — Phonological system documented
+**File:** `02-phonology.md`
+**Version:** 0.8.0
+**Status:** ✅ Complete — Phonological system documented, EC system updated
 
 **Related Documentation:**
-- **[01-philosophy.md](01-philosophy.md)** — Why these sounds?
-- **[05-grammar-cv-vc.md](07-grammar-cv-vc.md)** — How sounds create grammar
-- **[09-lexicon-nominal-matrix.md](10-lexicon-nominal-matrix.md)** — How sounds create words
+- `01-philosophy.md` — Why these sounds?
+- `07-grammar-cv-vc.md` — How sounds create grammar
+- `09-ontological-system.md` — EC compositional derivation system
+- `10-lexicon-nominal.md` — How sounds create words
 
 ---
