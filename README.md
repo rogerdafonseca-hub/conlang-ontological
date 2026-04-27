@@ -4,7 +4,6 @@
 
 [![Version](https://img.shields.io/badge/version-0.8.0-blue.svg)](CHANGELOG.md)
 [![Status](https://img.shields.io/badge/status-active%20development-green.svg)](ROADMAP.md)
-[![Grammar](https://img.shields.io/badge/grammar-v0.7.4-success.svg)](05-grammar-cv-vc.md)
 [![Lexicon](https://img.shields.io/badge/lexicon-in%20progress-yellow.svg)](09-lexicon-nominal-matrix.md)
 [![Documentation](https://img.shields.io/badge/docs-comprehensive-informational.svg)](INDEX.md)
 [![License](https://img.shields.io/badge/license-open%20educational-lightgrey.svg)](#)
