@@ -1,453 +1,375 @@
-# 🏗️ STRUCTURE — System Architecture
+# 🏗️ 05. Structure — System Architecture
 
-**Complete Organizational Framework and Domain Definitions**
+**Complete Organizational Framework**
 
-_Version 0.7.0 — Updated Ontological Structure_
-
----
-
-## 🎯 Overview
-
-This document defines the **complete structural architecture** of the language — the immutable organizational framework that governs how all elements relate to each other.
-
-**Core Principle:** Every element has a fixed place in a coherent, multi-layered system. The system operates on two synchronized layers: a deep ontological infrastructure and a human-facing lexical surface.
+_Version 0.8.0 — April 2026_
 
 ---
 
-## 🌐 DUAL-LAYER ARCHITECTURE
+## Overview
 
-### Layer A — Sistema Ontológico (Deep Layer)
+This document defines the complete structural architecture of the language — the immutable organizational framework that governs how all elements relate to each other.
 
-**Format:** V + CV¹ + CV² + CV³ + CV...
-**Function:** Semantic infrastructure. Defines what something IS structurally. Does not produce spoken words directly.
-**Scale:** Generalidade → Especificidade (A→U on both vowel axes)
-**VCV opener:** Mode marker — signals "ontological system", same principle as numerals. May receive meaning later.
+**Core principle:** Every element has a fixed place in a coherent, multi-layered system. Structure is not constraint — it is the framework that enables infinite expression.
 
-| Position | Unit          | Function               |
-| -------- | ------------- | ---------------------- |
-| V        | Domain marker | Enter in Domain System |
-| CV₁      | Field         | First combination      |
-| CV₂      | Area          | Refinement             |
-| CV₃+     | Subnucleus    | Increasing specificity |
+---
 
-### Layer B — Léxico Nominal (Surface Layer)
+## The Three Systems
 
-**Format:** CVCV + CV (extendable)
-**Function:** Human interface. Names real things. Short, usable, anchored in the world.
-**Scale:** Frequência/importância → Raridade/tecnicidade
+The language operates through three independent but synchronized systems. Understanding their separation is the most important architectural insight.
+
+| System | Layer | Purpose | Format |
+|---|---|---|---|
+| **Grammatical** | Surface | Controls how things are said | CV / VC / VCV particles |
+| **Ontological** | Deep | Defines what things ARE | VCV + CV + CV... |
+| **Nominal Lexicon** | Surface | Names real things for speech | CVCV + CV |
+
+The same consonants appear in all three with different roles. *P* marks prepositions in grammar; matter/substance in the ontological system; and the Matter domain in the lexicon. This is intentional — the consonant signals the domain regardless of which system you are operating in.
+
+---
+
+## System 1 — Grammatical System
+
+The grammatical system controls **how things are communicated** between speaker and listener. It operates entirely through short particles.
+
+### Three Grammar Layers
+
+| Layer | Structure | Count | Priority |
+|---|---|---|---|
+| **CV** | 30 families × 5 vowels | 150 particles | First |
+| **VC** | 5 vowels × 30 families | 150 particles | Second |
+| **VCV** | 5 × 30 × 5 | 750 particles | Third |
+
+**Total:** 1,050 grammatical particles
+
+CV alone provides full basic communication. VCV unlocks fine-grained precision. Neither layer requires relearning the previous.
+
+### Grammar Families — The 20 Base Consonants
+
+| # | C | IPA | Grammatical Domain | Function |
+|---|---|---|---|---|
+| 1 | **P** | /p/ | Preposition | Spatial and abstract cases (pi=in, pe=through, pa=from, pu=to, po=reverse) |
+| 2 | **T** | /t/ | Tense | Temporal markers (ta=distant past → tu=distant future) |
+| 3 | **K** | /k/ | Reference Words | Who, what, where, when, why, how — declarative and interrogative |
+| 4 | **B** | /b/ | Pronouns | Personal pronouns and reflexives (ba=I, be=you, bi=they...) |
+| 5 | **M** | /m/ | Modal | Possibility, necessity, permission (ma=can, mo=must, mu=certainly) |
+| 6 | **G** | /g/ | Aspect | How action unfolds (ga=punctual, gi=ongoing, gu=complete) |
+| 7 | **V** | /v/ | Functional Operators | Activation and derivation (va=verb, ve=adj, vu=emphasis) |
+| 8 | **R** | /ɾ/ | State / Condition | States and phases |
+| 9 | **J̌** | /dʒ/ | Causality / Agency | Causation markers |
+| 10 | **S** | /s/ | Boundary / Limit | Limits and endpoints |
+| 11 | **F** | /f/ | Comparison | Comparative markers |
+| 12 | **H** | /h/ | Epistemic / Interaction | Speaker stance + alignment demand (two-dimensional) |
+| 13 | **N** | /n/ | Quantity | Quantifiers |
+| 14 | **D** | /d/ | Demonstrative | This, that, the, yonder |
+| 15 | **L** | /l/ | Conjunction | And, or, but, if, therefore |
+| 16 | **Ľ** | /ʎ/ | Evidentiality | Source of information |
+| 17 | **W** | /w/ | Emotion / Affect | Emotional scale (wa=love → wu=hate) |
+| 18 | **X** | /ʃ/ | Spatial X-Axis | Lateral positioning (left ↔ right) |
+| 19 | **Y** | /ʒ/ | Spatial Y-Axis | Frontal positioning (back ↔ front) |
+| 20 | **Z** | /z/ | Spatial Z-Axis | Vertical positioning (down ↔ up) |
+
+### Grammar ECs — 10 Active Clusters
+
+| # | EC | IPA | Grammatical Domain |
+|---|---|---|---|
+| 21 | **PR** | /pɾ/ | Manner / Mode |
+| 22 | **BR** | /bɾ/ | Perception / Sensory |
+| 23 | **TR** | /tɾ/ | Movement / Direction |
+| 24 | **DR** | /dɾ/ | Existence / Reality |
+| 25 | **KR** | /kɾ/ | Possession / Belonging |
+| 26 | **GR** | /gɾ/ | Intensity / Degree |
+| 27 | **PL** | /pl/ | Intention / Volition |
+| 28 | **BL** | /bl/ | Identity / Self |
+| 29 | **KL** | /kl/ | Energy / Force |
+| 30 | **FL** | /fl/ | Dwelling / Shelter |
+| 31 | **GL** | /gl/ | RESERVED |
+
+### Key Grammar Rules
+
+**Family V — Functional Operators (all pre-word):**
+- *va* = verbal activator (omissible when context obvious; never appears alone)
+- *ve* = adjectival activator / *vi* = instrumental / *vo* = collective / *vu* = emphasis
+- *av* = agent / *ev* = quality-haver / *iv* = result / *ov* = iterative / *uv* = reciprocal
+
+**Family H — Epistemic/Interaction Operator:**
+- Initial position = speaker's stance (ha=yes/certain → hu=no/negation)
+- Final position = alignment demand from listener ("right?", "isn't it?")
+- Vowel encodes certainty; intonation encodes speech act
+
+**Negation:** *hu* (H-family) — global when initial, local when before target element
+**Emphasis:** *vu* (V-family) — intensifies immediately following element
+**Emphatic negation:** *hu + vu*
+
+**Operator stacking order:**
+```
+[H]  [vu]  [M]  [T]  [G]  [Subject]  [va]  [Nucleus]  [Object]  [L]  [H]
+```
+
+**Spatial system (X/Y/Z):** Three-axis Cartesian coordinate system
+- X = lateral (a=max right, u=max left)
+- Y = frontal (a=max front, u=max back)
+- Z = vertical (a=max up, u=max down)
+- Complete coordinate: `[X-vowel][Y-vowel][Z-vowel]` — e.g. *xiyizi* = (0,0,0)
+
+---
+
+## System 2 — Ontological System
+
+The ontological system is a **structured address space** for every concept in the language. It does not produce spoken words — it produces addresses that the lexicon then projects usable words onto.
+
+### Format
+
+```
+VCV + CV + CV + CV...
+```
+
+The opening VCV is a **mode marker** — signals "you are in the ontological system." Each subsequent CV pair narrows the address from domain → field → area → subarea.
+
+### Scale
+
+**A → U = generalidade → especificidade** (on both axes)
+
+### The 20 Ontological Domains (v0.8.0)
+
+Ordered by ontological proximity — concrete to abstract:
+
+| # | C | IPA | Domain | Core Meaning | Ontological Type |
+|---|---|---|---|---|---|
+| 1 | **P** | /p/ | Matter | Physical substance, material | Brute matter — what things are made of |
+| 2 | **B** | /b/ | Entity | Discrete object, identifiable thing | Individuated object — what can be singled out |
+| 3 | **T** | /t/ | Time | Temporal flow, sequence | Temporal event — moments, durations, cycles |
+| 4 | **G** | /g/ | Space | Position, location | Position as entity — point, region, coordinate |
+| 5 | **R** | /ɾ/ | State | Condition, static being | Static condition — being ill, intact, active |
+| 6 | **L** | /l/ | Structure | Form, arrangement | Abstract form — pattern, geometry, configuration |
+| 7 | **S** | /s/ | Quantity | Amount, scale | Magnitude — number, proportion, rate |
+| 8 | **D** | /d/ | Artifact | Constructed object | Fabricated entity — hammer, bridge, chip |
+| 9 | **K** | /k/ | Social | Collective human system | Human grouping — community, institution, nation |
+| 10 | **N** | /n/ | Life | Living organism | Biological entity — animal, plant, fungus |
+| 11 | **V** | /v/ | Action | Process, doing | Process type — running, growing, breaking |
+| 12 | **J̌** | /dʒ/ | Motion | Movement pattern | Stable pattern of motion — orbit, current, migration |
+| 13 | **X** | /ʃ/ | Causality | Cause-effect, force relation | Causal relation — mechanism between cause and effect |
+| 14 | **M** | /m/ | Mind | Thought, cognition | Mental state — belief, intention, perception as cognitive structure |
+| 15 | **Ľ** | /ʎ/ | Perception | Sensory experience | Subjective sensory — perceived color, felt pain, heard sound |
+| 16 | **Y** | /ʒ/ | Information | Knowledge, content | Epistemic content — datum, fact, theory |
+| 17 | **W** | /w/ | Emotion | Affective state | Internal affective state — joy, fear, sadness |
+| 18 | **Z** | /z/ | Intensity | Degree, magnitude | Scalar value — maximum, minimum, gradient |
+| 19 | **H** | /h/ | Environment | Surrounding context, habitat | Surrounding context — ecological niche, habitat, setting |
+| 20 | **F** | /f/ | Interaction | Contact, exchange, interface | Interface — contact, exchange, boundary |
+
+**Universal Ontological Rule:**
+> A domain never contains: composition, interaction, or contextual instance. These always go to field combinations.
+
+**Key distinctions:**
+- **M vs W:** M = cognitive structure. W = affective valence. W never structures — it only modulates.
+- **B vs Y:** B = signal vehicle. Y = informational content. Both can exist independently.
+- **J̌ vs V+G:** J̌ = stable pattern of motion (atemporal). V+G = movement as event (temporal).
+
+### EC Compositional System
+
+ECs are systematically derived from combinations of base domains. The second element acts as an **ontological operator**:
+
+| Second element | Operation | Meaning |
+|---|---|---|
+| **R** (State) | state of X | condition, phase, applied being |
+| **L** (Structure) | structure of X | form, organization, pattern |
+
+**×R series — state of X:**
+
+| EC | From | Emergent Meaning |
+|---|---|---|
+| PR | P + R | Physical state / material condition |
+| BR | B + R | Identity (entity as state) |
+| TR | T + R | Existence / temporality |
+| GR | G + R | Positioning state |
+| KR | K + R | Possession (social relation as state) |
+| LR | L + R | Configuration state |
+| MR | M + R | Intention (mental state) |
+| XR | X + R | Applied force |
+| FR | F + R | Interaction state |
+
+**×L series — structure of X:**
+
+| EC | From | Emergent Meaning |
+|---|---|---|
+| PL | P + L | Material structure |
+| BL | B + L | Identity structure |
+| TL | T + L | Temporal structure |
+| GL | G + L | Spatial structure / geometry |
+| KL | K + L | Social structure / institution |
+| NL | N + L | Biological structure |
+| VL | V + L | Method / structured action |
+| ML | M + L | Conceptual structure |
+| XL | X + L | Mechanism / structured causality |
+| FL | F + L | Interface / boundary |
+
+### Matrix Structure — 5×5
+
+Every domain pair (C₁×C₂) produces a 5×5 matrix. Each domain defines its own 5-step axis:
+
+**Example axis definitions:**
+
+| Domain | A | E | I | O | U |
+|---|---|---|---|---|---|
+| P (Matter) | essence | unit | configuration | combination | property |
+| T (Time) | origin | progression | moment | sequence | cycle |
+| K (Social) | origin | structuring | participation | relation | system |
+| B (Entity) | emergence | formation | individuation | relation | system |
+| M (Mind) | perception | concept formation | recognition | reasoning | cognition system |
+| G (Space) | position | extension | distribution | relation | boundary |
+
+Each axis definition is domain-specific and must be defined before the matrix can be built. The axis definitions for all 20 domains are documented in the domain files (01-p-domain.md, 02-t-domain.md, etc.).
+
+### Directionality Rule
+
+> **A + B ≠ B + A**
+
+PT (Matter × Time) ≠ TP (Time × Matter). This directionality doubles the available semantic space and encodes relational meaning without additional particles.
+
+### Three Matrix Validation Tests
+
+1. **Same type test:** "Is this still the same type of thing, at a different level?" — If no, wrong row.
+2. **Refinement test:** "Is this a refinement of the same base concept?" — If no, wrong column.
+3. **Purity test:** "Does this involve use, action, or context?" — If yes, it does not belong in a pure nucleus.
+
+---
+
+## System 3 — Nominal Lexicon
+
+The nominal lexicon is the **human interface** — usable spoken words derived from ontological addresses.
+
+### Format
+
+```
+CVCV + CV (extendable)
+```
+
+### Scale
+
+Frequency/importance → Rarity/technicality
 
 | Length | Use |
 |---|---|
-| CVCV | Universal core — most frequent and important concepts |
-| CVCVCV | Useful expansion — important but less daily |
+| CVCV | Universal core — most frequent and important |
+| CVCVCV | Useful expansion — less daily |
 | CVCVCVCV+ | Technical / specialized / rare |
 
-**Key axiom:** The word does not carry the structure — it POINTS to it. Every word is a projection of an ontological vector. The relationship is bidirectional: word → vector, vector → word.
-
----
-
-## 🔤 THREE-LAYER GRAMMAR SYSTEM
-
-### Layer 1: CV — Foundation
-
-**Function:** Basic grammatical operations
-**Structure:** 27 consonant families × 5 vowels = 135 particles
-**Learning Priority:** First
-
-Coverage: Pronouns, tense, questions, prepositions, modals, basic operations
-
-### Layer 2: VC — Extension
-
-**Function:** Grammatical refinement and extension
-**Structure:** 5 vowels × 27 consonants = 135 particles
-**Learning Priority:** Second
-
-Coverage: Reflexives, reciprocals, negation, complex relations, nuanced aspects
-
-### Layer 3: VCV — Nuance
-
-**Function:** Highly specific grammatical expressions
-**Structure:** 5 vowels × 27 consonants × 5 vowels = 675 particles
-**Learning Priority:** Third
-
-Coverage: Precise spatial movements, nuanced modality, fine-grained aspects, context-specific meanings
-
----
-
-## 📜 DEFINITIVE DOMAIN ORDER — IMMUTABLE
-
-### 🔒 THE 20 BASE DOMAINS (FIXED FOREVER)
-
-| #   | Letter   | IPA  | Domain                  | Tier | Ontological Type                                                                              |
-| --- | -------- | ---- | ----------------------- | ---- | --------------------------------------------------------------------------------------------- |
-| 1   | **P**    | /p/  | Substance / Matter      | 1    | Brute matter — what things are made of. Not objects, not structures.                          |
-| 2   | **T**    | /t/  | Time / Temporality      | 1    | Temporal events — moments, durations, sequences, cycles as happenings.                        |
-| 3   | **K**    | /k/  | Social / Collective     | 1    | Human groupings as entity — community, nation, institution as collective body.                |
-| 4   | **B**    | /b/  | Communication           | 1    | Communicative signal as object — signal, message, symbol, gesture as artifact.                |
-| 5   | **M**    | /m/  | Cognitive / Mental      | 1    | Mental state as cognitive structure — belief, perception, intention as present state.         |
-| 6   | **G**    | /g/  | Spatial / Positional    | 1    | Position as entity — point, location, region, coordinate as spatial datum.                    |
-| 7   | **V**    | /v/  | Action / Verbal         | 1    | Process type — running, growing, breaking as abstract process classes.                        |
-| 8   | **R**    | /ɾ/  | State / Condition       | 1    | Static condition of an entity — being ill, being intact, being active.                        |
-| 9   | **J̌**   | /dʒ/ | Motion / Movement       | 2    | Stable pattern of motion inherent to an entity — orbit, current, migration as concept.        |
-| 10  | **S**    | /s/  | Quantity / Measurement  | 2    | Quantity as magnitude — number, proportion, rate as measurable entity. MODAL OPERATOR.        |
-| 11  | **F**    | /f/  | Food / Nutrition        | 2    | Nutritive substance — protein, vitamin, toxin as matter with biological-nutritive function.   |
-| 12  | **H**    | /h/  | Dwelling / Shelter      | 2    | Habitable space — home, shelter, territory, ecological niche as space.                        |
-| 13  | **N**    | /n/  | Nature / Living         | 2    | Living organism as biological entity — animal, plant, fungus, bacterium.                      |
-| 14  | **D**    | /d/  | Tool / Artifact         | 2    | Fabricated object as entity — hammer, chip, bridge as artifact.                               |
-| 15  | **L**    | /l/  | Structure / Form        | 2    | Abstract form — pattern, geometry, organization, configuration as pure form.                  |
-| 16  | **Ľ**    | /ʎ/  | Perception / Sensory    | 2    | Sensory experience — perceived color, felt taste, pain, heard sound as subjective experience. |
-| 17  | **W** ⚠️ | /w/  | Emotion / Affect        | 3    | Affective state — joy, fear, sadness as pure internal states. W modulates, never structures.  |
-| 18  | **X** ⚠️ | /ʃ/  | Causality / Agency      | 3    | Causal relation — force, influence, mechanism as relation between cause and effect.           |
-| 19  | **Y** ⚠️ | /ʒ/  | Knowledge / Information | 3    | Epistemic content — datum, fact, law, theory as information entity.                           |
-| 20  | **Z** ⚠️ | /z/  | Intensity / Degree      | 3    | Scalar value — maximum, minimum, threshold, gradient as degree. MODAL OPERATOR.               |
-
-**⚠️ Exception Group (17-20):** Uses inverted gradation. X, Y, Z have dual functions (see below).
-
-### Universal Ontological Rule
-
-> A domain never contains: composition, interaction, or contextual instance. These always go to field combinations.
-
----
-
-## ➕ EXPANDABLE DOMAINS (ECs)
-
-### 10 Consonant Clusters
-
-| # | EC | IPA | Domain | Tier | Status | Ontological Type |
-|---|---|---|---|---|---|---|
-| 21 | **PR** | /pɾ/ | Process / Method | 4 | Active | Procedural structure — method, algorithm, protocol as abstract procedure. |
-| 22 | **BR** | /bɾ/ | Transport / Vehicle | 4 | Active | Conveyance system — vehicle, route, carrier as conveyance entity. Monitor overlap with J̌+G. |
-| 23 | **TR** | /tɾ/ | Container / Vessel | 4 | Active | Containment structure — vessel, space, boundary as containment entity. |
-| 24 | **DR** | /dɾ/ | Creation / Art | 4 | Active | Expressive structure — work, form, composition as creative entity. |
-| 25 | **KR** | /kɾ/ | Growth / Development | 4 | Active | Developmental process — growth, maturation, evolution as developmental entity. |
-| 26 | **GR** | /gɾ/ | Intention / Volition | 4 | Active | Volitional state — intention, will, decision as volitional entity. |
-| 27 | **PL** | /pl/ | Modal / Qualitative | 4 | Modal operator | Modal category — possibility, necessity, probability. Operates on fields, not a generator. |
-| 28 | **BL** | /bl/ | Identity / Self | 4 | Active | Individual self as entity — identity, persona, subjectivity. Fills gap not covered by M, W, or R. |
-| 29 | **KL** | /kl/ | Energy / Force | 4 | Active | Physical and abstract force — energy, potential, intensity. Fills gap between P and X. |
-| 30 | **GL** | /gl/ | RESERVED | — | Reserved | Open for future systematic expansion. |
-
-### Modal Operators
-
-S, Z, and PL are **modal operators**, not primary field generators. They qualify other fields but do not produce stable primary fields on their own.
-
-| Domain | Role |
-|---|---|
-| S | Quantitative modifier — stable only in S+P and S+T |
-| Z | Scalar modifier — Z+anything produces intensifiers, not ontological fields |
-| PL | Modal qualifier — operates on fields, not a field generator |
-
-Pure nuclei (SS, ZZ, PLPL) are valid and contain the most essential scalar/modal concepts.
-
----
-
-## 🔄 DUAL-FUNCTION SYSTEM FOR X, Y, Z
-
-X, Y, Z serve different functions in different contexts without ambiguity:
-
-### In Grammar (CV/VC/VCV) — 3D Spatial Coordinate System
-
-| Axis | Consonant | IPA | Direction | Gradation |
-|---|---|---|---|---|
-| Lateral | X | /ʃ/ | left ↔ right | a (max right +) → u (max left −) |
-| Frontal | Y | /ʒ/ | back ↔ front | a (max front +) → u (max back −) |
-| Vertical | Z | /z/ | down ↔ up | a (max up +) → u (max down −) |
-
-### In Lexicon (CVCV nominal words) — Ontological Domains
-
-| Position | Consonant | IPA | Domain                  |     |
-| -------- | --------- | --- | ----------------------- | --- |
-| 18       | X         | /ʃ/ | Causality / Agency      |     |
-| 19       | Y         | /ʒ/ | Knowledge / Information |     |
-| 20       | Z         | /z/ | Intensity / Degree      |     |
-
-**No conflict:** Context always distinguishes (particles vs. nominal words).
-
----
-
-## 🎨 GRADATION SYSTEM
-
-### Standard Gradation (Positions 1-16)
-
-**Pattern:** a (minimum) → e → i (neutral) → o → u (maximum)
-
-Applied to grammar particles, nominal words, and modifiers.
-
-### Exception: W-family (Position 17)
-
-**Pattern:** a (positive) → e → i (neutral) → o → u (negative)
-
-Emotional valence is naturally bipolar. Grammatical and lexical W-words both follow this pattern.
-
-### Exception: X, Y, Z Spatial (Positions 18-20 in Grammar only)
-
-**Pattern:** a (maximum +) → e → i (center) → o → u (maximum −)
-
-Only in grammar. Lexical X, Y, Z domains use standard gradation.
-
----
-
-## 🔑 LEXICAL PROJECTION RULES
-
-Rules for how Léxico Nominal words are projected from the Sistema Ontológico:
+### Lexical Projection Rules
 
 | Element | Rule | Notes |
 |---|---|---|
-| C₁ | MANDATORY | Always mirrors the primary domain. P-words = matter, N-words = living, M-words = mental. |
-| C₂ | PREFERENTIAL | Soft semantic clustering within domain. Can be overridden for phonetics or collision avoidance. |
-| Vowels | FREE | Purely distinctive in léxico. No semantic hierarchy. |
-| Word length | FREQUENCY | Shorter = more common/important. |
+| **C₁** | MANDATORY | Always mirrors the primary domain. P-words = matter, N-words = living, M-words = mental. |
+| **C₂** | PREFERENTIAL | Soft semantic clustering. Can be overridden for phonetics or collision avoidance. |
+| **Vowels** | FREE | Purely distinctive. No semantic hierarchy in the lexicon. |
+| **Word length** | FREQUENCY | Shorter = more common/important. |
+
+**Key axiom:** The word does not carry the structure — it POINTS to it. Every word is a projection of an ontological address. The relationship is bidirectional: word → address, address → word.
+
+### Semantic Axis Law
+
+> **Meaning = Ontology(C₁) × Operation(C₂)**
+
+C₁ signals the domain. C₂ signals the operational direction. A speaker who knows the 20 base domains can infer the meaning family of any unfamiliar word from its consonants alone.
 
 ---
 
-## 📐 MATRIX STRUCTURE — PATTERN GOLD
+## Gradation System
 
-Every domain nucleus (same-domain pair, e.g. PP, MM, TT) follows a universal 5×5 matrix structure:
+### Standard Gradation (Domains 1–16 and most ECs)
 
-### Vertical Axis (V₁) — Ontological type progression
+**a → e → i → o → u = minimum → maximum**
 
-| Series | Function |
-|---|---|
-| -A | Structural definition — the most fundamental concept of the domain |
-| -E | Fundamental unit — discrete entities within the domain |
-| -I | Applied state / form — how domain entities manifest |
-| -O | Aggregation / organization — how entities combine |
-| -U | Properties / abstractions — measurable or emergent qualities |
+Applied consistently to grammar particles, nominal vocabulary, and ontological matrices.
 
-### Horizontal Axis (V₂) — Internal refinement
+### Exception Group — Inverted Gradation
 
-| Column | Role |
-|---|---|
-| A- | Base concept |
-| E- | Unit / refinement |
-| I- | Internal structure |
-| O- | Organization / combination |
-| U- | Specialization / definition |
-
-### Three validation tests for any matrix cell
-
-1. **Same type test:** "Is this still the SAME type of thing, just at a different level?" If no → wrong row.
-2. **Refinement test:** "Is this a refinement of the same base concept?" If no → wrong column.
-3. **Purity test:** "Does this involve use, action, or context?" If yes → does not belong in a pure domain nucleus.
-
----
-
-## 🧱 DOMAIN MATRICES (Finalized)
-
-### PP — Substance / Matter
-
-|     | -PA                  | -PE                            | -PI                           | -PO                          | -PU                           |
-| --- | -------------------- | ------------------------------ | ----------------------------- | ---------------------------- | ----------------------------- |
-| PA- | papa — matéria       | pape — massa                   | papi — componente             | papo — meio físico           | papu — base material          |
-| PE- | pepa — elemento      | pepe — átomo                   | pepi — molécula               | pepo — composto              | pepu — substância definida    |
-| PI- | pipa — material puro | pipe — material não processado | pipi — material modificado    | pipo — liga técnica          | pipu — material especializado |
-| PO- | popa — mistura       | pope — mistura homogênea       | popi — mistura heterogênea    | popo — solução               | popu — composição específica  |
-| PU- | pupa — estado físico | pupe — fase                    | pupi — propriedade intrínseca | pupo — propriedade intensiva | pupu — unidade fundamental    |
-
-*PA- = structural definition of matter. PU- = measurable properties.*
-*Validation: Gold→PEPA ✔ | Steel→PIPO ✔ | Saltwater→POPO ✔ | Density→PUPI ✔ | Electron→PUPU ✔ | Air→POPE ✔ | Plasma→PUPA ✔*
-
-### MM — Cognitive / Mental State
-
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| MA- | estado mental | estado consciente | estado atencional | estado focal | estado concentrado |
-| ME- | crença | suposição | opinião formada | convicção | certeza subjetiva |
-| MI- | intenção | desejo | inclinação | vontade formada | intenção definida |
-| MO- | percepção | impressão | interpretação | julgamento | conclusão |
-| MU- | memória | conteúdo memorizado | lembrança | imagem mental | traço mnêmico |
-
-### BB — Communicative Signal
-
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| BA- | sinal | forma expressiva | unidade simbólica | padrão simbólico | estrutura de sinal |
-| BE- | símbolo | signo | marca | caractere | token |
-| BI- | elemento sensorial | elemento distinguível | unidade mínima | unidade combinável | unidade formada |
-| BO- | combinação simples | sequência estruturada | cadeia simbólica | expressão composta | expressão completa |
-| BU- | ocorrência | realização | instância | instanciação | sinal único |
-
-### YY — Knowledge / Information
-
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| YA- | verdade | validade | consistência | coerência | necessidade |
-| YE- | fato | evidência | dado | prova | registro |
-| YI- | informação | conteúdo | estrutura informacional | sistema | rede |
-| YO- | classificação | modelo | teoria | framework | paradigma |
-| YU- | objetividade | precisão | confiabilidade | universalidade | axioma |
-
-### ĽĽ — Perception / Sensory
-
-| | -PA | -PE | -PI | -PO | -PU |
-|---|---|---|---|---|---|
-| ĽA- | visão | audição | tato | olfato | paladar |
-| ĽE- | estímulo | sinal sensorial | traço | padrão | evento sensorial |
-| ĽI- | claro | obscuro | nítido | difuso | distorcido |
-| ĽO- | campo | foco | fundo | contraste | fluxo |
-| ĽU- | intensidade | frequência | duração | resolução | limiar |
-
-### TR — Container / Vessel
-
-|      | -PA        | -PE      | -PI         | -PO            | -PU            |
-| ---- | ---------- | -------- | ----------- | -------------- | -------------- |
-| TRA- | recipiente | cavidade | volume      | espaço interno | invólucro      |
-| TRE- | caixa      | vaso     | tanque      | bolsa          | cápsula        |
-| TRI- | aberto     | fechado  | selado      | lacrado        | isolado        |
-| TRO- | interior   | exterior | limite      | interface      | fronteira      |
-| TRU- | capacidade | vedação  | resistência | acesso         | permeabilidade |
-
-### DR — Creation / Art
-
-|      | -PA        | -PE       | -PI       | -PO             | -PU        |
-| ---- | ---------- | --------- | --------- | --------------- | ---------- |
-| DRA- | criação    | expressão | obra      | forma artística | produção   |
-| DRE- | traço      | nota      | gesto     | elemento        | motivo     |
-| DRI- | visual     | sonoro    | textual   | físico          | híbrido    |
-| DRO- | composição | arranjo   | estrutura | estilo          | escola     |
-| DRU- | harmonia   | contraste | ritmo     | estética        | identidade |
-
-*Remaining domain matrices: T, K, G, V, R, J̌, F, H, N, D, L, W, X, Z + active ECs — IN PROGRESS*
-
----
-
-## ⚙️ VERBAL SYSTEM
-
-### V-lexemes as Process Roots
-
-V-words in the léxico nominal are **process roots** — not complete verbs. They name process types as reified entities.
-
-| Level | Structure | Nature |
+| Domain | Gradation | Reason |
 |---|---|---|
-| Léxico (V-) | CVCV | Process type (reified) |
-| Predicative use | (S) + V | Process attributed / ongoing |
-| Full verb | (S) + V + (T/operators) | Process instantiated |
+| W (Emotion) | a=positive → u=negative | Bipolar scale — love/hate are not min/max of same thing |
+| X (Spatial grammar) | a=max(+) → u=max(−) | Symmetric around zero — coordinates, not scales |
+| Y (Spatial grammar) | a=max(+) → u=max(−) | Same |
+| Z (Spatial grammar) | a=max(+) → u=max(−) | Same |
 
-**Rule:** Verb = V in predicative function. T is an additional operator, not the sole definer.
-
-A V-lexeme becomes a verb when it has arguments, occupies predicative position, and/or receives operators (T, negation, aspect).
-
-### Minimum Syntax
-
-**Basic order: SVO**
-
-| Element | Rule |
-|---|---|
-| Basic order | SVO |
-| Predicate | V in post-subject position = verbal reading (automatic) |
-| Nominal reading | V-root outside predicative position |
-| Negation | NEG before predicate → S NEG V O |
-| T (tense) | Optional operator — not required for predication |
+Note: X, Y, Z spatial inversion applies **only in grammar** (spatial coordinate particles). In the ontological lexicon, X (Causality), Y (Information), Z (Intensity) use standard gradation.
 
 ---
 
-## 🔧 MODIFIER SYSTEM
-
-**Structure:** Any CVCV word + modifier (CV — final syllable)
-**Rule:** ONE modifier maximum, ALWAYS final syllable
-
-| Type | Count | Members |
-|---|---|---|
-| Base (simple consonants) | 17 | P, M, N, V, W, T, K, B, D, G, S, L, R, F, H, J̌, Ľ |
-| EC (consonant clusters) | 7 | PR, BR, TR, DR, KR, GR, PL |
-| **TOTAL** | **24** | All with 5-vowel gradation |
-
-Productivity: 675 base words × 24 modifiers × 5 vowels = 81,000 theoretical variants.
-
----
-
-## 🔀 J̌ VS V+G — FORMAL DISTINCTION
-
-| Criterion | J̌ | V+G |
-|---|---|---|
-| Ontological type | Property | Process |
-| Temporal anchoring | Atemporal / general | Temporal / eventive |
-| Dependency on T | No | Yes (implicit or explicit) |
-| Nature | Stable pattern of motion | Change of position as event |
-| Example | Orbit, current, migration (as concept) | Moving, traveling, flowing (as event) |
-
-**Test:** Can it exist without a specific time? → yes = J̌. Is it something an entity HAS or something that HAPPENS? → has = J̌, happens = V+G.
-
----
-
-## 🏛️ STRUCTURAL PRINCIPLES
+## Structural Principles
 
 ### 1. Single Ontological Type per Domain
 
-Each domain = exactly one ontological type. No mixing of types within a domain. Consequences:
-- P = brute matter only (not objects, not processes, not forms)
-- N = living organism only (not behavior, not ecosystem, not biological substance)
+Each domain = exactly one ontological type. No mixing.
+- P = brute matter only (not objects, not structures, not processes)
+- N = living organism only (not behavior, not ecosystem)
 - V = process types only (not instances — instances always involve T)
 
-### 2. Operational Boundaries
-
-**M vs W:** M = cognitive structure. W = affective valence. Hybrid states (nostalgia, anxiety) = M+W. W never structures — it only modulates.
-
-**B vs Y:** B = signal vehicle. Y = informational content. They can exist independently. B can exist without Y (noise). Y can exist without B (silent thought).
-
-**V reification:** V contains process types, not instances. "Running" (type) = V. "Yesterday's race" = T+V.
-
-### 3. Hierarchical Organization
-
-```
-LANGUAGE
-├── Grammar (particles)
-│   ├── CV (basic)
-│   ├── VC (extended)
-│   └── VCV (nuanced)
-└── Lexicon (words)
-    ├── Nominal — Sistema Ontológico (VCV+CV+CV...)
-    ├── Nominal — Léxico (CVCV+CV)
-    └── Modified (CVCV+CV+mod)
-```
-
-### 4. Fixed Core, Expandable Periphery
+### 2. Fixed Core, Expandable Periphery
 
 ```
 IMMUTABLE:   20 base domains, phonology, grammar layers
-DEFINED:     7 active ECs (refined but not removed)
-ACTIVE:      BL (Identity/Self), KL (Energy/Force)
-RESERVED:    GL (future expansion)
+ACTIVE:      10 grammar ECs + 19 ontological ECs (×R and ×L series)
+RESERVED:    GL — future systematic expansion
 ```
 
-### 5. Progressive Complexity
+### 3. Progressive Complexity
 
 ```
-Tier 1 (P,T,K,B,M,G,V,R)     → fundamental — learn first
-Tier 2 (J̌,S,F,H,N,D,L,Ľ)    → necessary — learn second
-Tier 3 (W,X,Y,Z)              → refinement — exception group
-Tier 4 (PR,BR,TR,DR,KR,GR,PL) → specialization
+Tier 1 (P,B,T,G,R,L,S,D)     → concrete fundamentals
+Tier 2 (K,N,V,J̌,X,M,Ľ,Y)    → functional and cognitive
+Tier 3 (W,Z,H,F)              → modulating and contextual
+Tier 4 (×R and ×L ECs)        → compositional specialization
+```
+
+### 4. Hierarchical Organization
+
+```
+LANGUAGE
+├── Grammatical System (particles)
+│   ├── CV (150 — basic operations)
+│   ├── VC (150 — extension and derivation)
+│   └── VCV (750 — nuanced expression)
+└── Lexical System (words)
+    ├── Ontological — Sistema Ontológico (VCV+CV+CV...)
+    │   ├── Nucleus matrices (PP, TT, KK, BB...)
+    │   └── Directional matrices (PT, PK, TP, TK...)
+    └── Nominal — Léxico (CVCV+CV)
+        ├── Core words (CVCV)
+        └── Extended words (CVCVCV+)
 ```
 
 ---
 
-## 📊 STRUCTURAL SUMMARY
+## Current Development Status
 
 | Component | Count | Status |
 |---|---|---|
-| Base Domains | 20 | 🔒 Immutable |
-| Active ECs | 9 (7 original + BL + KL) | ✅ Defined |
-| Reserved ECs | 1 (GL) | 🔓 Open |
-| Grammar Layers | 3 (CV, VC, VCV) | 🔒 Immutable |
-| CV Particles | 135 | ✅ Documented |
-| VC Particles | 135 | ✅ Documented |
-| VCV Particles | 675 | ✅ Documented |
-| Base CVCV Words | 675 target | 🔄 In progress |
-| Modifiers | 24 | ✅ Documented |
-| Finalized matrices | PP, MM, BB, YY, ĽĽ, TRTR, DRDR | ✅ Complete |
-| Pending matrices | T, K, G, V, R, J̌, F, H, N, D, L, W, X, Z + ECs | ⏳ Pending |
+| Base Domains | 20 | ✅ Immutable — finalized v0.8.0 |
+| Grammar layers | 3 (CV, VC, VCV) | ✅ Complete |
+| Grammar particles | 1,050 | ✅ Documented |
+| Grammar ECs | 10 active + 1 reserved | ✅ Documented |
+| Ontological ×R ECs | 9 | ✅ Defined |
+| Ontological ×L ECs | 10 | ✅ Defined |
+| Domain axis definitions | 4 of 20 complete (P, T, K, B) | 🔄 In progress |
+| Domain matrices built | P domain complete (PP + all P×) | 🔄 In progress |
+| T domain matrices | In progress | 🔄 In progress |
+| K domain matrices | In progress | 🔄 In progress |
+| B domain matrices | In progress | 🔄 In progress |
+| Remaining domains (G,R,L,S,D,N,V,J̌,X,M,Ľ,Y,W,Z,H,F) | Pending | ⏳ Pending |
+| Base CVCV lexicon | ~50 words | 🔄 In progress |
 
 ---
 
-**File:** `04-structure.md`
-**Version:** 0.7.0
-**Status:** ✅ Updated — reflects all decisions through March 2026
+**File:** `05-structure.md`
+**Version:** 0.8.0
+**Status:** ✅ Updated — reflects full architecture as of April 2026
 
 **Related Documentation:**
 - `01-philosophy.md` — Why this structure?
 - `02-phonology.md` — Phonological foundation
-- `05-grammar-cv-vc.md` — Grammar implementation
-- `09-lexicon-nominal-matrix.md` — Lexicon implementation (update pending)
-- `10-grammar-system.md` — Verbal system and syntax
+- `06-grammar-system.md` — Grammar system in detail
+- `07-grammar-cv-vc.md` — CV/VC particles
+- `09-ontological-system.md` — Ontological system in detail
+- `01-p-domain.md` through `XX-domain.md` — Individual domain matrices
 
 ---
 
