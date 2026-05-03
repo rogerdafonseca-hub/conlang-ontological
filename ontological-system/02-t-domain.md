@@ -166,7 +166,6 @@ J̌A = initiation (start of movement) · J̌E = path (trajectory formation) · J
 
 ---
 
-
 ## TS — Time / Quantity (Temporal Structuring of Magnitude)
 
 **Row Axis (T — Time):**  
@@ -204,7 +203,6 @@ FA = contact (initial interaction) · FE = transfer (exchange process) · FI = c
 
 ---
 
-
 ## TH — Time / Environment (Temporal Structuring of Contextual Reality)
 
 **Row Axis (T — Time):**  
@@ -222,7 +220,6 @@ HA = origin context (environmental source) · HE = formation context (environmen
 |**TU-**|tuha — cyclic return of environmental origin|tuhe — cyclic environmental structuring|tuhi — cyclic adaptation patterns|tuho — cyclic exposure cycles|tuhu — cyclic ecosystem systems|
 
 ---
-
 
 ## TN — Time / Life (Temporal Structuring of Living Systems)
 
@@ -242,7 +239,6 @@ NA = origin (biological emergence) · NE = growth (development process) · NI = 
 
 ---
 
-
 ## TD — Time / Artifact (Temporal Structuring of Constructed Objects)
 
 **Row Axis (T — Time):**  
@@ -260,7 +256,6 @@ DA = origin (artifact emergence) · DE = formation (construction process) · DI 
 |**TU-**|tuda — cyclic return of artifact origin|tude — cyclic construction patterns|tudi — cyclic functional use|tudo — cyclic modification cycles|tudu — cyclic artifact systems|
 
 ---
-
 
 ## TL — Time / Structure (Temporal Structuring of Forms)
 
@@ -280,7 +275,6 @@ LA = origin (structural emergence) · LE = formation (structural building) · LI
 
 ---
 
-
 ## TĽ — Time / Perception (Temporal Structuring of Sensory Experience)
 
 **Row Axis (T — Time):**  
@@ -298,7 +292,6 @@ TA = origin (temporal emergence) · TE = progression (temporal unfolding) · TI 
 |**TU-**|tuľa — cyclic return of sensory detection|tuľe — cyclic perceptual differentiation|tuľi — cyclic identification patterns|tuľo — cyclic interpretation processes|tuľu — cyclic integrated perception|
 
 ---
-
 
 ## TW — Time / Emotion (Temporal Structuring of Affective States)
 
@@ -318,7 +311,6 @@ WA = emergence (affective onset) · WE = modulation (emotional shaping) · WI = 
 
 ---
 
-
 ## TX — Time / Causality (Temporal Structuring of Cause–Effect Systems)
 
 **Row Axis (T — Time):**  
@@ -337,7 +329,6 @@ XA = cause origin (initial causation) · XE = structuring (causal organization) 
 
 ---
 
-
 ## TY — Time / Information (Temporal Structuring of Knowledge Systems)
 
 **Row Axis (T — Time):**  
@@ -355,7 +346,6 @@ YA = source (informational origin) · YE = encoding (structuring of data) · YI 
 |**TU-**|tuya — cyclic return of information source|tuye — cyclic encoding patterns|tuyi — cyclic knowledge acquisition|tuyo — cyclic information transmission|tuyu — cyclic knowledge systems|
 
 ---
-
 
 ## TZ — Time / Intensity (Temporal Structuring of Magnitude & Degree)
 
