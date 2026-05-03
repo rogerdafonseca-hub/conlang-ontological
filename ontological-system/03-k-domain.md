@@ -267,6 +267,7 @@ LA = origin (structural emergence) · LE = formation (structural building) · LI
 |**KU-**|kula — systemic origin of structure|kule — systemic structural formation|kuli — systemic configurations|kulo — systemic structural relations|kulu — systemic structural systems|
 
 ---
+
 ## KĽ — Social / Perception (Collective Structuring of Sensory Systems)
 
 **Row Axis (K — Social / Collective):**  
@@ -356,4 +357,3 @@ ZA = emergence (initial intensity) · ZE = scaling (increase of degree) · ZI = 
 |**KU-**|kuza — systemic intensity origin|kuze — systemic scaling of degree|kuzi — systemic peak intensity systems|kuzo — systemic fluctuation systems|kuzu — systemic stabilized intensity fields|
 
 ---
-
